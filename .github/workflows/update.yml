@@ -1,0 +1,44 @@
+name: Abhitak Automated Sync Engine
+
+on:
+  schedule:
+    # Triggers automatic database re-compilation every 45 minutes
+    - cron: '*/45 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-compile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Source Node
+        uses: actions/checkout@v4
+
+      - name: Initialize Runtime Environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Ingest Execution Assets
+        run: |
+          pip install requests
+
+      - name: Execute Master Stream Compilation
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: |
+          python fetch_news.py
+
+      - name: Commit and Propagate Live Tracking Ledgers
+        run: |
+          git config --global user.name "Abhitak Core Bot"
+          git config --global user.email "actions@github.com"
+          git add news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "System Sync: [${{ github.run_number }}] Automated Broadcast Files Updated"
+            git push
+          else
+            print "Database records already reflect absolute matching symmetry. Skipping push cycle."
+          fi
