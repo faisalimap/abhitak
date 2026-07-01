@@ -2,8 +2,8 @@ name: Abhitak Automated Sync Engine
 
 on:
   schedule:
-    # Triggers automatic database re-compilation every 45 minutes
-    - cron: '*/45 * * * *'
+    # Triggers automatic database re-compilation at the start of every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -40,5 +40,5 @@ jobs:
             git commit -m "System Sync: [${{ github.run_number }}] Automated Broadcast Files Updated"
             git push
           else
-            print "Database records already reflect absolute matching symmetry. Skipping push cycle."
+            echo "Database records already reflect absolute matching symmetry. Skipping push cycle."
           fi
