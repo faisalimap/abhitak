@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>अभितक न्यूज़ | Abhitak National News Terminal</title>
+    <title>अभीतक न्यूज़ | Abhitak National News Terminal</title>
     <link rel="icon" type="image/png" href="favicon.png">
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <style>
@@ -30,19 +30,15 @@
     </div>
 
     <!-- MAIN MEDIA ECOSYSTEM HEADER -->
-    <header class="bg-white text-slate-900 px-4 lg:px-8 py-4 border-b-2 border-[#cc0000] shadow-md sticky top-0 z-40">
+    <header class="bg-white text-slate-900 px-4 lg:px-8 py-3 border-b-2 border-[#cc0000] shadow-md sticky top-0 z-40">
         <div class="max-w-7xl mx-auto flex justify-between items-center gap-4">
             
-            <!-- Branding Real Estate Block -->
-            <div class="flex items-center gap-3 cursor-pointer" onclick="window.location.hash='#general'">
-                <div class="bg-[#cc0000] p-1.5 shadow-lg border border-red-700 flex items-center justify-center">
-                    <!-- Clean SVG fallback if abhitak-logo.png isn't fully compiled in repository root -->
-                    <img src="abhitak-logo.png" onerror="this.style.display='none'" alt="Abhitak Logo" class="h-10 w-auto object-contain">
-                    <span class="text-white text-2xl font-black tracking-tighter px-2 border-l-2 border-white/30 font-serif">अभितक</span>
-                </div>
+            <!-- Branding Real Estate Block - Displaying Favicon without bounding boxes -->
+            <div class="flex items-center gap-4 cursor-pointer" onclick="window.location.hash='#general'">
+                <img src="favicon.png" alt="अभीतक न्यूज़" class="h-14 w-auto object-contain block drop-shadow-xs">
                 <div class="hidden sm:block">
-                    <h1 class="text-lg font-black tracking-tight text-[#cc0000] leading-none uppercase">ABHITAK</h1>
-                    <span class="text-[9px] font-bold tracking-widest text-slate-500 uppercase block mt-0.5">सबसे तेज़, सबसे आगे</span>
+                    <h1 class="text-2xl font-black tracking-tight text-[#cc0000] leading-none uppercase font-sans">ABHITAK</h1>
+                    <span class="text-[9px] font-bold tracking-widest text-slate-500 uppercase block mt-1">सबसे तेज़, सबसे आगे</span>
                 </div>
             </div>
 
@@ -67,7 +63,7 @@
         </div>
     </div>
 
-    <!-- CRITICAL RED ALBERT BOX FRAME (Fires conditionally on MAJOR alerts) -->
+    <!-- CRITICAL RED ALBERT BOX FRAME -->
     <div id="breaking-alert-banner" class="hidden bg-gradient-to-r from-[#cc0000] to-[#5a0000] text-white px-6 py-3 font-bold text-xs shadow-inner flex items-center justify-between border-b-2 border-red-900">
         <div class="flex items-center gap-3">
             <span class="bg-yellow-400 text-black px-2 py-0.5 text-[9px] font-black tracking-widest animate-bounce">बड़ी खबर</span>
@@ -81,10 +77,8 @@
         
         <!-- TOP SECTION: HIGH ACCENT HERO SPOTLIGHT -->
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 mb-12">
-            <!-- Central Prime Spotlight Unit -->
             <section id="prime-news-showcase" class="lg:col-span-8 flex flex-col bg-white border border-slate-200 shadow-xs hover:shadow-md transition cursor-pointer"></section>
             
-            <!-- Right Hand Vertical Wire Archive Log -->
             <section class="lg:col-span-4 bg-white border border-slate-200 p-4 flex flex-col h-[580px]">
                 <div class="flex items-center justify-between border-b-2 border-[#cc0000] pb-2 mb-3">
                     <h3 id="wire-log-header" class="text-xs font-black uppercase tracking-widest text-[#cc0000]">लाइव समाचार लॉग</h3>
@@ -124,8 +118,11 @@
     <!-- BROADCAST REGULATORY FOOTER -->
     <footer class="bg-[#111111] text-slate-500 text-[11px] py-10 px-6 border-t-4 border-[#cc0000] mt-16">
         <div class="max-w-7xl mx-auto text-center space-y-4">
-            <div class="text-xs font-black text-slate-200 tracking-wider">INDIAN SUBCONTINENT BROADCASTING CORPORATION (ISBC) GROUP NETWORK</div>
-            <p class="max-w-4xl mx-auto text-[10px] text-slate-500 leading-relaxed">
+            <div class="text-xs font-black text-slate-200 tracking-wider uppercase">INDIAN SUBCONTINENT BROADCASTING CORPORATION (ISBC)</div>
+            <div class="text-xs font-mono text-slate-400 tracking-tight">
+                Network Communications Hub: <a href="mailto:info@isbc.qzz.io" class="text-[#cc0000] hover:text-red-400 hover:underline font-bold">info@isbc.qzz.io</a>
+            </div>
+            <p class="max-w-4xl mx-auto text-[10px] text-slate-500 leading-relaxed pt-2">
                 <strong class="text-red-500 uppercase">Academic Disclaimer Notification:</strong> This simulation matrix constitutes an automated computational deployment framework built exclusively for interface presentation analytics and software performance metrics evaluation. It is strictly non-commercial and holds zero formal corporate alignment with actual broadcast networks. News data payloads are fetched autonomously via verified sandbox API operations.
             </p>
             <div class="text-[9px] text-slate-600 font-mono tracking-tight">System Core Deployment Ref: ABHITAK-V3.2026</div>
@@ -139,7 +136,7 @@
         let activeTrack = "general";
 
         const categoryLocalization = {
-            hi: { general: "मुख्य समाचार", business: "बिजनेस", entertainment: "मनोरंजन", sports: "खेल", sync: "अंतिम सिंक समय", metrics: "सक्रिय समाचार ब्लॉक", wireTitle: "लाइव बुलेटिन", frameLabel: "समाचार इंडेक्स फ्रेम" },
+            hi: { general: "मुख्य समाचार", business: "बिजनेस", entertainment: "मनोरंजन", sports: "खेल", sync: "अंтим सिंक समय", metrics: "सक्रिय समाचार ब्लॉक", wireTitle: "लाइव बुलेटिन", frameLabel: "समाचार इंडेक्स फ्रेम" },
             en: { general: "Top Headlines", business: "Business", entertainment: "Showbiz", sports: "Sports", sync: "LAST SYNC RUN", metrics: "ACTIVE DATA TRACKS", wireTitle: "Realtime Wire", frameLabel: "Data Index Frames" }
         };
 
@@ -231,10 +228,8 @@
                 return;
             }
 
-            // Bind Global Breaking Ticker Array
             ticker.innerText = activePool.map(article => `⚡ [${article.source.toUpperCase()}] : ${article.title}`).join("          ");
 
-            // Look for CRITICAL ALERT priorities to display structural emergency broadcast banners
             const emergencyIncident = activePool.find(item => item.priority === "CRITICAL_ALERT");
             if (emergencyIncident) {
                 document.getElementById('breaking-banner-text').innerText = `${emergencyIncident.source.toUpperCase()}: ${emergencyIncident.title}`;
@@ -243,7 +238,6 @@
                 document.getElementById('breaking-alert-banner').classList.add('hidden');
             }
 
-            // 1. CHRONOLOGICAL HERO BLOCK (Index 0)
             const primaryArticle = activePool[0];
             spotlight.innerHTML = `
                 <div class="w-full h-80 sm:h-96 bg-slate-900 overflow-hidden relative">
@@ -261,7 +255,6 @@
             `;
             spotlight.onclick = () => showTerminalModal(0);
 
-            // 2. TIMELINE FEED COLUMN (Index 1 to 8)
             verticalWire.innerHTML = '';
             const logSequence = activePool.slice(1, 9);
             document.getElementById('live-wire-metric').innerText = `${activePool.length} ${langPack.metrics}`;
@@ -281,7 +274,6 @@
                 verticalWire.appendChild(rowElement);
             });
 
-            // 3. SECURE MASSIVE SECONDARY ARCHIVE GRID (Index 9 down to 45)
             gridMatrix.innerHTML = '';
             const matrixSequence = activePool.slice(9, 45);
             document.getElementById('ledger-volume-metrics').innerText = `Displaying records 09 - ${activePool.slice(0, 45).length} of ${activePool.length}`;
@@ -316,7 +308,7 @@
             document.getElementById('modal-badge').innerText = articlePacket.source;
             document.getElementById('modal-time').innerText = `BROADCAST TIMELINE STAMP: ${new Date(articlePacket.date).toUTCString()}`;
             document.getElementById('modal-title').innerText = articlePacket.title;
-            document.getElementById('modal-desc').innerText = articlePacket.desc || "विस्तृत विवरण के लिए मूल न्यूज़ सर्विस लिंक को वेरीफाई करें। (Full text logs must be examined via verified source node references)";
+            document.getElementById('modal-desc').innerText = articlePacket.desc || "विस्तृत विवरण के लिए मूल न्यूज़ सर्विस लिंक को वेरीफाई करें।";
             document.getElementById('modal-anchor').href = articlePacket.url;
             
             document.getElementById('terminal-modal').classList.remove('hidden');
