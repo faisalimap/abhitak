@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>अभितक न्यूज़ | Abhitak National News Terminal</title>
+    <link rel="icon" type="image/png" href="favicon.png">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <style>
+        @keyframes tickerMove { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
+        .ticker-engine { animation: tickerMove 45s linear infinite; }
+        * { border-radius: 0px !important; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #cc0000; }
+    </style>
+</head>
+<body class="bg-[#fcfcfc] text-[#111111] antialiased min-h-screen flex flex-col select-none">
+
+    <!-- TOP TELEMETRY PROTOCOL STRIP -->
+    <div class="bg-[#1a1a1a] border-b border-red-800 text-slate-400 text-[10px] px-4 py-1.5 flex justify-between items-center font-mono tracking-tight">
+        <div class="flex items-center gap-4">
+            <span class="text-[#ffcc00] font-black">ABHITAK BROADCAST SYSTEM</span>
+            <span id="sync-clock">लोडिंग डेटाबेस...</span>
+        </div>
+        <div class="flex items-center gap-2 text-white">
+            <span class="w-1.5 h-1.5 bg-red-600 rounded-full animate-ping"></span>
+            <span class="font-bold text-[9px] tracking-widest uppercase text-red-500">LIVE FEED CHANNEL</span>
+        </div>
+    </div>
+
+    <!-- MAIN MEDIA ECOSYSTEM HEADER -->
+    <header class="bg-white text-slate-900 px-4 lg:px-8 py-4 border-b-2 border-[#cc0000] shadow-md sticky top-0 z-40">
+        <div class="max-w-7xl mx-auto flex justify-between items-center gap-4">
+            
+            <!-- Branding Real Estate Block -->
+            <div class="flex items-center gap-3 cursor-pointer" onclick="window.location.hash='#general'">
+                <div class="bg-[#cc0000] p-1.5 shadow-lg border border-red-700 flex items-center justify-center">
+                    <!-- Clean SVG fallback if abhitak-logo.png isn't fully compiled in repository root -->
+                    <img src="abhitak-logo.png" onerror="this.style.display='none'" alt="Abhitak Logo" class="h-10 w-auto object-contain">
+                    <span class="text-white text-2xl font-black tracking-tighter px-2 border-l-2 border-white/30 font-serif">अभितक</span>
+                </div>
+                <div class="hidden sm:block">
+                    <h1 class="text-lg font-black tracking-tight text-[#cc0000] leading-none uppercase">ABHITAK</h1>
+                    <span class="text-[9px] font-bold tracking-widest text-slate-500 uppercase block mt-0.5">सबसे तेज़, सबसे आगे</span>
+                </div>
+            </div>
+
+            <!-- PREMIUM CUSTOM OVAL LANGUAGE TOGGLE SWITCH MECHANISM -->
+            <div class="flex items-center gap-2 bg-slate-100 p-1 border border-slate-200">
+                <button id="toggle-hi" onclick="switchLanguageSystem('hi')" class="px-3 py-1 text-xs font-black transition-all duration-300 bg-[#cc0000] text-white shadow-sm">अ (हिंदी)</button>
+                <button id="toggle-en" onclick="switchLanguageSystem('en')" class="px-3 py-1 text-xs font-black transition-all duration-300 text-slate-600 hover:text-black">A (EN)</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- SECONDARY CATEGORY INTERLINK MATRICES -->
+    <nav class="bg-[#cc0000] text-white border-b border-red-900 shadow-sm px-4">
+        <div id="category-bar-wrapper" class="max-w-7xl mx-auto flex flex-wrap gap-1 text-xs font-bold uppercase tracking-wider"></div>
+    </nav>
+
+    <!-- RUNNING BREAKING NEWS WIRE TICKER -->
+    <div class="bg-white border-b border-slate-200 py-3 flex items-center overflow-hidden">
+        <div class="bg-[#cc0000] text-white text-[10px] font-black tracking-widest px-4 py-0.5 ml-4 z-20 shadow-md whitespace-nowrap animate-pulse">BREAKING NEWS / ताज़ा खबर</div>
+        <div class="w-full relative overflow-hidden h-4">
+            <div id="master-ticker-string" class="ticker-engine inline-block absolute pl-[100%] font-semibold text-xs text-slate-800">कनेक्टिंग मीडिया नेटवर्क फ़ीड...</div>
+        </div>
+    </div>
+
+    <!-- CRITICAL RED ALBERT BOX FRAME (Fires conditionally on MAJOR alerts) -->
+    <div id="breaking-alert-banner" class="hidden bg-gradient-to-r from-[#cc0000] to-[#5a0000] text-white px-6 py-3 font-bold text-xs shadow-inner flex items-center justify-between border-b-2 border-red-900">
+        <div class="flex items-center gap-3">
+            <span class="bg-yellow-400 text-black px-2 py-0.5 text-[9px] font-black tracking-widest animate-bounce">बड़ी खबर</span>
+            <span id="breaking-banner-text" class="tracking-tight line-clamp-1 text-white"></span>
+        </div>
+        <button onclick="document.getElementById('breaking-alert-banner').classList.add('hidden')" class="text-white/70 hover:text-white text-lg">&times;</button>
+    </div>
+
+    <!-- MAIN NEWS DESK DISPLAY WORKSPACE GRID -->
+    <main class="flex-grow max-w-7xl w-full mx-auto px-4 lg:px-6 py-8">
+        
+        <!-- TOP SECTION: HIGH ACCENT HERO SPOTLIGHT -->
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 mb-12">
+            <!-- Central Prime Spotlight Unit -->
+            <section id="prime-news-showcase" class="lg:col-span-8 flex flex-col bg-white border border-slate-200 shadow-xs hover:shadow-md transition cursor-pointer"></section>
+            
+            <!-- Right Hand Vertical Wire Archive Log -->
+            <section class="lg:col-span-4 bg-white border border-slate-200 p-4 flex flex-col h-[580px]">
+                <div class="flex items-center justify-between border-b-2 border-[#cc0000] pb-2 mb-3">
+                    <h3 id="wire-log-header" class="text-xs font-black uppercase tracking-widest text-[#cc0000]">लाइव समाचार लॉग</h3>
+                    <span id="live-wire-metric" class="text-[9px] font-mono font-bold bg-slate-100 text-slate-600 px-2 py-0.5">0 ACTIVE ROWS</span>
+                </div>
+                <div id="vertical-wire-log-stream" class="flex-grow overflow-y-auto divide-y divide-slate-100 pr-2 space-y-3.5"></div>
+            </section>
+        </div>
+
+        <!-- LOWER SECTION: HISTORICAL ARCHIVE LEDGER MATRIX -->
+        <div class="border-b border-slate-300 pb-1.5 mb-6 flex justify-between items-end">
+            <h3 id="grid-header-title" class="text-xs font-black uppercase tracking-widest text-slate-700">समाचार संग्रह सूची</h3>
+            <span class="text-[10px] text-slate-400 font-mono" id="ledger-volume-metrics">Indexing records...</span>
+        </div>
+        
+        <section id="secondary-news-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6"></section>
+    </main>
+
+    <!-- FULL INTERACTIVE OVERLAY LIGHTBOX ARCHITECTURE -->
+    <div id="terminal-modal" class="hidden fixed inset-0 bg-black/80 backdrop-blur-xs flex items-center justify-center p-4 z-50">
+        <div class="bg-white border-t-8 border-[#cc0000] max-w-2xl w-full shadow-2xl p-6 relative flex flex-col">
+            <button onclick="hideTerminalModal()" class="absolute top-4 right-4 text-slate-400 hover:text-black text-3xl font-light leading-none">&times;</button>
+            <img id="modal-img" class="w-full h-64 object-cover mb-4 border border-slate-200" src="" alt="News Image Reference">
+            <div class="flex items-center gap-2 mb-2">
+                <span id="modal-badge" class="text-[9px] font-black uppercase bg-[#cc0000] text-white px-2 py-0.5 tracking-wider"></span>
+                <span id="modal-time" class="text-[10px] font-mono text-slate-400"></span>
+            </div>
+            <h2 id="modal-title" class="text-xl sm:text-2xl font-bold tracking-tight text-slate-900 mb-3"></h2>
+            <p id="modal-desc" class="text-slate-600 text-sm leading-relaxed mb-6 border-l-2 border-red-600 pl-3"></p>
+            <div class="flex justify-between items-center pt-4 border-t border-slate-100">
+                <a id="modal-anchor" target="_blank" class="bg-[#cc0000] hover:bg-red-800 text-white text-xs font-bold px-5 py-3 tracking-wider uppercase transition" href="#">पूरी खबर पढ़ें / VIEW ORIGINAL WIRE</a>
+                <button onclick="hideTerminalModal()" class="text-xs font-bold text-slate-400 hover:text-slate-600 uppercase tracking-wider">बंद करें</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- BROADCAST REGULATORY FOOTER -->
+    <footer class="bg-[#111111] text-slate-500 text-[11px] py-10 px-6 border-t-4 border-[#cc0000] mt-16">
+        <div class="max-w-7xl mx-auto text-center space-y-4">
+            <div class="text-xs font-black text-slate-200 tracking-wider">INDIAN SUBCONTINENT BROADCASTING CORPORATION (ISBC) GROUP NETWORK</div>
+            <p class="max-w-4xl mx-auto text-[10px] text-slate-500 leading-relaxed">
+                <strong class="text-red-500 uppercase">Academic Disclaimer Notification:</strong> This simulation matrix constitutes an automated computational deployment framework built exclusively for interface presentation analytics and software performance metrics evaluation. It is strictly non-commercial and holds zero formal corporate alignment with actual broadcast networks. News data payloads are fetched autonomously via verified sandbox API operations.
+            </p>
+            <div class="text-[9px] text-slate-600 font-mono tracking-tight">System Core Deployment Ref: ABHITAK-V3.2026</div>
+        </div>
+    </footer>
+
+    <!-- RUNTIME LOGIC ENGINE SCRIPT -->
+    <script>
+        let masterNewsData = {};
+        let activeLang = "hi"; 
+        let activeTrack = "general";
+
+        const categoryLocalization = {
+            hi: { general: "मुख्य समाचार", business: "बिजनेस", entertainment: "मनोरंजन", sports: "खेल", sync: "अंतिम सिंक समय", metrics: "सक्रिय समाचार ब्लॉक", wireTitle: "लाइव बुलेटिन", frameLabel: "समाचार इंडेक्स फ्रेम" },
+            en: { general: "Top Headlines", business: "Business", entertainment: "Showbiz", sports: "Sports", sync: "LAST SYNC RUN", metrics: "ACTIVE DATA TRACKS", wireTitle: "Realtime Wire", frameLabel: "Data Index Frames" }
+        };
+
+        const availableTracks = ["general", "business", "entertainment", "sports"];
+
+        async function initializeNetworkCore() {
+            try {
+                const response = await fetch('news.json');
+                masterNewsData = await response.json();
+                
+                if(window.location.hash && availableTracks.includes(window.location.hash.replace('#',''))) {
+                    activeTrack = window.location.hash.replace('#','');
+                } else {
+                    window.location.hash = activeTrack;
+                }
+
+                renderDynamicNavigationElements();
+                renderNewsDeskWorkspace();
+            } catch(e) {
+                console.error("Critical failure during infrastructure sync configuration:", e);
+                document.getElementById('secondary-news-grid').innerHTML = `
+                    <div class='col-span-full bg-red-950/20 border border-red-900 text-red-500 p-4 font-mono text-xs'>
+                        ⚠️ LEDGER NODE DISCONNECTED: Ensure repository background workflows compile news.json storage arrays into destination branches.
+                    </div>`;
+            }
+        }
+
+        function switchLanguageSystem(selectedLanguage) {
+            activeLang = selectedLanguage;
+            
+            const btnHi = document.getElementById('toggle-hi');
+            const btnEn = document.getElementById('toggle-en');
+            
+            if(selectedLanguage === 'hi') {
+                btnHi.className = "px-3 py-1 text-xs font-black bg-[#cc0000] text-white shadow-sm";
+                btnEn.className = "px-3 py-1 text-xs font-black text-slate-600 hover:text-black";
+                document.documentElement.lang = "hi";
+            } else {
+                btnEn.className = "px-3 py-1 text-xs font-black bg-[#cc0000] text-white shadow-sm";
+                btnHi.className = "px-3 py-1 text-xs font-black text-slate-600 hover:text-black";
+                document.documentElement.lang = "en";
+            }
+            
+            renderDynamicNavigationElements();
+            renderNewsDeskWorkspace();
+        }
+
+        function renderDynamicNavigationElements() {
+            const container = document.getElementById('category-bar-wrapper');
+            container.innerHTML = '';
+            
+            availableTracks.forEach(track => {
+                const button = document.createElement('button');
+                button.innerText = categoryLocalization[activeLang][track];
+                button.className = `px-5 py-3.5 transition-all text-[11px] font-black tracking-widest uppercase ${activeTrack === track ? 'bg-white text-[#cc0000] shadow-inner' : 'bg-[#cc0000] text-white hover:bg-red-700'}`;
+                button.onclick = () => {
+                    activeTrack = track;
+                    window.location.hash = track;
+                    renderDynamicNavigationElements();
+                    renderNewsDeskWorkspace();
+                };
+                container.appendChild(button);
+            });
+        }
+
+        function renderNewsDeskWorkspace() {
+            const langPack = categoryLocalization[activeLang];
+            
+            if (masterNewsData.lastGlobalSync) {
+                const parsedTime = new Date(masterNewsData.lastGlobalSync);
+                document.getElementById('sync-clock').innerText = `${langPack.sync}: ${parsedTime.toLocaleTimeString()} (${parsedTime.toLocaleDateString()})`;
+            }
+
+            const activePool = (masterNewsData[activeLang] && masterNewsData[activeLang][activeTrack]) ? masterNewsData[activeLang][activeTrack] : [];
+            
+            const spotlight = document.getElementById('prime-news-showcase');
+            const verticalWire = document.getElementById('vertical-wire-log-stream');
+            const gridMatrix = document.getElementById('secondary-news-grid');
+            const ticker = document.getElementById('master-ticker-string');
+
+            document.getElementById('grid-header-title').innerText = `${langPack[activeTrack]} | ${langPack.frameLabel}`;
+            document.getElementById('wire-log-header').innerText = langPack.wireTitle;
+
+            if (activePool.length === 0) {
+                spotlight.innerHTML = `<div class='p-8 text-xs font-mono text-slate-400'>Awaiting active data synchronization pipeline logs...</div>`;
+                verticalWire.innerHTML = '';
+                gridMatrix.innerHTML = '';
+                document.getElementById('live-wire-metric').innerText = `0 ${langPack.metrics}`;
+                return;
+            }
+
+            // Bind Global Breaking Ticker Array
+            ticker.innerText = activePool.map(article => `⚡ [${article.source.toUpperCase()}] : ${article.title}`).join("          ");
+
+            // Look for CRITICAL ALERT priorities to display structural emergency broadcast banners
+            const emergencyIncident = activePool.find(item => item.priority === "CRITICAL_ALERT");
+            if (emergencyIncident) {
+                document.getElementById('breaking-banner-text').innerText = `${emergencyIncident.source.toUpperCase()}: ${emergencyIncident.title}`;
+                document.getElementById('breaking-alert-banner').classList.remove('hidden');
+            } else {
+                document.getElementById('breaking-alert-banner').classList.add('hidden');
+            }
+
+            // 1. CHRONOLOGICAL HERO BLOCK (Index 0)
+            const primaryArticle = activePool[0];
+            spotlight.innerHTML = `
+                <div class="w-full h-80 sm:h-96 bg-slate-900 overflow-hidden relative">
+                    <img class="w-full h-full object-cover transition-transform duration-700 hover:scale-102" src="${primaryArticle.image}" alt="Prime News Frame">
+                    ${primaryArticle.priority === 'CRITICAL_ALERT' ? '<span class="absolute top-4 left-4 bg-[#cc0000] text-white font-black text-[9px] tracking-widest px-3 py-1 shadow-md border border-red-500 animate-pulse">महासमाचार / CRITICAL ALERT</span>' : ''}
+                </div>
+                <div class="p-6 flex-grow flex flex-col justify-between bg-white border-t border-slate-100">
+                    <div>
+                        <span class="text-[10px] font-black text-[#cc0000] tracking-widest uppercase">${primaryArticle.source} • TOP EXCLUSIVE</span>
+                        <h2 class="text-xl sm:text-2xl font-black tracking-tight text-slate-900 mt-1 mb-2 hover:text-[#cc0000] transition">${primaryArticle.title}</h2>
+                        <p class="text-slate-600 text-xs leading-relaxed line-clamp-2 mb-4">${primaryArticle.desc || 'Open complete destination ledger link configuration parameter for deep insights.'}</p>
+                    </div>
+                    <span class="text-[9px] font-mono font-bold text-slate-400">${new Date(primaryArticle.date).toLocaleString()}</span>
+                </div>
+            `;
+            spotlight.onclick = () => showTerminalModal(0);
+
+            // 2. TIMELINE FEED COLUMN (Index 1 to 8)
+            verticalWire.innerHTML = '';
+            const logSequence = activePool.slice(1, 9);
+            document.getElementById('live-wire-metric').innerText = `${activePool.length} ${langPack.metrics}`;
+            
+            logSequence.forEach((item, index) => {
+                const calculatedIndex = index + 1;
+                const rowElement = document.createElement('div');
+                rowElement.className = "py-3 cursor-pointer group block transition border-b border-slate-100 last:border-0";
+                rowElement.onclick = () => showTerminalModal(calculatedIndex);
+                rowElement.innerHTML = `
+                    <div class="flex justify-between text-[9px] font-mono font-bold text-slate-400 group-hover:text-[#cc0000] mb-0.5">
+                        <span class="${item.priority === 'CRITICAL_ALERT' ? 'text-red-600 font-extrabold' : ''}">${item.source.toUpperCase()} ${item.priority === 'CRITICAL_ALERT' ? '![CRITICAL]' : ''}</span>
+                        <span>${new Date(item.date).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'})}</span>
+                    </div>
+                    <h4 class="text-xs font-bold text-slate-800 group-hover:text-[#cc0000] leading-snug tracking-tight line-clamp-2">${item.title}</h4>
+                `;
+                verticalWire.appendChild(rowElement);
+            });
+
+            // 3. SECURE MASSIVE SECONDARY ARCHIVE GRID (Index 9 down to 45)
+            gridMatrix.innerHTML = '';
+            const matrixSequence = activePool.slice(9, 45);
+            document.getElementById('ledger-volume-metrics').innerText = `Displaying records 09 - ${activePool.slice(0, 45).length} of ${activePool.length}`;
+            
+            matrixSequence.forEach((item, index) => {
+                const calculatedIndex = index + 9;
+                const cardNode = document.createElement('div');
+                cardNode.className = "bg-white border border-slate-200 cursor-pointer flex flex-col justify-between hover:border-red-600 hover:shadow-md transition shadow-xs group";
+                cardNode.onclick = () => showTerminalModal(calculatedIndex);
+                cardNode.innerHTML = `
+                    <div>
+                        <div class="w-full h-36 bg-slate-900 overflow-hidden relative">
+                            <img class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-103" src="${item.image}" alt="Archive Graphic">
+                            ${item.priority === 'CRITICAL_ALERT' ? '<span class="absolute bottom-2 left-2 bg-[#cc0000] text-white text-[8px] font-black tracking-widest px-1.5 py-0.5 border border-red-500">CRITICAL</span>' : ''}
+                        </div>
+                        <div class="p-3">
+                            <span class="text-[9px] font-black text-[#cc0000] uppercase tracking-wider block mb-0.5">${item.source}</span>
+                            <h4 class="font-bold text-xs text-slate-900 leading-snug line-clamp-3 group-hover:text-[#cc0000] transition">${item.title}</h4>
+                        </div>
+                    </div>
+                    <div class="p-3 pt-0 text-[9px] font-mono font-semibold text-slate-400">${new Date(item.date).toLocaleDateString()}</div>
+                `;
+                gridMatrix.appendChild(cardNode);
+            });
+        }
+
+        function showTerminalModal(idx) {
+            const articlePacket = masterNewsData[activeLang][activeTrack][idx];
+            if(!articlePacket) return;
+
+            document.getElementById('modal-img').src = articlePacket.image;
+            document.getElementById('modal-badge').innerText = articlePacket.source;
+            document.getElementById('modal-time').innerText = `BROADCAST TIMELINE STAMP: ${new Date(articlePacket.date).toUTCString()}`;
+            document.getElementById('modal-title').innerText = articlePacket.title;
+            document.getElementById('modal-desc').innerText = articlePacket.desc || "विस्तृत विवरण के लिए मूल न्यूज़ सर्विस लिंक को वेरीफाई करें। (Full text logs must be examined via verified source node references)";
+            document.getElementById('modal-anchor').href = articlePacket.url;
+            
+            document.getElementById('terminal-modal').classList.remove('hidden');
+        }
+
+        function hideTerminalModal() {
+            document.getElementById('terminal-modal').classList.add('hidden');
+        }
+
+        window.onhashchange = () => {
+            const currentHash = window.location.hash.replace('#','');
+            if (availableTracks.includes(currentHash) && currentHash !== activeTrack) {
+                activeTrack = currentHash;
+                renderDynamicNavigationElements();
+                renderNewsDeskWorkspace();
+            }
+        };
+
+        window.onload = initializeNetworkCore;
+    </script>
+</body>
+</html>
