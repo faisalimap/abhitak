@@ -1335,6 +1335,33 @@
     "en": {
         "general": [
             {
+                "title": "Taylor Swift and Travis Kelce's to host wedding at Madison Square Garden",
+                "desc": "Taylor Swift and Travis Kelce will host their wedding at Madison Square Garden on Friday night, according to a law enforcement official briefed on the security plans.",
+                "image": "https://dims.apnews.com/dims4/default/2d66694/2147483647/strip/true/crop/5274x3514+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F86%2F47%2Fd012820f9f64e11b1aee1300036b%2F554e3df88ec949e2832ddc0517a6807c",
+                "url": "https://apnews.com/article/taylor-swift-travis-kelce-wedding-madison-square-3496ff38f2f929084a62662ed52e471e",
+                "source": "AP News",
+                "date": "2026-07-01T19:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "LeBron James free agency: Pros and cons of potential destinations",
+                "desc": "With LeBron James leaving Los Angeles, we look at the pros and cons of possible landing spots for his 24th season, including the Cavs and Warriors.",
+                "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0630%2Fr1641765_1296x729_16%2D9.jpg",
+                "url": "https://www.espn.com/nba/story/_/id/49239600/lebron-james-free-agency-pros-cons-potential-destinations-cavaliers-warriors-heat",
+                "source": "ESPN",
+                "date": "2026-07-01T19:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NBA Free Agency 2026 Tracker: Live Updates and Analysis-Lakers Make Walker Kessler Trade, West Power in on LeBron",
+                "desc": "Tracking every signing and rumor from the second day of NBA free agency.",
+                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_2857,h_1607/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/si/01kwf5knsfkmxv3247s0.jpg",
+                "url": "https://www.si.com/nba/free-agency-tracker-updates-analysis-every-signing-rumor",
+                "source": "Sports Illustrated",
+                "date": "2026-07-01T19:46:53Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Autopsy released of Mississippi baby killed by police",
                 "desc": "A Mississippi family whose 1-year-old child was killed when officers fired into a moving car are challenging police claims about the shooting.",
                 "image": "https://dims.apnews.com/dims4/default/896551f/2147483647/strip/true/crop/4284x2855+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F21%2F96%2F4dd637ff2d89e0239bc6898291c3%2Ffcd387f3c7bc4374b637b559e8d92a38",
@@ -1846,36 +1873,27 @@
                 "source": "GSMArena.com",
                 "date": "2026-07-01T12:41:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Sony announces an end to the PS3 and Vita digital stores",
-                "desc": "The company describes it as \"not an easy decision to make\", and describes it as a resource allocation decision.",
-                "image": "https://assetsio.gnwcdn.com/playstation-u-turns-on-playstation-3-and-vita-store-shutdowns-1618852000658.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/ps3-vita-stores-end-support-sony",
-                "source": "Eurogamer.net",
-                "date": "2026-07-01T12:39:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "USMNT vs. Bosnia and Herzegovina prediction, odds, time: 2026 World Cup Round of 32 picks",
-                "desc": "SportsLine's Martin Green has revealed his USA vs. Bosnia and Herzegovina best bets for their 2026 World Cup knockout stage match on Wednesday",
-                "image": "https://sportshub.cbsistatic.com/i/r/2026/07/01/4e76abc7-eb02-41ea-af99-65f19e873208/thumbnail/1200x675/0b4fb451db28d49e8ef5717f48a97a26/christian-pulisic-usmnt-imagn-images-1.jpg",
-                "url": "https://www.cbssports.com/soccer/news/usmnt-bosnia-and-herzegovina-odds-line-prediction-start-time-2026-world-cup-round-of-32-picks/",
-                "source": "CBS Sports",
-                "date": "2026-07-01T12:36:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NBA free agency 2026: Grades, head-scratchers and analysis through Day 1",
-                "desc": "Remember when this summer was going to be a major one for movement? Instead, we knew a lot before free agency even began.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/03/18185944/2603181-Trae-Young-scaled-e1773874818783.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7404220/2026/07/01/nba-free-agency-2026-grades-lebron-kawhi/",
-                "source": "The New York Times",
-                "date": "2026-07-01T12:34:29Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Trump Bought Hundreds of Stocks the Day Before He Paused Tariffs and Sparked a Historic Rally",
+                "desc": "The trades weren't made public until yesterday, more than a year later than required by law.",
+                "image": "https://storage.ghost.io/c/19/7f/197f3903-b6b0-45e0-bdbc-e1f7f81d7490/content/images/size/w1200/2026/07/Trump_GettyImages-2159729950.jpg",
+                "url": "https://readsludge.com/2026/07/01/trump-bought-hundreds-of-stocks-the-day-before-he-paused-tariffs-and-sparked-a-historic-rally/",
+                "source": "readsludge.com",
+                "date": "2026-07-01T19:52:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump Accounts to Receive $250 Million Donation From Chip Maker Micron",
+                "desc": "President Trump said the U.S. chip maker would make a significant donation to a new type of investment account created by the administration.",
+                "image": "https://static01.nyt.com/images/2026/07/01/multimedia/01dc-trump-accounts-jfzc/01dc-trump-accounts-jfzc-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html",
+                "source": "The New York Times",
+                "date": "2026-07-01T19:42:14Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "U.S. to Overhaul Radiation Safety Rules to Spur Nuclear Expansion",
                 "desc": "The Nuclear Regulatory Commission plans to end longstanding guidance that radiation exposure be “as low as reasonably achievable.”",
@@ -2247,6 +2265,42 @@
             }
         ],
         "entertainment": [
+            {
+                "title": "Michael Weatherly Returning As Tony DiNozzo In Season 24",
+                "desc": "NCIS is reuniting with a familiar face: Michael Weatherly is returning to the hit CBS procedural as Tony DiNozzo for a season-long arc.",
+                "image": "https://www.tvline.com/img/gallery/ncis-michael-weatherly-returning-tony-dinozzo-season-24/l-intro-1782936624.jpg",
+                "url": "https://www.tvline.com/2206328/ncis-michael-weatherly-returning-tony-dinozzo-season-24/",
+                "source": "TVLine",
+                "date": "2026-07-01T20:00:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'NCIS' Brings Back Michael Weatherly as Tony Dinozzo for Season 24",
+                "desc": "Michael Weatherly is returning to the role of \"NCIS\" fan favorite Tony DiNozzo once again",
+                "image": "https://variety.com/wp-content/uploads/2026/07/NCIS-Michael-Weatherly-e1782930115732.jpg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/tv/news/ncis-michael-weatherly-return-tony-dinozzo-season-24-1236800272/",
+                "source": "Variety",
+                "date": "2026-07-01T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Michael Weatherly Returning To 'NCIS' For Season 24",
+                "desc": "Michael Weatherly is suiting back up as Tony DiNozzo to return to CBS' NCIS this fall for a season-long arc.",
+                "image": "https://deadline.com/wp-content/uploads/2026/07/MICHAEL-WEATHERLY.jpg?w=1024",
+                "url": "https://deadline.com/2026/07/michael-weatherly-ncis-return-season-24-1236972378/",
+                "source": "Deadline",
+                "date": "2026-07-01T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taylor Swift and Travis Kelce's to host wedding at Madison Square Garden",
+                "desc": "Taylor Swift and Travis Kelce will host their wedding at Madison Square Garden on Friday night, according to a law enforcement official briefed on the security plans.",
+                "image": "https://dims.apnews.com/dims4/default/ad13c5d/2147483647/strip/true/crop/3285x2189+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F87%2Fc3%2Fabfbf9c6f5a85183db855701532b%2Fea5d9c37f5324350848380c7e8d7d34f",
+                "url": "https://apnews.com/article/taylor-swift-travis-kelce-wedding-madison-square-3496ff38f2f929084a62662ed52e471e",
+                "source": "AP News",
+                "date": "2026-07-01T19:59:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Jodie Sweetin Says Mary-Kate and Ashley Didn't Return for “Fuller House” Because 'This Isn't What They Love'",
                 "desc": "Their character's absence was alluded to in the first 'Fuller House' episode, when the characters broke the fourth wall by knowingly looking into the camera",
@@ -2750,18 +2804,27 @@
                 "source": "Fightful",
                 "date": "2026-07-01T03:40:30Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Paula Reid Expected To Depart CNN As It Faces New Paramount Ownership",
-                "desc": "Reid has been with the network since 2021.",
-                "image": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-2272606994_e0253a.jpg?w=1024",
-                "url": "https://deadline.com/2026/06/paula-reid-to-depart-cnn-1236971944/",
-                "source": "Deadline",
-                "date": "2026-07-01T03:18:00Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Thomas Tuchel: 'Impossible' for England to adapt to Mexico altitude at World Cup",
+                "desc": "Thomas Tuchel has said it is \"impossible\" for England to adapt to the altitude ahead of Sunday's round-of-16 clash with Mexico in Mexico City.",
+                "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0701%2Fr1682907_1296x729_16%2D9.jpg",
+                "url": "https://www.espn.com/soccer/story/_/id/49240312/thomas-tuchel-impossible-adapt-climate-england-mexico-azteca-altitude-world-cup",
+                "source": "ESPN",
+                "date": "2026-07-01T20:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NBA Free Agency 2026 Tracker: Live Updates and Analysis-Lakers Make Walker Kessler Trade, West Power in on LeBron",
+                "desc": "Tracking every signing and rumor from the second day of NBA free agency.",
+                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_2857,h_1607/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/si/01kwf5knsfkmxv3247s0.jpg",
+                "url": "https://www.si.com/nba/free-agency-tracker-updates-analysis-every-signing-rumor",
+                "source": "Sports Illustrated",
+                "date": "2026-07-01T19:46:53Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Silver Screen and Roll",
                 "desc": "With the reported signing of Walker Kessler, the Lakers have secured their franchise center.﻿",
@@ -3283,26 +3346,8 @@
                 "source": "PHLY Sports",
                 "date": "2026-07-01T04:38:07Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "New York Times reiterates its view that Dianna Russini's handling of traffic stop was \"unacceptable conduct\"",
-                "desc": "The release of the bodycam footage from the Dianna Russini traffic stop put the New York Times in an awkward position.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/cfb30c9/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fhdliveextra-a.akamaihd.net%2FHD%2Fimage_sports%2FNBCU_Sports_Group_-_nbcsports%2F147%2F255%2Fnbc_pft_pftpm_diannarussinibodycam_260630.jpg",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-york-times-reiterates-its-view-that-dianna-russinis-handling-of-traffic-stop-was-unacceptable-conduct",
-                "source": "NBC Sports",
-                "date": "2026-07-01T04:22:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NBA free agency winners, losers: Raptors leap into title contention",
-                "desc": "The price was steep, but Toronto has a genuine chance to compete for a championship after trading for Kawhi Leonard",
-                "image": "https://sportshub.cbsistatic.com/i/r/2026/07/01/e8b491c1-9100-4d66-a729-f51bd9bf4add/thumbnail/1200x675/362e64dcc5616ee02e7f66c921f3004b/raptors-getty.png",
-                "url": "https://www.cbssports.com/nba/news/nba-free-agency-winners-losers-lakers-raptors-heat-clippers-lebron-james-kawhi-leonard/",
-                "source": "CBS Sports",
-                "date": "2026-07-01T04:20:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-02T07:40:43.915776Z"
+    "lastGlobalSync": "2026-07-02T08:00:43.590526Z"
 }
