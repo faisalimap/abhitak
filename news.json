@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "Hormuz Strait Tension: होर्मुज स्‍ट्रेट में खलबली, 8 टैंकरों ने अचानक लिया यू-टर्न, संकेत समझिए",
+                "desc": "Hormuz Strait Tension: होर्मुज स्‍ट्रेट में अभी शायद सबकुछ सामान्‍य नहीं हुआ है। ब्‍लूमबर्ग की रिपोर्ट के अनुसार, शुक्रवार और शनिवार के बीच ओमान की तरफ से होर्मुज स्‍ट्रेट के पास पहुंचते ही कम से कम 8 टैंकरों ने यू-टर्न ले लिया। यह दिखाता है कि होर्मुज को फिर से खोलना अभी भी मुश्किल बना हुआ है।",
+                "image": "https://static.langimg.com/nbt/thumb/132183454/hormuz-strait-tankers-take-uturn.jpg?imgsize=114554&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/business/business-news/hormuz-strait-8-tankers-take-u-turn-sign-of-iran-control/articleshow/132183452.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-04T15:20:55Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "IND vs ENG, 2nd T20I Live Score: इंग्लैंड के तीन विकेट धड़ाम, टीम इंडिया ने दिया है ये टारगेट",
                 "desc": "India vs England Live Cricket Score, 2nd T20I 2026: मैनचेस्टर के ओल्ड ट्रैफर्ड में भारत और इंग्लैंड की टीम्स आमने-सामने हैं. भारतीय टीम को आयरलैंड दौरे पर टी20 सीरीज में शर्मनाक हार झेलनी पड़ी थी. अब टीम इंडिया दोबारा मोमेंटम हासिल करने की तलाश में है.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a492ff5337bc-india-ind-vs-england-eng-live-score-1st-t20i-updates-from-manchester-040815945-16x9.jpg",
@@ -531,15 +540,6 @@
                 "source": "Jagran",
                 "date": "2026-07-03T12:36:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "भारत संग ODI सीरीज के लिए इंग्लैंड की टीम का ऐलान, एटकिंसन-महमूद की वापसी, दो नए खिलाड़ियों की एंट्री",
-                "desc": "भारतीय टीम में जहां विराट कोहली और रोहित शर्मा जैसे दिग्गज खिलाड़ी हैं. वहीं इंग्लैंड ने भी अनुभवी खिलाड़ियों और युवा प्रतिभाओं पर भरोसा जताया है. जेम्स कोल्स और जोश टंग पर खास नजर रहेगी क्योंकि दोनों इस सीरीज में अपना पहला वनडे इंटरनेशनल मैच खेल सकते हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a47aaa0835d1-england-cricket-032703334-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/england-odi-squad-announced-vs-india-series-james-coles-josh-tongue-tspoa-dskc-2593302-2026-07-03",
-                "source": "AajTak",
-                "date": "2026-07-03T12:31:36Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
@@ -595,6 +595,15 @@
                 "url": "https://www.livehindustan.com/business/personal-investments/gold-price-jumped-5058-rupee-this-week-where-rates-reach-check-details-201783169545196.html",
                 "source": "Live Hindustan",
                 "date": "2026-07-04T13:02:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "मल्टीबैगर रिटर्न देने वाला शेयर कर रहा मालामाल, अब वेदांता से मिला बड़ा ऑर्डर",
+                "desc": "ब्लूसप्रिंग एंटरप्राइजेज के शेयर ने निवेशकों को जबरदस्त रिटर्न दिया है। सिर्फ तीन महीनों में शेयर में 112% की तेजी आई है। इसकी सब्सिडयरी को वेदांता की कंपनी से ऑर्डर मिला है।, Business Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/04/1600x900/logo/PTI02-01-2026-000269A-0_1773921860937_1773921871169_1783169761648_6dd0951b-e946-4584-9d4f-b983cac2f1df.jpg",
+                "url": "https://www.livehindustan.com/business/smallcap-stock-bluspring-enterprises-has-doubled-investor-wealth-in-just-3-months-after-vedanta-power-order-201783169442196.html",
+                "source": "Live Hindustan",
+                "date": "2026-07-04T12:57:56Z",
                 "priority": "STANDARD"
             },
             {
@@ -1073,18 +1082,36 @@
                 "source": "Live Hindustan",
                 "date": "2026-07-02T09:50:41Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Vedanta Share: T2T सेगमेंट हटते ही अनिल अग्रवाल के 4 शेयरों में तूफानी तेजी, एक में 20% तो दूसरे में 10% अपर सर्किट लगा",
-                "desc": "वेदांता ग्रुप के शेयरों में बुधवार को तेजी आई। दो कंपनियों के शेयर तो अपर सर्किट में पहुंच गए। इन शेयरों में तेजी का कारण इन पर लगी इंट्राडे ट्रेडिंग पाबंदी हटना रहा। हालांकि पैरेंट कंपनी के शेयर में गिरावट आई।",
-                "image": "https://static.langimg.com/nbt/thumb/132118147/vedanta-share-upper-circuit.jpg?imgsize=464333&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/business/share-market/share-news/vedanta-demerger-share-price-rally-t2t-segment-removed-2-stocks-hit-upper-circuit/articleshow/132117759.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-01T16:42:38Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "11 दिन की लिक्विड डाइट और... अनुराग कश्यप ने हार्ट अटैक के बाद ऐसे कम किया 27 किलो वजन, चौंका देगी वेट लॉस जर्नी",
+                "desc": "फिल्म मेकर अनुराग कश्यप ने अपनी हेल्थ को लेकर किए खुलासे से सभी को चौंका दिया है. अनुराग ने बताया कि हार्ट अटैक का सामना करने के बाद उन्होंने अपनी जीवनशैली में बड़ा बदलाव किया और 27 किलो वजन कम कर लिया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a48edf23c204-how-anurag-kashyap-lost-27-kg-weight-042636640-16x9.jpg",
+                "url": "https://www.aajtak.in/lifestyle/news/story/how-anurag-kashyap-lost-27-kg-weight-after-heart-attack-fitness-secrets-tvisp-dskc-2591893-2026-07-04",
+                "source": "AajTak",
+                "date": "2026-07-04T15:36:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "शाहरुख खान को लेकर हुए लगातार सवालों से परेशान हुई 90s एक्ट्रेस, बोली- उनसे मेरे बारे में पूछा है?",
+                "desc": "फिल्म कभी हां कभी ना की एक्ट्रेस सुचित्रा कृष्णमूर्ति का एक इंटरव्यू में गुस्सा तब फूटा जब उनसे उनके को-स्टार शाहरुख खान से जुड़ा सवाल किया गया. वो अचानक से भड़क गईं और कहने लगीं कि शाहरुख से जुड़े सवाल बोर करते हैं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a491d043c5bb-suchitra-krishnamoorthi-shahrukh-khan-044726649-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/shah-rukh-khan-kabhi-haan-kabhi-naa-costar-suchitra-krishnamoorthi-got-irritated-connection-with-superstar-king-movie-tmovj-2593979-2026-07-04",
+                "source": "AajTak",
+                "date": "2026-07-04T15:14:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "क्यों किया जरीन खान का हिंदू रीति-रिवाज से अंतिम संस्कार? बेटी ने बताई मां को नहीं दफ्नाने की वजह",
+                "desc": "फराह खान अली ने बताया कि क्यों उनकी मां जरीन खान का अंतिम संस्कार किया गया, उन्हें दफ्नाया नहीं गया। बता दें कि जब जरीन खान का दाह संस्कार हुआ तो सोशल मीडिया पर इस परिवार की बहुत किरकिरी हुई थी।, Bollywood Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/04/1600x900/logo/Farah_K_1783177200627_1783177208225_184ba2fe-bd53-429e-ab0b-f838eb6c9c5b.jpg",
+                "url": "https://www.livehindustan.com/entertainment/bollywood/farah-khan-ali-opens-up-over-doing-hindu-last-rites-to-mother-zarine-khan-body-201783177034306.html",
+                "source": "Live Hindustan",
+                "date": "2026-07-04T15:04:01Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "'अलायंस' में सोहेल खान की दंबग एंट्री, खुलेआम कंटेस्टेंट्स को दी चेतावनी, बोले- उंगली मत करना",
                 "desc": "बॉलीवुड सुपरस्टार सलमान खान के भाई और एक्टर-फिल्म सोहेल खान ने कंटेस्टेंट्स को चेतावनी दी कि वे उन्हें कम न समझें और कहा कि दर्शक रियलिटी शो 'अलायंस' में उनका असली रूप देखेंगे.",
@@ -1596,33 +1623,6 @@
                 "url": "https://www.aajtak.in/entertainment/bollywood-news/story/ranbir-kapoor-no-entourage-rule-maeks-work-with-him-easy-director-rajkumar-hirani-tmovk-dskc-2592532-2026-07-02",
                 "source": "AajTak",
                 "date": "2026-07-02T14:06:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "दर्द में दिन-रात पी शराब, मगर तलाक के बाद एक्टर ने की तौबा, बोले- लिवर ट्रांसप्लांट के पैसे नहीं थे",
-                "desc": "'मुन्ना भाई MBBS' फेम यतिन कार्येकर ने सालों बाद अपनी टूटी शादी का दर्द बयां किया. उन्होंने बताया कि तलाक के बाद वो डिप्रेशन में चले गए थे, शराब की लत लग गई थी और उनके पिता ने उन्हें इस मुश्किल दौर से बाहर निकाला.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a465604da0d1-munna-bhai-mbbs-fame-actor-fought-with-depression-alcoholism-after-divorce-021350994-16x9.png",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/yatin-karyekar-depression-became-alcoholic-after-divorce-with-ex-wife-iravati-harshe-remained-single-tmova-dskc-2592521-2026-07-02",
-                "source": "AajTak",
-                "date": "2026-07-02T13:40:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "आमिर खान की तीसरी शादी: न होगा करोड़ों का खर्चा, न बारात में नाचेंगे सलमान-शाहरुख, जानें पूरा प्लान",
-                "desc": "बॉलीवुड स्टार आमिर खान 61 साल की उम्र में 5 जुलाई को गर्लफ्रेंड गौरी स्प्रैट से तीसरी शादी करने जा रहे हैं. माना जा रहा है कि ये शादी बेहद प्राइवेट होगी, जिसमें सिर्फ परिवार के लोग और करीबी दोस्त ही शामिल होंगे.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a46609cae261-aamir-khan-gauri-spratt-to-skip-grand-reception-025153161-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/aamir-khan-to-marry-girlfriend-gauri-spratt-under-the-special-marriage-act-no-grand-reception-tmova-rpti-2592576-2026-07-02",
-                "source": "AajTak",
-                "date": "2026-07-02T13:13:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "क्या आपको पता है सलमान खान ने लिखा था अपनी इस फिल्म का स्क्रीनप्ले? 63 करोड़ में बनी फिल्म हो गई थी फ्लॉप",
-                "desc": "Salman Khan Flop Film: आज हम आपको सलमान खान की उस फिल्म के बारे में बता रहे हैं जिसका स्क्रीनप्ले एक्टर ने खुद लिखा था। ये फिल्म बॉक्स ऑफिस पर फ्लॉप साबित हो गई थी। डायरेक्टर का मानना है कि फिल्म के क्लाइमेक्स की वजह से फिल्म फ्लॉप हो गई थी। , Bollywood Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/02/1600x900/logo/salman_khan_screenplay_1782997177369_1782997192237_b15c632d-295d-4a2b-adee-8acf23cd33e0.png",
-                "url": "https://www.livehindustan.com/entertainment/bollywood/did-you-know-salman-khan-wrote-screenplay-2010-veer-64-crore-budget-flopped-climax-father-son-conflict-201782994557924.html",
-                "source": "Live Hindustan",
-                "date": "2026-07-02T13:10:48Z",
                 "priority": "STANDARD"
             }
         ],
@@ -2172,6 +2172,69 @@
     "en": {
         "general": [
             {
+                "title": "Mali’s army says rebels launch new attacks on towns and cities",
+                "desc": "Tuareg-led armed ⁠group says it attacked northern town where Malian troops and Russian fighters are based.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69fceee1160c-1778183905.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali",
+                "source": "Al Jazeera",
+                "date": "2026-07-04T15:39:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Aspen Acres fire grows to 85,000 acres overnight, continuing march into Fourth of July holiday",
+                "desc": "The fire southwest of Pueblo is now 8th largest fire by acreage in Colorado history. Major gains reported on Snyder fire on Western Slope, as other fires see modest growth.",
+                "image": "https://newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/07/Colo_Sun_Aspen_Acres_Rye_Night_01.jpg",
+                "url": "https://coloradosun.com/2026/07/04/colorado-wildfires-update-saturday-evacuations/",
+                "source": "The Colorado Sun",
+                "date": "2026-07-04T15:31:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Egypt uncovers lost Byzantine-era city in the western desert",
+                "desc": "The fourth-century residential city in the western desert is one of two major archaeological finds announced by Egypt on Saturday.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/04/2adb284a-db7a-4aa2-8ada-476a55091e13/thumbnail/1200x630/8434022fa45d14c401b6675e1638df5f/ap26185475528592.jpg",
+                "url": "https://www.cbsnews.com/news/egypt-uncovers-lost-byzantine-era-city/",
+                "source": "CBS News",
+                "date": "2026-07-04T15:25:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Serena Williams withdraws from doubles match with sister Venus at Wimbledon due to injury",
+                "desc": "Serena Williams has withdrawn from her doubles match with sister Venus at Wimbledon due to a right knee injury.",
+                "image": "https://dims.apnews.com/dims4/default/e3f2364/2147483647/strip/true/crop/3363x2241+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2F04%2Fca04f81337475f6c08dfc7e5d41f%2F50c5cbde94834ee3a265b883e509e4fe",
+                "url": "https://apnews.com/article/serena-williams-wimbledon-doubles-0146ab3f8ed080afb6fce0ea60393693",
+                "source": "AP News",
+                "date": "2026-07-04T15:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'So personal and so intimate': 'GMA' anchors describe Taylor Swift, Travis Kelce wedding",
+                "desc": "Taylor Swift and Travis Kelce wed inside Madison Square Garden on Friday, July 3.",
+                "image": "https://i.abcnewsfe.com/a/d6006529-73c6-44c2-8b1f-d482f885e8b9/TRAVIS-GTY-AB-260624_1782330484110_hpMain_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/GMA/Culture/taylor-swift-travis-kelce-wedding-gma-anchors-describe/story?id=134470164",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-07-04T15:05:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Beyoncé Surprise-Releases New Song “Morning Dew (Donk)”",
+                "desc": "The single will appear on an upcoming 20th anniversary reissue of B’Day",
+                "image": "https://media.pitchfork.com/photos/6a4927e548032387d22c7f12/16:9/w_1280,c_limit/GettyImages-71001256.jpg",
+                "url": "https://pitchfork.com/story/listen-to-beyonce-new-song-morning-dew-donk-bday-anniversary/",
+                "source": "Pitchfork",
+                "date": "2026-07-04T15:02:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Serena and Venus Williams withdraw from Wimbledon doubles",
+                "desc": "Serena said she injured her knee during her singles comeback match on Centre Court against Australia's Maya Joint.",
+                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/03091511/Serena-Venus-Williams-Wimbledon-Doubles-scaled.jpg?width=1200&height=630&fit=cover",
+                "url": "https://www.nytimes.com/athletic/7418930/2026/07/04/serena-venus-williams-wimbledon-doubles-out/",
+                "source": "The New York Times",
+                "date": "2026-07-04T14:56:32Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "F1 Live: Relive all the action from British Grand Prix Qualifying",
                 "desc": "With the Sprint race decided, it's time to move onto qualifying for the Grand Prix. Who will claim pole position for the British GP?",
                 "image": "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2025%2F09%2F15141611%2Ff1-tickets-british-gp-landostand-planetf1.jpg",
@@ -2646,69 +2709,6 @@
                 "url": "https://www.mmafighting.com/ufc/497176/mma-fightings-2026-fight-of-the-midyear-two-all-time-battles-share-top-spot",
                 "source": "MMA Fighting",
                 "date": "2026-07-03T15:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "This slim camera has a transparent LCD screen for a viewfinder",
-                "desc": "The Godox C100 skips a color preview screen for a multi-function viewfinder that can double as a light meter.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/godox1.jpg?quality=90&strip=all&crop=0%2C10.742615643625%2C100%2C78.514768712751&w=1200",
-                "url": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
-                "source": "The Verge",
-                "date": "2026-07-03T14:51:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "DC region bakes again Friday after record",
-                "desc": "After record heat Thursday, the D.C. area faces another triple-digit day Friday with heat index values up to 112 and a risk of evening storms.",
-                "image": "https://wtop.com/wp-content/uploads/2026/07/Washington_Extreme_Weather_Heat_882_1-scaled.jpg",
-                "url": "https://wtop.com/weather-news/2026/07/dc-region-bakes-again-friday-after-record-breaking-heat/",
-                "source": "WTOP",
-                "date": "2026-07-03T14:48:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "These stores and restaurants are open on the 4th of July",
-                "desc": "Wondering what's open on the 4th of July 2026? See a list of the stores and restaurants that will be operating and what will be closed.",
-                "image": "https://cdn.abcotvs.com/dip/images/19441580_070326-cc-adobe-stock-burger-img.jpg?w=1600",
-                "url": "https://abc7.com/post/whats-open-4th-july-2026-closed-see-list-stores-restaurants/19441521/",
-                "source": "ABC7 Los Angeles",
-                "date": "2026-07-03T14:45:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Top Retired General Issues Scathing Trump Takedown",
-                "desc": "The administration has carried out a mass culling of its military’s top leaders.",
-                "image": "https://www.thedailybeast.com/resizer/v2/UDU5WVNLFVALTHML6S2XKTBSPQ.JPG?smart=true&auth=7ddfd37173d87e58d6807d91fb2e430f8548c1f224fd28977f1213f1d410e2e0&width=1200&height=630",
-                "url": "https://www.thedailybeast.com/top-retired-general-brown-jr-issues-scathing-trump-takedown/",
-                "source": "The Daily Beast",
-                "date": "2026-07-03T14:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Angel Reese decries WNBA All-Star Game starters as 'disrespectful' to Dream",
-                "desc": "Angel Reese is used to it, but that doesn't mean she has to like it. Neither the Atlanta Dream star nor her teammates were selected as starters for the 2026 WNBA All-Star Game.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-jqqgendup-1783089021584.jpg?quality=75&strip=all&1783074947&w=1200",
-                "url": "https://nypost.com/2026/07/03/sports/angel-reese-decries-wnba-all-star-game-starters-as-disrespectful-to-dream/",
-                "source": "New York Post",
-                "date": "2026-07-03T14:40:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Madonna Releases 15th Album 'Confessions II'",
-                "desc": "Madonna has returned with her much-anticipated \"Confessions IIm\" the sequel to 2005's \"Confessions on a Dance Floor.\"",
-                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/Press_Main-2.jpg?crop=189px%2C53px%2C3836px%2C2149px&resize=1440%2C810",
-                "url": "https://www.hollywoodreporter.com/music/music-news/madonna-releases-confessions-ii-album-1236636142/",
-                "source": "The Hollywood Reporter",
-                "date": "2026-07-03T14:34:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "CNN’s Kaitlan Collins trolls Trump by reporting on the state fair by reporting in the middle of the empty field",
-                "desc": "The president has claimed the fair is “packed with happy people” but footage from the National Mall tells a different story",
-                "image": "https://static.independent.co.uk/2026/07/03/13/16/Screenshot-2026-07-03-at-14-52-00.png?trim=0,410,251,369&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/americas/us-politics/kaitlan-collins-trump-america-250-cnn-report-b3008418.html",
-                "source": "The Independent",
-                "date": "2026-07-03T14:32:00Z",
                 "priority": "STANDARD"
             }
         ],
@@ -3798,6 +3798,69 @@
         ],
         "sports": [
             {
+                "title": "Rich Paul gives an update on when LeBron James will make free agency decision",
+                "desc": "We may have to wait a little longer for LeBron’s decision.",
+                "image": "https://platform.fearthesword.com/wp-content/uploads/sites/78/2026/07/gettyimages-2254811287.jpg?quality=90&strip=all&crop=0%2C10.452282830635%2C100%2C79.09543433873&w=1200",
+                "url": "https://www.fearthesword.com/cavs-rumors/51163/cavs-lebron-james-cleveland-cavaliers-free-agency-rich-paul-philadelphia-76ers-minnesota-timberwolves-golden-state-warriors",
+                "source": "Fear The Sword",
+                "date": "2026-07-04T15:40:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Serena Williams withdraws from doubles match at Wimbledon due to injury",
+                "desc": "Serena Williams has withdrawn from her doubles match with sister Venus at Wimbledon due to a right knee injury",
+                "image": "https://i.abcnewsfe.com/a/2b585c12-193b-4c73-940c-02fd7d7f44e0/wirestory_0146ab3f8ed080afb6fce0ea60393693_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/Sports/wireStory/serena-williams-withdraws-doubles-match-sister-venus-wimbledon-134473652",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-07-04T15:34:41Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sophie Cunningham responds to Trump admin using her now-famous viral finger-pointing meme",
+                "desc": "WNBA star Sophie Cunningham reacts to the White House posting her viral pointing meme, calling them 'another group posting about it.' The Phoenix Mercury moment exploded online.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/sophie-cunningham-dewanna-bonner-fox-news-001.jpeg",
+                "url": "https://www.foxnews.com/outkick-sports/sophie-cunningham-responds-trump-admin-viral-finger-pointing-meme",
+                "source": "Fox News",
+                "date": "2026-07-04T15:29:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Serena Williams Withdraws from Wimbledon Doubles with Sister Venus, 'Heartbroken' over Injury",
+                "desc": "Serena Williams announced Saturday that she has withdrawn from the 2026 Wimbledon women's doubles tournament with her sister, Venus Williams, due to injury.",
+                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-07/2283652400_large_cropped.jpg?w=3800&h=2000",
+                "url": "https://bleacherreport.com/articles/25451006-serena-williams-withdraws-wimbledon-doubles-sister-venus-heartbroken-over-injury",
+                "source": "Bleacher Report",
+                "date": "2026-07-04T15:17:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Serena Williams withdraws from doubles match with sister Venus at Wimbledon due to injury",
+                "desc": "Serena Williams has withdrawn from her doubles match with sister Venus at Wimbledon due to a right knee injury.",
+                "image": "https://dims.apnews.com/dims4/default/e3f2364/2147483647/strip/true/crop/3363x2241+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2F04%2Fca04f81337475f6c08dfc7e5d41f%2F50c5cbde94834ee3a265b883e509e4fe",
+                "url": "https://apnews.com/article/serena-williams-wimbledon-doubles-0146ab3f8ed080afb6fce0ea60393693",
+                "source": "AP News",
+                "date": "2026-07-04T15:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cape Verde’s World Cup Run Will Live Forever",
+                "desc": "The Blue Sharks didn’t need to beat Argentina to cement themselves as the story of the tournament",
+                "image": "https://wp.theringer.com/wp-content/uploads/2026/07/cropped-GettyImages-2281152696-scaled-1.jpg",
+                "url": "https://www.theringer.com/2026/07/04/world-cup/cape-verde-world-cup-vozinha-argentina",
+                "source": "The Ringer",
+                "date": "2026-07-04T15:14:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Braves stadium busted out in 'Country Roads' and something incredible happened on the next pitch",
+                "desc": "Matt Olson hit a home run during a 'Country Roads' singalong at the Braves game in a patriotic Fourth of July moment rivaling Mike Piazza's post-9/11 homer.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/olson2.jpg",
+                "url": "https://www.foxnews.com/outkick-sports/braves-stadium-busted-country-roads-incredible-happened-next-pitch",
+                "source": "Fox News",
+                "date": "2026-07-04T15:10:29Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "UFC Fantasy Draft, Season 5: Which 72 UFC fighters will close out 2026 in style?",
                 "desc": "MMA Fighting’s latest edition of its UFC Fantasy Draft",
                 "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/07/NFL-DRAFT-YT.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
@@ -4273,71 +4336,8 @@
                 "source": "Bleacher Report",
                 "date": "2026-07-03T13:52:27Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "World Cup 2026 odds: USMNT opens as small favorite vs. Belgium in Round of 16",
-                "desc": "The United States is favored against Belgium in Monday's Round of 16 match.",
-                "image": "https://s.yimg.com/ny/api/res/1.2/YnOq2aLYyzPoyvL_FPUlPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTI7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/0120eb6b-ecb3-4a17-8dd4-de332f2334f9",
-                "url": "https://sports.yahoo.com/soccer/betting/article/world-cup-2026-odds-usmnt-opens-as-small-favorite-vs-belgium-in-round-of-16-165955306.html",
-                "source": "Yahoo Sports",
-                "date": "2026-07-03T13:52:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Inside Celtics’ Jaylen Brown trade: How differences in perspective drove stunning deal",
-                "desc": "How did Brown, a player who just finished sixth in MVP voting, get traded so abruptly for what was viewed as an underwhelming package?",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/02234205/GettyImages-2249969486RS-scaled.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7418310/2026/07/03/jaylen-brown-celtics-inside-trade-pov/",
-                "source": "The New York Times",
-                "date": "2026-07-03T13:48:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Max Holloway responds to Justin Gaethje’s comments about potential rematch after beating Ilia Topuria at UFC White House",
-                "desc": "Max Holloway had a laugh at Justin Gaethje’s comments about potentially meeting again in the future",
-                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/07/gettyimages-2148564841.jpg?quality=90&strip=all&crop=0%2C7.3452456125646%2C100%2C78.542355105336&w=1200",
-                "url": "https://www.mmafighting.com/ufc/497345/max-holloway-responds-to-justin-gaethjes-comments-about-potential-rematch-after-beating-ilia-topuria-at-ufc-white-house",
-                "source": "MMA Fighting",
-                "date": "2026-07-03T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Rich Paul reveals LeBron James’ free agency finalists on whiteboard during podcast",
-                "desc": "Where should LeBron play next season?",
-                "image": "https://platform.sbnation.com/wp-content/uploads/sites/2/2026/07/HMTC8jqWsAEsIg-.jpg?quality=90&strip=all&crop=0,4.2742175175473,100,91.451564964905",
-                "url": "https://www.sbnation.com/nba/1121452/lebron-james-free-agency-finalists-rich-paul-whiteboard-leak",
-                "source": "SB Nation",
-                "date": "2026-07-03T12:56:49Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Klutch Sports CEO Rich Paul confirms Sixers have LeBron James' attention: 'Everything has changed'",
-                "desc": "On Friday morning's edition of his podcast, \"Game Over,\" Klutch Sports CEO Rich Paul spoke glowingly about the Sixers as a potential fit for LeBron James.",
-                "image": "https://media.phillyvoice.com/media/images/2025-12-08T031951Z_262879056_M.c101e477.fill-1200x630-c0.jpg",
-                "url": "https://www.phillyvoice.com/sixers-news-analysis-lebron-james-free-agency-nba-rumors-rich-paul-jaylen-brown-trade-mike-gansey/",
-                "source": "PhillyVoice",
-                "date": "2026-07-03T12:54:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "VAR is trying to kill the joy of this World Cup",
-                "desc": "When technology begins enforcing the rulebook beyond the limits of human perception, it stops serving the sport and starts serving itself.",
-                "image": "https://s.yimg.com/lo/mysterio/api/0eec746228cbb4a7e1d437b84921783f9a535e5e84e24744fafc08f7d3d28cdb/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Fe7f0c9a5-e09a-48d3-9673-ca3b84fa2a71",
-                "url": "https://sports.yahoo.com/soccer/article/var-is-trying-to-kill-the-joy-of-this-world-cup-124358119.html",
-                "source": "Yahoo Sports",
-                "date": "2026-07-03T12:43:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 NHL Free Agents Still Available Who Can Help Teams During the 2026-27 Season",
-                "desc": "The opening day of the 2026 NHL free-agent market saw its usual frenzy of signings despite the limited number of notable stars available.",
-                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-07/2203882881_large_cropped.jpg?w=3800&h=2000",
-                "url": "https://bleacherreport.com/articles/25449889-5-nhl-free-agents-still-available-who-can-help-teams-during-2026-27-season",
-                "source": "Bleacher Report",
-                "date": "2026-07-03T12:31:50Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-05T03:00:50.699793Z"
+    "lastGlobalSync": "2026-07-05T03:40:50.724552Z"
 }
