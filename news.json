@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "जिम्बाब्वे दौरे के लिए भारतीय टीम का ऐलान, रिंकू सिंह की वापसी, 4 नए चेहरे भी स्क्वॉड में",
+                "desc": "Team India Squad Announcement: जिम्बाब्वे दौरे के लिए चुनी गई टीम से साफ है कि भारतीय सेलेक्टर्स भविष्य को ध्यान में रखते हुए युवा खिलाड़ियों को ज्यादा मौके देना चाहते हैं. प्रभसिमरन सिंह, हर्ष दुबे, यश ठाकुर, अशोक शर्मा जैसे खिलाड़ियों के पास इस सीरीज में अपनी प्रतिभा साबित करने का सुनहरा अवसर होगा.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4bb2c645d20-rinku-singh-of-india-065056295-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/cricket/story/team-india-squad-announced-for-zimbabwe-t20i-series-rinku-singh-comeback-ashok-sharma-yash-thakur-tspoa-dskc-2595292-2026-07-06",
+                "source": "AajTak",
+                "date": "2026-07-06T13:51:53Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "राम मंदिर ट्रस्ट ने चंपत राय का इस्तीफ़ा किया मंज़ूर, कृष्ण मोहन होंगे अंतरिम महामंत्री",
                 "desc": "श्री राम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट ने बताया है कि बैठक में महामंत्री चंपत राय और सदस्य अनिल मिश्रा का इस्तीफ़ा स्वीकार किया गया. चंपत राय की जगह कृष्ण मोहन को अंतरिम महामंत्री नियुक्त किया गया है.",
                 "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/a3b1/live/edf23c30-793c-11f1-9510-1546718f668b.jpg",
@@ -531,18 +540,18 @@
                 "source": "AajTak",
                 "date": "2026-07-04T17:37:52Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'मेरिट के आधार पर मिलेगा टिकट'; BJP की मैराथन बैठक में नितिन नवीन ने किया साफ, दिया जीत का मंत्र",
-                "desc": "BJP National President: भाजपा के राष्ट्रीय अध्यक्ष नितिन नवीन ने उत्तर प्रदेश दौरे के दौरान 2027 विधानसभा चुनाव की तैयारियों को लेकर पार्टी पदाधिकारियों के साथ महत्वपूर्ण बैठक की।",
-                "image": "https://static.langimg.com/nbt/thumb/132184863/lucknow-bjp-nitin-naveen-up-visit.jpg?imgsize=184292&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/lucknow/bjp-national-president-nitin-naveen-up-visit-mission-2027-merit-based-candidates/articleshow/132184630.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-04T17:25:35Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "मोबाइल रिचार्ज करवाना होगा महंगा, 15 प्रतिशत तक बढ़ेंगे दाम",
+                "desc": "दूरसंचार कंपनियां अगले 3-4 महीनों में मोबाइल रिचार्ज की कीमतों में 12-15 की बढ़ोतरी कर सकती हैं, जिसका मुख्य कारण बाजार में कम प्रतिस्पर्धा और 4G5G सेवाओं की बढ़ती मांग है।\nइस बढ़ोतरी से प्रीपेड और पोस्टपेड दोनों तरह के ग्राहकों को अधिक भुगतान करना होगा, जबकि कंपनियों की प्रति ग्राहक आय ARPU में वृद्धि का अनुमान है।",
+                "image": "https://www.jagranimages.com/images/2026/07/06/article/image/Plan-hike-1783345627773_m.webp",
+                "url": "https://www.jagran.com/technology/tech-news-mobile-recharge-40297047.html",
+                "source": "Jagran",
+                "date": "2026-07-06T13:48:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "100000 तक जाएगा सेंसेक्स? एक्सपर्ट बोले- 'Yes', डेडलाइन भी बताई",
                 "desc": "Morgan Stanley के एक्सपर्ट्स ने भारतीय शेयर बाजार के प्रमुख इंडेक्स सेंसेक्स को लेकर बड़ा अनुमान जाहिर किया है और Sensex के 1 लाख के आंकड़े को छूने की संभावना जताई है.",
@@ -1073,18 +1082,18 @@
                 "source": "BBC",
                 "date": "2026-07-03T16:18:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "LPG News: ये देश ना होता तो आज भारत में गैस सिलेंडर के लाले पड़ जाते! यूएई और सऊदी अरब छूटे पीछे",
-                "desc": "LPG Supply News: पश्चिम एशिया में तनाव के बीच भारत ने एलपीजी आयात में विविधता बढ़ाई है. जून में भी सबसे ज्यादा एलपीजी अमेरिका से खरीदी गई, जबकि UAE, सऊदी अरब और कुवैत से भी सप्लाई जारी रही.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/03/8f00f49eb10fb7666171aaf8e34b698917830925355161241_original.png?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/business/india-lpg-imports-from-us-rise-energy-security-gulf-dependence-strategy-3154608",
-                "source": "ABP News",
-                "date": "2026-07-03T15:41:27Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "फिल्म वाराणसी से लीक हुआ महेश बाबू का 'राम अवतार' लुक? रणबीर कपूर से होने लगी तुलना",
+                "desc": "एसएस राजामौली की फिल्म में महेश बाबू के भगवान राम के रूप में दिखने का दावा करने वाली एक लीक हुई तस्वीर ऑनलाइन वायरल हो गई है। जहां फैंस ने उनके लुक की तुलना रणबीर कपूर के रामायण अवतार से की.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4b8dbc7fd46-ranbir-kapoor-mahesh-babu-ram-061254948-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/news/story/mahesh-babu-lord-ram-look-leak-ss-rajamouli-varanasi-reddit-compares-ranbir-kapoor-ramayan-tmovg-dskc-2595193-2026-07-06",
+                "source": "AajTak",
+                "date": "2026-07-06T13:46:02Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "गौहर खान पर Ex बॉयफ्रेंड कुशाल ने किया कमेंट, हंस पड़े जैद दरबार, यूजर्स बोले- पति में रीढ़ की हड्डी नहीं",
                 "desc": "गौहर खान के पति जैद दरबार रियलिटी शो द अलायंस में नजर आ रहे हैं. शो में गौहर के एक्स बॉयफ्रेंड कुशाल टंडन भी हैं. दोनों की एक बातचीत ने इंटरनेट पर हलचल मचा रखी है.",
@@ -1615,18 +1624,18 @@
                 "source": "Navbharat Times",
                 "date": "2026-07-04T11:32:47Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "52 साल की उम्र में कुवांरी हैं कोरियोग्राफर, चाहती हैं महादेव सा पति, बोलीं- मेरी लाइफ में कुछ लोग आए...",
-                "desc": "बॉलीवुड की मशहूर कोरियोग्राफर 52 साल की उम्र में भी कुंवारी हैं। उन्होंने बताया कि उन्हें महादेव सा पति चाहिए। कोरियोग्राफर ने ये भी बताया कि उन्होंने अबतक शादी क्यों नहीं की।",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/2026/07/04/1200x900/Geeta_kapoor_1783163415880_1783163445035_c4c7d399-bb19-48b6-8c5d-3c55a157bc8b_1783164658736_1aa67b00-e69c-406d-9404-790af71bb464.png",
-                "url": "https://www.livehindustan.com/photos/entertainment/pehchan-kon-52-year-old-choreographer-wants-husband-like-mahadev-talks-about-feeling-lonely-at-times-201783161969625.html",
-                "source": "Live Hindustan",
-                "date": "2026-07-04T11:32:08Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "जिम्बाब्वे दौरे के लिए भारतीय टीम का ऐलान, रिंकू सिंह की वापसी, 4 नए चेहरे भी स्क्वॉड में",
+                "desc": "Team India Squad Announcement: जिम्बाब्वे दौरे के लिए चुनी गई टीम से साफ है कि भारतीय सेलेक्टर्स भविष्य को ध्यान में रखते हुए युवा खिलाड़ियों को ज्यादा मौके देना चाहते हैं. प्रभसिमरन सिंह, हर्ष दुबे, यश ठाकुर, अशोक शर्मा जैसे खिलाड़ियों के पास इस सीरीज में अपनी प्रतिभा साबित करने का सुनहरा अवसर होगा.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4bb2c645d20-rinku-singh-of-india-065056295-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/cricket/story/team-india-squad-announced-for-zimbabwe-t20i-series-rinku-singh-comeback-ashok-sharma-yash-thakur-tspoa-dskc-2595292-2026-07-06",
+                "source": "AajTak",
+                "date": "2026-07-06T13:51:53Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "'बेटे की वजह से सीक्रेट रखी अपनी टीम...' FIFA वर्ल्ड कप के बीच CM हिमंता ने लूट ली महफिल",
                 "desc": "असम के मुख्यमंत्री हिमंता बिस्वा सरमा का FIFA वर्ल्ड कप 2026 पर दिया गया मजेदार बयान सोशल मीडिया पर वायरल हो गया है. उन्होंने कहा कि बेटा अर्जेंटीना का फैन है, इसलिए अपनी पसंद जाहिर नहीं करेंगे.",
@@ -2156,15 +2165,6 @@
                 "url": "https://www.livehindustan.com/cricket/indian-openers-who-scored-3-or-more-consecutive-single-digits-in-t20i-virat-kohli-sanju-abhishek-sharma-in-list-201783099200679.html",
                 "source": "Live Hindustan",
                 "date": "2026-07-03T17:28:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "वैभव सूर्यवंशी के डेब्यू पर फिलहाल ब्रेक? टीम इंडिया मैनेजमेंट ने संजू-अभिषेक पर सुनाया बड़ा फैसला",
-                "desc": "टीम इंडिया के गेंदबाजी कोच मॉर्ने मॉर्कल ने साफ कर दिया है कि 15 साल के वैभव सूर्यवंशी की दस्तक के बावजूद संजू सैमसन और अभिषेक शर्मा की जगह तुरंत नहीं छीनी जाएगी. मॉर्कल ने कहा कि वर्ल्ड कप जिताने वाले खिलाड़ियों पर भरोसा बनाए रखना जरूरी है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a47eb555057e-indias-vaibhav-sooryavanshi-030311787-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/vaibhav-sooryavanshi-debut-morne-morkel-on-sanju-samson-abhishek-sharma-ind-vs-eng-t20-bmsp-dskc-2593475-2026-07-03",
-                "source": "AajTak",
-                "date": "2026-07-03T17:12:12Z",
                 "priority": "STANDARD"
             }
         ]
@@ -2714,6 +2714,15 @@
         ],
         "business": [
             {
+                "title": "SpaceX President Gwynne Shotwell to donate stock to Trump Accounts",
+                "desc": "President Donald Trump told CNBC's Joe Kernen last week that he thought SpaceX CEO Elon Musk would donate company stock to the program.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108321955-1781534280326-gettyimages-1258821041-NASA_Private.jpeg?v=1781612515&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/06/spacex-spcx-gwynne-shotwell-stock-trump-accounts.html",
+                "source": "CNBC",
+                "date": "2026-07-06T13:58:27Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Versant Acquires Sports Tech Firm Full Swing For $530M",
                 "desc": "Versant Media Group has acquired sports tech firm Full Swing for $530 million, expanding its portfolio of businesses outside of traditional linear TV.",
                 "image": "https://deadline.com/wp-content/uploads/2026/05/Versant.jpg?w=1024",
@@ -3243,18 +3252,18 @@
                 "source": "The New York Times",
                 "date": "2026-07-04T10:28:33Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Trump Accounts are now live. Here’s what you need to know",
-                "desc": "Trump Accounts, a new federal savings and investment vehicle for children, went live on July 4.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2209479993-20260625130438694.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/04/business/trump-accounts-faq",
-                "source": "CNN",
-                "date": "2026-07-04T10:00:25Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "‘House of the Dragon’ Season 3, Episode 3 Recap: The Rat Banquet",
+                "desc": "Rhaenyra’s advent to power starts off rough and doesn’t get much better.",
+                "image": "https://static01.nyt.com/images/2026/07/05/arts/05dragon/05dragon-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/05/arts/television/house-of-the-dragon-season-3-episode-3-recap.html",
+                "source": "The New York Times",
+                "date": "2026-07-06T13:57:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Big Tigger steps away from radio show after arrest",
                 "desc": "Atlanta radio host Darian Morgan, better known as Big Tigger, says he is stepping away from his radio show as he fights the battery and cruelty to children charges against him.",
@@ -3784,15 +3793,6 @@
                 "url": "https://www.cbsnews.com/news/prince-william-new-heights-kelce-taylor-swift-wedding/",
                 "source": "CBS News",
                 "date": "2026-07-03T15:11:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "25 Rap Songs For America's 250th",
-                "desc": "Welcome to Listening Habits, a column where I share the music and musical topics I’ve been fixated on recently. It can be hard to remember amidst the downfall of everything, but 250 years of America is a major milestone. America, more of a grand experiment than a nation, a fantastical idea suggesting a very modern notion that…",
-                "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/07/GettyImages-478917852.png",
-                "url": "https://defector.com/25-rap-songs-for-americas-250th",
-                "source": "Defector",
-                "date": "2026-07-03T14:58:00Z",
                 "priority": "STANDARD"
             }
         ],
@@ -4339,5 +4339,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-07T01:40:52.941032Z"
+    "lastGlobalSync": "2026-07-07T02:00:54.641029Z"
 }
