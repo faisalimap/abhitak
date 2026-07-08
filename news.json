@@ -2,6 +2,51 @@
     "hi": {
         "general": [
             {
+                "title": "राम मंदिर चढ़ावा चोरी मामले पर चंपत राय ने तोड़ी चुप्पी, जारी किया बयान",
+                "desc": "अयोध्या राम मंदिर में चढ़ावा चोरी के मामले के सामने आने और श्री राम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के महामंत्री पद से इस्तीफ़ा देने के बाद वीएचपी नेता चंपत राय का पहली बार बयान सामने आया है.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/1d1c/live/d528b700-7a00-11f1-9510-1546718f668b.jpg",
+                "url": "https://www.bbc.com/hindi/articles/c4gykrq82d1o",
+                "source": "BBC",
+                "date": "2026-07-07T12:34:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "भारत समेत 60 देशों को ट्रंप का झटका! एक्सपोर्ट पर फिर बढ़ा सकते हैं टैरिफ",
+                "desc": "अमेरिका ने जबरन श्रम से बने सामानों पर चिंता जताते हुए भारत समेत 60 देशों के एक्सपोर्ट पर नए टैरिफ लगाने का प्रस्ताव रखा है।\nभारत ने अमेरिकी व्यापार मंत्रालय की इस जांच पर आपत्ति जताई है और इसे समाप्त करने की मांग की है।",
+                "image": "https://www.jagranimages.com/images/2026/07/07/article/image/trump-1783427011111_m.webp",
+                "url": "https://www.jagran.com/business/biz-trumps-us-tariffs-threaten-india-60-nations-over-forced-labor-40298079.html",
+                "source": "Jagran",
+                "date": "2026-07-07T12:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "राम मंदिर ट्रस्ट से इस्तीफे के बाद चंपत राय का पहला बयान, कहा",
+                "desc": "Ram Mandir में चढ़ावा चोरी के मामले में श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के पूर्व महासचिव चंपत राय ने इस्तीफा मंजूर होने के एक दिन बाद मंगलवार को पहली प्रतिक्रिया दी है.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/06/35f0d8cd24e81fa0a19cea745a2cad981783337446425397_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/states/up-uk/champat-rai-first-statement-says-will-respond-to-all-allegations-the-truth-will-come-out-3156377",
+                "source": "ABP News",
+                "date": "2026-07-07T12:24:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "सबसे बड़ी पेनाल्टी, मेटा पर लगा 120 लाख करोड़ का जुर्माना, कंपनी की वैल्यू से भी ज्यादा!",
+                "desc": "अमेरिकी कंपनी मेटा पर 1.4 ट्रिलियन डॉलर का जुर्माना लगाया गया है. दिलचस्प ये है कि कंपनी की वैल्यूएशन 1.5 ट्रिलियन डॉलर्स मानी जाती है. यानी कंपनी की वैल्यू के लगभग बराबर. लेकिन मामला क्या है? आइए जानते हैं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4cee5e2e34d-mark-zuckerberg-092107756-16x9.jpg",
+                "url": "https://www.aajtak.in/technology/tech-news/story/meta-1-4-trillion-dollar-penalty-facebook-instagram-social-media-addiction-lawsuit-ttecm-dskc-2596085-2026-07-07",
+                "source": "AajTak",
+                "date": "2026-07-07T12:18:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "मैक्रों का लक! मिसकैलकुलेशन या महज वॉर्निंग... दमिश्क धमाके की थ्योरी क्या है?",
+                "desc": "दमिश्क में होटल फोर सीजन के पास हुए पहले धमाके की सनसनी से लोग उबर ही रहे थे कि दूसरा ब्लास्ट और भी ताकत के साथ हुआ. ये ब्लास्ट होटल के बगल में खड़ी कार में हुई. इस दौरान यहां कई दर्जन लोग खड़े थे.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4cebbf6f7a6-syria-blast-070617665-16x9.jpg",
+                "url": "https://www.aajtak.in/world/story/damascus-blast-french-president-emmanuel-macron-syria-visit-syrian-president-ahmad-al-sharaa-ntcppl-dskc-2596079-2026-07-07",
+                "source": "AajTak",
+                "date": "2026-07-07T12:11:31Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "आमिर खान की तीसरी शादी पर अमित सचदेवा ने किया घटिया कमेंट, पूछी एक्सपायरी डेट, सलमान खान को भी उड़ाई खिल्ली",
                 "desc": "​आमिर खान ने 61 साल की उम्र में अपनी गर्लफ्रेंड गौरी स्प्रैट से शादी की। जिसके लिए उन्होंने कोई ग्रैंड सेलिब्रेशन न करके छोटी-सी सेरेमनी घर पर ही रखी। जिस पर अब एक फैशन कमेंटेटर और स्टाइलिस्ट का किया गया घटिया कमेंट लोगों का ध्यान खींच रहा है।​",
                 "image": "https://static.langimg.com/nbt/thumb/132238587/fashion-commentator-and-stylist-amit-sachdeva-comment-on-aamir-khan-and-gauri-spratt-wedding.jpg?imgsize=1612060&width=1600&height=900&resizemode=75",
@@ -495,54 +540,18 @@
                 "source": "Navbharat Times",
                 "date": "2026-07-05T16:22:30Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "इस्लामाबाद में PAF अफसर की दिनदहाड़े हत्या, अज्ञात हमलावरों ने बरसाईं गोलियां",
-                "desc": "इस्लामाबाद में पाकिस्तान एयरफोर्स के ग्रुप कैप्टन असीम तारिक को हमलावरों ने गोली मारकर हत्या कर दी. दरअसल एक मोटरसाइकिल सवार एक महिला का अपहरण करने की कोशिश कर रहा था और ग्रुप कैप्टन महिला की मदद के लिए आगे बढ़े थे. तभी हमलावरों ने उन पर गोली चला दी.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4a84c0d4b5e-paf-officer-killed-052219166-16x9.png",
-                "url": "https://www.aajtak.in/world/story/pakistan-air-force-group-captain-asim-tariq-killed-in-islamabad-attackers-shot-ntc-drmt-rptc-2594618-2026-07-05",
-                "source": "AajTak",
-                "date": "2026-07-05T16:20:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Womens T20 World Cup 2026 Final LIVE सीवर-ब्रंट और कैम्प के दम पर इंग्लैंड ने बनाए 150 रन ऑस्ट्रेलिया को जीत के लिए 151 रनों का लक्ष्य",
-                "desc": "ENG W vs AUS W LIVE Score Update: महिला टी20 वर्ल्ड कप 2026 का फाइनल मुकाबला इंग्लैंड और ऑस्ट्रेलिया के बीच खेला जा रहा है। मुकाबले में ऑस्ट्रेलिया ने पहले गेंदबाजी करने का फैसला किया है।",
-                "image": "https://www.jagranimages.com/images/2026/07/05/article/image/ENG-W-vs-AUS-W-Live-1783254587066.webp",
-                "url": "https://www.jagran.com/cricket/match-report-eng-w-vs-aus-w-womens-t20-world-cup-2026-final-live-cricket-score-england-women-vs-australia-women-match-scorecard-lords-london-nat-sciver-brunt-sophie-molineux-lb-30000616.html",
-                "source": "Jagran",
-                "date": "2026-07-05T16:11:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "देर रात तक जागना पड़ेगा... भारत-इंग्लैंड के तीसरे टी20 की टाइमिंग बदली; इतने बजे शुरू होगा मैच",
-                "desc": "भारत और इंग्लैंड के बीच दूसरा टी20 मैच भारतीय समय के अनुसार, शाम सात बजे से शुरू हुआ था, लेकिन तीसरे टी20 की टाइमिंग अलग है. अब मैच देखने के लिए आपको देर रात तक जागना पड़ेगा.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/05/4bb17480a0802465cb7cd467c0821c6f1783264514735143_original.jpeg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/sports/cricket/you-ll-have-to-stay-up-late-india-vs-england-3rd-t20-match-timing-changed-now-the-match-will-start-at-this-time-ind-vs-eng-3155429",
-                "source": "ABP News",
-                "date": "2026-07-05T15:32:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pakistan: पाकिस्तान में 72 लोगों की मौत का जिम्मेदार 11 साल का बच्चा, अदालत में चलेगा मुकदमा",
-                "desc": "जनवरी 2026 में कराची के गुल प्लाजा शॉपिंग कॉम्प्लेक्स में लगी आग मामले में 11 वर्षीय बच्चे को मुख्य अभियुक्त बनाया गया है। इस बच्चे के खिलाफ मुकदमा चलाने की तैयारी है। इस अग्निकांड में कम के कम 72 लोगों की मौत हुई थी। आरोप है कि इसी बच्चे ने माचिस से आग लगाई थी।",
-                "image": "https://static.langimg.com/nbt/thumb/132197751/pakistan-police.jpg?imgsize=161230&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/world/pakistan/karachi-fire-tragedy-11-year-old-boy-to-face-trial-in-case-involving-72-deaths-in-pakistan/articleshow/132197736.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-05T15:24:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'तीजन बाई, इंडिया' के पते पर जब पेरिस से भेजी गई एक चिट्ठी उन तक सीधे पहुंच गई",
-                "desc": "जो आवाज़ कभी समूचे महाभारत को जीवंत कर देती थी, अब मौन हो चुकी है. आज वह तंबूरा नि:शब्द है और पंडवानी की कथा थम गई है. पंडवानी की आत्मा तीजन बाई, दुनिया के रंगमंच से विदा ले चुकी हैं.",
-                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/3bb7/live/57b76a10-7879-11f1-9510-1546718f668b.jpg",
-                "url": "https://www.bbc.com/hindi/articles/cnv99j70r8po",
-                "source": "BBC",
-                "date": "2026-07-05T15:12:29Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "सबसे बड़ी पेनाल्टी, मेटा पर लगा 120 लाख करोड़ का जुर्माना, कंपनी की वैल्यू से भी ज्यादा!",
+                "desc": "अमेरिकी कंपनी मेटा पर 1.4 ट्रिलियन डॉलर का जुर्माना लगाया गया है. दिलचस्प ये है कि कंपनी की वैल्यूएशन 1.5 ट्रिलियन डॉलर्स मानी जाती है. यानी कंपनी की वैल्यू के लगभग बराबर. लेकिन मामला क्या है? आइए जानते हैं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4cee5e2e34d-mark-zuckerberg-092107756-16x9.jpg",
+                "url": "https://www.aajtak.in/technology/tech-news/story/meta-1-4-trillion-dollar-penalty-facebook-instagram-social-media-addiction-lawsuit-ttecm-dskc-2596085-2026-07-07",
+                "source": "AajTak",
+                "date": "2026-07-07T12:18:05Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "चीन का 'Gold Game', लगातार 20वें महीने ड्रैगन ने कर दिया ये काम",
                 "desc": "Chine Gold Game: चीन मान नहीं रहा है और लगातार सोना खरीदता जा रहा है. जून महीने में तो ड्रैगन ने इतना सोना खरीदा है, जो बीते ढाई साल में सबसे बड़ी मासिक खरीदारी है.",
@@ -1072,15 +1081,6 @@
                 "url": "https://navbharattimes.indiatimes.com/auto/car-bikes/top-10-best-selling-suvs-of-india-june-2026-sales-analysis-tata-punch-defeats-everyone/articleshow/132182871.cms",
                 "source": "Navbharat Times",
                 "date": "2026-07-04T14:07:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "चांदी? खरीदें या करें इंतजार, एक्सपर्ट ने क्या दिए टारगेट",
-                "desc": "जून में 17 साल की सबसे बड़ी गिरावट के बाद सोने-चांदी की कीमतों में अमेरिकी आर्थिक आंकड़ों और फेडरल रिजर्व के बयानों के चलते जोरदार उछाल आया है।\nकमोडिटी एक्सपर्ट महेंद्र लुनिया ने लंबी अवधि के निवेशकों के लिए इसे अच्छा मौका बताया है, जिसमें सोना ₹1.72 लाख और चांदी ₹2.75 लाख तक जा सकती है।",
-                "image": "https://img.youtube.com/vi/c9xufoA_N14/maxresdefault.jpg",
-                "url": "https://www.jagran.com/business/commodity-gold-silver-price-hike-expert-outlook-investment-targets-40294927.html",
-                "source": "Jagran",
-                "date": "2026-07-04T13:56:00Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1628,6 +1628,15 @@
         ],
         "sports": [
             {
+                "title": "टीम इंडिया को मिलेगा नया हेड कोच और कोचिंग स्टाफ, BCCI लेने जा रहा बड़ा फैसला",
+                "desc": "व्यस्त इंटरनेशनल कैलेंडर के कारण बीसीसीआई ने फिर से स्प्लिट-कोचिंग का रास्ता चुना है। वेस्टइंडीज सीरीज और एशियन गेम्स के एक ही समय होने के कारण मुख्य कोच गौतम गंभीर सीनियर टीम के साथ रहेंगे, जबकि सेंटर ऑफ एक्सीलेंस के प्रमुख वीवीएस लक्ष्मण जिम्बाब्वे दौरे और एशियन गेम्स के लिए भारतीय टीम के कोच बनेंगे।",
+                "image": "https://static.langimg.com/nbt/thumb/132239194/vvs-laxman-and-gautam-gambhir.jpg?imgsize=570438&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/team-india-to-get-new-head-coach-and-coaching-staff-for-asian-games-vvs-laxman/articleshow/132239138.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-07T12:10:53Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "किस बीमारी से जूझ रहे थे शापूर जादरान? जन्मदिन से एक दिन पहले निधन, AFG क्रिकेट की नींव रखने वालों में से थे",
                 "desc": "अफगानिस्तान क्रिकेट की नींव रखने वालों में शामिल रहे शापूर जादरान ने दुनिया को अलविदा कह दिया है। उन्होंने अफगानिस्तान की ओर से 80 इंटरनेशनल मैच खेले।, Cricket Hindi News - Hindustan",
                 "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/07/1600x900/logo/Shapoor_Zadran_1783424220472_1783424227479_b5246023-ee08-45da-9a59-7625547734e6.jpg",
@@ -2157,20 +2166,83 @@
                 "source": "AajTak",
                 "date": "2026-07-05T09:14:05Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "टी20 इंटरनेशनल में सबसे ज्यादा पिटने वाले बॉलर्स, अर्शदीप सिंह और रवि बिश्नोई के नाम शर्मनाक रिकॉर्ड",
-                "desc": "Most Runs Conceded Off One Over T20I: इंग्लैंड के खिलाफ दूसरे टी20 मैच में अर्शदीप सिंह ने एक ओवर में 27 रन लुटाए. रवि बिश्नोई की भी खूब कुटाई हुई.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/04/8541a0953736d617bbdaf65ce2f2b2df1783186527676975_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/sports/cricket/ravi-bishnoi-and-arshdeep-singh-enters-unwanted-record-list-most-runs-conceded-off-one-over-in-t20i-india-vs-england-3155056",
-                "source": "ABP News",
-                "date": "2026-07-04T17:37:29Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "FDNY responds to building buckling in Manhattan",
+                "desc": "It's happening at the former Pfizer global headquarters.",
+                "image": "https://media.nbcnewyork.com/2026/07/image-5-1.jpg?quality=85&strip=all&resize=1200%2C675",
+                "url": "https://www.nbcnewyork.com/manhattan/fdny-responds-to-report-of-buckling-building-in-manhattan/6522605/",
+                "source": "NBC New York",
+                "date": "2026-07-07T12:40:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "As NATO summit kicks off, Trump says he’s considering selling F-35 fighter jets to Turkey",
+                "desc": "President Donald Trump said he would lift sanctions on Turkey for its purchase of a Russian air defense system. Ukraine and the Strait of Hormuz will also be up for discussion at the summit. Follow here for the latest.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-07t112306z-677837374-rc2z8ma693c6-rtrmadp-3-nato-summit-trump.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/07/world/live-news/nato-summit-trump",
+                "source": "CNN",
+                "date": "2026-07-07T12:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rivian stock falls 12% amid plans to sell 75 million shares",
+                "desc": "The capital raise occurred during extended hours trading following Rivian shares increasing 8.1% on Monday after increasing 19.2% last week.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108318200-1780933801384-IMG_3873.jpeg?v=1780933999&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/07/rivian-stock-rivn-capital-raise.html",
+                "source": "CNBC",
+                "date": "2026-07-07T12:34:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Switzerland vs. Colombia Prediction: 2026 FIFA World Cup Preview and Best Bets",
+                "desc": "A match preview and a prediction for the 2026 FIFA World Cup featuring Switzerland vs. Colombia in Vancouver on Tuesday, July 7.",
+                "image": "https://vsin.com/wp-content/uploads/2026/07/USATSI_29318690_168384654_lowres.jpg",
+                "url": "https://vsin.com/soccer/switzerland-vs-colombia-prediction-2026-fifa-world-cup-preview-and-best-bets/",
+                "source": "VSiN",
+                "date": "2026-07-07T12:32:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Farage resigns as MP for Clacton, triggering by-election which he says he will stand in",
+                "desc": "In a speech, the Reform UK leader said he had \"done no wrongdoing\" after it emerged he did not declare benefits provided by an ally once convicted of fraud in the US.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a83/live/fbaa8e80-7a05-11f1-9510-1546718f668b.jpg",
+                "url": "https://www.bbc.com/news/live/cn0v9l9x0g8t",
+                "source": "BBC",
+                "date": "2026-07-07T12:30:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Skeletal remains with 2,000-year-old gold rings found by archaeologists in Thailand",
+                "desc": "Archaeologists have discovered eight human skeletons, bronze and gold jewelry and other artifacts indicating a ceremonial burial of wealthy people.",
+                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/07/05e4dc7c-712e-4f88-ae21-a6cab9759968/thumbnail/1200x630/8616067b3e0721eeee2b17b37a214a6f/ap26187214540399.jpg",
+                "url": "https://www.cbsnews.com/news/gold-rings-skeletal-remains-found-archaeologists-thailand/",
+                "source": "CBS News",
+                "date": "2026-07-07T12:25:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Argentina, Egypt, Switzerland, Colombia",
+                "desc": "Argentina, Egypt, Switzerland and Colombia play World Cup Round of 16 matches today. Full schedule, kickoff times and how to watch on FOX.",
+                "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/world-cup-schedule-july-7.jpg?ve=1&tl=1",
+                "url": "https://www.foxsports.com/stories/soccer/how-watch-world-cup-today-schedule-times-tv-streaming-argentina-egypt-switzerland-colombia",
+                "source": "FOX Sports",
+                "date": "2026-07-07T12:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "party apps in the latest developer beta",
+                "desc": "We’ve been looking out for new features in iOS 27 beta 3, and we’ve now found an additional one: the...",
+                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/Siri-AI-can-pull-info-from-third-party-apps-in-the-latest-developer-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5mac.com/2026/07/07/siri-ai-can-pull-info-from-third-party-apps-in-the-latest-developer-beta/",
+                "source": "9to5Mac",
+                "date": "2026-07-07T12:13:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Taylor Swift wedding invitation leaks as guests share reception details",
                 "desc": "Taylor Swift and Travis Kelce wrote their own vows for their Madison Square Garden wedding. Guests share reception details, bouquet toss and invitation photos.",
@@ -2638,81 +2710,27 @@
                 "source": "E! News",
                 "date": "2026-07-06T12:46:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone 18 Pro Battery Capacities Revealed by Regulatory Filings",
-                "desc": "New Chinese regulatory certification filings appear to confirm the battery capacities of Apple's upcoming iPhone 18 Pro and iPhone 18 Pro Max models. According to new filings in China's C3 database, spotted by the leaker known as \"Digital Chat Station\" on Weibo, the iPhone 18 Pro is seemingly rated for 4,056mAh in China and 4,288mAh in the U.S., up modestly from the iPhone 17 Pro's 3,988mAh and 4,252mAh.",
-                "image": "https://images.macrumors.com/t/lqWUrJOQKKV5pEiUCN1izFwQ4QQ=/2500x/article-new/2026/04/iphone-17-pro-black-feature.jpg",
-                "url": "https://www.macrumors.com/2026/07/06/iphone-18-pro-battery-capacities-revealed/",
-                "source": "MacRumors",
-                "date": "2026-07-06T12:41:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "You can sort-of play Mario Kart on YouTube as an \"interactive video\" that could lead to more complex experiments",
-                "desc": "A rising YouTube channel is making \"playable games\" for YouTube, and its Mario Kart interactive video is a conceptually fascinating take on the racer.",
-                "image": "https://assetsio.gnwcdn.com/Mario-Kart-on-YouTube_custom.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "url": "https://www.eurogamer.net/mario-kart-youtube-interactive-video",
-                "source": "Eurogamer.net",
-                "date": "2026-07-06T12:40:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fatigue, Tension, Joy: England Pulls a World Cup All-Nighter",
-                "desc": "The game against Mexico started at 2 a.m. in Britain. Pubs were allowed to stay open unusually late for fans to share the drama together.",
-                "image": "https://static01.nyt.com/images/2026/07/06/multimedia/06int-UK-WORLDCUP-LONDON-PUB-01-promo/06int-UK-WORLDCUP-LONDON-PUB-01-zljh-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/06/world/europe/england-mexico-world-cup-london.html",
-                "source": "The New York Times",
-                "date": "2026-07-06T12:31:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hamas says it will dissolve Gaza government as US-brokered ceasefire plan stalls",
-                "desc": "Hamas announced on Monday that it will dissolve its government in Gaza, a move that experts say puts pressure on Israel as progress from the US-brokered ceasefire plan has stalled.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277405480.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/06/middleeast/hamas-dissolves-gaza-government-intl",
-                "source": "CNN",
-                "date": "2026-07-06T12:25:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Buckingham Palace says Prince Harry not staying there on U.K. visit, contradicting his spokesperson",
-                "desc": "Prince's Harry's spokesperson says an offer to stay was \"withdrawn at the last moment,\" which the Palace denies",
-                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/04/337a7960-4e7a-4ad3-aa53-f4b2a59e1f9a/thumbnail/1200x630/4b27fcc85ec2f1d9c51231df67a8bd4f/gettyimages-2272053070.jpg",
-                "url": "https://www.cbsnews.com/news/prince-harry-buckingham-palace-uk-visit-not-staying/",
-                "source": "CBS News",
-                "date": "2026-07-06T12:20:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Here's how much the Samsung Galaxy Z Fold8, Z Flip8 foldables will cost in South Korea",
-                "desc": "The foldables are expected to be announced later this month. Last week, the European pricing for Samsung's upcoming Galaxy Z foldables surfaced online....",
-                "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-fold8-ultra-flip8-korea-price-leak/-952x498w6/gsmarena_00.jpg",
-                "url": "https://www.gsmarena.com/samsungs_galaxy_z_fold8_z_flip8_foldables_could_cost_this_much_in_south_korea-news-73583.php",
-                "source": "GSMArena.com",
-                "date": "2026-07-06T12:08:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Heavy rain snarls travel around New York, New Jersey",
-                "desc": "Multiple waves of heavy rain and storms are expected to continue through Monday night and could produce total rainfall up to 3 inches, with locally higher amounts.",
-                "image": "https://api-prod.gothamist.com/images/357996/fill-1200x650|format-webp|webpquality-85/",
-                "url": "https://gothamist.com/news/heavy-rain-set-to-snarl-morning-commute-across-new-york-city",
-                "source": "Gothamist",
-                "date": "2026-07-06T12:08:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Versant to buy golf simulator company Full Swing for $530 million",
-                "desc": "The deal for Full Swing will expand Versant's nontraditional media assets in an effort to diversify revenue from cable television.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108292412-1776342525277-gettyimages-2270954615-IMF_WORLD_BANK.jpeg?v=1783341410&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/06/versant-to-buy-golf-simulator-company-full-swing.html",
-                "source": "CNBC",
-                "date": "2026-07-06T12:00:08Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Walmart is lowering prices on thousands of items, including beef, soda and household goods",
+                "desc": "President Trump praised Walmart and said the lower prices are the result of \"my Administration's request to celebrate our great Country's 250th birthday.\"",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/14/3c1413c9-82b3-49d6-aced-1cb30408dc63/thumbnail/1200x630/018f90ff8d9b0cd66c34bafe2ba3c40a/gettyimages-1205217071.jpg",
+                "url": "https://www.cbsnews.com/news/walmart-price-cuts-beef-coke-pepsi-corn-ice-cream/",
+                "source": "CBS News",
+                "date": "2026-07-07T12:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gen Zers aren't getting paid back for group expenses",
+                "desc": "Roughly 76% of Gen Z consumers who have paid upfront for a group expense say they weren’t paid back in full, according to a new study from Zelle.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/06/USAT/90823774007-getty-images-2272307587.jpg?crop=723,408,x0,y37&width=723&height=408&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/money/2026/07/07/gen-z-group-expenses/90753842007/",
+                "source": "USA Today",
+                "date": "2026-07-07T12:01:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The $1.2 billion startup that wants to become Amazon Prime for savings",
                 "desc": "Super.com raised $65 million after betting that understanding financially stretched Americans was its biggest competitive advantage.",
@@ -3233,24 +3251,6 @@
                 "url": "https://www.yahoo.com/news/us/articles/psa-frozen-blueberries-recalled-across-120000886.html",
                 "source": "Yahoo",
                 "date": "2026-07-05T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Stock Market Just Did Something That's Only Been Observed Twice in the Last 155 Years -- and It Has Distressing Implications for Wall Street",
-                "desc": "Wall Street is on the doorstep of making dubious history.",
-                "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877042%2Fnyse-floor-trader-invest-buy-sell-options-stock-exchange-getty.png&w=1200&op=resize",
-                "url": "https://www.fool.com/investing/2026/07/05/stock-market-did-something-twice-155-years-wall-st/",
-                "source": "The Motley Fool",
-                "date": "2026-07-05T11:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mistakes Travelers Make On A Long-Haul Flight",
-                "desc": "Travel experts share the errors you should avoid and their top tips for elevating your trip experience.",
-                "image": "https://img.huffingtonpost.com/asset/6363c832200000590074a0d2.jpeg?cache=Ji0XMofhQL&ops=1200_630",
-                "url": "https://www.huffpost.com/entry/mistakes-travelers-make-on-a-long-haul-flight-g_l_6a451c87e4b005bae50d0950",
-                "source": "HuffPost",
-                "date": "2026-07-05T11:00:17Z",
                 "priority": "STANDARD"
             }
         ],
@@ -3798,6 +3798,15 @@
         ],
         "sports": [
             {
+                "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Argentina, Egypt, Switzerland, Colombia",
+                "desc": "Argentina, Egypt, Switzerland and Colombia play World Cup Round of 16 matches today. Full schedule, kickoff times and how to watch on FOX.",
+                "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/world-cup-schedule-july-7.jpg?ve=1&tl=1",
+                "url": "https://www.foxsports.com/stories/soccer/how-watch-world-cup-today-schedule-times-tv-streaming-argentina-egypt-switzerland-colombia",
+                "source": "FOX Sports",
+                "date": "2026-07-07T12:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Ranking the NFL’s Five Best Safety Duos for 2026",
                 "desc": "The position has been considered more important in recent years, with teams seeking defensive versatility. That bodes well for these teams.",
                 "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_82,w_5379,h_3025/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/si/01kwwwd9s34a2wgxqeyd.jpg",
@@ -4327,17 +4336,8 @@
                 "source": "The Sixer Sense",
                 "date": "2026-07-05T11:40:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "‘¿Y si sí?’ A new rally cry is inspiring Mexico during World Cup",
-                "desc": "A viral phrase that translates to \"What if we do?\" in English is being used by Mexican soccer fans and players dreaming about seemingly impossible wins.",
-                "image": "https://ca-times.brightspotcdn.com/dims4/default/4fe0ebb/2147483647/strip/true/crop/6000x3150+0+387/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F37%2Ff6%2F1f5ac2c443ebbcd32c370a67b3f7%2F2284121120.jpg",
-                "url": "https://www.latimes.com/sports/soccer/story/2026-07-05/y-si-si-new-rally-cry-is-inspiring-mexico-during-world-cup",
-                "source": "Los Angeles Times",
-                "date": "2026-07-05T11:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T00:00:55.841193Z"
+    "lastGlobalSync": "2026-07-08T00:40:54.369825Z"
 }
