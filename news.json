@@ -1086,6 +1086,15 @@
         ],
         "entertainment": [
             {
+                "title": "44 साल पहले फेमस गजल को लेखक ने नशे में लिख डाला, आठ पेग लगाने के बाद केवल 9 मिनट में बना गाना",
+                "desc": "हिंदी सिनेमा में ऐसे अनगिनत गाने हैं जिनके पीछे कोई न कोई कहानी छिपी हुई है। इनमें से ही एक गाना है सिलसिला फिल्म का 'तुमको देखा तो ये ख्याल आया', जिसे जावेद अख्तर ने लिखा है। जानिए इसके पीछे की दिलचस्प कहानी।",
+                "image": "https://static.langimg.com/nbt/thumb/132243443/tum-ko-dekha-toh-ye-khayal-story.jpg?imgsize=122170&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/lyricist-penned-famous-ghazal-tumko-dekha-toh-yeh-khayal-aaya-in-9-minutes-know-the-story/articleshow/132243360.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-07T17:01:27Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "अंशुला कपूर का रिसेप्शन: न मंगलसूत्र-न चूड़ा, नई दुल्हन ने पहनी सिंदूरी लाल साड़ी, पहुंचे फिल्मी सितारे",
                 "desc": "मुंबई में अंशुला कपूर की शानदार रिसेप्शन पार्टी चल रही है. इसमें बॉलीवुड सेलेब्स भी गेस्ट बने हैं.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a4d2d06d3e3d-anshula-kapoor-reception-look-074449213-16x9.jpg",
@@ -1614,15 +1623,6 @@
                 "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/anshula-kapoor-mehendi-celebration-inside-photos-janhvi-kapoor-tied-kaleerein-boney-arjun-danced-khushi-emotional-tmovf-2594421-2026-07-05",
                 "source": "AajTak",
                 "date": "2026-07-05T11:40:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LockUpp 2: 'गरीब बच्चे पैदा करेंगे तो गरीबी ही बढ़ेगी', अश्नीर ग्रोवर की पत्नी के बयान पर बवाल",
-                "desc": "Madhuri in Lock Upp Season 2: अश्नीर ग्रोवर की पत्नी माधुरी ने रियलिटी टीवी शो लॉकअप में कुछ ऐसा कहा, जिस पर बवाल मच गया है। दरअसल बिजनेस वुमेन परिवार नियोजन पर अपने विचार रख रही थीं।, Tv Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/05/1600x900/logo/Madhuri_1783251024929_1783251037900_0e881105-e53e-4d21-b1bd-213459c97c04.jpg",
-                "url": "https://www.livehindustan.com/entertainment/tv/lock-upp-season-2-contestant-madhuri-ashneer-grover-wife-trolled-for-poor-people-child-birth-statement-201783250802199.html",
-                "source": "Live Hindustan",
-                "date": "2026-07-05T11:37:52Z",
                 "priority": "STANDARD"
             }
         ],
@@ -4339,5 +4339,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T05:00:57.774838Z"
+    "lastGlobalSync": "2026-07-08T05:13:04.134963Z"
 }
