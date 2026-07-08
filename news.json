@@ -1086,6 +1086,15 @@
         ],
         "entertainment": [
             {
+                "title": "'TV की बहुओं' को किया डेट, रिश्ते में आया धर्म-उम्र? ब्रेकअप का दर्द नहीं भूले कुशाल, Ex पर किया अटैक",
+                "desc": "कुशाल टंडन इन दिनों रियलिटी शो द अलायंस में नजर आ रहे हैं. एक्टर ने शो में एक्स गर्लफ्रेंड्स को लेकर कमेंट किया है. जिस पर बवाल मचा है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a4cfceac8a10-kushal-tandon-affairs-071933197-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/ott/photo/kushal-tandon-attacked-ex-girlfriends-gauhar-khan-shivangi-joshi-controversial-affairs-the-alliance-tmovh-2596157-2026-07-07",
+                "source": "AajTak",
+                "date": "2026-07-07T15:57:54Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "मुंबई से दूर पहाड़ों में वक्त बिता रहे सलमान, खेत में कुर्सी लगाकर बैठे, 'मातृभूमि' पर देंगे सरप्राइज?",
                 "desc": "बॉलीवुड के सुपरस्टार सलमान खान ने अपने सोशल मीडिया पर एक दमदार कैप्शन लिखा और दो फोटोज शेयर की. फिर क्या था पूरा सोशल मीडिया इस बारे में बात करने लग गया.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4d185227f26-salman-khan-photos-071628270-16x9.jpg",
@@ -1614,15 +1623,6 @@
                 "url": "https://www.aajtak.in/entertainment/ott/photo/akanksha-chamola-bisexual-sexuality-exposed-intimate-relationships-with-woman-marriage-gaurav-khanna-emotional-tmovf-2594242-2026-07-05",
                 "source": "AajTak",
                 "date": "2026-07-05T07:46:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anshula Kapoor Mehndi: न लाल, न हरा... होने वाली दुल्हन अंशुला कपूर ने पहना नीला रंगा का लहंगा, गुजराती ससुराल को किया डेडिकेट",
-                "desc": "Anshula Kapoor Mehndi: कपूर खानदान में शहनाइयां बज चुकी हैं. बोनी कपूर की बेटी अंशुला कपूर की मेहंदी की तस्वीरें इंटरनेट पर छाई हुई हैं. तस्वीरों में अंशुला ने टील ब्लू कलर का पटोला लहंगा पहनी दिख रही हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4a154538959-anshula-kapoor-mehendi-look-052639942-16x9.jpg",
-                "url": "https://www.aajtak.in/lifestyle/fashion/story/anshula-kapoor-mehendi-look-in-teal-blue-patola-lehenga-anshula-ne-mehndi-pe-pahna-patola-lehege-look-viral-tvisp-dskc-2594284-2026-07-05",
-                "source": "AajTak",
-                "date": "2026-07-05T07:40:53Z",
                 "priority": "STANDARD"
             }
         ],
@@ -2172,6 +2172,42 @@
     "en": {
         "general": [
             {
+                "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+                "desc": "Claude Cowork now keeps working on tasks even after you close your laptop. It’s part of a larger push toward smartphone-controlled agents.",
+                "image": "https://media.wired.com/photos/6a4c0a029897ae33b7e202dc/191:100/w_1280,c_limit/Cowork-Web-Mobile-Press-No-Logo-1920x1080.png",
+                "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+                "source": "WIRED",
+                "date": "2026-07-07T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taylor Swift’s wedding dress designer is signaling something new about the bride.",
+                "desc": "I just pray Travis Kelce wore some of Dior’s sculptural, metallic pleats.",
+                "image": "https://compote.slate.com/images/609a2b69-fca4-4325-8a27-e9cdc4f49c9c.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+                "url": "https://slate.com/life/2026/07/taylor-swift-wedding-dress-designer-travis-kelce-christian-dior-jonathan-anderson.html",
+                "source": "Slate Magazine",
+                "date": "2026-07-07T15:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prince Harry Loses Privacy Lawsuit Against Daily Mail Publisher",
+                "desc": "The case brought by Harry and other celebrities against Associated Newspapers was one of several legal battles that the prince has fought against British tabloids in recent years.",
+                "image": "https://static01.nyt.com/images/2026/07/08/world/08int-uk-harry-case-01A/08int-uk-harry-case-01A-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/07/world/europe/prince-harry-lawsuit-daily-mail-uk-associated-newspapers.html",
+                "source": "The New York Times",
+                "date": "2026-07-07T15:41:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "PlayStation's first post since announcing the end of physical discs has been met with nothing but backlash",
+                "desc": "Backlash surrounding PlayStation's decision to stop producing game discs continues to rage on as Sony chooses to ignore the angry mob online.",
+                "image": "https://www.pcguide.com/wp-content/uploads/2026/07/PlayStation-5-Pro-console-stood-up-on-desk.jpg",
+                "url": "https://www.pcguide.com/news/playstations-first-post-since-announcing-the-end-of-physical-discs-has-been-met-with-nothing-but-backlash/",
+                "source": "PC Guide",
+                "date": "2026-07-07T15:38:06Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Russia’s Largest Oil Refinery Halts Production After Drone Attack, Sources Say",
                 "desc": "Russia's largest oil refinery in the Omsk region of western Siberia has halted operations following a Ukrainian drone attack, two industry sources said on Tuesday.",
                 "image": "https://static.themoscowtimes.com/image/og/c2/93190__c2c19dfb08b27e37e3508427267f7d95.jpg",
@@ -2673,42 +2709,6 @@
                 "url": "https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie",
                 "source": "The Verge",
                 "date": "2026-07-06T16:22:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taylor Swift and Travis Kelce's wedding forced celebrities to post like mere mortals",
-                "desc": "Even the ultra-famous seemingly had to abide by strict posting rules following the Swift-Kelce nuptials.",
-                "image": "https://s.yimg.com/lo/mysterio/api/03846e57e2ee2fcbd278fd98cb1bf0868dd83fc77ede7500fc9df654c211c773/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthumb-taylor-swift-wedding-posts_5238.jpg",
-                "url": "https://www.yahoo.com/entertainment/celebrity/article/taylor-swift-and-travis-kelces-wedding-forced-celebrities-to-post-like-mere-mortals-162217658.html",
-                "source": "Yahoo",
-                "date": "2026-07-06T16:22:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prince Harry won't stay at Buckingham Palace during London visit",
-                "desc": "Harry is visiting London solo after deciding against bringing his wife Meghan and their two children.",
-                "image": "https://i.abcnewsfe.com/a/58ccce62-d819-480e-8785-e17bf0a887b6/harry-charles-ap-gmh-260706_1783344658088_hpMain_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/GMA/Culture/prince-harry-london-wont-stay-royal-accommodations/story?id=134517315",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-07-06T16:17:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cyclosporiasis in Michigan: List of foods linked to some outbreaks",
-                "desc": "As the cyclosporiasis outbreak in Michigan continues to grow, the state is sharing a list of known fruits and vegetables that have been linked to the parasite in previous cases.",
-                "image": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2026/07/1200/630/gettyimages-1285740267-copy-scaled.jpg?ve=1&tl=1",
-                "url": "https://www.fox2detroit.com/news/cyclosporiasis-michigan-outbreak-symptoms-fruit-vegetables-list",
-                "source": "FOX 2 Detroit",
-                "date": "2026-07-06T15:58:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Live Updates: Prosecutors Begin Detailing Case Against Tyler Robinson, Accused Charlie Kirk Assassin",
-                "desc": "A Utah judge will be determining whether there is enough evidence to send the man, Tyler Robinson, to trial. Mr. Kirk’s widow and parents are attending the hearing.",
-                "image": "https://static01.nyt.com/images/2026/07/05/multimedia/live-blog-20260706-charlie-kirk-trial-promo-angia/live-blog-20260706-charlie-kirk-trial-header-blcf-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/live/2026/07/06/us/charlie-kirk-trial",
-                "source": "The New York Times",
-                "date": "2026-07-06T15:46:57Z",
                 "priority": "STANDARD"
             }
         ],
@@ -3256,6 +3256,69 @@
         ],
         "entertainment": [
             {
+                "title": "Jake Roxander, a Ballet Theater Dancer Raised on Superheroes",
+                "desc": "Jake Roxander, a virtuosic wonder at American Ballet Theater, was promoted onstage after a recent performance. The news hasn’t quite sunk in.",
+                "image": "https://static01.nyt.com/images/2026/07/07/multimedia/07cul-roxander-qkjv/07cul-roxander-qkjv-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/07/arts/dance/jake-roxander-american-ballet-theater.html",
+                "source": "The New York Times",
+                "date": "2026-07-07T16:00:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Variety and Other PMX Brands Set Video Licensing Pact With Netflix",
+                "desc": "Variety, Rolling Stone and other publishing brands in Penske Media's PMX unit have reached a licensing pact with Netflix for video series.",
+                "image": "https://variety.com/wp-content/uploads/2026/07/Keke-Palmer-Know-Her-Lines.jpg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/tv/news/netflix-variety-how-well-do-they-know-video-licensing-1236803102/",
+                "source": "Variety",
+                "date": "2026-07-07T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Meet All The Houseguest From CBS Competition",
+                "desc": "CBS has revealed the cast of Big Brother Season 28 in a live stream, a first for the reality TV competition.",
+                "image": "https://deadline.com/wp-content/uploads/2026/07/big-brother-season-28-cast-photos-cbs-julie-chen.jpg?w=1024",
+                "url": "https://deadline.com/gallery/big-brother-season-28-cast-photos-cbs/",
+                "source": "Deadline",
+                "date": "2026-07-07T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taylor Swift’s wedding dress designer is signaling something new about the bride.",
+                "desc": "I just pray Travis Kelce wore some of Dior’s sculptural, metallic pleats.",
+                "image": "https://compote.slate.com/images/609a2b69-fca4-4325-8a27-e9cdc4f49c9c.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+                "url": "https://slate.com/life/2026/07/taylor-swift-wedding-dress-designer-travis-kelce-christian-dior-jonathan-anderson.html",
+                "source": "Slate Magazine",
+                "date": "2026-07-07T15:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Adam Sandler Called Nantucket Police 48 Hours After Officiating Taylor Swift and Travis Kelce’s Wedding. Here’s Why",
+                "desc": "The ‘Happy Gilmore 2’ actor officiated the pop star and football player’s wedding on July 3",
+                "image": "https://s.yimg.com/lo/mysterio/api/9534f3acddcb06cf8934b04c3064694a624c15a9170b5a6edb8637a57464120d/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F9418b1b0924d73d340caae08d533c6a6",
+                "url": "https://ca.news.yahoo.com/adam-sandler-called-nantucket-police-154728452.html",
+                "source": "Yahoo News Canada",
+                "date": "2026-07-07T15:47:28Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taylor Swift & Travis Kelce Spark Rumors They Secretly Welcomed a New Family Member Before Their Wedding Amid Reports They’re ‘Creating a Home Together’",
+                "desc": "\"Those closest to them believe caring for a pet would be a natural step before having children.\"",
+                "image": "https://s.yimg.com/lo/mysterio/api/ec3f64efaa6fb9f41a3067fed63fef5730e2e8e7eec948897140876388c588ff/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fstylecaster_935%2F6d8585e8406aec9cd0e7ac4a30222f54",
+                "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-travis-kelce-spark-154709474.html",
+                "source": "Yahoo",
+                "date": "2026-07-07T15:47:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Mary Hartman, Mary Hartman' Star Was 87",
+                "desc": "Louise Lasser, whose pig-tailed braids, bangs and baby-doll gingham dresses took the nation by storm when they became her trademark look on Norman Lear's Mary Hartman, Mary Hartman in the 1970s, died Monday at her home in Manhattan. She was 87.",
+                "image": "https://deadline.com/wp-content/uploads/2026/07/Louise-Lasser-as-Mart-Hartman.jpg?w=1024",
+                "url": "https://deadline.com/2026/07/louise-lasser-dead-1236975719/",
+                "source": "Deadline",
+                "date": "2026-07-07T15:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Lupita Nyong’o doesn’t understand women in the Odyssey",
                 "desc": "In promotional interviews for Christopher Nolan’s film adaptation of Homer’s Odyssey, the actress Lupita Nyong’o has been chastising the father of Greek epic for failing to give the women in his stories their due. “Very little time is spent in the perspective of women,” said Nyong’o, who plays Helen of Troy, the fabled queen of [...]Read More...",
                 "image": "https://unherd.com/wp-content/uploads/2026/07/GettyImages-2284928963.jpg",
@@ -3731,72 +3794,27 @@
                 "source": "The Daily Beast",
                 "date": "2026-07-06T03:45:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "House of the Dragon",
-                "desc": "It’s the first days of Rhaenyra’s reign, when she should be at her most optimistic, and already the project feels doomed.",
-                "image": "https://pyxis.nymag.com/v1/imgs/59e/e73/c3a21a030f0a019d900a06a4fe180c731b-House-of-the-Dragon.1x.rsocial.w1200.jpg",
-                "url": "https://www.vulture.com/article/house-of-the-dragon-recap-season-3-episode-3-hbo.html",
-                "source": "Vulture",
-                "date": "2026-07-06T02:00:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Box Office: ‘Obsession’ Surpasses $400 Million Globally",
-                "desc": "“Obsession” has notched another major box office milestone, clearing $400 million in global ticket sales. After two months in theaters, the indie horror breakout has grossed a remarkable $403 million,...",
-                "image": "https://s.yimg.com/lo/mysterio/api/acc7caaaf15b64434563b82050d9485ffaba7cf678d48c33cc2612c4b7c30d56/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F0527239b29164e1a04390c1b7b931c04",
-                "url": "https://uk.news.yahoo.com/box-office-obsession-surpasses-400-173100280.html",
-                "source": "Yahoo News UK",
-                "date": "2026-07-05T17:31:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ken Burns Insists Founding Fathers Would Be 'Disappointed' 250 Years Later",
-                "desc": "The drafters of the U.S. Constitution \"would be abjectly disappointed\" by the state of the U.S. in 2026, Ken Burns said 250 years later.",
-                "image": "https://www.thewrap.com/wp-content/uploads/2026/07/ken-burns-meet-the-press.jpg",
-                "url": "https://www.thewrap.com/media-platforms/politics/ken-burns-founding-fathers-authoritarianism-meet-the-press/",
-                "source": "TheWrap",
-                "date": "2026-07-05T17:16:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Liam Hemsworth Attends Taylor, Travis Wedding with Matty Healy's Ex",
-                "desc": "Liam Hemsworth turned heads over the weekend after stepping out at Taylor Swift and Travis Kelce's wedding alongside model Gabriella Brooks -- and social media did not miss a beat to connect the relationship history dots.",
-                "image": "https://imagez.tmz.com/image/5d/16by9/2026/07/05/5dbf8d4209e6410f81323822a20be0fa_xl.jpg",
-                "url": "https://www.tmz.com/2026/07/05/taylor-swifts-ex-matty-healys-ex-gabriella-brooks-attends-her-wedding/",
-                "source": "TMZ",
-                "date": "2026-07-05T16:56:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Minions & Monsters' Connects Internationally, 'Toy Story 5' Hits $764 Million",
-                "desc": "\"Minions & Monsters\" was far bigger overseas compared to the domestic turnout, while \"Toy Story 5\" continues to climb at the global box office.",
-                "image": "https://variety.com/wp-content/uploads/2026/07/MCDMIAN_UV031.jpg?w=1000&h=562&crop=1",
-                "url": "https://variety.com/2026/film/box-office/box-office-minions-and-monsters-international-success-toy-story-5-milestone-1236801925/",
-                "source": "Variety",
-                "date": "2026-07-05T16:36:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mariska Hargitay Switches Up Her Hair With an Edgy Tousled Golden Bob for Taylor Swift and Travis Kelce's Wedding",
-                "desc": "The appearance comes after the actress was spotted with Swift at a recent Knicks game.",
-                "image": "https://s.yimg.com/lo/mysterio/api/150448e9549c8139081f290d4b8f95a64c1a9f8904e2b0a58941fcda67a4bbbd/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F8daa7014e6b00cb1e2747e2baf29b943",
-                "url": "https://www.yahoo.com/entertainment/celebrity/articles/mariska-hargitay-switches-her-hair-155923289.html",
-                "source": "Yahoo",
-                "date": "2026-07-05T15:59:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taylor Swift’s Wedding Guests Are Starting To Share Impressions Of That Magical Night At MSG",
-                "desc": "Taylor Swift and Travis Kelce’s wedding guests are sharing their impressions of the nuptials on social media while two particular guests shared details of the event with NBC News.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-07/260703-taylor-swift-travis-kelce-msg-wedding-split-cs-13a150.jpg",
-                "url": "https://www.today.com/popculture/news/taylor-swift-travis-kelce-wedding-guests-share-details-msg-rcna353024",
-                "source": "TODAY.com",
-                "date": "2026-07-05T15:26:11Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "EU lawmakers call for probe of FIFA boss over Trump contact before US-Belgium match",
+                "desc": "European lawmakers are rallying to investigate FIFA boss Gianni Infantino. They are concerned about his involvement in allowing U.S. striker Folarin Balogun to play despite a red card.",
+                "image": "https://dims.apnews.com/dims4/default/48a7c5f/2147483647/strip/true/crop/2211x1473+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4a%2F00%2F53319a2d2f2e647350397e2a3532%2Ff7bd442f8af04de0b3103f47d60d68b5",
+                "url": "https://apnews.com/article/eu-parliament-infantino-world-cup-investigation-be5a0c37e1220a6bcc120a092e859311",
+                "source": "AP News",
+                "date": "2026-07-07T15:54:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The U.S. men played ‘scared.’ Fox’s Carli Lloyd was fearless in her candor",
+                "desc": "On a night when the men's national team disappointed, the longtime U.S. women's soccer star delivered the best on-air commentary.",
+                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/07122054/IMG_9223.jpg?width=1200&height=630&fit=cover",
+                "url": "https://www.nytimes.com/athletic/7428172/2026/07/07/usmnt-carli-lloyd-fox-pulisic-world-cup/",
+                "source": "The New York Times",
+                "date": "2026-07-07T15:41:12Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Marshawn Kneeland had stage 1 CTE",
                 "desc": "Cowboys defensive lineman Marshawn Kneeland died by suicide in November 2025 at age 24.",
@@ -4318,26 +4336,8 @@
                 "source": "Defector",
                 "date": "2026-07-05T14:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'Yo, this is crazy': Cardinals see their way to shutout win after fog fills Wrigley Field",
-                "desc": "The Cardinals battled through foggy conditions and waited through a fog delay during their 3-0 shutout win over the Cubs on Saturday in Chicago.",
-                "image": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/6e/96e0ca98-9b26-4d27-b3cb-c5861083ea28/6a49e5b2dfa42.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-                "url": "https://www.stltoday.com/sports/professional/mlb/cardinals/article_96e0ca98-9b26-4d27-b3cb-c5861083ea28.html",
-                "source": "STLtoday.com",
-                "date": "2026-07-05T14:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Caleb Williams sends a signed jersey to Chicago native Pope Leo",
-                "desc": "Does the Pope wear a Bear jersey?",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/4f9b284/2147483647/strip/true/crop/1289x725+0+160/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff1%2Fe6%2F00c591834cdead5f386746ab6a50%2Fimg-0768.jpeg",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/caleb-williams-sends-a-signed-jersey-to-chicago-native-pope-leo",
-                "source": "NBC Sports",
-                "date": "2026-07-05T13:51:15Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T03:40:57.081170Z"
+    "lastGlobalSync": "2026-07-08T04:00:59.889074Z"
 }
