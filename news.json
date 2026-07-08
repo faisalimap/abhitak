@@ -2172,6 +2172,24 @@
     "en": {
         "general": [
             {
+                "title": "What to know about cyclospora parasite and how to avoid it",
+                "desc": "Got a nasty stomach bug that won’t go away? It could be cyclosporiasis, a parasitic infection that causes weeks of debilitating diarrhea, cramps and bloating.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1615411744-20260707133435233.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/07/health/cyclosporiasis-parasite-symptoms-causes",
+                "source": "CNN",
+                "date": "2026-07-07T14:00:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Louis Vuitton court victory against Chinese tea chain stirs up copyright debate",
+                "desc": "A debate over use of traditional Chinese symbols has cropped up after a court ordered a Chinese tea chain to pay the French luxury brand Louis Vuitton $1.5 million over copyright infringement claims",
+                "image": "https://i.abcnewsfe.com/a/23db7cc5-89ea-400d-978c-ec73f731af71/wirestory_6b579f6cd9ec5b5b4aae2412f8fb5348_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/International/wireStory/louis-vuitton-court-victory-chinese-tea-chain-stirs-134541020",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-07-07T13:59:08Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Nigel Farage quits as MP to trigger by-election",
                 "desc": "The Reform UK leader gambles on “a people versus the establishment by-election” — in which he’ll stand as a candidate — as scrutiny mounts.",
                 "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/07/GettyImages-2284504674-scaled.jpg",
@@ -2691,24 +2709,6 @@
                 "url": "https://www.thedailybeast.com/wild-details-emerge-of-european-leaders-secret-summit-on-how-to-deal-with-trump/",
                 "source": "The Daily Beast",
                 "date": "2026-07-06T13:34:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft is selling off four Xbox studios as part of significant gaming cuts",
-                "desc": "Double Fine and Compulsion Games are going independent, and Microsoft is also selling Ninja Theory and Undead Labs.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279118333.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-                "url": "https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026",
-                "source": "The Verge",
-                "date": "2026-07-06T13:31:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump plugs Dell at White House opening bell, shares soar",
-                "desc": "Trump rang the bell in the Oval Office to open Monday's trading as he launched investment accounts for babies born from 2025 through 2028.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108330827-17833461332026-07-06t134112z_379526408_rc2d8ma75ycx_rtrmadp_0_usa-trump.jpeg?v=1783346155&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/06/trump-opening-bell-ceo-nyse-nasdaq-stocks-accounts.html",
-                "source": "CNBC",
-                "date": "2026-07-06T13:27:05Z",
                 "priority": "STANDARD"
             }
         ],
@@ -4339,5 +4339,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T01:50:41.201103Z"
+    "lastGlobalSync": "2026-07-08T02:00:59.049410Z"
 }
