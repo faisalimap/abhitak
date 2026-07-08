@@ -2172,6 +2172,15 @@
     "en": {
         "general": [
             {
+                "title": "Nigel Farage quits as MP to trigger by-election",
+                "desc": "The Reform UK leader gambles on “a people versus the establishment by-election” — in which he’ll stand as a candidate — as scrutiny mounts.",
+                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/07/GettyImages-2284504674-scaled.jpg",
+                "url": "https://www.politico.eu/article/nigel-farage-triggers-by-election-amid-donations-probe/",
+                "source": "politico.eu",
+                "date": "2026-07-07T13:46:25Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "‘Please help us’: Zelenskyy presses NATO for air defense aid",
                 "desc": "Ukraine’s president said Patriot production is not enough and urged Europe to build mass-produced anti-ballistic systems “today, not years from now.”",
                 "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/07/GettyImages-2284490499-scaled.jpg",
@@ -2700,15 +2709,6 @@
                 "url": "https://www.cnbc.com/2026/07/06/trump-opening-bell-ceo-nyse-nasdaq-stocks-accounts.html",
                 "source": "CNBC",
                 "date": "2026-07-06T13:27:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "America’s 250th Survived Trump’s Sabotage",
-                "desc": "The president tried to make the event all about himself. He failed. And for that, the country succeeded.",
-                "image": "https://substackcdn.com/image/fetch/$s_!3syM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7d4f188-2bca-4fa8-a00f-b8cae11e3d85_5618x3745.jpeg",
-                "url": "https://www.thebulwark.com/p/americas-250th-survived-trumps-sabotage-july-4-celebrations-independence-day",
-                "source": "The Bulwark",
-                "date": "2026-07-06T13:25:19Z",
                 "priority": "STANDARD"
             }
         ],
@@ -4339,5 +4339,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T01:40:56.793216Z"
+    "lastGlobalSync": "2026-07-08T01:50:41.201103Z"
 }
