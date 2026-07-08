@@ -2,6 +2,51 @@
     "hi": {
         "general": [
             {
+                "title": "इधर ट्रंप ने दी ईरान को धमकी, उधर होर्मुज में बरसने लगी मिसाइलें, 24 घंटे में 3 जहाज पर अटैक",
+                "desc": "पिछले 24 घंटों में होर्मुज जलडमरूमध्य में तीसरे वाणिज्यिक (कॉमर्शियल) जहाज पर हमला किया गया है. इस घटना के बाद इस रणनीतिक समुद्री मार्ग से गुजरने वाले जहाजों की सुरक्षा को लेकर चिंता फिर बढ़ गई है.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/07/130c9bed343659d10a71ebd7d49c0dc017834356184851324_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/news/world/commercial-third-tanker-attack-in-strait-of-houmuz-amid-us-iran-tensions-3156446",
+                "source": "ABP News",
+                "date": "2026-07-07T14:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ground Report: युद्ध की त्रासदी और खामेनेई के गम के बीच... ईरान तलाश रहा अपना न्यू नॉर्मल",
+                "desc": "आज तक की इस विशेष ग्राउंड रिपोर्ट में उस तेहरान की तस्वीर सामने आई है, जो शोक की स्थिति से निकलकर सामान्य जीवन की ओर बढ़ रही है. यह बदलाव एक सप्ताह तक चले अंतिम संस्कार कार्यक्रमों के बाद देखने को मिला है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4cfa06481ba-iran-070706922-16x9.jpg",
+                "url": "https://www.aajtak.in/world/story/iran-tehran-ayatollah-ali-khamenei-mourning-ground-report-beyond-war-iranians-ntc-rttm-dskc-2596072-2026-07-07",
+                "source": "AajTak",
+                "date": "2026-07-07T14:37:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "तुर्की को F-35 फाइटर जेट के बदले ट्रंप की रूसी S-400 वाली शर्त, पाकिस्तान इतना खुश क्यों है?",
+                "desc": "तुर्की और अमेरिका के बीच F-35 लड़ाकू विमानों को लेकर जल्द सौदा हो सकता है। हालांकि, इसके पहले अमेरिका यह सुनिश्चित करना चाहता है कि तुर्की रूस से खरीदे गए S-400 मिसाइल सिस्टम का पूर्ण त्याग कर दे। ऐसे में तुर्की के पास एक विकल्प यह है कि वह S-400 को पाकिस्तान को सौंप दे, लेकिन इसके लिए रूस से अनुमति लेनी होगी।",
+                "image": "https://static.langimg.com/nbt/thumb/132241640/us-turkey-defence-deal.jpg?imgsize=149232&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/world/rest-of-europe/us-could-sell-f-35-fighter-jets-to-turkiye-in-exchange-for-giving-up-s-400-to-pakistan/articleshow/132241634.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-07T14:27:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "E20 Petrol: एक भी कार का नाम बताएं जिसमें एथनॉल मिश्रित ईंधन के कारण कोई समस्या आई हो, नितिन गडकरी की चुनौती",
+                "desc": "गडकरी ने कहा कि लोग ऐसी एक भी कार का नाम बताएं जिसमें इस ईंधन के कारण कोई समस्या आई हो। 20 प्रतिशत एथनॉल-मिश्रित ईंधन बिक्री की अनिवार्यता को लेकर आलोचना और गाड़ियों की माइलेज कम होने की शिकायतों के बीच उन्होंने यह बात कही।",
+                "image": "https://static.langimg.com/nbt/thumb/132241669/nitin-gadkari.jpg?imgsize=901988&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/india/name-any-car-that-faced-issues-due-to-e20-petrol-union-minister-nitin-gadkari/articleshow/132241606.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-07T14:16:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Box Office: 11वें दिन 'वेलकम टू द जंगल' की निकली हेकड़ी, सोमवार को 'मैं वापस आऊंगा' और Cocktail 2 पर आफत",
+                "desc": "अक्षय कुमार की फिल्म 'वेलकम टू द जंगल' तीसरे हफ्ते में एंट्री कर चुकी है और इसकी कमाई में गिरावट साफ दिख रही है। फिल्म को 'अल्फा' से कड़ी टक्कर मिल रही है। वहीं 'मैं वापस आऊंगा' और 'कॉकटेल 2' के कलेक्शन पर भी असर पड़ा है।",
+                "image": "https://static.langimg.com/nbt/thumb/132241137/monday-box-office.jpg?imgsize=172705&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/box-office/welcome-to-the-jungle-box-office-day-11-cocktail-2-collection-day-18-main-vaapas-aaunga-collection-day-26/articleshow/132241085.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-07T14:04:35Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "'इसे पलट कर दिखाओ': अमेरिका को हराने के बाद बेल्जियम ने कसा तंज़, ट्रंप के 'क़दम' पर की ये टिप्पणी",
                 "desc": "अमेरिकी स्ट्राइकर फ़ोलारिन बालोगुन पर लगे प्रतिबंध के निलंबन का मामला थमने का नाम नहीं ले रहा है. बेल्जियम ने फ़ुटबॉल वर्ल्ड कप में अमेरिका को 4-1 से हराया तो एक बार फिर फ़ीफ़ा का ये फ़ैसला चर्चा में आ गया.",
                 "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/3f32/live/50a534c0-7a07-11f1-92a1-2dcee5cd2863.jpg",
@@ -495,54 +540,27 @@
                 "source": "Navbharat Times",
                 "date": "2026-07-06T10:37:18Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "अवैध कोयला खनन और चोरीः गृह मंत्री अमित शाह ने जीरो कोल लिकेज पर दिए खास निर्देश, सुरक्षा में तैनात होंगे जवान",
-                "desc": "केंद्रीय गृह मंत्री अमित शाह एवं कोयला और खान मंत्री जी. किशन रेड्डी ने अवैध कोयला खनन और कोयले की चोरी से जुड़ी स्थिति की समीक्षा के लिए नई दिल्ली में एक उच्च-स्तरीय बैठक की अध्यक्षता की।",
-                "image": "https://static.langimg.com/nbt/thumb/132201310/union-home-minister-amit-shah.jpg?imgsize=1089799&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/india/union-home-minister-amit-shah-reviewed-situation-of-illegal-coal-mining-and-coal-theft/articleshow/132201198.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-05T17:53:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Women's T20 World Cup 2026: ऑस्ट्रेलिया ने रिकॉर्ड सातवीं बार जीता T20 वर्ल्ड कप, फाइनल में मेजबान इंग्लैंड पस्त",
-                "desc": "विमेंस टी20 क्रिकेट में ऑस्ट्रेलियाई टीम ने एक बार फिर बादशाहत कायम की है. लॉर्ड्स में आयोजित खिताबी मुकाबले में ऑस्ट्रेलिया ने इंग्लैंड को 7 विकेट से हराकर रिकॉर्ड सातवीं बार टी20 विश्व चैम्पियन बनने का गौरव हासिल किया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4a97955bcd4-beth-mooney-054239685-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/eng-vs-aus-final-highlights-women-t20-world-cup-2026-england-vs-australia-tspoa-dskc-2594637-2026-07-05",
-                "source": "AajTak",
-                "date": "2026-07-05T17:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "उम्र सिर्फ 11 साल... 72 लोगों की मौत का 'जिम्मेदार'; पाकिस्तान की अदालत में चलेगा मुकदमा",
-                "desc": "Pakistan News Today: पाकिस्तान के कराची में जनवरी में हुए भीषण अग्निकांड के मामले में पुलिस ने शनिवार को अदालत में दाखिल किए गए आरोपपत्र में 11 वर्षीय बच्चे को मुख्य आरोपी बनाया है।, International Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/05/1600x900/logo/Pakistan_Karachi_Gul_Plaza_fire_1783272011050_1783272016999_cf998b9b-883d-4d03-9836-3f2d52c5ac98.png",
-                "url": "https://www.livehindustan.com/international/just-11-years-old-responsible-for-deaths-of-72-people-to-face-trial-in-pakistani-court-201783271365735.html",
-                "source": "Live Hindustan",
-                "date": "2026-07-05T17:23:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Satluj Movie: दिलजीत दोसांझ को पहले से ही था अंदेशा, अब OTT से हटी फिल्म",
-                "desc": "दिलजीत की फिल्म सतलुज जी5 पर रिलीज के बाद दो दिन में हट गई. इसका असली कारण अभी सामने नहीं आया है. लेकिन बीती रात एक्टर-सिंगर ने अपने इंस्टाग्राम लाइव पर फिल्म के हट जाने का एक अंदेशा सा दे दिया था.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4a848285704-satluj--diljit-dosanjh-05211758-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/news/story/diljit-dosanjh-satluj-movie-removed-from-zee5-ott-platform-actor-singer-gave-hint-prior-instagram-live-tmovj-dskc-2594625-2026-07-05",
-                "source": "AajTak",
-                "date": "2026-07-05T17:05:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "दिलजीत दोसांझ की फ़िल्म 'सतलुज' रिलीज़ के 48 घंटे बाद ही भारत में ओटीटी प्लेटफ़ॉर्म से हटाई गई",
-                "desc": "दिलजीत दोसांझ की फ़िल्म 'सतलुज' नाम से ओटीटी प्लेटफ़ॉर्म ज़ी5 पर तीन जुलाई को रिलीज़ हुई थी, लेकिन रविवार को इसे भारत में ओटीटी प्लेटफ़ॉर्म से हटा लिया गया है.",
-                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/9dad/live/48e0cd10-788d-11f1-b976-0b9c15b0ccfc.jpg",
-                "url": "https://www.bbc.com/hindi/articles/c05yylzmjryo",
-                "source": "BBC",
-                "date": "2026-07-05T16:42:32Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Qubo ने लॉन्च किए CCTV और कार डैशकैम, सिर्फ रिकॉर्डिंग नहीं चोरी होने से भी बचाएंगे!",
+                "desc": "QUBO ने भारत में AI Guard टेक्नोलॉजी वाले नए सिक्योरिटी कैमरे और Dashcam Pro 2K लॉन्च किए हैं. ये कैमरे चोरी होने से बचाने, स्मार्ट अलर्ट भेजने और क्लाउड रिकॉर्डिंग जैसे एडवांस फीचर्स के साथ आते हैं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4d08335cb48-qubo---dashcam-pro-2k-07074219-16x9.jpg",
+                "url": "https://www.aajtak.in/technology/tech-news/story/qubo-ai-guard-security-camera-dashcam-pro-2k-launch-india-ttec-dskc-2596192-2026-07-07",
+                "source": "AajTak",
+                "date": "2026-07-07T14:35:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "70 हजार में CNG, SUV जैसा लुक, सबसे सस्ती Kwid में क्या-क्या मिलेगा?",
+                "desc": "रेनो ने अपनी सबसे सस्ती कार क्विड (Renault Kwid) को अपडेट कर दिया है. अब ये कार सिर्फ दो वेरिएंट्स- इवोल्यूशन (बेस) और क्लाइंबर (टॉप) में आती है.",
+                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/07/Renault-kwid-2026-NewITG-1783413095969.jpg?size=*:675",
+                "url": "https://www.aajtak.in/visualstories/auto/renault-kwid-base-variant-features-price-india-cng-explained-auam-282914-07-07-2026",
+                "source": "AajTak",
+                "date": "2026-07-07T14:20:53Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "सबसे बड़ी पेनाल्टी, मेटा पर लगा 120 लाख करोड़ का जुर्माना, कंपनी की वैल्यू से भी ज्यादा!",
                 "desc": "अमेरिकी कंपनी मेटा पर 1.4 ट्रिलियन डॉलर का जुर्माना लगाया गया है. दिलचस्प ये है कि कंपनी की वैल्यूएशन 1.5 ट्रिलियन डॉलर्स मानी जाती है. यानी कंपनी की वैल्यू के लगभग बराबर. लेकिन मामला क्या है? आइए जानते हैं.",
@@ -1064,27 +1082,36 @@
                 "source": "Live Hindustan",
                 "date": "2026-07-05T10:03:21Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "सस्ते हो गए Samsung और OnePlus के महंगे स्मार्टफोन, Amazon Prime Day में मिल रहा है बंपर डिस्काउंट",
-                "desc": "Amazon Prime Day 2026 सेल लाइव हो चुकी है और ये 6 जुलाई तक चलेगी। इस सेल इवेंट में स्मार्टफोन, इलेक्ट्रॉनिक्स, होम अप्लायंसेज और फैशन सहित कई कैटेगरीज के प्रोडक्ट्स पर भारी डिस्काउंट मिल रहा है।",
-                "image": "https://www.jagranimages.com/images/2026/07/04/article/image/Galaxy-S25-Ultra-(3)-1783181481667_m.webp",
-                "url": "https://www.jagran.com/technology/tech-guide-amazon-prime-day-sale-2026-goes-live-with-massive-discounts-on-flagship-smartphones-40295084.html",
-                "source": "Jagran",
-                "date": "2026-07-04T16:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "सस्ते वैल्यूएशन वाले स्टॉक्स की तलाश? Vedanta समेत इन 5 शेयरों पर रखें नजर; म्यूचुअल फंड्स ने भी लगाया है बड़ा दांव",
-                "desc": "अगर आप कम PE वाले शेयरों की तलाश में हैं, तो Vedanta, Repco Home Finance, LIC Housing Finance, Power Finance Corporation और The Great Eastern Shipping आपके लिए दिलचस्प विकल्प हो सकते हैं. इन कंपनियों का PE कम है और इनमें बड़ी संख्या में Mutual Funds ने भी निवेश किया है.",
-                "image": "https://images.money9live.com/wp-content/uploads/2026/07/Untitled-design-34.jpg?w=1280",
-                "url": "https://www.money9live.com/share-market/lowest-pe-stocks-india-vedanta-lic-housing-finance-pfc-repco-home-finance-great-eastern-shipping-article-108048.html",
-                "source": "Money9live",
-                "date": "2026-07-04T14:50:36Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "'लोगों को ह‍िंसा पसंद मगर सेक्सुअल कंटेंट से परेशानी', बोले टॉक्सिक एक्टर बेनेडिक्ट गैरेट",
+                "desc": "एक्टर बेनेडिक्ट गैरेट ने यश की फिल्म 'टॉक्सिक' के 'लेडीज एंड लेडीज' टीजर की आलोचना पर अपना रिएक्शन दिया है. उन्होंने इसे लेकर कहा कि लोगों को इसके सेक्सुअल कंटेंट से परेशानी है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4ceeaa3d7e2-toxic-teaser--sexual-content-071844512-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/why-ladies-and-ladies-teaser-of-toxic-get-hate-benedict-garrett-says-people-problems-with-content-tmovg-dskc-2596099-2026-07-07",
+                "source": "AajTak",
+                "date": "2026-07-07T14:30:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'मौत के बाद रिलीज करूंगा ऑटोबायोग्राफी', बोले दिलजीत, ज‍िंदा रहते किस बात का डर?",
+                "desc": "दिलजीत दोसांझ की लाइफ विवादित रही है. वो अपनी बात को लेकर मुखर रहते हैं. पंजाबी स्टार ने बताया कि वो अपनी ऑटोबायोग्राफी जरूर लिखेंगे. लेकिन इसे रिलीज अपनी मौत के बाद करेंगे.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4ce969c0af5-satluj-controversy-centre-forms-inter-departmenal-committee-fo-examine-film-content-074445661-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/diljit-dosanjh-plans-his-autobiography-will-release-after-death-protects-family-satluj-controversy-tmovh-dskc-2596071-2026-07-07",
+                "source": "AajTak",
+                "date": "2026-07-07T14:10:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Box Office: 11वें दिन 'वेलकम टू द जंगल' की निकली हेकड़ी, सोमवार को 'मैं वापस आऊंगा' और Cocktail 2 पर आफत",
+                "desc": "अक्षय कुमार की फिल्म 'वेलकम टू द जंगल' तीसरे हफ्ते में एंट्री कर चुकी है और इसकी कमाई में गिरावट साफ दिख रही है। फिल्म को 'अल्फा' से कड़ी टक्कर मिल रही है। वहीं 'मैं वापस आऊंगा' और 'कॉकटेल 2' के कलेक्शन पर भी असर पड़ा है।",
+                "image": "https://static.langimg.com/nbt/thumb/132241137/monday-box-office.jpg?imgsize=172705&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/box-office/welcome-to-the-jungle-box-office-day-11-cocktail-2-collection-day-18-main-vaapas-aaunga-collection-day-26/articleshow/132241085.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-07T14:04:35Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "तारक मेहता फेम शैलेश लोढ़ा की बेटी की शादी में पहुंचे विकी कौशल, बरातियों का किया स्वागत",
                 "desc": "तारक मेहता का उल्टा चश्मा के स्टार रहे शैलेश लोढ़ा की बेटी की कुछ दिनों पहले शादी थी। इस शादी में विकी कौशल ने भी आकर चार चांद लगाए जिसके वीडियो सोशल मीडिया पर वायरल हो रहे हैं।, Bollywood Hindi News - Hindustan",
@@ -1597,36 +1624,18 @@
                 "source": "AajTak",
                 "date": "2026-07-04T16:36:31Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'ताकि कोई मुझे रोते हुए न देख सके', मुंबई की बारिश में दिखे राजपाल यादव, बयां किया दिल का दर्द",
-                "desc": "अपनी बेहतरीन कॉमिक टाइमिंग से सालों से दर्शकों को हंसाने वाले बॉलीवुड के दिग्गज एक्टर राजपाल यादव ने सोशल मीडिया पर एक बेहद इमोशनल पोस्ट शेयर की है. जिसमें उन्होंने महान कॉमेडियन चार्ली चैप्लिन के एक बेहद मशहूर कोट का जिक्र किया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a491f5573155-rajpal-yadav-charlie-chaplin-popular-quote-045720187-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/rajpal-yadav-emotional-post-mumbai-rain-share-charlie-chaplin-popular-quote-photo-tmovg-2593978-2026-07-04",
-                "source": "AajTak",
-                "date": "2026-07-04T15:46:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'क्या आपने वन नाइट स्टैंड किया है?' गीता कपूर ने सवाल पर जताई नाराजगी, बोलीं- ये उनसे पूछो जो…",
-                "desc": "कोरियोग्राफर गीता कपूर ने हाल ही में अपने निजी जीवन से जुड़ी तमाम बातें कीं। इस दौरान गीता कपूर से पूछा गया कि क्या उन्होंने कभी वन नाइट स्टैंड किया है। इस सवाल पर गीता ने साफतौर पर नाराजगी जताई। , Bollywood Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/04/1600x900/logo/Geeta_kapur_04_07_1783179339781_1783179343784_241cffc3-a825-409c-9314-5cca0645da74.png",
-                "url": "https://www.livehindustan.com/entertainment/bollywood/geeta-kapur-angry-on-question-one-night-stand-says-kisi-ko-kya-matlab-usse-201783177244214.html",
-                "source": "Live Hindustan",
-                "date": "2026-07-04T15:45:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "11 दिन की लिक्विड डाइट और... अनुराग कश्यप ने हार्ट अटैक के बाद ऐसे कम किया 27 किलो वजन, चौंका देगी वेट लॉस जर्नी",
-                "desc": "फिल्म मेकर अनुराग कश्यप ने अपनी हेल्थ को लेकर किए खुलासे से सभी को चौंका दिया है. अनुराग ने बताया कि हार्ट अटैक का सामना करने के बाद उन्होंने अपनी जीवनशैली में बड़ा बदलाव किया और 27 किलो वजन कम कर लिया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a48edf23c204-how-anurag-kashyap-lost-27-kg-weight-042636640-16x9.jpg",
-                "url": "https://www.aajtak.in/lifestyle/news/story/how-anurag-kashyap-lost-27-kg-weight-after-heart-attack-fitness-secrets-tvisp-dskc-2591893-2026-07-04",
-                "source": "AajTak",
-                "date": "2026-07-04T15:36:02Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "एशिया कप का शेड्यूल आया सामने, इस बार वनडे फॉर्मेट में होगा टूर्नामेंट, जानें इसकी सभी जरूरी डिटेल्स",
+                "desc": "Asia Cup Schedule Update: क्रिकेट एशिया कप 2027 की तारीख पर बहुत बड़ा अपडेट सामने आया है. एशिया को की शुरुआत 18 जून से हो सकती है. इस बार एशिया कप वनडे फॉर्मेट में खेला जाएगा.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/07/5ed4f480f841039b104818a83eefdcdc1783432760311975_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/sports/cricket/asia-cup-2027-schedule-start-and-final-date-venue-details-revealed-cricket-asia-cup-odi-format-host-bangladesh-3156421",
+                "source": "ABP News",
+                "date": "2026-07-07T14:02:14Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "'इसे पलट कर दिखाओ': अमेरिका को हराने के बाद बेल्जियम ने कसा तंज़, ट्रंप के 'क़दम' पर की ये टिप्पणी",
                 "desc": "अमेरिकी स्ट्राइकर फ़ोलारिन बालोगुन पर लगे प्रतिबंध के निलंबन का मामला थमने का नाम नहीं ले रहा है. बेल्जियम ने फ़ुटबॉल वर्ल्ड कप में अमेरिका को 4-1 से हराया तो एक बार फिर फ़ीफ़ा का ये फ़ैसला चर्चा में आ गया.",
@@ -2157,20 +2166,83 @@
                 "source": "Live Hindustan",
                 "date": "2026-07-05T10:35:24Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'अरे अच्छा तो चल रहा है'..., भारत के हारने के बाद जमकर वायरल हो रहा सूर्यकुमार यादव का रिएक्शन",
-                "desc": "इंग्लैंड के खिलाफ दूसरे टी-20I मैच में भारत की हार के बाद पूर्व कप्तान सूर्यकुमार यादव का रिएक्शन सोशल मीडिया पर जमकर वायरल हो रहा है। इस वीडियो में वे टीम इंडिया में सब अच्छा चलने की बाद कह रहे हैं लेकिन फैंस गुहार लगा रहे हैं कि कुछ भी अच्छा नहीं चल रहा है।, Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/05/1600x900/logo/suryakumar_yadav_12_1783247282228_1783247290553_6a5cf977-e3c1-4ec8-b31e-bf1f7b518ab9.jpg",
-                "url": "https://www.livehindustan.com/cricket/are-achcha-to-chal-raha-hai-suryakumar-yadav-s-reaction-goes-viral-after-india-s-defeat-vs-england-in-2nd-t20i-201783246721643.html",
-                "source": "Live Hindustan",
-                "date": "2026-07-05T10:32:39Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "The terrifying way Legionnaires' disease is spreading on NYC's Upper East Side",
+                "desc": "Officials have made the shocking revelation that the ongoing outbreak of Legionnaire's disease on the Upper East Side wasn’t caused by a building’s decrepit drinking water system, but by water mist from a cooling tower erected to help New Yorkers beat the heat.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/legionnaires-disease-nyc-upper-east-side-cluster-comp.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/07/07/us-news/the-terrifying-way-legionnaires-disease-is-spreading-on-nycs-upper-east-side/",
+                "source": "New York Post",
+                "date": "2026-07-07T14:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Operation Hard Ball': El Monte raids tie Indian crime syndicates to Canada assassination",
+                "desc": "Federal and international law enforcement agencies have charged 37 individuals connected to India-based transnational organized crime groups involved in a 2023 assassination in Canada, global extortion, and narcotics trafficking.",
+                "image": "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2026/07/1200/630/indian-crime-syndicates-arrests-la.jpg?ve=1&tl=1",
+                "url": "https://www.foxla.com/news/37-charged-indian-crime-syndicates-canada-assassination",
+                "source": "FOX 11 Los Angeles",
+                "date": "2026-07-07T14:30:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cosmic Conjoined Twins, Caught on Camera",
+                "desc": "A Japanese spacecraft flew by an asteroid and snapped a picture. It turned out to be a “contact binary”: two space rocks that somehow fused together.",
+                "image": "https://static01.nyt.com/images/2026/07/07/multimedia/07SCI-TORIFUNE-lmpq/07SCI-TORIFUNE-lmpq-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/07/science/torifune-asteroid-contact-binary.html",
+                "source": "The New York Times",
+                "date": "2026-07-07T14:23:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "7 Menswear Moves to Steal From the",
+                "desc": "Tom Holland, Robert Pattinson, and the rest of the starry cast delivered a masterclass in summer suiting.",
+                "image": "https://media.gq.com/photos/6a4cfc6f64b4e72ea0f404a7/16:9/w_1280,c_limit/2284353731",
+                "url": "https://www.gq.com/story/odyssey-premiere-suits-tom-holland-robert-pattinson",
+                "source": "GQ",
+                "date": "2026-07-07T14:17:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Artemis II astronaut Jeremy Hansen stepping down from full-time role",
+                "desc": "Canadian astronaut Jeremy Hansen announced Monday that he is stepping down from his full-time role as an astronaut, months after flying around the moon on NASA’s Artemis II mission.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260707-jeremy-hansen-mb-1253-c1d243.jpg",
+                "url": "https://www.nbcnews.com/world/canada/artemis-ii-astronaut-jeremy-hansen-stepping-full-time-role-rcna353287",
+                "source": "NBC News",
+                "date": "2026-07-07T14:08:11Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Steam Machine Windows 11 drivers are here - but there's a catch",
+                "desc": "Common Valve W? - Now that the Steam Machine has begun to reach customers, Valve has released official Windows 11 drivers for the PC via the Steam Support si...",
+                "image": "https://images.digitalfoundry.net/b4b01a3fce0c3/large.jpg",
+                "url": "https://www.digitalfoundry.net/news/2026/07/steam-machine-windows-11-drivers-are-here-but-theres-a-catch",
+                "source": "Digital Foundry",
+                "date": "2026-07-07T14:08:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "As Ice Melts in the Arctic, Some Deep-Sea Creatures Are Thriving",
+                "desc": "A new study suggests that deep-sea life reaps the benefits of icebergs’ castoffs — a rare silver lining as a warming planet destabilizes glacial ice.",
+                "image": "https://static01.nyt.com/images/2026/07/01/multimedia/00sci-icebergs-01-mvql/00sci-icebergs-01-mvql-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/07/science/arctic-icebergs-deepsea-life.html",
+                "source": "The New York Times",
+                "date": "2026-07-07T14:06:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump ally and hard-right leader Nigel Farage triggers vote, in bid to clear name amid financial scandals",
+                "desc": "LONDON — Nigel Farage, a British right-wing leader and staunch ally of President Donald Trump, said Tuesday that he would resign his political seat and rerun in a move that shocked the nation and appeared to be an attempt to save his political career.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/2607070-nigel-farage-mn-0925-30e63a.jpg",
+                "url": "https://www.nbcnews.com/world/united-kingdom/nigel-farage-trump-ally-triggers-vote-clear-name-election-rcna353291",
+                "source": "NBC News",
+                "date": "2026-07-07T14:04:19Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "What to know about cyclospora parasite and how to avoid it",
                 "desc": "Got a nasty stomach bug that won’t go away? It could be cyclosporiasis, a parasitic infection that causes weeks of debilitating diarrhea, cramps and bloating.",
@@ -2638,81 +2710,18 @@
                 "source": "Page Six",
                 "date": "2026-07-06T15:02:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "\"Don't Kill the Disc\": Petition Against Sony PS5 and PS6 Digital Media Plans Reaches 150,000 Signatures",
-                "desc": "\"We are not against digital. We are against digital being the only option.\" - In the wake of Sony's almost casual three-paragraph announcement that it was go...",
-                "image": "https://images.digitalfoundry.net/b7cee349cd471/large.jpg",
-                "url": "https://www.digitalfoundry.net/news/2026/07/dont-kill-the-disc-petition-against-sony-ps5-and-ps6-digital-media-plans-reaches-150000-signatures",
-                "source": "Digital Foundry",
-                "date": "2026-07-06T14:53:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Klarna seeks U.S. bank charter in push beyond buy now, pay later",
-                "desc": "Klarna joins a wave of fintech and crypto firms seeking entry to the traditional banking system.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108196993-17575237122025-09-10t162504z_731787026_rc22pgainw7b_rtrmadp_0_klarna-ipo.jpeg?v=1783351856&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html",
-                "source": "CNBC",
-                "date": "2026-07-06T14:49:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UPDATE: Family identifies body found on Horn Island as 18-year-old Nolan Wells",
-                "desc": "Ledbetter said Wells’ mother reported him missing late Saturday night and a search began.",
-                "image": "https://gray-wlox-prod.gtv-cdn.com/resizer/v2/MTAQU4HYDNDEREOS5WPBENC47Q.png?auth=e5be95e9e95672fb3a54c49dcdedd304e30637d1699aa5d5152201c05f0edf5b&width=1200&height=600&smart=false&focal=947%2C339",
-                "url": "https://www.wlox.com/2026/07/06/update-family-identifies-body-found-horn-island-18-year-old-nolan-wells/",
-                "source": "WLOX",
-                "date": "2026-07-06T14:41:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Research Universities Are Admitting Fewer Ph.D.s, a Bad Sign for Science",
-                "desc": "Some of the nation’s top research universities are shrinking doctoral programs because of uncertain federal funding.",
-                "image": "https://static01.nyt.com/images/2026/07/06/multimedia/06nat-phds-zgbv/06nat-phds-zgbv-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/06/us/research-universities-fewer-phds-science.html",
-                "source": "The New York Times",
-                "date": "2026-07-06T14:22:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Samsung adds Pixel Watch features in leaked Galaxy Watch app",
-                "desc": "A new leak has revealed Samsung’s revamped Galaxy Wearable app for Galaxy Watch. SammyGuru obtained an early version of the...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/Galaxy-Watch-8-Watch-8-Classic-and-Pixel-Watch-3-v2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/06/samsungs-new-galaxy-watch-app-leaks-with-pixel-watch-vibes-and-features-gallery/",
-                "source": "9to5Google",
-                "date": "2026-07-06T14:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Former Syrian Officials Found Guilty in Torture of Pro-Democracy Protesters",
-                "desc": "The case against the two men, who have been living in Austria since 2015, was one of the first that the country has brought under the principle of universal jurisdiction.",
-                "image": "https://static01.nyt.com/images/2026/07/06/multimedia/06INT-SYRIA-VERDICT-HFO-vzpf/06INT-SYRIA-VERDICT-HFO-vzpf-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/06/world/middleeast/syrian-torture-verdict-vienna.html",
-                "source": "The New York Times",
-                "date": "2026-07-06T14:12:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Historic World Cup furor at 'incomprehensible' FIFA decision to let U.S. forward Balogun play",
-                "desc": "The Belgian soccer federation is challenging FIFA's ruling to let Balogun play despite getting a red card in his previous game. Belgium's statement came just 11 hours before kickoff in Seattle. European soccer body UEFA criticizes FIFA's \"incomprehensible and unjustifiable decision.\"",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F51%2F18bf72904591a990938080731fbe%2Fap26186820794812.jpg",
-                "url": "https://www.npr.org/2026/07/06/g-s1-132108/world-cup-balogun-uefa-fifa-belgum-trump",
-                "source": "NPR",
-                "date": "2026-07-06T14:11:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wild Details of Allies’ Secret Summit to Deal With Trump Nightmare Exposed",
-                "desc": "The venting session got so raw that leaders reportedly later likened the summit to “group therapy.”",
-                "image": "https://www.thedailybeast.com/resizer/v2/WBMVTXFSLNHEFP3GKRMTMD44RI.JPG?smart=true&auth=a39c917ca6fb0fd6248bad52fc87c51a612309104da527287187e7f7f578e7a7&width=1200&height=630",
-                "url": "https://www.thedailybeast.com/wild-details-emerge-of-european-leaders-secret-summit-on-how-to-deal-with-trump/",
-                "source": "The Daily Beast",
-                "date": "2026-07-06T13:34:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Ford recalls Mustang vehicles over windshield wiper, drivetrain defects",
+                "desc": "Ford is recalling more than 110,000 Mustang, Mustang GTD and Mustang Mach-E vehicles after NHTSA identified windshield wiper and drivetrain defects that could increase crash risks.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/ford-mach-e-mustang.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/lifestyle/ford-recalls-more-than-110000-mustang-vehicles-over-windshield-wiper-drivetrain-defects",
+                "source": "Fox Business",
+                "date": "2026-07-07T14:02:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Trump promised to cut electric bills in half. His energy policy is doing the opposite, new analysis finds",
                 "desc": "American’s are paying more for power as the Trump administration’s attacks on renewable energy collide with increased energy demand.",
@@ -3243,18 +3252,54 @@
                 "source": "Forbes",
                 "date": "2026-07-05T13:30:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Walmart 4th of July sales are still red hot: Score last-minute deals from Dyson, Bissell, Cuisinart, Michael Kors and more up to 80% off",
-                "desc": "Also on the superstore's rollback list? Patio furniture, home decor, kitchenware and much more.",
-                "image": "https://s.yimg.com/lo/mysterio/api/fd8dc4fae1a11fc4411eb3282add0bcb8ecc54f400b44a0a0853e7e5d9fb1753/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fwalmart-july-4-sales_7714.png",
-                "url": "https://shopping.yahoo.com/deals/article/walmart-4th-of-july-sales-are-still-red-hot-score-last-minute-deals-from-dyson-bissell-cuisinart-michael-kors-and-more-up-to-80-off-160300778.html",
-                "source": "Yahoo",
-                "date": "2026-07-05T13:04:36Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Former 'Bachelor' Peter Weber Allegedly Hooked Up with His Producer",
+                "desc": "Former \"Bachelor\" Peter Weber allegedly hooked up with his main producer when his season was still airing ... and just days before rekindling his flame with Kelley Flanagan.",
+                "image": "https://imagez.tmz.com/image/ea/16by9/2026/07/07/ea89a3807dab4872bc398555787f1b5b_xl.png",
+                "url": "https://www.tmz.com/2026/07/07/peter-weber-alleged-romance-with-bachelor-producer-julie-laplaca/",
+                "source": "TMZ",
+                "date": "2026-07-07T14:40:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Carole Middleton quietly changes plunging Wimbledon dress for rare date with husband Michael",
+                "desc": "The Princess of Wales' parents Carole and Michael Middleton looked glamorous as they attended day nine of Wimbledon, with Kate's mother tweaking her plunging sundress.",
+                "image": "https://s.yimg.com/lo/mysterio/api/42e78696b87415e553d3fd8ebf27ffc07ea576bff3203a64397c65c650b0d1a0/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fd906e96ac05c6340a28f2b235a425e5b",
+                "url": "https://www.yahoo.com/entertainment/celebrity/articles/carole-middleton-quietly-changes-plunging-143837791.html",
+                "source": "Yahoo",
+                "date": "2026-07-07T14:38:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Garth Brooks Sets 2026 Blame It All On My Roots Arena Tour",
+                "desc": "Garth Brooks will return to the road beginning on August 21 for his 2026 Blame It All On My Roots arena tour, with more dates to be announced soon.",
+                "image": "https://www.billboard.com/wp-content/uploads/2026/07/1137877111-e1783424913752.jpg?w=1024",
+                "url": "https://www.billboard.com/music/country/garth-brooks-blame-it-all-on-my-roots-2026-arena-tour-1236288692/",
+                "source": "Billboard",
+                "date": "2026-07-07T14:32:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Official 'Star Wars' exhibition will make its world premiere at The Franklin Institute",
+                "desc": "Philadelphia will be the first city in the world to host \"Star Wars: The Experience,\" a new official exhibition celebrating the franchise's 50th anniversary.",
+                "image": "https://media.phillyvoice.com/media/images/The_Franklin_Institute_Facade_.2e16d0ba.fill-1200x630-c0.jpg",
+                "url": "https://www.phillyvoice.com/star-wars-the-experience-franklin-institute-philadelphia-2027/",
+                "source": "PhillyVoice",
+                "date": "2026-07-07T14:29:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Nicole Kidman and Keith Urban's Daughter Stuns on Dior Runway",
+                "desc": "Here's Nicole Kidman and Keith Urban's daughter strutting her stuff at Paris Fashion Week ... and it looks like she's commanding the stage.",
+                "image": "https://imagez.tmz.com/image/27/16by9/2026/07/07/27b496d6e0194734b55fa57e43a2fa48_xl.png",
+                "url": "https://www.tmz.com/2026/07/07/sunday-rose-kidman-urban-on-dior-runway/",
+                "source": "TMZ",
+                "date": "2026-07-07T14:04:59Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Garth Brooks Announces New Arena Tour Featuring Return of Drum Pod Stage",
                 "desc": "Garth Brooks has announced a brand new tour called \"Blame It All On My Roots,\" which will see the country music superstar \"return to the arenas that made him a legend.\"",
@@ -3748,51 +3793,6 @@
                 "url": "https://www.eonline.com/news/1433509/taylor-swift-travis-kelce-wedding-patrick-mahomes-brittany-mahomes-there",
                 "source": "E! News",
                 "date": "2026-07-05T12:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cheryl Burke, 42, Responds to Body-Shaming Critics, Says to 'Stop Comparing Me to When I Was 20'",
-                "desc": "In a new interview, Burke shared how retirement from dancing and perimenopause has transformed her appearance",
-                "image": "https://s.yimg.com/lo/mysterio/api/c297bb4f42e54378cc82bbdf49b60a99a59b5144061f56a10021dbe0a73b5aa7/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F73f2e1765c548f1c56a077e9357cb627",
-                "url": "https://ca.news.yahoo.com/cheryl-burke-42-responds-body-121500640.html",
-                "source": "Yahoo News Canada",
-                "date": "2026-07-05T12:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taylor Swift Prenup Explained: How Scott Swift Protected Her $2B Fortune as Reports Say Travis Kelce Agreed to It",
-                "desc": "Taylor Swift's 'ironclad' prenup, driven by her father Scott, protects her $2bn empire as Travis Kelce reportedly signs without objection ahead of their New York wedding.",
-                "image": "https://d.ibtimes.co.uk/en/full/1817400/taylor-swift-travis-kelce.png",
-                "url": "https://www.ibtimes.co.uk/taylor-swift-prenup-strategy-1806858",
-                "source": "International Business Times UK",
-                "date": "2026-07-05T12:12:27Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Every wild detail from Taylor Swift and Travis Kelce's MSG wedding - from arcade games and 'JUST&T MARRIED' to an Adam Sandler cameo",
-                "desc": "The couple kept photos and details tightly under wraps. But guests, staff and celebrity friends have started leaking small glimpses into the wedding of the year.",
-                "image": "https://s.yimg.com/lo/mysterio/api/014475bf2c4fbed581be39af88ef199e4a87a94c75f687fe649f224d9bb9d16f/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F70f94c57-20cf-4e0d-ae94-cf4a6e72deb9",
-                "url": "https://www.yahoo.com/entertainment/celebrity/article/every-wild-detail-from-taylor-swift-and-travis-kelces-msg-wedding--from-arcade-games-and-justt-married-to-an-adam-sandler-cameo-181717552.html",
-                "source": "Yahoo",
-                "date": "2026-07-05T11:24:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taylor Swift's Favorite Teacher Reportedly Died The Same Day She Married Travis Kelce",
-                "desc": "Taylor Swift's wedding was bittersweet ... her favorite teacher reportedly died the same day she married Travis Kelce.",
-                "image": "https://imagez.tmz.com/image/a0/16by9/2026/07/04/a0366c5b8a5f4f0c9189e8d8cc4d1aa9_xl.jpg",
-                "url": "https://www.tmz.com/2026/07/05/taylor-swifts-favorite-teacher-reportedly-died-the-same-day-she-married-travis-kelce/",
-                "source": "TMZ",
-                "date": "2026-07-05T08:29:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taylor Swift’s favorite teacher dies after cancer battle on same day as singer’s wedding to Travis Kelce",
-                "desc": "Kirk Schwabe, Taylor Swift’s former criminal justice teacher in Nashville, died of cancer at age 69 on the same day as her wedding to Travis Kelce in New York City.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/133342848.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/07/05/entertainment/taylor-swifts-teacher-kirk-schwabe-dies-after-cancer-battle-on-same-day-as-singers-msg-wedding-to-travis-kelce/",
-                "source": "Page Six",
-                "date": "2026-07-05T07:18:00Z",
                 "priority": "STANDARD"
             }
         ],
@@ -4339,5 +4339,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-08T02:00:59.049410Z"
+    "lastGlobalSync": "2026-07-08T02:40:54.526567Z"
 }
