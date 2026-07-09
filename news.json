@@ -544,6 +544,15 @@
         ],
         "business": [
             {
+                "title": "महिंद्रा 475 DI रिव्यू: कीमत, माइलेज, फीचर्स और परफॉर्मेंस की पूरी जानकारी",
+                "desc": "महिंद्रा 475 DI ट्रैक्टर की कीमत, माइलेज, इंजन, स्पेसिफिकेशन, फीचर्स, हाइड्रोलिक क्षमता और परफॉर्मेंस की पूरी जानकारी जानें। खरीदने से पहले पढ़ें यह विस्तृत रिव्यू",
+                "image": "https://assets.tractorjunction.com/tractor-junction/assets/images/images/news/tractor-1783493431.webp",
+                "url": "https://www.tractorjunction.com/tractor-news/mahindra-475-di-review-price-mileage-and-features/",
+                "source": "Tractor Junction",
+                "date": "2026-07-08T15:43:45Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Silver Price Crash: लगातार तीसरे दिन भी चांदी में भारी गिरावट, सोना हो गया इतना सस्ता",
                 "desc": "Gold-Silver Price Update Today: सोना-चांदी की कीमतों में बुधवार को अचानक तेज गिरावट आई. शाम छह बजते-बजते सोना 2500 रुपये प्रति 10 ग्राम से ज्यादा टूट गया, तो चांदी 7800 रुपये से ज्यादा सस्ती हो गई.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a4e584fe80cd-silver-crash-gold-fall-080146754-16x9.jpg",
@@ -1073,18 +1082,27 @@
                 "source": "Navbharat Times",
                 "date": "2026-07-05T13:59:04Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Amazon Prime Day Sale Party Speakers पर मिल रहा है पूरे 65% तक का ऑफ, घर को बनाएं डिस्को",
-                "desc": "अमेजन प्राइम डे सेल के धमाकेदार ऑफर में पार्टी स्पीकर्स पर पूरे 65% तक की भारी छूट मिल रही है। इस सेल में JBL, Sony और boAt जैसे बड़े ब्रैंड्स के दमदार साउंड और एक्स्ट्रा बास वाले स्पीकर्स बेहद कम कीमत पर उपलब्ध हैं, जिससे आप बेहद सस्ते में अपने घर को डिस्को बना सकते हैं।, Gadgets Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/05/1600x900/logo/Speakers_sale_1783248031005_1783248044037_d5b7b53e-f033-4353-9a29-66d8118ba13d.jpg",
-                "url": "https://www.livehindustan.com/gadgets/speakers-offers-65-percent-off-amazon-prime-day-sale-201783242858151.html",
-                "source": "Live Hindustan",
-                "date": "2026-07-05T13:41:48Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Jio का बड़ा धमाका, सिर्फ 55 रुपये में देख सकेंगे महीने भर 1000 से ज्यादा लाइव चैनल्स",
+                "desc": "जियो ने एक नया JioTV Pro प्लान लॉन्च किया है. इस प्लान की वैलिडिटी एक महीने की होगी और इसमें 1000 लाइव चैनल्स देखे जा सकेंगे. आइए जानते हैं और क्या है इस प्लान में खास.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4e702f8406c-jio-new-tv-channel-plan-084338252-16x9.png",
+                "url": "https://www.aajtak.in/technology/tech-news/story/jiotv-pro-pack-rs-55-plan-1000-live-tv-channels-mobile-jio-latest-plan-ttecm-dskc-2597191-2026-07-08",
+                "source": "AajTak",
+                "date": "2026-07-08T15:44:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "गौहर खान ने Lionel Messi को कहा 'लूजर', दिखाई अर्जेंटीना-इजिप्ट मैच की क्लिप, फुटबॉल इतिहास को लेकर दावा",
+                "desc": "मिस्र वर्ल्ड कप को लेकर गौहर खान ने लियोनेल मेसी पर नाटक करने का आरोप लगाया है। एक वीडियो में दावा किया गया कि फुटबॉल के इतिहास में मेसी जैसा कोई नहीं हुआ जिन्होंने चोट लगने का नाटक किया। गौहर ने इस रील को शेयर किया।",
+                "image": "https://static.langimg.com/nbt/thumb/132266876/gauahar-khan-called-messi-looser.jpg?imgsize=967047&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/tv/news/gauahar-khan-called-lionel-messi-loser-shared-clip-of-argentina-egypt-match/articleshow/132266677.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-08T15:42:27Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "घर पर पिता के जाने से पसरा सन्नाटा, रोते-रोते शूट करते रहे 'तारक मेहता' के बाघा",
                 "desc": "बाघा यानी एक्टर तन्मय वेकारिया ने अपने पिता को याद करते हुए अपने काम के प्रति ईमानदारी का उदाहरण सेट किया है. उन्होंने कहा कि जब उनके पिता गुजर गए, तब भी वो अपने परिवार के पास जाने के बजाय सेट पर काम करते रहे.",
@@ -1606,27 +1624,27 @@
                 "source": "AajTak",
                 "date": "2026-07-06T13:46:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "गौहर खान पर Ex बॉयफ्रेंड कुशाल ने किया कमेंट, हंस पड़े जैद दरबार, यूजर्स बोले- पति में रीढ़ की हड्डी नहीं",
-                "desc": "गौहर खान के पति जैद दरबार रियलिटी शो द अलायंस में नजर आ रहे हैं. शो में गौहर के एक्स बॉयफ्रेंड कुशाल टंडन भी हैं. दोनों की एक बातचीत ने इंटरनेट पर हलचल मचा रखी है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4b867fbf4a6-kushal-tandon--gauahar-khan--zaid-darbar-064202641-16x9.png",
-                "url": "https://www.aajtak.in/entertainment/television/story/kushal-tandon-commented-on-ex-gauahar-khan-zaid-darbar-did-not-react-gets-trolled-the-alliance-tmovh-dskc-2595135-2026-07-06",
-                "source": "AajTak",
-                "date": "2026-07-06T13:16:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'उसकी औकात दिखा दी', सुनीता ने शिल्पा को लताड़ा, गोविंदा का नाम लेकर मार रही थीं टॉन्ट",
-                "desc": "गोविंदा की पत्नी सुनीता आहूजा जब से रियलिटी शो लॉकअप में दाखिल हुई हैं, तभी से लगातार सुर्खियों में बनी हुी हैं। अब जब वाइल्ड कार्ड कंटेस्टेंट शिल्पा शिंदे को उन्होंने लताड़ लगाई, तो लोग इंस्टा पर खुश हो गए।, Tv Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/06/1600x900/logo/shilpa_and_Sunita_1783341783860_1783341787312_b6a93744-0fd9-4d24-8167-256ae1bda3c0.jpg",
-                "url": "https://www.livehindustan.com/entertainment/tv/lockupp-2-sunita-ahuja-slams-wild-card-contestant-shilpa-shinde-for-messing-taking-govinda-name-201783340596118.html",
-                "source": "Live Hindustan",
-                "date": "2026-07-06T12:46:08Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "VIDEO: बूढ़ा हो गया हूं, दौड़ नहीं सकता; एमएस धोनी का दिलचस्प इशारा हुआ वायरल",
+                "desc": "MS Dhoni Viral Video: एमएस धोनी का एक वीडियो सोशल मीडिया पर वायरल हो रहा है, जिसमें वह दिलचस्प इशारा करते हुए नजर आए। धोनी भारत बनाम इंग्लैंड तीसरा टी20 देखने स्टेडियम पहुंचे थे।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/08/1600x900/logo/MS_Dhoni_IND_vs_ENG_Match_Viral_Video_1783523579775_1783523589785_67e38002-14a1-4dc8-850d-80bf285b0fde.jpg",
+                "url": "https://www.livehindustan.com/cricket/video-ms-dhonis-interesting-gesture-goes-viral-grown-old-and-can-not-run-like-old-days-201783523559826.html",
+                "source": "Hindustan",
+                "date": "2026-07-08T15:43:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "गौहर खान ने Lionel Messi को कहा 'लूजर', दिखाई अर्जेंटीना-इजिप्ट मैच की क्लिप, फुटबॉल इतिहास को लेकर दावा",
+                "desc": "मिस्र वर्ल्ड कप को लेकर गौहर खान ने लियोनेल मेसी पर नाटक करने का आरोप लगाया है। एक वीडियो में दावा किया गया कि फुटबॉल के इतिहास में मेसी जैसा कोई नहीं हुआ जिन्होंने चोट लगने का नाटक किया। गौहर ने इस रील को शेयर किया।",
+                "image": "https://static.langimg.com/nbt/thumb/132266876/gauahar-khan-called-messi-looser.jpg?imgsize=967047&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/tv/news/gauahar-khan-called-lionel-messi-loser-shared-clip-of-argentina-egypt-match/articleshow/132266677.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-08T15:42:27Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "भुवनेश्वर, पाटीदार और पांड्या ने कौन-सा गुनाह किया? पूर्व भारतीय कप्तान हुआ टीम सिलेक्शन से आगबबूला",
                 "desc": "जिम्बाब्वे टी20 सीरीज के लिए भारतीय टीम में कई नए खिलाड़ियों को चुना गया है। पूर्व भारतीय कप्तान कृष्णमाचारी श्रीकांत ने कुछ खिलाड़ियों को शामिल करने पर ऐतराज जताया है।, Cricket Hindi News - Hindustan",
@@ -2148,29 +2166,38 @@
                 "source": "AajTak",
                 "date": "2026-07-06T11:30:26Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "‘वैभव सूर्यवंशी और अभिषेक शर्मा इंडिया के लॉन्ग टर्म ओपनर नहीं हो सकते’.., मोहम्मद कैफ ने क्यों दिया ऐसा बयान?",
-                "desc": "पूर्व भारतीय क्रिकेटर मोहम्मद कैफ ने कहा है कि वैभव सूर्यवंशी और अभिषेक शर्मा भारत के लॉन्ग टर्म ओपनर नहीं हो सकते। संजू को भारत को खिलाना ही पड़ेगा। उन्होंने इसके पीछे की दिलचस्प वजह भी बताई है। कहा भारत विश्व कप वाली गलती ही दोहरा रहा है।, Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/06/1600x900/logo/vaibhav_sooryavanshi_abhishek_sharma_1783335920345_1783335931759_00495530-864e-470a-8180-5cffa46e829d.jpg",
-                "url": "https://www.livehindustan.com/cricket/vaibhav-sooryavanshi-and-abhishek-sharma-can-not-be-indias-long-term-openers-why-did-mohammad-kaif-say-this-201783335288227.html",
-                "source": "Live Hindustan",
-                "date": "2026-07-06T11:07:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "वुमेंस क्रिकेट में अगला ICC टूर्नामेंट है एकदम नया, भारत के पड़ोसी देश के पास है मेजबानी",
-                "desc": "वुमेंस क्रिकेट में अगला ICC टूर्नामेंट कब है? इसका जवाब आप खोजेगे तो एक नई जानकारी पाओगे। दरअसल, महिला क्रिकेट में जो अगला आईसीसी इवेंट है, वह पहली बार आयोजित होगा, जो वुमेंस चैंपियंस ट्रॉफी है। , Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/06/1600x900/logo/India_vs_Pakistan_Women_1783336005396_1783336005653_2e466138-4f26-47bf-8c94-702ab763fef6.jpg",
-                "url": "https://www.livehindustan.com/cricket/next-icc-tournament-in-womens-cricket-first-time-womens-champions-trophy-will-be-played-in-2027-host-sri-lanka-201783335541134.html",
-                "source": "Live Hindustan",
-                "date": "2026-07-06T11:07:05Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "World Cup quarterfinal field is dominated by European clubs",
+                "desc": "The World Cup has narrowed to eight teams, with six from Europe. Unless Morocco surprises everyone, the champion will be from Europe or South America as usual.",
+                "image": "https://dims.apnews.com/dims4/default/045915a/2147483647/strip/true/crop/4748x3164+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2Fae%2Fb6fed51c02e4f4bcd4be4c886416%2Fb96c2ef2a2124fbebbb7f2a2fdbeb836",
+                "url": "https://apnews.com/article/world-cup-soccer-quarterfinals-messi-43999ec443a2469632daf775cbe047be",
+                "source": "AP News",
+                "date": "2026-07-08T15:48:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Frantic search underway for crew after Boeing 737 wreckage found by officials",
+                "desc": "K2 Airways Flight 1732, a Boeing 737 cargo plane, vanished near Karachi after crew reported a navigation system problem. The wreckage has been found but crew members are missing.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/PAKISTAN_PLANE_MISSING_K2_AIRWAYS_BOEING_737_2.jpg",
+                "url": "https://www.foxnews.com/travel/frantic-search-underway-crew-after-boeing-737-wreckage-found-officials",
+                "source": "Fox News",
+                "date": "2026-07-08T15:43:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Delta rolls out new basic business, premium economy tickets",
+                "desc": "Delta Air Lines is launching basic versions of its premium tickets with new restrictions for customers who spring for the discount.",
+                "image": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/01/delta-new-interior-delta-one-cabin.jpeg",
+                "url": "https://thepointsguy.com/news/delta-air-lines-basic-business-fares-launch/",
+                "source": "The Points Guy",
+                "date": "2026-07-08T15:41:10Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Margaret Qualley quietly wiped traces of husband Jack Antonoff from social media before split news",
                 "desc": "Margaret Qualley quietly deleted traces of her husband, Jack Antonoff, from her Instagram before news surfaced that they had split.",
@@ -2682,33 +2709,6 @@
                 "url": "https://deadline.com/2026/07/mariska-hargitay-host-2026-emmy-awards-nbc-1236975778/",
                 "source": "Deadline",
                 "date": "2026-07-07T17:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Museum’s Next Director Will Be Massimiliano Gioni",
-                "desc": "The expanded museum is promoting its longtime artistic director to help rebuild attendance after a two-year closure and hold onto its “edgy” character.",
-                "image": "https://static01.nyt.com/images/2026/07/08/multimedia/07cul-museum-director-news-03-klhw/07cul-museum-director-news-03-klhw-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/07/arts/design/new-museum-director-massimiliano-gioni.html",
-                "source": "The New York Times",
-                "date": "2026-07-07T16:59:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cave finds hint at shared culture between humans and Neanderthals",
-                "desc": "Discoveries at a Üçağızlı II cave in southern Turkey suggest that Neanderthals and Homo sapiens made similar tools, hunted the same animals and both collected shells.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-09061-2.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/07/science/turkey-cave-neanderthals-humans-shared-culture",
-                "source": "CNN",
-                "date": "2026-07-07T16:55:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Mitch McConnell's health is improving, team says, but questions remain",
-                "desc": "Sen. Mitch McConnell has been hospitalized since June 14. Here's what we know about his health.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/19/USAT/90162900007-usatsi-28152217-1.jpg?crop=3935,2215,x0,y208&width=3200&height=1802&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/news/politics/2026/07/07/mitch-mcconnell-health-update/90831786007/",
-                "source": "USA Today",
-                "date": "2026-07-07T16:54:00Z",
                 "priority": "STANDARD"
             }
         ],
@@ -3256,6 +3256,60 @@
         ],
         "entertainment": [
             {
+                "title": "Prince Harry Evades the Press En Route to Meetings Meghan Markle Was Supposed to Attend During UK Trip",
+                "desc": "Prince Harry is sticking to his itinerary for his U.K. trip despite not having his wife Meghan Markle by his side. On Wednesday, July 8, the Duke of Sussex, 41, visited the Royal Hospital Chelsea — a ...",
+                "image": "https://s.yimg.com/lo/mysterio/api/1c706dd60db789e555963bc751dcb3825a78ba911da8d5bab30e5ea1061319a1/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnational_examiner_239%2Ffa3fb6854fa39ae9a655c6155f6202f6",
+                "url": "https://www.yahoo.com/entertainment/celebrity/articles/prince-harry-evades-press-en-155952229.html",
+                "source": "Yahoo",
+                "date": "2026-07-08T15:59:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Stephen Colbert's Late Show Sets Emmy Nomination Record in Final Season",
+                "desc": "In its final season, \"The Late Show With Stephen Colebrt\" scored its biggest Emmy nominations haul with nine nods, including for variety series.",
+                "image": "https://variety.com/wp-content/uploads/2026/02/Late-Show-With-Stephen-Colbert.png?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/tv/awards/stephen-colbert-emmys-nominations-final-season-1236802977/",
+                "source": "Variety",
+                "date": "2026-07-08T15:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘I thought it was 2024’",
+                "desc": "Veteran journalist Katie Couric revealed that she suffered a bout with transient global amnesia, a rare-but-temporary condition that suddenly robs people of nearly all memories even while they maintain self-awareness.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260708-couric-rs-1a5c27.jpg",
+                "url": "https://www.nbcnews.com/health/health-news/katie-couric-temporary-memory-robbing-condition-rcna353473",
+                "source": "NBC News",
+                "date": "2026-07-08T15:45:58Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why 'Heated Rivalry' isn't eligible for the 2026 Emmy Awards",
+                "desc": "Fans of queer hockey romance \"Heated Rivalry\" are hot and bothered that it didn't get any Emmy nominations this year. But there's a good reason why.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/04/USAT/87608637007-episodic-sabrina-lantos.jpg?crop=5994,3372,x0,y310&width=3200&height=1801&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/entertainment/tv/2026/07/08/heated-rivalry-not-nominated-2026-emmy-awards-explained/90834924007/",
+                "source": "USA Today",
+                "date": "2026-07-08T15:45:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Heated Rivalry's Connor Storrie Lands 1st Emmy Nom For 'SNL'",
+                "desc": "'Heated Rivalry's Connor Storrie became a first-time Emmy nominee this morning for his hosting on NBC's Saturday Night Live.",
+                "image": "https://deadline.com/wp-content/uploads/2026/07/GettyImages-2263364632.jpg?w=1024",
+                "url": "https://deadline.com/2026/07/heated-rivalrys-connor-storrie-emmy-nomination-snl-1236976659/",
+                "source": "Deadline",
+                "date": "2026-07-08T15:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'Hacks' Breaks Emmys Record Held by Schitt's Creek Final Comedy Season",
+                "desc": "\"Hacks\" earned 24 Emmy nominations for its fifth and final season, surpassing \"Schitt's Creek\" for the most ever for a comedy's last season.",
+                "image": "https://variety.com/wp-content/uploads/2026/07/jean-smart-hannah-einbinder_4.jpeg?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/tv/awards/hacks-emmys-record-final-season-schitts-creek-1236802976/",
+                "source": "Variety",
+                "date": "2026-07-08T15:44:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Margaret Qualley wipes traces of husband Jack Antonoff from social media as split rumors swirl",
                 "desc": "Margaret Qualley sparked breakup rumors after she quietly deleted traces of her husband, Jack Antonoff, from her Instagram.",
                 "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/133757191.jpg?quality=75&strip=all&w=1200",
@@ -3740,63 +3794,36 @@
                 "source": "Billboard",
                 "date": "2026-07-07T14:32:48Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Official 'Star Wars' exhibition will make its world premiere at The Franklin Institute",
-                "desc": "Philadelphia will be the first city in the world to host \"Star Wars: The Experience,\" a new official exhibition celebrating the franchise's 50th anniversary.",
-                "image": "https://media.phillyvoice.com/media/images/The_Franklin_Institute_Facade_.2e16d0ba.fill-1200x630-c0.jpg",
-                "url": "https://www.phillyvoice.com/star-wars-the-experience-franklin-institute-philadelphia-2027/",
-                "source": "PhillyVoice",
-                "date": "2026-07-07T14:29:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nicole Kidman and Keith Urban's Daughter Stuns on Dior Runway",
-                "desc": "Here's Nicole Kidman and Keith Urban's daughter strutting her stuff at Paris Fashion Week ... and it looks like she's commanding the stage.",
-                "image": "https://imagez.tmz.com/image/27/16by9/2026/07/07/27b496d6e0194734b55fa57e43a2fa48_xl.png",
-                "url": "https://www.tmz.com/2026/07/07/sunday-rose-kidman-urban-on-dior-runway/",
-                "source": "TMZ",
-                "date": "2026-07-07T14:04:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Garth Brooks Announces New Arena Tour Featuring Return of Drum Pod Stage",
-                "desc": "Garth Brooks has announced a brand new tour called \"Blame It All On My Roots,\" which will see the country music superstar \"return to the arenas that made him a legend.\"",
-                "image": "https://consequence.net/wp-content/uploads/2026/07/Garth-Brooks.jpeg",
-                "url": "https://consequence.net/2026/07/garth-brooks-arena-tour-blame-it-all-on-my-roots/",
-                "source": "Consequence of Sound",
-                "date": "2026-07-07T13:35:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Travis Kelce’s Friend Went on a Podcast and Said He’s “Flabbergasted” by Wedding Snub, Plans to Call Him",
-                "desc": "Travis Kelce's friend Will Compton says he's \"flabbergasted” by wedding snub, and plans to call Travis.",
-                "image": "https://s.yimg.com/lo/mysterio/api/7f1ec21d0b801954a95485fd54c6d5cb70a48c12c555a595cd8a4f59451bd831/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcosmopolitan_438%2Ffa8215b1a7eda5de816a3bee5a16815c",
-                "url": "https://www.yahoo.com/entertainment/celebrity/articles/travis-kelce-friend-went-podcast-133353186.html?guce_referrer=aHR0cHM6Ly9uZXdzLmdvb2dsZS5jb20vXy9Eb3RzU3BsYXNoVWkvZGF0YS9iYXRjaGV4ZWN1dGU&guce_referrer_sig=AQAAALiuYx_vJIAOvlUffU0seVHmcXQbv1RXzqm9-g6w3tGF0y78RyQnwsSqb5rHwkbk_fEpX_qaXbYa1oL7fm5OJbAi4WFxKRffDtODfjGU2sYOT5szHYzJvl_VJWj5HE9IbsvHm7lzy1Gpy6rbFr3ViW419pE_V4-8qTpMRXkKqa40&guccounter=2",
-                "source": "Yahoo",
-                "date": "2026-07-07T13:33:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prince Harry breaks silence after losing Daily Mail lawsuit",
-                "desc": "Prince Harry is speaking out after losing the privacy lawsuit he brought against the publisher of the Daily Mail, Associated Newspapers.",
-                "image": "https://s.yimg.com/lo/mysterio/api/ce6f02b1673a871d07c21933a6ecb5f7a41bd22aae4bf2e3e5878bbb1a27bc7a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F3128b5423bd26a832c0c358cd4a3a4d3",
-                "url": "https://www.yahoo.com/news/us/articles/prince-harry-loses-daily-mail-131739660.html",
-                "source": "Yahoo",
-                "date": "2026-07-07T13:17:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prince Harry Loses Privacy Lawsuit Against Daily Mail Publisher",
-                "desc": "The case brought by Harry and other celebrities against Associated Newspapers was one of several legal battles that the prince has fought against British tabloids in recent years.",
-                "image": "https://static01.nyt.com/images/2026/07/08/world/08int-uk-harry-case-01A/08int-uk-harry-case-01A-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/07/world/europe/prince-harry-lawsuit-daily-mail-uk-associated-newspapers.html",
-                "source": "The New York Times",
-                "date": "2026-07-07T13:11:57Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Conor McGregor coach says lightweight days are done, would like to see him fight again in 2026",
+                "desc": "John Kavanagh thinks there’s a chance Conor McGregor fights twice in 2026.",
+                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/07/gettyimages-542514584.jpg?quality=90&strip=all&crop=0%2C3.5711258365017%2C100%2C72.255686827018&w=1200",
+                "url": "https://www.mmafighting.com/ufc/498101/conor-mcgregor-coach-says-lightweight-days-are-done-would-like-to-see-him-fight-again-in-2026",
+                "source": "MMA Fighting",
+                "date": "2026-07-08T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Caitlin Clark has become a pawn in everyone's game, but what about her own?",
+                "desc": "Caitlin Clark just wants to play basketball, but the discourse surrounding her makes that increasingly difficult.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/uAtQmgbRdXCCnlTUafWghw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/d492260e-65e3-43b1-867b-6116870fceca",
+                "url": "https://sports.yahoo.com/wnba/article/caitlin-clark-has-become-a-pawn-in-everyones-game-but-what-about-her-own-155901665.html",
+                "source": "Yahoo Sports",
+                "date": "2026-07-08T15:59:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World Cup quarterfinal field is dominated by European clubs",
+                "desc": "The World Cup has narrowed to eight teams, with six from Europe. Unless Morocco surprises everyone, the champion will be from Europe or South America as usual.",
+                "image": "https://dims.apnews.com/dims4/default/045915a/2147483647/strip/true/crop/4748x3164+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2Fae%2Fb6fed51c02e4f4bcd4be4c886416%2Fb96c2ef2a2124fbebbb7f2a2fdbeb836",
+                "url": "https://apnews.com/article/world-cup-soccer-quarterfinals-messi-43999ec443a2469632daf775cbe047be",
+                "source": "AP News",
+                "date": "2026-07-08T15:48:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Lakers reportedly eyeing Jonathan Kuminga for final roster spot",
                 "desc": "Kuminga would bring the Lakers needed perimeter athleticism and some defense, but does he fit on offense?",
@@ -4309,35 +4336,8 @@
                 "source": "The New York Times",
                 "date": "2026-07-07T07:00:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Cristiano Ronaldo’s Defiant Statement After World Cup Farewell Is Painfully on Brand",
-                "desc": "The greatest player in Portugal’s history will finish his career without a World Cup title.",
-                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_194,y_164,w_2562,h_1441/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01kwx0yn8z4b6cs2p4sb.jpg",
-                "url": "https://www.si.com/soccer/cristiano-ronaldo-bids-farewell-to-world-cup-with-shocking-statement",
-                "source": "Sports Illustrated",
-                "date": "2026-07-07T07:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Belgium ends the USA’s World Cup dream with a dominant 4-1 win in the Round of 16",
-                "desc": "The summer of soccer love is over for the USA’s World Cup squad after losing 4-1 to Belgium.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2284972601.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/06/sport/live-news/usa-belgium-world-cup-score",
-                "source": "CNN",
-                "date": "2026-07-07T03:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Former UK guard Kerr Kriisa allegedly operated $2.2 million online scam, indictment says",
-                "desc": "Former University of Kentucky men’s basketball guard Kerr Kriisa was arrested by FBI agents and is expected to be extradited to West Virginia in connection with alleged fraud charges, according to a report from On3.",
-                "image": "https://gray-wkyt-prod.gtv-cdn.com/resizer/v2/44AQ5VNC55DHXISK332THLKSPU.png?auth=4b5620229c17e67f9591462fee2412463d478e437c21950e9a9921ae000293cb&width=1200&height=600&smart=true",
-                "url": "https://www.wkyt.com/2026/07/06/former-uk-guard-kerr-kriisa-accused-operating-22-million-online-scam-indictment-says/",
-                "source": "WKYT",
-                "date": "2026-07-06T16:16:00Z",
-                "priority": "CRITICAL_ALERT"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T03:40:48.478383Z"
+    "lastGlobalSync": "2026-07-09T04:00:48.559495Z"
 }
