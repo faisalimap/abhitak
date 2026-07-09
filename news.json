@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "ब्राजील को वेनेजुएला जैसे ऑपरेशन का डर, अमेरिका घुसकर कर सकता है अटैक!",
+                "desc": "ब्राजील को डर सता रहा है कि अमेरिका वेनेजुएला जैसा ऑपरेशन इस देश में भी चला सकता है. अमेरिका ने ब्राजील के 2 आपराधिक गिरोहों को FTO की सूची में रखा है. इस फैसले के बाद अमेरिका को इन संगठनों पर कहीं भी कार्रवाई की शक्ति मिल जाती है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4e7c77aefab-brazil-armed-forces-083601653-16x9.jpeg",
+                "url": "https://www.aajtak.in/world/story/brazil-fears-american-attack-terrorism-designation-two-criminal-gangs-ntcppl-dskc-2597211-2026-07-08",
+                "source": "AajTak",
+                "date": "2026-07-08T16:42:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "बॉलीवुड की सबसे महंगी एक्ट्रेस थीं हेमा मालिनी? बोलीं- भिक्षा की तरह लिफाफे में पैसे मिलते थे",
                 "desc": "हेमा मालिनी को लेकर एक समय पर ऐसी बातें होती थीं कि वो बॉलीवुड की हाईएस्ट-पेड एक्ट्रेस हैं. लेकिन असलियत एकदम अलग थी, उन्हें लिफाफों में किसी भिक्षा की तरह अपनी फीस मिलती थी.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4e6ac467422-hema-malini-082030750-16x9.jpg",
@@ -530,15 +539,6 @@
                 "url": "https://www.bbc.com/hindi/articles/c4gykrq82d1o",
                 "source": "BBC",
                 "date": "2026-07-07T12:34:05Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "भारत समेत 60 देशों को ट्रंप का झटका! एक्सपोर्ट पर फिर बढ़ा सकते हैं टैरिफ",
-                "desc": "अमेरिका ने जबरन श्रम से बने सामानों पर चिंता जताते हुए भारत समेत 60 देशों के एक्सपोर्ट पर नए टैरिफ लगाने का प्रस्ताव रखा है।\nभारत ने अमेरिकी व्यापार मंत्रालय की इस जांच पर आपत्ति जताई है और इसे समाप्त करने की मांग की है।",
-                "image": "https://www.jagranimages.com/images/2026/07/07/article/image/trump-1783427011111_m.webp",
-                "url": "https://www.jagran.com/business/biz-trumps-us-tariffs-threaten-india-60-nations-over-forced-labor-40298079.html",
-                "source": "Jagran",
-                "date": "2026-07-07T12:25:00Z",
                 "priority": "STANDARD"
             }
         ],
@@ -3798,6 +3798,15 @@
         ],
         "sports": [
             {
+                "title": "Jonas Vingegaard avoids Tour de France disaster, scrambles to finish on teammate's bike after late crash",
+                "desc": "Dane up quickly after being caught up in mayhem just outside protected 5km to go banner",
+                "image": "https://cdn.mos.cms.futurecdn.net/sGA3QBmZQ8wsk8qq2kpxiJ-2200-80.jpg",
+                "url": "https://www.cyclingnews.com/pro-cycling/racing/jonas-vingegaard-avoids-tour-de-france-disaster-scrambles-to-finish-on-teammates-bike-after-late-crash/",
+                "source": "Cyclingnews",
+                "date": "2026-07-08T16:40:58Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "College Football 27 Has Single-Player Microtransactions And It's Only The Beginning",
                 "desc": "Electronic Arts (EA) has put microtransactions in College Football 27's single-player modes, and sources say it's only the beginning.",
                 "image": "https://insider-gaming.com/wp-content/uploads/2026/07/All-College-Football-27-Early-Access-Details—Start-Date-Times-How-to-Get-Early-Access-guide-1.jpg",
@@ -4327,17 +4336,8 @@
                 "source": "Los Angeles Times",
                 "date": "2026-07-07T10:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "‘Overturn this’: Belgium mocks Donald Trump and FIFA with dance and post after victory against US",
-                "desc": "Belgium has ended the USA’s World Cup campaign, with many taking great joy in the host nation’s humiliating 4-1 defeat following the controversy over FIFA’s decision to suspend a US red card prior to the game.",
-                "image": "https://images.euronews.com/articles/stories/09/82/82/09/1200x675_cmsv2_41304159-55fd-5431-941f-77eeeb26e780-9828209.jpg",
-                "url": "https://www.euronews.com/culture/2026/07/07/overturn-this-belgium-mocks-donald-trump-and-fifa-with-dance-and-post-after-victory-agains",
-                "source": "Euronews",
-                "date": "2026-07-07T09:58:34Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T04:40:56.551617Z"
+    "lastGlobalSync": "2026-07-09T04:42:23.289139Z"
 }
