@@ -2,6 +2,78 @@
     "hi": {
         "general": [
             {
+                "title": "टेम्पो पर ताबूत लादकर ले जा रहे... BLA के हमले में मारे गए पुलिसकर्मियों की पाकिस्तान में दुर्गति!",
+                "desc": "पाकिस्तान के बलूचिस्तान में हुए आतंकी हमले में मरने वाले पुलिसकर्मियों की संख्या 42 हो गई. पाकिस्तान का दावा है कि उसकी सेना ने एक सर्च ऑपरेशन में 54 विद्रोहियों को मार गिराया है. इस बीच बड़े-बड़े दावे करने वाला पाकिस्तान जंग में जान गंवाने वाले अपने जवानों को बुनियादी सम्मान भी नहीं दे रहा है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4e5f81238bf-balochistan-attack-news-083227601-16x9.jpeg",
+                "url": "https://www.aajtak.in/world/story/pakistani-policemen-killed-bla-attack-balochistan-dead-body-open-coffin-ntcppl-dskc-2597150-2026-07-08",
+                "source": "AajTak",
+                "date": "2026-07-08T14:32:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "भारत की आर्थिक ताकत पर IMF की मुहर, चीन से भी तेज GDP ग्रोथ का अनुमान",
+                "desc": "अंतरराष्ट्रीय मुद्रा कोष ने चालू वित्त वर्ष के लिए भारत की आर्थिक वृद्धि दर के अनुमान में मामूली कमी की है। आर्थिक वृद्धि दर  6.4 प्रतिशत पर रहने की संभावना है।, Business Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/08/1600x900/logo/gdp_news_1783520916201_1783520923347_b0796b1c-68b2-478f-9375-fd6d4558f310.png",
+                "url": "https://www.livehindustan.com/business/imf-sees-india-among-fastest-growing-major-economies-despite-trimming-fy27-gdp-growth-projection-know-what-says-201783520665029.html",
+                "source": "Hindustan",
+                "date": "2026-07-08T14:29:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IMF Growth Projection: भारत सबसे तेज दौड़ने वालों में शुमार, आईएमएफ ने माना लोहा, फिर भी कर दिया ये काम",
+                "desc": "IMF Growth Projection: अंतरराष्‍ट्रीय मुद्रा कोष (आईएमएफ) ने भारत का लोहा माना है। उसने कहा है कि भारत सबसे तेजी से दौड़ने वाली अर्थव्‍यवस्‍थाओं में बना हुआ है। हालांकि, उसने अपने ग्रोथ के अनुमानों को को थोड़ा कम किया है। इसे घटाकर 6.4 फीसदी कर दिया गया है। पहले ग्रोथ का यह अनुमान 6.5 फीसदी था।",
+                "image": "https://static.langimg.com/nbt/thumb/132265997/imf-indian-economy.jpg?imgsize=181748&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/business/business-news/imf-report-india-fastest-growing-economy-but-growth-rate-estimate-reduced/articleshow/132265997.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-08T14:29:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "बारिश के बीच दिल्ली के रोहिणी में चार मंजिला बिल्डिंग गिरी, एक की मौत, मलबे में कई लोगों के दबे होने की आशंका",
+                "desc": "दिल्ली के रोहिणी सेक्टर 16 में एक पुरानी बिल्डिंग बारिश के चलते गिर गई है. मलबे में फंसे लोगों को बचाने के लिए दमकल की चार गाड़ियां मौके पर पहुंची हैं और रेस्क्यू ऑपरेशन जारी है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4e3c00dfbdf-rohini-building-collapse-080059655-16x9.jpg",
+                "url": "https://www.aajtak.in/india/delhi/story/delhi-rohini-building-collapse-rescue-operation-rain-accident-ntcpvp-dskc-2597040-2026-07-08",
+                "source": "AajTak",
+                "date": "2026-07-08T14:24:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'इथेनॉल प्रोडक्शन से मेरा कोई फायदा नहीं', आरोपों पर नितिन गडकरी की सफाई",
+                "desc": "इंडिया टुडे टीवी को दिए एक एक्सक्लूसिव इंटरव्यू में परिवहन मंत्री नितिन गडकरी ने हितों के टकराव के आरोपों को सिरे से खारिज कर दिया. साथ ही यह साफ किया कि उनके परिवार का चीनी व्यवसाय सरकार की इथेनॉल नीति लागू होने से बहुत पहले का है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4e5c72deb01-nitin-gadkari-081925464-16x9.jpeg",
+                "url": "https://www.aajtak.in/india/news/story/nitin-gadkari-on-ethanol-blending-policy-row-claims-conspiracy-ntc-dhrj-rpti-2597148-2026-07-08",
+                "source": "AajTak",
+                "date": "2026-07-08T14:19:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "राम मंदिर चढ़ावा चोरी के आरोपियों के पास मिली चंदे की फर्जी रसीद, किसने और कहां से छपवाई जांच शुरू",
+                "desc": "अयोध्या राम मंदिर में चढ़ावा चोरी के आरोपियों के पास पुलिस को  चंदे की फर्जी रसीद मिली। पुलिस ने जांच-पड़ताल में जुट गई है कि यह रसीद किसने और कहां छपवाई है। पुलिस आरोपियों से भी पूछताछ कर रही है।, Uttar-pradesh Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/08/1600x900/logo/ram_mandir_case_1783519674039_1783519693292_19033f1f-d2fe-441e-8041-c3fe831c0e75.jpg",
+                "url": "https://www.livehindustan.com/uttar-pradesh/ayodhya-police-have-recovered-fake-donation-receipts-from-accused-involved-in-theft-of-offerings-at-the-ram-mandir-201783519216795.html",
+                "source": "Hindustan",
+                "date": "2026-07-08T14:09:10Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "रोहिणी हादसा: 'घबराना मत... सबको बचा लेंगे', मलबे के नीचे दबी सांसों के लिए रेस्क्यू टीम की आवाज बनी उम्मीद, देखें वीडियो",
+                "desc": "दिल्ली रोहिणी बिल्डिंग हादसे में मलबे के नीचे दबी सांसों तक पहुंचने के लिए रेस्क्यू टीम हर पल जिंदगी की जंग लड़ रही है। सामने आए वीडियो में जवान की आवाज- 'घबराना मत, सबको बचा लेंगे', मलबे में फंसे लोगों के लिए उम्मीद की सबसे बड़ी ताकत बन गई।",
+                "image": "https://static.langimg.com/nbt/thumb/132265780/rohini-sector-16-building-collapse.jpg?imgsize=359495&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/metro/delhi/other-news/rohini-sector-16-building-collapse-rescue-operation-ndrf-video-workers-trapped-delhi-building-collapse-emotional-video/articleshow/132264918.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-08T14:06:24Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "कल का मौसम, 9 जुलाई: गुरुवार को 23 राज्यों में भारी बारिश-तूफान, IMD का अलर्ट; 80 की स्पीड से चलेंगे झोंके",
+                "desc": "IMD ने कहा है कि 9 जुलाई को दिल्ली, यूपी, राजस्थान, पंजाब और हरियाणा आमतौर पर बादल छाए रहेंगे। दिल्ली में कई स्थानों पर आंधी-बिजली और 30-40 किमी/घंटा की रफ्तार वाली ते हवाओं के साथ हल्की से मध्यम बारिश की संभावना है।, Weather Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/08/1600x900/logo/20260708-DNO-SGH-MN-Raine-019-0_1783519536919_1783519547042_b2e5a265-47d6-48f6-82f8-ec61d017cf71.jpg",
+                "url": "https://www.livehindustan.com/weather/kal-ka-mausam-kaisa-rahega-up-bihar-delhi-ncr-weather-today-forecast-monsoon-rain-imd-alert-july-9-201783518602509.html",
+                "source": "Hindustan",
+                "date": "2026-07-08T14:04:29Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "दिलजीत दोसांझ की 'सतलुज' पर लगा 'बैन', मगर मेकर्स को कैसे हुआ फायदा? जानकर होगी हैरानी",
                 "desc": "दिलजीत दोसांझ की फिल्म 'सतलुज' भले ही रिलीज के 48 घंटों के भीतर जी5 से हटा दी गई हो, लेकिन इस शॉर्ट-रिलीज ने मेकर्स और स्टारकास्ट को कई बड़े फायदे पहुंचा दिए हैं. सबसे बड़ा फायदा यह हुआ कि फिल्म का बिना किसी कट-छांट वाला ओरिजिनल वर्जन जनता तक पहुंच चुका है",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4e24a73cad8-satluj-ban-benefits-zee5-diljit-dosanjh--honey-trehan-082121765-16x9.jpg",
@@ -468,81 +540,18 @@
                 "source": "Hindustan",
                 "date": "2026-07-07T10:47:28Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'कश्मीर फ़ाइल्स, केरला स्टोरी के लिए रेड कार्पेट और सतलुज पर बैन', फ़िल्म को हटाए जाने पर बहस",
-                "desc": "अभिनेता दिलजीत दोसांझ की फ़िल्म 'सतलुज' के ओटीटी प्लेटफ़ॉर्म ज़ी-5 से हटने पर सोशल मीडिया पर ढेर सारे कमेंट्स आ रहे हैं और इस पर एक बड़ी डिबेट छिड़ चुकी है. फ़िल्ममेकर, कॉमेडियन से लेकर राजनीतिक हस्तियां भी इस पर अपने विचार शेयर कर रही हैं.",
-                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/a63f/live/c3dcd610-79d9-11f1-a400-b302bc872d47.png",
-                "url": "https://www.bbc.com/hindi/articles/cdr4v05eexeo",
-                "source": "BBC",
-                "date": "2026-07-07T10:42:40Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "कल का मौसम 8 जुलाई: अगले 9 घंटे में 13 राज्यों में भारी बारिश की चेतावनी, 85 की स्पीड से आंधी; IMD अलर्ट जारी",
-                "desc": "देश में मानसून का प्रभाव तेजी से बढ़ रहा है। उत्तर भारत से लेकर पूर्वी भारत तक आफत की बारिश होने की चेतावनी है। मौसम विभाग की भविष्यवाणी के मुताबिक 8 जुलाई को यूपी, दिल्ली समेत 13 राज्यों में भारी बारिश और आंधी का अलर्ट जारी किया गया है। इस दौरान 85 किलोमीटर प्रति घंटे की रफ्तार से आंधी चलेगी।",
-                "image": "https://static.langimg.com/nbt/thumb/132237345/weather-tomorrow-8-july.jpg?imgsize=225717&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/india/tomorrow-weather-8-july-2026-thunderstorm-and-heavy-rain-alert-in-13-states-in-the-next-9-hours-wind-speed-up-to-85-kmph-delhi-up-bihar-temperature/articleshow/132236962.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-07T10:41:37Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hamas: गाजा में हमास राज का अंत! सरकार भंग, अब संयुक्त राष्ट्र समर्थित समिति संभालेगी सत्ता",
-                "desc": "हमास ने सोमवार को घोषणा की कि इमरजेंसी कमेटी के प्रमुख ने अपना इस्तीफ़ा सौंप दिया है। यह सरकारी गतिविधियों की निगरानी करने वाली कमेटी को भंग करने की दिशा में पहला कदम है। यही वह संस्था है जो असल में गाज़ा पट्टी में हमास की सरकार के तौर पर काम करती है।",
-                "image": "https://static.langimg.com/nbt/thumb/132222746/hamas.jpg?imgsize=191827&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/world/uae/hamas-official-resigns-to-dissolve-gaza-governing-body-hand-authority-to-ncag/articleshow/132222485.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-06T17:39:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "दुल्हन बनीं अंशुला कपूर, मंडप के पास रखी मां की फोटो, बहन जाह्नवी-खुशी ने निभाई रस्में, Inside Photos",
-                "desc": "बोनी कपूर की बेटी और अर्जुन कपूर की बहन, अंशुला की शादी हो गई है. उनकी शादी की पहली तस्वीरें सामने आई हैं. दुल्हन के जोड़े में वो स्टनिंग लगीं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a4be85056994-anshula-kapoor-marriage-first-photo-063923215-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/anshula-kapoor-marriage-first-photo-bride-look-mother-mona-picture-rohan-thakkar-boney-arjun-emotional-tmovh-2595270-2026-07-06",
-                "source": "AajTak",
-                "date": "2026-07-06T17:39:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PF खाताधारकों की मौज! ब्याज को लेकर EPFO ने जारी किया ये नया आदेश",
-                "desc": "EPFO ने वित्त वर्ष 2025-26 के लिए 8.25% ब्याज को सदस्य खातों में जमा करने का आदेश जारी कर दिया है। श्रम मंत्रालय और केंद्र सरकार की मंजूरी मिलने के बाद अब करीब 8 करोड़ EPF खाताधारकों के खाते में जल्द ब्याज क्रेडिट किया जाएगा। आइए इसकी डिटेल्स जानते हैं।, Business Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/06/1600x900/logo/EPFO_1783358724533_1783358724672_38b69b70-2b4f-4779-84bc-e4314dba23e7.jpg",
-                "url": "https://www.livehindustan.com/business/epfo-8-25-percent-interest-credit-pf-balance-update-fy26-epf-members-good-news-check-details-201783357298068.html",
-                "source": "Live Hindustan",
-                "date": "2026-07-06T17:33:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "डील करो, वरना काम तमाम; खामेनेई के अंतिम संस्कार के बीच ट्रंप की ईरान को सख्त चेतावनी",
-                "desc": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को नई सख्त चेतावनी दी है। ट्रंप ने साफ कहा कि अमेरिका समझौता चाहता है, लेकिन अगर जरूरत पड़ी तो एक घंटे में ईरान के अहम ठिकानों को नष्ट कर सकता है। आइये जानते हैं कि ट्रंप ने ईरान को लेकर और क्या कहा..., International Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/06/1600x900/logo/Donald_Trump_1783358548015_1783358552415_828b8d83-74a5-48ea-9757-cb7cbc1ad0f8.png",
-                "url": "https://www.livehindustan.com/international/deal-or-its-all-over-trump-new-warning-to-iran-amidst-khamenei-funeral-rites-201783357755693.html",
-                "source": "Live Hindustan",
-                "date": "2026-07-06T17:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "अंशुला कपूर की शादी की पहली फोटो वायरल, बहनों ने निभाईं रस्में, लहंगे में दुल्हन का रॉयल रूप जीत गया दिल",
-                "desc": "​अंशुला कपूर की शादी की पहली फोटोज सामने आते ही सोशल मीडिया पर वायरल हो गई। जिसमें वह दुल्हन के रूप में बेहद खूबसूरत लगीं और रॉयल दुल्हनिया वाला रूप दिखा गईं। यही नहीं दूल्हे राजा भी उन्हें परफेक्टली कॉम्प्लिमेंट कर गए, तो जाह्नवी और खुशी का लुक भी देखते ही बना।",
-                "image": "https://static.langimg.com/nbt/thumb/132221588/anshula-kapoor-marries-rohan-thakkar-her-bridal-look-is-winning-hearts-so-does-janhvi-kapoor-and-khushi-kapoor.jpg?imgsize=2299738&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/lifestyle/fashion/anshula-kapoor-marries-rohan-thakkar-her-bridal-look-is-winning-hearts-so-does-janhvi-kapoor-and-khushi-kapoor/articleshow/132221588.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-06T17:08:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'अच्छी स्थिति में नहीं...', माइक्रोसॉफ्ट Xbox CEO आशा शर्मा का 3200 लोगो की छंटनी के बाद बड़ा बयान",
-                "desc": "Xbox अगले साल 3,200 कर्मचारियों की छंटनी करेगा, जो कुल वर्कफोर्स का 20 है। सीईओ आशा शर्मा ने कम मार्जिन और हार्डवेयर संकट को कारण बताते हुए कंपनी के पुनर्गठन और नए सीओओ की नियुक्ति की घोषणा की।",
-                "image": "https://www.jagranimages.com/images/2026/07/06/article/image/CEO-Asha-Sharma-on-3,200-Job-Cuts-1783356295326_m.webp",
-                "url": "https://www.jagran.com/business/biz-xbox-layoffs-ceo-asha-sharma-on-3200-job-cuts-reset-plan-40297239.html",
-                "source": "Jagran",
-                "date": "2026-07-06T16:49:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "भारत की आर्थिक ताकत पर IMF की मुहर, चीन से भी तेज GDP ग्रोथ का अनुमान",
+                "desc": "अंतरराष्ट्रीय मुद्रा कोष ने चालू वित्त वर्ष के लिए भारत की आर्थिक वृद्धि दर के अनुमान में मामूली कमी की है। आर्थिक वृद्धि दर  6.4 प्रतिशत पर रहने की संभावना है।, Business Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/08/1600x900/logo/gdp_news_1783520916201_1783520923347_b0796b1c-68b2-478f-9375-fd6d4558f310.png",
+                "url": "https://www.livehindustan.com/business/imf-sees-india-among-fastest-growing-major-economies-despite-trimming-fy27-gdp-growth-projection-know-what-says-201783520665029.html",
+                "source": "Hindustan",
+                "date": "2026-07-08T14:29:30Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "ऐसा देश जहां किराए पर मिलती हैं पत्नियां",
                 "desc": "दक्षिण-पूर्व एशिया के खूबसूरत द्वीप थाईलैंड की खूबसूरती और नाइट लाइफ के अलावा रेंटल वाइफ वाला कॉन्सेप्ट भी काफी लोकप्रिय है। यहां जाने वाले लोग एक साथी के रूप में महिला को किराए पर कुछ समय के लिए रख सकते हैं।",
@@ -1072,15 +1081,6 @@
                 "url": "https://www.livehindustan.com/auto/kia-seltos-discounts-up-to-rs-40-000-in-july-2026-201783256654711.html",
                 "source": "Live Hindustan",
                 "date": "2026-07-05T13:11:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "पेट्रोल-डीजल को कहें टाटा बाय-बाय ! 10 लाख से कम में खरीदें 34 km/kg माइलेज वाली CNG कार",
-                "desc": "Udaipur Times, Automobile News, CNG Car : पेट्रोल की लगातार बढ़ती कीमतों के बीच अगर आप रोजाना कार से ऑफिस जाते हैं या हर महीने लंबी दूरी तय करते हैं, तो ईंधन का खर्च आपकी जेब पर भारी पड़ सकता है। ऐसे में CNG कारें कम रनिंग कॉस्ट और बेहतर माइलेज के साथ एक किफायती विकल्प बनकर सामने आई हैं।",
-                "image": "https://udaipurtimes.com/static/c1e/client/74416/uploaded_original/6ef334395c13bfb3a510d70016884617.jpg",
-                "url": "https://udaipurtimes.com/hindi/say-tata-bye-bye-bye-to-petrol-and-diesel!-buy-a-cng-car/cid18933614.htm",
-                "source": "UdaipurTimes.com",
-                "date": "2026-07-05T13:06:51Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1628,6 +1628,15 @@
         ],
         "sports": [
             {
+                "title": "भुवनेश्वर, पाटीदार और पांड्या ने कौन-सा गुनाह किया? पूर्व भारतीय कप्तान हुआ टीम सिलेक्शन से आगबबूला",
+                "desc": "जिम्बाब्वे टी20 सीरीज के लिए भारतीय टीम में कई नए खिलाड़ियों को चुना गया है। पूर्व भारतीय कप्तान कृष्णमाचारी श्रीकांत ने कुछ खिलाड़ियों को शामिल करने पर ऐतराज जताया है।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/08/1600x900/logo/Bhuvneshwar_Kumar_Rajat_Patidar_and_Krunal_Pandya_1783516909753_1783516914185_301caf4a-af7f-4d3a-b334-ab6a908cb0b2.jpg",
+                "url": "https://www.livehindustan.com/cricket/what-sins-have-bhuvneshwar-kumar-rajat-patidar-krunal-pandya-done-former-india-captain-furious-with-the-team-selection-201783516858057.html",
+                "source": "Hindustan",
+                "date": "2026-07-08T14:04:50Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "ENG W vs IND W: इंग्लैंड के खिलाफ महामुकाबले से पहले भारत की मुश्किलें बढ़ीं, ये धाकड़ खिलाड़ी हुई बाहर",
                 "desc": "भारतीय महिला क्रिकेट टीम इन दिनों इंग्‍लैंड के दौरे पर है।",
                 "image": "https://www.jagranimages.com/images/2026/07/08/article/image/ENG-W-vs-IND-W-1783516682556_m.webp",
@@ -1637,12 +1646,30 @@
                 "priority": "STANDARD"
             },
             {
+                "title": "संजय मांजरेकर ने संजू सैमसन को दी विराट कोहली से सीख लेने की सलाह, टीम से बाहर होने की वजह भी बताई",
+                "desc": "संजय मांजरेकर ने कहा कि संजू सैमसन को टीम से बाहर करने का सही कारण सिर्फ उनकी फिटनेस हो सकती है। उन्होंने संजू को विराट कोहली को रोल मॉडल बनाने की सलाह दी। वहीं, गौतम गंभीर ने भी संजू सैमसन को लेकर टीम मैनेजमेंट का रुख स्पष्ट किया।",
+                "image": "https://images.jansatta.com/2026/07/India_vs_England_00255555.jpg",
+                "url": "https://www.jansatta.com/khel/sanjay-manjrekar-on-sanju-samson-fitness-virat-kohli-advice-gautam-gambhir-india-t20-team/4610736/",
+                "source": "Jansatta",
+                "date": "2026-07-08T13:17:36Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "'तिलक वर्मा जल्द ही भारतीय टीम के कप्तान भी बनेंगे', पूर्व चीफ सिलेक्टर ने चलाया तंज का तीर",
                 "desc": "India vs England: कृष्णमाचारी श्रीकांत ने तिलक वर्मा की कड़ी आलोचना की है। तिलक इंग्लैंड के खिलाफ तीसरे टी20 में जूझते हुए नजर आए। वह भारतीय टी20 टीम के उपकप्तान हैं।, Cricket Hindi News - Hindustan",
                 "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/08/1600x900/logo/Kris_Srikkanth_on_Tilak_Varma_1783513894112_1783513915913_9fce57a2-4110-41a2-bfe2-071a3308adeb.jpg",
                 "url": "https://www.livehindustan.com/cricket/tilak-varma-will-soon-become-team-india-captain-also-ex-chief-selector-kris-srikkanth-taunted-after-ind-vs-eng-3rd-t20i-201783513741262.html",
                 "source": "Hindustan",
                 "date": "2026-07-08T12:54:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IND vs ENG: जोफ्रा आर्चर की भारतीय टीम को चेतावनी: कहा- यह आईपीएल नहीं, इंग्लैंड में गुड लेंथ पर गेंद डालो",
+                "desc": "तीसरे टी20 में भारत को हराने के बाद जोफ्रा आर्चर ने कहा कि इंग्लैंड में क्रिकेट IPL से अलग है। उन्होंने गुड लेंथ पर गेंदबाजी और भारतीय बल्लेबाजों को लेकर बड़ा बयान दिया।",
+                "image": "https://images.jansatta.com/2026/07/IND-vs-ENG-3rd-T20I-Jofra-Archer-React-On-Vaibhav-Sooryavanshi.jpg",
+                "url": "https://www.jansatta.com/khel/ind-vs-eng-jofra-archer-vs-vaibhav-sooryavanshi-warning-to-india-ipl-vs-england-conditions-good-length-bowling/4610578/",
+                "source": "Jansatta",
+                "date": "2026-07-08T12:35:57Z",
                 "priority": "STANDARD"
             },
             {
@@ -2139,38 +2166,92 @@
                 "source": "Live Hindustan",
                 "date": "2026-07-06T11:07:05Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "सानिया ने अचानक पोस्ट कर दीं शादी की अनसीन तस्वीरें, अर्जुन तेंदुलकर की खुशी तो देखिए, सारा तेंदुलकर ने कहा- लव यू",
-                "desc": "सानिया चंडोक और अर्जुन तेंदुलकर की शादी को 4 महीने हो चुके हैं। इसी बीच सानिया ने सोशल मीडिया पर अपनी शादी की कुछ अनसीन फोटोज शेयर की हैं।",
-                "image": "https://static.langimg.com/nbt/thumb/132214790/saaniya-chandok-posted-unseen-pictures-of-wedding-with-arjun-tendulkar-on-social-media-sara-tendulkar-said-love-you.jpg?imgsize=104980&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/saaniya-chandok-posted-unseen-pictures-of-wedding-with-arjun-tendulkar-on-social-media-sara-tendulkar-said-love-you/articleshow/132214790.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-06T10:47:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'अब रात में सो नहीं पाता...', SKY का दिल छू लेने वाला खुलासा, VIDEO",
-                "desc": "भारतीय टी20 टीम के पूर्व कप्तान सूर्यकुमार यादव ने पिता बनने के बाद अपनी जिंदगी में आए बदलावों का खुलासा किया है. उन्होंने बताया कि अब रातों की नींद उड़ चुकी है और परिवार उनकी सबसे बड़ी प्राथमिकता है",
-                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/07/THUMB-06-JULY-20ITG-1783328661708.jpg?size=*:675",
-                "url": "https://www.aajtak.in/visualstories/sports/suryakumar-yadav-fatherhood-changed-routine-sleep-new-haircut-story-tspok-282864-06-07-2026",
-                "source": "AajTak",
-                "date": "2026-07-06T10:29:26Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IND vs ENG 3rd T20I Pitch Report: नॉटिंघम में गेंदबाजों की आने वाली है शामत! पिच का मिजाज कर रहा है गजब इशारा",
-                "desc": "भारतीय टीम इंग्लैंड के खिलाफ तीसरे टी20 मैच में जीत हासिल कर सीरीज में वापसी करना चाहेगी। यह मैच नॉटिंघम के ट्रेंट ब्रिज मैदान पर खेला जाएगा, जिसकी पिच बल्लेबाजों के लिए मददगार मानी जा रही है।",
-                "image": "https://www.jagranimages.com/images/2026/07/06/article/image/IND-vs-ENG-Pitch-Report-1783331444510_m.webp",
-                "url": "https://www.jagran.com/cricket/headlines-ind-vs-eng-3rd-t20i-nottingham-trent-bridge-pitch-report-40296739.html",
-                "source": "Jagran",
-                "date": "2026-07-06T09:56:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Kentucky Gov. Andy Beshear requests update on Mitch McConnell's health",
+                "desc": "Kentucky Gov. Andy Beshear formally requested an update from Sen. Mitch McConnell amid a weekslong hospitalization that has prompted growing speculation about his health.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/02/ade4fea6-ecb1-48de-a282-2700c9376659/thumbnail/1200x630/15c5f18cf5894dc0d91f940bb19c6095/gettyimages-2276597000.jpg",
+                "url": "https://www.cbsnews.com/news/mitch-mcconnell-health-update-andy-beshear-kentucky-governor/",
+                "source": "CBS News",
+                "date": "2026-07-08T14:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Travis Kelce details Taylor Swift proposal after MSG wedding",
+                "desc": "Travis Kelce, who recently tied the knot with Taylor Swift, looked back on his proposal to the singer in a new episode of his \"New Heights\" podcast.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/08/USAT/90845540007-getty-images-2277901712.jpg?crop=2996,1685,x5,y153&width=2996&height=1685&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/07/08/travis-kelce-taylor-swift-wedding-proposal-new-heights-podcast/90845468007/",
+                "source": "USA Today",
+                "date": "2026-07-08T14:17:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Former Maine senator Troy Jackson calls for Graham Platner to drop out : NPR",
+                "desc": "Former Maine state Sen. Troy Jackson has filed to replace Graham Platner on the U.S. Senate ballot in Maine after Platner's girlfriend accused him of sexual assault.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+260/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F41%2F20%2Fc7111ffc4b8aa0c3f0b343a0c84d%2Fgettyimages-2273514346.jpg",
+                "url": "https://www.npr.org/2026/07/08/nx-s1-5885757/troy-jackson-graham-platner",
+                "source": "NPR",
+                "date": "2026-07-08T14:15:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Video: Conor McGregor (finally) arrives in Las Vegas, checks into ‘beautiful’ T-Mobile Arena for UFC 329",
+                "desc": "Video: Conor McGregor ends speculation he was going to no-show Max Holloway fight at UFC 329 by arriving in Las Vegas at T-Mobile Arena for his July 11 return.",
+                "image": "https://platform.mmamania.com/wp-content/uploads/sites/110/2026/07/gettyimages-1200430374.jpg?quality=90&strip=all&crop=0%2C11.896680274014%2C100%2C76.206639451971&w=1200",
+                "url": "https://www.mmamania.com/ufc-news/455609/video-conor-mcgregor-finally-arrives-las-vegas-checks-into-beautiful-t-mobile-arena-ufc-329",
+                "source": "MMA Mania",
+                "date": "2026-07-08T14:14:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "DNA evidence from Charlie Kirk assassination disputed by defendant's lawyers",
+                "desc": "A member of Tyler Robinson's defense team interrogated a DNA analyst from the FBI on Tuesday about the techniques she used to connect Robinson to a rifle found wrapped inside a towel at Utah Valley University, where Kirk was shot in September while speaking to a crowd.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-08T005032Z_1684285083_RC299MAE98J1_RTRMADP_3_USA-SHOOTING-KIRK-1024x683.jpg",
+                "url": "https://www.pbs.org/newshour/nation/dna-evidence-from-charlie-kirk-assassination-disputed-by-defendants-lawyers",
+                "source": "PBS",
+                "date": "2026-07-08T14:10:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wide Galaxy Z Fold 8 leaks in official-looking renders, confirms final details",
+                "desc": "Samsung's Galaxy Z Fold 8 is set to launch on July 22nd, but you don't have to wait that long to learn all about the company's wide foldable.",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-z-wide-fold-onl-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/08/galaxy-z-fold-8-leaks-in-official-looking-renders-confirming-some-final-details/",
+                "source": "9to5Google",
+                "date": "2026-07-08T14:05:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Blue Origin reportedly raising $10B at $130B valuation",
+                "desc": "Blue Origin is raising $10 billion at a $130 billion pre-money valuation from Coatue Asset Management, Bezos himself, and other big-name investors, The New York Times reported.",
+                "image": "https://techcrunch.com/wp-content/uploads/2025/01/blue-origin-new-glenn-launch.jpg?resize=1200,909",
+                "url": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
+                "source": "TechCrunch",
+                "date": "2026-07-08T14:04:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Spotify just gave users a highly requested feature after years of feedback",
+                "desc": "Fresh off its polarizing disco ball icon fix, Spotify is continuing to listen to users with easy-win changes. Starting today,...",
+                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/Spotify.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5mac.com/2026/07/08/spotify-just-gave-users-a-highly-requested-feature-after-years-of-feedback/",
+                "source": "9to5Mac",
+                "date": "2026-07-08T14:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World Cup 2026: Egyptian FA calls out 'controversial and influential refereeing incidents' in Argentina loss",
+                "desc": "The Egyptian Football Association was not pleased with the way Tuesday's game was called.",
+                "image": "https://s.yimg.com/lo/mysterio/api/97ab83bd083f193c1b2019f2e9528cf5a8242e48d672f54b6412642ce89c4caa/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F69ff6277-2322-453c-bc63-40ab00ef20fd",
+                "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-egyptian-fa-calls-out-controversial-and-influential-refereeing-incidents-in-argentina-loss-140058246.html",
+                "source": "Yahoo Sports",
+                "date": "2026-07-08T14:00:58Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Pixel Watch 5 price increase expected as configs and release date leaked ahead of Made by Google event",
                 "desc": "Google's annual Made by Google event is confirmed for next month, and the new Pixel Watch 5 has been leaked ahead of the presentation.",
@@ -2629,90 +2710,36 @@
                 "source": "PC Guide",
                 "date": "2026-07-07T15:38:06Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Russia’s Largest Oil Refinery Halts Production After Drone Attack, Sources Say",
-                "desc": "Russia's largest oil refinery in the Omsk region of western Siberia has halted operations following a Ukrainian drone attack, two industry sources said on Tuesday.",
-                "image": "https://static.themoscowtimes.com/image/og/c2/93190__c2c19dfb08b27e37e3508427267f7d95.jpg",
-                "url": "https://www.themoscowtimes.com/2026/07/07/russias-largest-oil-refinery-halts-production-after-drone-attack-sources-say-a93190",
-                "source": "The Moscow Times",
-                "date": "2026-07-07T15:31:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Mary Hartman, Mary Hartman' Star Was 87",
-                "desc": "Louise Lasser, the comedian who was Woody Allen's first leading lady and the title character on Mary Hartman, Mary Hartman, has died at 87.",
-                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/Louise-Lasser-Obit-Template-Headshot-Getty-H-2026.jpg?w=1296&h=730&crop=1",
-                "url": "https://www.hollywoodreporter.com/tv/tv-news/louise-lasser-dead-mary-hartman-mary-hartman-star-1236639950/",
-                "source": "The Hollywood Reporter",
-                "date": "2026-07-07T15:30:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Live Updates: Midtown Manhattan Building Evacuated as Officials Warn of Collapse",
-                "desc": "The complex, which once housed offices for the pharmaceutical company Pfizer, is being converted to residences. Officials inspecting it found that support columns were buckling and upper floors were sagging.",
-                "image": "https://static01.nyt.com/images/2026/07/07/multimedia/07-midtown-building-promo-launch/07-midtown-building-promo-launch-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/live/2026/07/07/nyregion/pfizer-building-midtown-collapse",
-                "source": "The New York Times",
-                "date": "2026-07-07T15:29:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Christopher Nolan's 'The Odyssey' movie stuns in first reactions",
-                "desc": "The first reactions to Christopher Nolan's highly anticipated \"The Odyssey\" movie have arrived, and they're through the roof.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/11/NABJ/90029395007-odyssey.jpg?crop=3073,1730,x0,y159&width=3073&height=1730&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/entertainment/movies/2026/07/07/the-odyssey-first-reactions-premiere-christopher-nolan-movie/90831639007/",
-                "source": "USA Today",
-                "date": "2026-07-07T15:29:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What to know about the Legionnaires' disease outbreak in NYC",
-                "desc": "A Legionnaires’ disease cluster in New York City has sickened more than 20 people in two Upper East Side neighborhoods.",
-                "image": "https://dims.apnews.com/dims4/default/0012e3a/2147483647/strip/true/crop/3009x2005+18+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff1%2F37%2F679fa911927a97969916af2c9ae3%2F7668ce7d22704b6d80fddcf6d58f7b77",
-                "url": "https://apnews.com/article/legionnaires-disease-pneumonia-new-york-city-upper-east-side-49b14e337af42cdf1542fc19a5f9ff5b",
-                "source": "AP News",
-                "date": "2026-07-07T15:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Reform UK’s Farage says he’ll quit as lawmaker and seek reelection amid donation allegations",
-                "desc": "Reform UK leader Nigel Farage says he’ll quit his Parliament seat and seek reelection in an attempt to clear his name over financial allegations.",
-                "image": "https://dims.apnews.com/dims4/default/d855037/2147483647/strip/true/crop/5187x3456+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbf%2Fe3%2Fe607cad96d04316962f948b9c9c6%2F5a15e6e2e2ba41ff803c5782f7a7b166",
-                "url": "https://apnews.com/article/nigel-farage-reform-uk-future-donations-scandal-5875dcf037074b013117833f35ab17a3",
-                "source": "AP News",
-                "date": "2026-07-07T15:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "iPhone 18 Pro Could Be Noticeably Thicker Than iPhone 17 Pro",
-                "desc": "The iPhone 18 Pro's aluminum frame and camera housing are both set to grow thicker than the iPhone 17 Pro's, according to new posts from the leaker known as \"Fixed Focus Digital\". In a post on Weibo today, the leaker said that aluminum alloy mid-frames are \"going to be used in straight-edge phones for a long time to come,\" referring to Apple's continued use of the material introduced with the iPhone 17 Pro rather than a return to titanium.",
-                "image": "https://images.macrumors.com/t/2m4KcWA6pS7a-JVsxtfRZQ7UdMY=/1920x/article-new/2025/09/iPhone-17-Pro-Side-Profile.jpg",
-                "url": "https://www.macrumors.com/2026/07/07/iphone-18-pro-could-be-noticeably-thicker/",
-                "source": "MacRumors",
-                "date": "2026-07-07T14:56:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Great white shark filmed feasting in Rhode Island waters",
-                "desc": "In a rare underwater view, a great white shark was spotted swimming off Block Island—marking what the Atlantic Shark Institute said may be the first time a white shark has ever been caught on camera in Rhode Island waters.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133607701.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/07/07/us-news/great-white-shark-caught-feasting-in-rhode-island-waters/",
-                "source": "New York Post",
-                "date": "2026-07-07T14:41:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The terrifying way Legionnaires' disease is spreading on NYC's Upper East Side",
-                "desc": "Officials have made the shocking revelation that the ongoing outbreak of Legionnaire's disease on the Upper East Side wasn’t caused by a building’s decrepit drinking water system, but by water mist from a cooling tower erected to help New Yorkers beat the heat.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/legionnaires-disease-nyc-upper-east-side-cluster-comp.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/07/07/us-news/the-terrifying-way-legionnaires-disease-is-spreading-on-nycs-upper-east-side/",
-                "source": "New York Post",
-                "date": "2026-07-07T14:33:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Apple Begins Testing Controversial Chinese Memory Chips",
+                "desc": "Apple is testing DRAM memory chips from China's state-backed ChangXin Memory Technologies (CXMT), according to a new report from the Financial Times. Last week, it emerged that Apple was in discussions with CXMT and fellow Chinese chipmaker Yangtze Memory Technologies (YMTC) about sourcing memory, with no deal finalized.",
+                "image": "https://images.macrumors.com/t/J46PnqFon6uZq7AZIAThCrBf36g=/2500x/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
+                "url": "https://www.macrumors.com/2026/07/08/apple-begins-testing-controversial-chinese-memory/",
+                "source": "MacRumors",
+                "date": "2026-07-08T14:18:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "5.6 availability after holding back release",
+                "desc": "OpenAI unveiled GPT-5.6 at the end of June, but the public release was held back while the U.S. government reviewed...",
+                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5mac.com/2026/07/08/openai-shares-update-on-gpt-5-6-availability-after-holding-back-release/",
+                "source": "9to5Mac",
+                "date": "2026-07-08T14:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Blue Origin reportedly raising $10B at $130B valuation",
+                "desc": "Blue Origin is raising $10 billion at a $130 billion pre-money valuation from Coatue Asset Management, Bezos himself, and other big-name investors, The New York Times reported.",
+                "image": "https://techcrunch.com/wp-content/uploads/2025/01/blue-origin-new-glenn-launch.jpg?resize=1200,909",
+                "url": "https://techcrunch.com/2026/07/08/blue-origin-reportedly-raising-10b-at-130b-valuation/",
+                "source": "TechCrunch",
+                "date": "2026-07-08T14:04:53Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Waymo starts driverless rides in San Diego, Las Vegas, Tampa, Denver",
                 "desc": "Waymo has a big lead in the nascent U.S. robotaxi market, and is opening up in more cities.",
@@ -3225,36 +3252,81 @@
                 "source": "CNBC",
                 "date": "2026-07-06T13:58:27Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Versant Acquires Sports Tech Firm Full Swing For $530M",
-                "desc": "Versant Media Group has acquired sports tech firm Full Swing for $530 million, expanding its portfolio of businesses outside of traditional linear TV.",
-                "image": "https://deadline.com/wp-content/uploads/2026/05/Versant.jpg?w=1024",
-                "url": "https://deadline.com/2026/07/versant-acquires-sports-tech-firm-full-swing-530-million-1236974648/",
-                "source": "Deadline",
-                "date": "2026-07-06T13:33:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Microsoft is selling off four Xbox studios as part of significant gaming cuts",
-                "desc": "Double Fine and Compulsion Games are going independent, and Microsoft is also selling Ninja Theory and Undead Labs.",
-                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279118333.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-                "url": "https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026",
-                "source": "The Verge",
-                "date": "2026-07-06T13:31:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump rings openings bells for NYSE, Nasdaq from White House",
-                "desc": "President Donald Trump rang the opening bells for the New York Stock Exchange and Nasdaq from the White House on Monday to mark the launch of Trump Accounts.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/0/0/trump-accounts.png?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/politics/trump-rings-nyse-nasdaq-opening-bells-celebrate-launch-trump-accounts",
-                "source": "Fox Business",
-                "date": "2026-07-06T13:18:08Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Mariska Hargitay to Host the Emmys",
+                "desc": "The “Law & Order: SVU” star is a departure from the comedians and sitcom actors who have typically hosted the annual awards show.",
+                "image": "https://static01.nyt.com/images/2026/07/07/multimedia/07biz-emmy-host-Mariska-Hargitay2-lzfv/07biz-emmy-host-Mariska-Hargitay2-lzfv-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/07/business/media/mariska-hargitay-emmys-host.html",
+                "source": "The New York Times",
+                "date": "2026-07-08T14:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Travis Kelce breaks cover to confirm long-awaited Taylor Swift news after wedding: 'Forever'",
+                "desc": "Travis Kelce finally opened up about the timeline of his proposal to now-wife Taylor Swift in the first \"New Heights\" episode released since their wedding",
+                "image": "https://s.yimg.com/lo/mysterio/api/cdf21a026a5d968203152e8e96833410b98d097e541791c7aefb5e66faef2f8c/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fa459f0ede683a356ced28188fdb42e43",
+                "url": "https://www.yahoo.com/entertainment/celebrity/articles/travis-kelce-breaks-cover-confirm-142744311.html",
+                "source": "Yahoo",
+                "date": "2026-07-08T14:27:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taylor Swift used an ingenious design detail to stop her wedding invites leaking",
+                "desc": "She wasn’t afraid to name and shame.",
+                "image": "https://cdn.mos.cms.futurecdn.net/zJXz4YFda7MMGQBNDnhntn-1920-80.jpg",
+                "url": "https://www.creativebloq.com/design/logos-icons/taylor-swift-used-an-ingenious-design-detail-to-stop-her-wedding-invites-leaking",
+                "source": "Creative Bloq",
+                "date": "2026-07-08T14:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "‘Party Rock Anthem’ singer’s dad releases shocking new details of daughter’s death at 36: ‘Deeply disappointed’",
+                "desc": "\"As a family, we all rallied around her and did everything we could to support her.\"",
+                "image": "https://s.yimg.com/lo/mysterio/api/2482942e9bbcb241abe13dacf58b81ae039cb3e93a41443b4ae72914bf7c7e3a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2Ffa516196c3fb07f20d2ff214f2c924ef",
+                "url": "https://www.yahoo.com/entertainment/celebrity/articles/party-rock-anthem-singer-dad-141904088.html",
+                "source": "Yahoo",
+                "date": "2026-07-08T14:19:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Lauren Bennett’s dad details weeks leading up to singer’s death at 36",
+                "desc": "Lauren Bennett’s death was confirmed in a statement from her former group GRL. Bennett’s father posted a tribute on Instagram following the 'Party Rock Anthem' singer's death.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/COMP-3-4.jpg?quality=75&strip=all&w=1200",
+                "url": "https://nypost.com/2026/07/08/entertainment/lauren-bennetts-dad-details-weeks-leading-up-to-singers-death-at-36/",
+                "source": "New York Post",
+                "date": "2026-07-08T14:19:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Insane country music concert brawl goes viral after fans fight during Gavin Adcock show",
+                "desc": "Gavin Adcock concert brawl at The Wharf Amphitheater in Orange Beach, Alabama goes viral as fans throw punches in the stands during the country music show.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Gavin_Adcock_Brawl.jpg",
+                "url": "https://www.foxnews.com/outkick-culture/insane-country-music-concert-brawl-goes-viral-fans-fight-during-gavin-adcock-show",
+                "source": "Fox News",
+                "date": "2026-07-08T14:17:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Travis Kelce explains Taylor Swift proposal after MSG wedding",
+                "desc": "Travis Kelce, who recently tied the knot with Taylor Swift, looked back on his proposal to the singer in a new episode of his \"New Heights\" podcast.",
+                "image": "https://s.yimg.com/lo/mysterio/api/b065ddc311768f6af1608c899477ccb598bc9dc682c63fba39c61278cacd5ca0/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F70f2859dc3dfcc616847c103f5e11c4b",
+                "url": "https://ca.news.yahoo.com/travis-kelce-explains-taylor-swift-141717692.html",
+                "source": "Yahoo News Canada",
+                "date": "2026-07-08T14:17:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Travis Kelce details Taylor Swift proposal after MSG wedding",
+                "desc": "Travis Kelce, who recently tied the knot with Taylor Swift, looked back on his proposal to the singer in a new episode of his \"New Heights\" podcast.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/08/USAT/90845540007-getty-images-2277901712.jpg?crop=2996,1685,x5,y153&width=2996&height=1685&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/07/08/travis-kelce-taylor-swift-wedding-proposal-new-heights-podcast/90845468007/",
+                "source": "USA Today",
+                "date": "2026-07-08T14:17:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "2026 Emmy Nominations: Watch the Livestream",
                 "desc": "Watch the livestream for the 2026 Emmy Awards nominations.",
@@ -3722,81 +3794,63 @@
                 "source": "Yahoo",
                 "date": "2026-07-07T10:40:41Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Lauren Bennett, singer best known for 'Party Rock Anthem,' dies",
-                "desc": "Singer Lauren Bennett, best known for her featured vocals on the band LMFAO's \"Party Rock Anthem,\" has died at age 36.",
-                "image": "https://kubrick.htvapps.com/htv-prod/images/c91aa30d-6891-44cf-9c9d-1c00b62dd34c.jpg?crop=1.00xw:0.848xh;0,0.0482xh&resize=1200:*",
-                "url": "https://www.wlky.com/article/singer-lauren-bennett-party-rock-anthem-dies/71847718",
-                "source": "WLKY",
-                "date": "2026-07-07T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Book Review: ‘You Won’t Get Free of It,’ by Rachel Aviv",
-                "desc": "Rachel Aviv’s essay collection, “You Won’t Get Free of It,” shows the breadth and complexity of matrilineal relationships.",
-                "image": "https://static01.nyt.com/images/2026/07/07/multimedia/07tbr-aviv-review-mcfv/07tbr-aviv-review-mcfv-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/07/books/review/rachel-aviv-you-wont-get-free-of-it.html",
-                "source": "The New York Times",
-                "date": "2026-07-07T09:02:46Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Few Composers Can Sell Out Arenas. He’s One of Them.",
-                "desc": "Joe Hisaishi got famous writing the soundtracks to Hayao Miyazaki’s Studio Ghibli films. Now he is focusing on his first love: classical music.",
-                "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12cul-hisaishi-lvzm/12cul-hisaishi-lvzm-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/07/arts/music/joe-hisaishi-composer-studio-ghibli.html",
-                "source": "The New York Times",
-                "date": "2026-07-07T09:01:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nipsey Hussle Kids Receive Inheritance From Estate Worth Millions",
-                "desc": "Nipsey Hussle’s children finally received their cut of the late rapper’s estate ... TMZ has learned.",
-                "image": "https://imagez.tmz.com/image/b4/16by9/2026/07/06/b4e99a514be14b3aad021e6288444e85_xl.png",
-                "url": "https://www.tmz.com/2026/07/07/nipsey-hussle-kids-receive-share-from-estate/",
-                "source": "TMZ",
-                "date": "2026-07-07T08:00:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Kimmel’ Guest Host Tiffany Haddish Roasts Trump’s Fourth of July Party",
-                "desc": "The comedian and actress joked that “there was more people at my bat mitzvah” than at America’s 250th birthday party.",
-                "image": "https://static01.nyt.com/images/2026/07/07/arts/07latenight/07latenight-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/07/arts/television/kimmel-tiffany-haddish-trump.html",
-                "source": "The New York Times",
-                "date": "2026-07-07T05:42:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Virtual Production Company Orbital Studios Moving To Television City In L.A.",
-                "desc": "Virtual production company Orbital Studios, whose credits include Netflix's Nemesis and FX's The Drop: A Snowfall Saga, is moving to Television City in L.A.",
-                "image": "https://deadline.com/wp-content/uploads/2026/07/Orbital-Studios-Television-City.jpg?w=1024",
-                "url": "https://deadline.com/2026/07/orbital-studios-moving-to-television-city-los-angeles-1236975338/",
-                "source": "Deadline",
-                "date": "2026-07-07T02:30:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What Donna Kelce, celeb guests have said about Travis Kelce, Taylor Swift's wedding",
-                "desc": "Donna Kelce and celebrity guests are sharing details from the Madison Square Garden wedding of Travis Kelce and Taylor Swift.",
-                "image": "https://i.abcnewsfe.com/a/a009e772-979a-4be9-ae69-32a51f63efcb/swift-wedding-2-gty-jef-260706_1783346217115_hpMain_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/GMA/Culture/donna-kelce-celeb-guests-travis-kelce-taylor-swift/story?id=134513370",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-07-06T16:32:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Brooke Shields slams Trey Parker, Matt Stone in Casa Bonita dispute",
-                "desc": "Brooke Shields is calling out the creators of \"South Park,\" Trey Parker and Matt Stone, over a worker dispute at their Casa Bonita restaurant.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/06/USAT/90821456007-2277012634.jpg?crop=2999,1687,x0,y0&width=2999&height=1687&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/07/06/brooke-shields-south-park-trey-parker-matt-stone-casa-bonita/90820663007/",
-                "source": "USA Today",
-                "date": "2026-07-06T16:28:00Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "New PGA Tour format: Rory McIlroy says Scottish Open must be protected",
+                "desc": "Rory McIlroy urges the PGA Tour to \"be careful\" with the future of the Scottish Open when it introduces a two-tier format in 2028.",
+                "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2350/live/f9bbb6c0-7ac9-11f1-b541-536d253827b8.jpg",
+                "url": "https://www.bbc.com/sport/golf/articles/ceqde8z04dgo",
+                "source": "BBC",
+                "date": "2026-07-08T14:34:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Tour de France's Infernal Present Portends Its Impossible Future",
+                "desc": "SAINT-GAUDENS, France — On Monday morning, the Tour de France’s media-wranglers sent us all a text announcing something genuinely shocking for such a French organization: They had banned smoking. The ASO said nobody could smoke in the TV areas “in order to combat fire risks,” as that day’s racing finished 60 kilometers west of the…",
+                "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/07/firehose.jpg",
+                "url": "https://defector.com/the-tour-de-frances-infernal-present-portends-its-impossible-future",
+                "source": "Defector",
+                "date": "2026-07-08T14:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Over 9K players in WSOP chasing $10M top prize",
+                "desc": "Over 9,000 players are entered in the World Series of Poker, chasing a top prize of $10 million.",
+                "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0702%2Fr1683309_1296x729_16%2D9.jpg",
+                "url": "https://www.espn.com/poker/story/_/id/49306250/over-9k-players-wsop-chasing-10m-top-prize",
+                "source": "ESPN",
+                "date": "2026-07-08T14:21:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pacific Notes: Suns, B. Jackson, Lakers, Clippers",
+                "desc": "Brian Gregory says continuity is key for the Suns, Bobby Jackson isn't returning to Doug Christie's staff, and more.",
+                "image": "https://cdn.hoopsrumors.com/files/2026/05/Jordan-Goodwin-900x664.jpg",
+                "url": "https://www.hoopsrumors.com/2026/07/pacific-notes-suns-b-jackson-lakers-clippers.html",
+                "source": "Hoops Rumors",
+                "date": "2026-07-08T14:19:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wimbledon disqualifies junior player Ida Wobker for throwing racket",
+                "desc": "Wimbledon junior tennis player Ida Wobker, 15, was disqualified from the women's junior singles tournament after throwing her racket into the stands during a match.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Wimbledon-General-2026.jpg",
+                "url": "https://www.foxnews.com/sports/15-year-old-exits-wimbledon-junior-draw-racket-throwing-incident-ends-first-round-match",
+                "source": "Fox News",
+                "date": "2026-07-08T14:05:20Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "World Cup 2026: Egyptian FA calls out 'controversial and influential refereeing incidents' in Argentina loss",
+                "desc": "The Egyptian Football Association was not pleased with the way Tuesday's game was called.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/15vvVb.kQbqzwXDcF7dzmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/69ff6277-2322-453c-bc63-40ab00ef20fd",
+                "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-egyptian-fa-calls-out-controversial-and-influential-refereeing-incidents-in-argentina-loss-140058246.html",
+                "source": "Yahoo Sports",
+                "date": "2026-07-08T14:00:58Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Bob Myers goes on Rich Paul’s show, talks LeBron (duh), Jaylen Brown",
                 "desc": "Bob Myers acquitted himself quite well and made the Sixers look good.",
@@ -4282,62 +4336,8 @@
                 "source": "HoopsRumors.com",
                 "date": "2026-07-06T13:00:33Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Max Holloway gives his opinion on whether Conor McGregor would meet him in the middle for a ‘point down’ slugfest",
-                "desc": "Max Holloway doesn’t know if his fight with Conor McGregor is going to make it far enough for his famous ‘point down’ move.",
-                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/03/gettyimages-2226083000.jpg?quality=90&strip=all&crop=0%2C3.9771854048117%2C100%2C78.53978103155&w=1200",
-                "url": "https://www.mmafighting.com/ufc/497783/max-holloway-reveals-if-he-believes-conor-mcgregor-would-meet-him-in-the-middle-for-point-down-slugfest",
-                "source": "MMA Fighting",
-                "date": "2026-07-06T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NASCAR winner's pro-America message will make the left fume, Bubba Wallace's Fourth of July memo & fans fight!",
-                "desc": "Chase Briscoe won at Chicagoland Speedway in the Bass Pro Shops red, white and blue Toyota on Fourth of July weekend, holding off Christopher Bell in NASCAR's return.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/briscoe1.jpg",
-                "url": "https://www.foxnews.com/outkick-sports/nascar-winners-pro-america-message-make-left-fume-bubba-wallace-fourth-july-memo-fans-fight",
-                "source": "Fox News",
-                "date": "2026-07-06T12:51:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Fatigue, Tension, Joy: England Pulls a World Cup All-Nighter",
-                "desc": "The game against Mexico started at 2 a.m. in Britain. Pubs were allowed to stay open unusually late for fans to share the drama together.",
-                "image": "https://static01.nyt.com/images/2026/07/06/multimedia/06int-UK-WORLDCUP-LONDON-PUB-01-promo/06int-UK-WORLDCUP-LONDON-PUB-01-zljh-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/06/world/europe/england-mexico-world-cup-london.html",
-                "source": "The New York Times",
-                "date": "2026-07-06T12:31:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Morning Report: Alexander Volkanovski gives his prediction for Conor McGregor vs. Max Holloway 2",
-                "desc": "Alexander Volkanovski picks Max Holloway to beat Conor McGregor at UFC 329.",
-                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/07/gettyimages-2250231746.jpg?quality=90&strip=all&crop=0%2C10.728487898403%2C100%2C78.543024203194&w=1200",
-                "url": "https://www.mmafighting.com/latest-news/497715/morning-report-alexander-volkanovski-gives-his-prediction-for-conor-mcgregor-vs-max-holloway-2",
-                "source": "MMA Fighting",
-                "date": "2026-07-06T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ten-man England survive siege of the Azteca to reach quarter-finals in World Cup classic",
-                "desc": "Analysis of the World Cup last 16 game between Mexico and England",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/05231635/2026-07-06T031248Z_1027349874_UP1EM7608TIIV_RTRMADP_3_SOCCER-WORLDCUP-MEX-ENG-scaled.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7416167/2026/07/05/england-mexico-azteca-siege-world-cup/",
-                "source": "The New York Times",
-                "date": "2026-07-06T11:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How the US and Belgium match up, prediction for World Cup Round of 16",
-                "desc": "The incredible decision by FIFA to reinstate Folarin Balogun on Sunday almost overshadowed that there is a match to be played Monday, in which 21 players aside from the U.S. striker will be on the field at all times — well, barring another red card.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-k990h7i2o-1783288411713.jpg?quality=75&strip=all&1783274047&w=1200",
-                "url": "https://nypost.com/2026/07/06/sports/how-the-us-and-belgium-match-up-prediction-for-world-cup-round-of-16/",
-                "source": "New York Post",
-                "date": "2026-07-06T11:00:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T02:00:48.771594Z"
+    "lastGlobalSync": "2026-07-09T02:40:52.240218Z"
 }
