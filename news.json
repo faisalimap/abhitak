@@ -1628,6 +1628,15 @@
         ],
         "sports": [
             {
+                "title": "'तिलक वर्मा जल्द ही भारतीय टीम के कप्तान भी बनेंगे', पूर्व चीफ सिलेक्टर ने चलाया तंज का तीर",
+                "desc": "India vs England: कृष्णमाचारी श्रीकांत ने तिलक वर्मा की कड़ी आलोचना की है। तिलक इंग्लैंड के खिलाफ तीसरे टी20 में जूझते हुए नजर आए। वह भारतीय टी20 टीम के उपकप्तान हैं।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/08/1600x900/logo/Kris_Srikkanth_on_Tilak_Varma_1783513894112_1783513915913_9fce57a2-4110-41a2-bfe2-071a3308adeb.jpg",
+                "url": "https://www.livehindustan.com/cricket/tilak-varma-will-soon-become-team-india-captain-also-ex-chief-selector-kris-srikkanth-taunted-after-ind-vs-eng-3rd-t20i-201783513741262.html",
+                "source": "Hindustan",
+                "date": "2026-07-08T12:54:53Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "T20I में 50 पारियों में सबसे ज्यादा छक्के, अभिषेक शर्मा और ईशान किशन में हैरतअंगेज अंतर",
                 "desc": "India vs England: अभिषेक शर्मा और ईशान किशन टी20 इंटरनेशनल क्रिकेट में 50 पारियां खेल चुके हैं। हालांकि, छक्के जड़ने के मामले में दोनों के बीच हैरतअंगेज अंतर है।, Cricket Hindi News - Hindustan",
                 "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/08/1600x900/logo/Abhishek_Sharma_Ishan_Kishan_Sixes_in_50_innings_1783509553761_1783509553881_42a15c50-4056-435b-b74b-99562770a75f.jpg",
@@ -2157,20 +2166,47 @@
                 "source": "Live Hindustan",
                 "date": "2026-07-06T09:33:17Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Women's T20 World Cup 2026: ऑस्ट्रेलिया ने रिकॉर्ड सातवीं बार जीता T20 वर्ल्ड कप, फाइनल में मेजबान इंग्लैंड पस्त",
-                "desc": "विमेंस टी20 क्रिकेट में ऑस्ट्रेलियाई टीम ने एक बार फिर बादशाहत कायम की है. लॉर्ड्स में आयोजित खिताबी मुकाबले में ऑस्ट्रेलिया ने इंग्लैंड को 7 विकेट से हराकर रिकॉर्ड सातवीं बार टी20 विश्व चैम्पियन बनने का गौरव हासिल किया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4a97955bcd4-beth-mooney-054239685-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/eng-vs-aus-final-highlights-women-t20-world-cup-2026-england-vs-australia-tspoa-dskc-2594637-2026-07-05",
-                "source": "AajTak",
-                "date": "2026-07-05T17:47:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Trump to wrap NATO meeting with news conference as he navigates tensions with allies",
+                "desc": "President Trump has made it clear the U.S. and Turkey are friends — better friends than some other NATO allies.",
+                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/08/7f8e0963-775d-41e7-983a-d3f9dd2096db/thumbnail/1200x630/7471c9b445577a87fe4c2a29dc1f3040/gettyimages-2284602256.jpg",
+                "url": "https://www.cbsnews.com/news/trump-nato-leaders-news-conference-iran-strikes/",
+                "source": "CBS News",
+                "date": "2026-07-08T12:57:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Doctor with \"lust for murder\" convicted in deaths of 15 patients in Germany, sentenced to life in prison",
+                "desc": "The doctor allegedly killed 12 women and three men between 2021 and 2024. He allegedly set fire to some of the victims' apartments to cover up the killings.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/08/9f35a84b-41fb-42c2-abd3-3d76f0e1bf3d/thumbnail/1200x630g2/6cace69ca8fc4ef976e1a8f61e9612db/gettyimages-2284628104.jpg",
+                "url": "https://www.cbsnews.com/news/doctor-lust-for-murder-convicted-deaths-patients-germany-life-sentence/",
+                "source": "CBS News",
+                "date": "2026-07-08T12:54:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Blue Origin, for the first time, is expected to raise private capital",
+                "desc": "The company is raising $10 billion, leading to a valuation of $130 billion.",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/GettyImages-520716332-1152x648.jpg",
+                "url": "https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/",
+                "source": "Ars Technica",
+                "date": "2026-07-08T12:47:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pixel Watch 5 leaks detail higher price, new 'Pyrite' color",
+                "desc": "Ahead of Google’s launch event which is now confirmed for August 12, a pair of new leaks reveal some of...",
+                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/google-pixel-watch-4-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "url": "https://9to5google.com/2026/07/08/google-pixel-watch-5-price-colors-leak/",
+                "source": "9to5Google",
+                "date": "2026-07-08T12:45:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Charlie Kirk assassination live updates: Defense attorneys question DNA evidence",
                 "desc": "A hearing for the Charlie Kirk murder case continues. Tyler Robinson's defense lawyers question the reliability of DNA testing that prosecutors say links him to a weapon.",
@@ -2674,45 +2710,27 @@
                 "source": "politico.eu",
                 "date": "2026-07-07T13:46:25Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "‘Please help us’: Zelenskyy presses NATO for air defense aid",
-                "desc": "Ukraine’s president said Patriot production is not enough and urged Europe to build mass-produced anti-ballistic systems “today, not years from now.”",
-                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/07/GettyImages-2284490499-scaled.jpg",
-                "url": "https://www.politico.eu/article/volodymyr-zelenskyy-ukraine-ankara-nato-for-air-defense-aid/",
-                "source": "politico.eu",
-                "date": "2026-07-07T13:27:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pixel 11 gets higher prices, no 128GB, August release date",
-                "desc": "A new leak reveals that Google is probably raising Pixel 11 series prices, finally ditching the 128GB storage option, and...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/pixel-10-pro-xl-colors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/07/pixel-11-price-128gb-release-date-leak/",
-                "source": "9to5Google",
-                "date": "2026-07-07T13:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "PlayStation Crawls Back To Social Media After Disc-Killing Announcement",
-                "desc": "PlayStation abandoned social media for nearly a week after it announced it would no longer make new discs soon. Now it's back, and gamers are still mad.",
-                "image": "https://imageio.forbes.com/specials-images/imageserve/6a47c349c0d45c2dfdb60730/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-                "url": "https://www.forbes.com/sites/paultassi/2026/07/07/playstation-crawls-back-to-social-media-after-disc-killing-announcement/",
-                "source": "Forbes",
-                "date": "2026-07-07T13:20:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Prince Harry loses Daily Mail lawsuit on Day 1 of UK visit",
-                "desc": "Prince Harry lost the privacy lawsuit he brought against the publisher of the Daily Mail, Associated Newspapers.",
-                "image": "https://s.yimg.com/lo/mysterio/api/ce6f02b1673a871d07c21933a6ecb5f7a41bd22aae4bf2e3e5878bbb1a27bc7a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F3128b5423bd26a832c0c358cd4a3a4d3",
-                "url": "https://www.yahoo.com/news/us/articles/prince-harry-loses-daily-mail-131739660.html",
-                "source": "Yahoo",
-                "date": "2026-07-07T13:17:39Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Global Economic Output Looks Slower for 2026, IMF Says",
+                "desc": "The I.M.F. projected world output would fall to 3 percent for the year, a number pushed down by high commodity prices.",
+                "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08dc-globalecon-hjcg/08dc-globalecon-hjcg-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/08/business/economy/imf-world-economy-inflation.html",
+                "source": "The New York Times",
+                "date": "2026-07-08T13:00:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Blue Origin, for the first time, is expected to raise private capital",
+                "desc": "The company is raising $10 billion, leading to a valuation of $130 billion.",
+                "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/GettyImages-520716332-1152x648.jpg",
+                "url": "https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/",
+                "source": "Ars Technica",
+                "date": "2026-07-08T12:47:35Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Delta rolls out new basic business, premium economy tickets",
                 "desc": "Delta Air Lines is launching basic versions of its premium tickets with new restrictions for customers who spring for the discount.",
@@ -3233,24 +3251,6 @@
                 "url": "https://www.nytimes.com/2026/07/06/business/media/comcast-sky-itv.html",
                 "source": "The New York Times",
                 "date": "2026-07-06T11:48:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Millions brace for flooding after deadly heat, storms damper July 4th celebrations",
-                "desc": "While millions of Americans across the Northeast experienced record-setting temperatures, thunderstorms in the Midwest downed trees, ruptured power lines and made transportation treacherous.",
-                "image": "https://s.yimg.com/lo/mysterio/api/e8b8125226f29e10f86ce34a33b41fa793291a0a4f10989678528b6817f762d7/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F1f46ea0e5bcaa4a89f5da579428505bb",
-                "url": "https://www.yahoo.com/news/weather-news/articles/millions-brace-for-flooding-after-deadly-heat-storms-damper-july-4th-celebrations-114006719.html",
-                "source": "Yahoo",
-                "date": "2026-07-06T11:40:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Millions brace for flooding after deadly heat, storms damper July 4th celebrations",
-                "desc": "While millions of Americans across the Northeast experienced record-setting temperatures, thunderstorms in the Midwest downed trees, ruptured power lines and made transportation treacherous.",
-                "image": "https://s.yimg.com/lo/mysterio/api/e8b8125226f29e10f86ce34a33b41fa793291a0a4f10989678528b6817f762d7/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F1f46ea0e5bcaa4a89f5da579428505bb",
-                "url": "https://www.yahoo.com/news/weather-news/articles/heat-severe-storms-damper-july-225012719.html",
-                "source": "Yahoo",
-                "date": "2026-07-06T11:40:06Z",
                 "priority": "STANDARD"
             }
         ],
@@ -3798,6 +3798,33 @@
         ],
         "sports": [
             {
+                "title": "WNBA All-Star 2026: Snubs, top questions after roster named",
+                "desc": "Who should have been named a WNBA All-Star? Who might be the first pick? Will there be a Bueckers-Malonga alley-oop?",
+                "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0708%2Fr1686291_1296x729_16%2D9.jpg",
+                "url": "https://www.espn.com/wnba/story/_/id/49303218/wnba-all-star-game-2026-snubs-questions-predictions-roster-named-mvp",
+                "source": "ESPN",
+                "date": "2026-07-08T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Merab Dvalishvili sends message to Petr Yan, promises to make Henry Cejudo ‘get drunk’ in Georgia after RAF match",
+                "desc": "Merab Dvalishvili still waiting on Petr Yan but in the meantime he gets to go home to Georgia where he faces Henry Cejudo on Saturday.",
+                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/07/gettyimages-2251289450.jpg?quality=90&strip=all&crop=0%2C4.5369166758916%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.mmafighting.com/ufc/497999/merab-dvalishvili-sends-message-to-petr-yan-promises-to-make-henry-cejudo-get-drunk-in-georgia-after-raf-match",
+                "source": "MMA Fighting",
+                "date": "2026-07-08T13:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FIFA World Cup 2026: Biggest takeaways from the round of 16",
+                "desc": "The last-16 phase is now behind us with plenty of key talking points as the tournament enters the quarterfinals.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260707__2285091672__v1__HighRes__ArgentinaVEgyptRoundOf16FifaWorldCup2026-1783514747.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/sports/2026/7/8/fifa-world-cup-2026-biggest-takeaways-from-the-round-of-16-quarterfinals",
+                "source": "Al Jazeera",
+                "date": "2026-07-08T12:54:58Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Egypt coach suggests FIFA wants to keep Argentina alive in World Cup",
                 "desc": "A call from Egyptian president Abdel Fattah El-Sisi to FIFA president Gianni Infantino probably would lack the same punch as a call from the leader of the free world.",
                 "image": "https://nbcsports.brightspotcdn.com/dims4/default/494df58/2147483647/strip/true/crop/2040x1148+0+106/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F04%2Ff3%2F3e2a37b0433e9db46b7d5607c6cd%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2285126376",
@@ -4309,35 +4336,8 @@
                 "source": "CBS Sports",
                 "date": "2026-07-06T03:23:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "2026 World Cup: Short-handed England holds off Mexico at home behind 2-minute Jude Bellingham brace",
-                "desc": "A straight red card early in the second half brought England down to 10 players, but the Three Lions were still able to overpower El Tri in Mexico City to advance to the quarterfinals.",
-                "image": "https://s.yimg.com/ny/api/res/1.2/1WZTziZYbK68he5XdlVlVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/84352377-9e1e-4f57-b5d2-4f1d6c2f1272",
-                "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-short-handed-england-holds-off-mexico-at-home-behind-2-minute-jude-bellingham-brace-030847028.html",
-                "source": "Yahoo Sports",
-                "date": "2026-07-06T03:16:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Folarin Balogun set to play for United States in World Cup clash as red card suspended",
-                "desc": "Folarin Balogun is set to be able to play for the United States against Belgium after his red card was suspended.",
-                "image": "https://talksport.com/wp-content/uploads/2026/07/folarin-balogun-20-united-states-1092481325.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-                "url": "https://talksport.com/football/world-cup/4391854/folarin-balogun-united-states-belgium-red-card-suspended-world-cup/",
-                "source": "talkSPORT",
-                "date": "2026-07-05T16:47:57Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FIA explains safety car finish at F1 British GP",
-                "desc": "The FIA has blamed a software error for the controversial end to the British GP",
-                "image": "https://cdn-5.motorsport.com/images/amp/YN7wRNV6/s6/fia-safety-car.jpg",
-                "url": "https://www.motorsport.com/f1/news/fia-explains-safety-car-finish-at-british-gp/10836635/",
-                "source": "Motorsport.com",
-                "date": "2026-07-05T16:40:38Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-09T00:40:49.185383Z"
+    "lastGlobalSync": "2026-07-09T01:00:48.111498Z"
 }
