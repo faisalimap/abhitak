@@ -2172,6 +2172,15 @@
     "en": {
         "general": [
             {
+                "title": "Legionnaires’ outbreak rocks New York as experts warn of rising climate threat",
+                "desc": "Officials say climate crisis ‘worsening our exposure’ to bacteria as at least 28 people sickened in Manhattan",
+                "image": "https://i.guim.co.uk/img/media/d021d9359053d33bda60a92e74e8caeb16334d52/270_0_2506_2005/master/2506.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8525a5d67e32daf175fbeded9f43568d",
+                "url": "https://www.theguardian.com/us-news/2026/jul/09/new-york-legionnaires-outbreak",
+                "source": "The Guardian",
+                "date": "2026-07-09T14:01:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "June home sales disappoint as prices reach an all-time high",
                 "desc": "Home sales dropped in June month over month as mortgage rates remain stubbornly high. Prices hit an all-time high.",
                 "image": "https://image.cnbcfm.com/api/v1/image/108290688-1776108462847-gettyimages-2271185271-_73a8368_orwebggl.jpeg?v=1776108562&w=1920&h=1080",
@@ -2700,15 +2709,6 @@
                 "url": "https://www.pcguide.com/news/pixel-watch-5-price-increase-expected-as-configs-and-release-date-leaked-ahead-of-made-by-google-event/",
                 "source": "PC Guide",
                 "date": "2026-07-08T13:58:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Farage’s Resignation Risks Becoming Farce as U.K. Parties Boycott Clacton By-Election",
-                "desc": "Under investigation over an undisclosed gift, the right-wing leader Nigel Farage may end up in a special election against a candidate dressed as a trash can.",
-                "image": "https://static01.nyt.com/images/2026/07/08/world/08int-uk-farage-theater-0001/08int-uk-farage-theater-0001-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/08/world/europe/uk-nigel-farage-resigns-clacton-election.html",
-                "source": "The New York Times",
-                "date": "2026-07-08T13:51:17Z",
                 "priority": "STANDARD"
             }
         ],
@@ -4339,5 +4339,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-10T02:00:32.944853Z"
+    "lastGlobalSync": "2026-07-10T02:01:54.324342Z"
 }
