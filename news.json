@@ -2,6 +2,60 @@
     "hi": {
         "general": [
             {
+                "title": "अमेरिका के ताबड़तोड़ हमले, ईरान का दावा 'बुशहर का न्यूक्लियार पॉवर प्लांट भी निशाने पर",
+                "desc": "बीते दो दिनों में अमेरिका ने ईरान के चाबहार पोर्ट समेत करीब 170 ठिकानों पर बम गिराए हैं. अब दोनों देशों के बीच चल रहे युद्धविराम पर गंभीर सवाल खड़े हो रहे हैं.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/327c/live/7ba60290-7baa-11f1-bee8-53ce494e1abc.jpg",
+                "url": "https://www.bbc.com/hindi/articles/cly9r09rvg4o",
+                "source": "BBC",
+                "date": "2026-07-09T16:30:22Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IND vs ENG: टीम इंडिया को दोहरे झटके, 2 खिलाड़ी इंजर्ड होकर बाहर, वॉश‍िंगटन सुंदर- प्रस‍िद्ध कृष्णा की एंट्री",
+                "desc": "इंग्लैंड के खिलाफ चौथे टी20 से पहले टीम इंडिया को बड़ा झटका लगा. स्पिनर वरुण चक्रवर्ती और तेज गेंदबाज हर्षित राणा चोट के कारण बाहर हो गए हैं. उनकी जगह वॉशिंगटन सुंदर और प्रसिद्ध कृष्णा को प्लेइंग इलेवन में मौका मिला. टॉस जीतकर कप्तान श्रेयस अय्यर ने पहले बल्लेबाजी का फैसला किया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4fcae3a5ec7-india-playing-xi-bristol-t20-092254148-16x9._qca7hinz10zrp_d1ex9wigbzg2s9zc7yl7otom_pxw",
+                "url": "https://www.aajtak.in/sports/cricket/story/ind-vs-eng-4th-t20i-varun-harshit-injury-washington-prasidh-krishna-tspok-dskc-2597859-2026-07-09",
+                "source": "AajTak",
+                "date": "2026-07-09T16:25:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IND vs ENG: भारतीय टीम को बड़ा झटका, 2 खिलाड़ी सीरीज से हुए बाहर, BCCI ने बताई वजह",
+                "desc": "इंग्लैंड दौरे पर मौजूद भारतीय क्रिकेट की मुश्किलों में इजाफा हो गया है। जीत का स्वाद चखे हुए अरसा हो गया है। दूसरी ओर खिलाड़ियों के चोटिल होने से परेशानियां बढ़ गई।",
+                "image": "https://static.langimg.com/nbt/thumb/132293526/ind-vs-eng.jpg?imgsize=351692&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/ind-vs-eng-varun-chakravarthy-harshit-rana-ruled-out-from-the-series-bcci-confirmed/articleshow/132293473.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-09T16:24:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "राज्यसभा चुनाव: TMC छोड़ने वाले तीनों पूर्व सांसद अब BJP उम्मीदवार, आज ही हुए थे शामिल; RS में बढ़ जाएगी NDA की ताकत",
+                "desc": "पश्चिम बंगाल में तृणमूल कांग्रेस के तीन पूर्व राज्यसभा सांसदों सुखेंदु शेखर राय, प्रकाश चिक बड़ाइक और सुष्मिता देव गुरुवार को भारतीय जनता पार्टी (भाजपा) में शामिल हो गए थे। उनके पार्टी में शामिल होने से इस बात की अटकलें तेज हो गई थीं कि तीनों को उम्मीदवार बनाया जाएगा।, India News in Hindi - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/09/1600x900/logo/Sushmita_Dev_Joins_BJP_1783603008086_1783603028261_2ae16572-bc12-435a-a3a9-74218c839db9_1783613797131_0810e3b4-55c8-4065-a595-7936bbf533ac.jpg",
+                "url": "https://www.livehindustan.com/national/rajya-sabha-by-election-bjp-fielded-former-tmc-mps-sushmita-dev-sukhendu-sekhar-ray-prakash-chik-baraik-201783613411200.html",
+                "source": "Hindustan",
+                "date": "2026-07-09T16:18:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "सुपुर्द-ए-खाक हुए अयातुल्ला अली खामेनेई, जनाजे में जुटे लाखों ईरानी",
+                "desc": "ईरान ने अपने सर्वोच्च नेता अयातुल्ला अली खामेनेई का मशहद स्थित इमाम रजा की दरगाह में अंतिम संस्कार किया. खामेनेई की मौत अमेरिकी हवाई हमले में हुई थी, जिसके बाद एक सप्ताह तक शोक जुलूस और सभाएं आयोजित की गईं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4fc753876a0-ayatollah-ali-khamenei-065423417-16x9.jpg",
+                "url": "https://www.aajtak.in/world/story/iran-ali-khamenei-funeral-imam-reza-shrine-mashhad-us-iran-tension-ntcpvp-dskc-2597851-2026-07-09",
+                "source": "AajTak",
+                "date": "2026-07-09T16:13:37Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rajya Sabha Election: BJP ने बंगाल राज्यसभा उपचुनाव के लिए सुखेंदु शेखर रॉय, सुष्मिता देव और प्रकाश चिक बराइक को बनाया उम्मीदवार",
+                "desc": "West Bengal Rajya Sabha Election News: बीजेपी ने पश्चिम बंगाल से राज्यसभा उप चुनाव के लिए सुखेंदु शेखर रॉय, सुष्मिता देव और प्रकाश चिक बराइक को अपना उम्मीदवार बनाया है। इन तीनों नेताओं ने पिछले महीने टीएमसी से इस्तीफा दिया था। इसके बाद आज यानी गुरुवार को बीजेपी में शामिल हुए।",
+                "image": "https://static.langimg.com/nbt/thumb/132293478/west-bengal-rajya-sabha-election.jpg?imgsize=131836&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/state/west-bengal/kolkata/bjp-fields-sukhendu-sekhar-roy-sushmita-dev-and-prakash-chik-baraik-candidate-for-rajya-sabha-by-election-west-bengal/articleshow/132292092.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-09T16:02:16Z",
+                "priority": "CRITICAL_ALERT"
+            },
+            {
                 "title": "बंगाल राज्यसभा उपचुनाव: तीनों पूर्व TMC सांसद अब BJP के उम्मीदवार, आज ही हुए थे पार्टी में शामिल",
                 "desc": "तृणमूल कांग्रेस के जिन तीन नेताओं ने हाल ही में राज्यसभा सांसद के पद से इस्तीफा दिया था, वो आज BJP में शामिल हो गए हैं. बीजेपी जॉइन करते ही पार्टी ने सुखेंदु रॉय, सुष्मिता देब और प्रकाश चिक बराइक को बंगाल में खाली हुई तीन राज्यसभा सीटों के लिए उम्मीदवार घोषित कर दिया है.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4fdabf33bbe-tmc-mps-became-bjp-candidates-093034270-16x9.png",
@@ -485,60 +539,6 @@
                 "url": "https://www.aajtak.in/world/story/pakistani-policemen-killed-bla-attack-balochistan-dead-body-open-coffin-ntcppl-dskc-2597150-2026-07-08",
                 "source": "AajTak",
                 "date": "2026-07-08T14:32:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "भारत की आर्थिक ताकत पर IMF की मुहर, चीन से भी तेज GDP ग्रोथ का अनुमान",
-                "desc": "अंतरराष्ट्रीय मुद्रा कोष ने चालू वित्त वर्ष के लिए भारत की आर्थिक वृद्धि दर के अनुमान में मामूली कमी की है। आर्थिक वृद्धि दर  6.4 प्रतिशत पर रहने की संभावना है।, Business Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/08/1600x900/logo/gdp_news_1783520916201_1783520923347_b0796b1c-68b2-478f-9375-fd6d4558f310.png",
-                "url": "https://www.livehindustan.com/business/imf-sees-india-among-fastest-growing-major-economies-despite-trimming-fy27-gdp-growth-projection-know-what-says-201783520665029.html",
-                "source": "Hindustan",
-                "date": "2026-07-08T14:29:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IMF Growth Projection: भारत सबसे तेज दौड़ने वालों में शुमार, आईएमएफ ने माना लोहा, फिर भी कर दिया ये काम",
-                "desc": "IMF Growth Projection: अंतरराष्‍ट्रीय मुद्रा कोष (आईएमएफ) ने भारत का लोहा माना है। उसने कहा है कि भारत सबसे तेजी से दौड़ने वाली अर्थव्‍यवस्‍थाओं में बना हुआ है। हालांकि, उसने अपने ग्रोथ के अनुमानों को को थोड़ा कम किया है। इसे घटाकर 6.4 फीसदी कर दिया गया है। पहले ग्रोथ का यह अनुमान 6.5 फीसदी था।",
-                "image": "https://static.langimg.com/nbt/thumb/132265997/imf-indian-economy.jpg?imgsize=181748&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/business/business-news/imf-report-india-fastest-growing-economy-but-growth-rate-estimate-reduced/articleshow/132265997.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-08T14:29:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "बारिश के बीच दिल्ली के रोहिणी में चार मंजिला बिल्डिंग गिरी, एक की मौत, मलबे में कई लोगों के दबे होने की आशंका",
-                "desc": "दिल्ली के रोहिणी सेक्टर 16 में एक पुरानी बिल्डिंग बारिश के चलते गिर गई है. मलबे में फंसे लोगों को बचाने के लिए दमकल की चार गाड़ियां मौके पर पहुंची हैं और रेस्क्यू ऑपरेशन जारी है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4e3c00dfbdf-rohini-building-collapse-080059655-16x9.jpg",
-                "url": "https://www.aajtak.in/india/delhi/story/delhi-rohini-building-collapse-rescue-operation-rain-accident-ntcpvp-dskc-2597040-2026-07-08",
-                "source": "AajTak",
-                "date": "2026-07-08T14:24:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'इथेनॉल प्रोडक्शन से मेरा कोई फायदा नहीं', आरोपों पर नितिन गडकरी की सफाई",
-                "desc": "इंडिया टुडे टीवी को दिए एक एक्सक्लूसिव इंटरव्यू में परिवहन मंत्री नितिन गडकरी ने हितों के टकराव के आरोपों को सिरे से खारिज कर दिया. साथ ही यह साफ किया कि उनके परिवार का चीनी व्यवसाय सरकार की इथेनॉल नीति लागू होने से बहुत पहले का है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4e5c72deb01-nitin-gadkari-081925464-16x9.jpeg",
-                "url": "https://www.aajtak.in/india/news/story/nitin-gadkari-on-ethanol-blending-policy-row-claims-conspiracy-ntc-dhrj-rpti-2597148-2026-07-08",
-                "source": "AajTak",
-                "date": "2026-07-08T14:19:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "राम मंदिर चढ़ावा चोरी के आरोपियों के पास मिली चंदे की फर्जी रसीद, किसने और कहां से छपवाई जांच शुरू",
-                "desc": "अयोध्या राम मंदिर में चढ़ावा चोरी के आरोपियों के पास पुलिस को  चंदे की फर्जी रसीद मिली। पुलिस ने जांच-पड़ताल में जुट गई है कि यह रसीद किसने और कहां छपवाई है। पुलिस आरोपियों से भी पूछताछ कर रही है।, Uttar-pradesh Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/08/1600x900/logo/ram_mandir_case_1783519674039_1783519693292_19033f1f-d2fe-441e-8041-c3fe831c0e75.jpg",
-                "url": "https://www.livehindustan.com/uttar-pradesh/ayodhya-police-have-recovered-fake-donation-receipts-from-accused-involved-in-theft-of-offerings-at-the-ram-mandir-201783519216795.html",
-                "source": "Hindustan",
-                "date": "2026-07-08T14:09:10Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "रोहिणी हादसा: 'घबराना मत... सबको बचा लेंगे', मलबे के नीचे दबी सांसों के लिए रेस्क्यू टीम की आवाज बनी उम्मीद, देखें वीडियो",
-                "desc": "दिल्ली रोहिणी बिल्डिंग हादसे में मलबे के नीचे दबी सांसों तक पहुंचने के लिए रेस्क्यू टीम हर पल जिंदगी की जंग लड़ रही है। सामने आए वीडियो में जवान की आवाज- 'घबराना मत, सबको बचा लेंगे', मलबे में फंसे लोगों के लिए उम्मीद की सबसे बड़ी ताकत बन गई।",
-                "image": "https://static.langimg.com/nbt/thumb/132265780/rohini-sector-16-building-collapse.jpg?imgsize=359495&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/metro/delhi/other-news/rohini-sector-16-building-collapse-rescue-operation-ndrf-video-workers-trapped-delhi-building-collapse-emotional-video/articleshow/132264918.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-08T14:06:24Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1086,6 +1086,24 @@
         ],
         "entertainment": [
             {
+                "title": "'लॉकअप' में बंदूक लेकर पहुंचे गोविंदा? बोले- सुनीता को सीने पर गोली मारनी थी, बचेगी 39 साल की शादी!",
+                "desc": "गोविंदा और सुनीता का लंबे समय बाद कैमरे पर आमना-सामना होने वाला है. लॉकअप में हीरो नंबर 1 पत्नी सुनीता से मिलने आएंगे. फैंस इस एपिसोड का बेसब्री से इंतजार कर रहे हैं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4fc74078c28-sunita-ahuja-takes-dig-at-husband-govinda-over-his-affair-283728619-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/ott/story/govinda-lock-upp-entry-to-confront-wife-sunita-ahuja-divorce-extra-marital-affair-farah-khan-shocked-tmovh-dskc-2597850-2026-07-09",
+                "source": "AajTak",
+                "date": "2026-07-09T16:29:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "बहन अंशुला के रिसेप्शन में बैकलेस ब्लाउज पहन जाह्नवी कपूर ने लूटी महफिल, कांजीवरम साड़ी में लगीं सुंदर, Photos",
+                "desc": "अंशुला कपूर और रोहन ठक्कर के वेडिंग रिसेप्शन में जाह्नवी कपूर ने मनीष मल्होत्रा की पेस्टल लैवेंडर कांजीवरम साड़ी पहनकर महफिल लूट ली. ऑफ-शोल्डर ब्लाउज, रॉयल जूलरी और स्लीक बन के साथ उनका यह अप्सरा लुक ट्रेडिशनल और मॉडर्न फैशन का परफेक्ट कॉम्बिनेशन है, जो सोशल मीडिया पर खूब वायरल हो रहा है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a4f397130afc-janhvi-kapoor-090219131-16x9.jpg",
+                "url": "https://www.aajtak.in/lifestyle/fashion/photo/janhvi-kapoor-stuns-in-bold-blouse-with-lavender-kanjeevaram-saree-lool-at-anshula-kapoor-reception-style-tvisx-2597232-2026-07-09",
+                "source": "AajTak",
+                "date": "2026-07-09T16:20:03Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "पब्लिसिटी के तलाक को भुना रहीं आकांक्षा? गौरव ने खोली शादी की पोल, पत्नी से बोले- जिंदगी तबाह कर दी",
                 "desc": "गौरव खन्ना अपनी पत्नी आकांक्षा चमोला से लॉक अप 2 में मिलने पहुंचे. जहां दोनों के बीच तलाक को लेकर काफी लंबी बातचीत हुई. वहीं गौरव ने ये भी खुलासा किया कि उन्हें आकांक्षा की बायसेक्शुअलिटी के बारे में काफी पहले से पता था.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4fc81133e49-gaurav-khanna-akanksha-chamola-091051834-16x9.jpg",
@@ -1606,27 +1624,27 @@
                 "source": "Hindustan",
                 "date": "2026-07-07T16:34:50Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "प्रभास का मजाक उड़ाकर पछताए अरशद वारसी? ट्रोलिंग से डरे, हेटर्स को दिया जवाब",
-                "desc": "एक्टर अरशद वारसी ने हाल ही में बताया कि 2024 में प्रभास पर की गई टिप्पणी के बाद से वे दोस्तों के अलावा किसी और के साथ मजाक नहीं करते हैं. इसके अलावा उन्होंने क्या कहा. जानिए",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4d00ede9cac-arshad-warsi-on-joker-073640524-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/arshad-warsi-self-censoring-jokes-after-trolled-prabhas-fans-joker-comment-tmovg-dskc-2596171-2026-07-07",
-                "source": "AajTak",
-                "date": "2026-07-07T16:26:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "मॉर्डन ब्लाउज पहन अंशुला कपूर की मेहंदी में छाई छोटी बहन, 1.28 लाख के घाघरा सेट में लगीं अप्सरा, Photos",
-                "desc": "अंशुला कपूर की मेहंदी सेरेमनी में 26 साल की इस बॉलीवुड हसीना ने अपने अप्सरा स्टाइल ब्लाउज से सारी लाइमलाइट बटोर ली. ट्रेडिशनल लुक में उनका ग्लैमरस अंदाज सोशल मीडिया पर तेजी से वायरल हो रहा है. आइए उनके इस ग्लैमरस घाघरा सेट की कीमत जानते हैं, जिसे जानकर आप भी दंग रह जाएंगे.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4ceb807e96d-shanaya-kapoor-look-070509688-16x9.jpg",
-                "url": "https://www.aajtak.in/lifestyle/fashion/story/shanaya-kapoor-stuns-in-bold-blouse-ghagra-set-butter-outfit-price-know-at-cousin-anshula-mehendi-pre-wedding-ceremony-look-viral-photo-tvisx-dskc-2596027-2026-07-07",
-                "source": "AajTak",
-                "date": "2026-07-07T16:20:03Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "IND vs ENG: टीम इंडिया को दोहरे झटके, 2 खिलाड़ी इंजर्ड होकर बाहर, वॉश‍िंगटन सुंदर- प्रस‍िद्ध कृष्णा की एंट्री",
+                "desc": "इंग्लैंड के खिलाफ चौथे टी20 से पहले टीम इंडिया को बड़ा झटका लगा. स्पिनर वरुण चक्रवर्ती और तेज गेंदबाज हर्षित राणा चोट के कारण बाहर हो गए हैं. उनकी जगह वॉशिंगटन सुंदर और प्रसिद्ध कृष्णा को प्लेइंग इलेवन में मौका मिला. टॉस जीतकर कप्तान श्रेयस अय्यर ने पहले बल्लेबाजी का फैसला किया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4fcae3a5ec7-india-playing-xi-bristol-t20-092254148-16x9._qca7hinz10zrp_d1ex9wigbzg2s9zc7yl7otom_pxw",
+                "url": "https://www.aajtak.in/sports/cricket/story/ind-vs-eng-4th-t20i-varun-harshit-injury-washington-prasidh-krishna-tspok-dskc-2597859-2026-07-09",
+                "source": "AajTak",
+                "date": "2026-07-09T16:25:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IND vs ENG: भारतीय टीम को बड़ा झटका, 2 खिलाड़ी सीरीज से हुए बाहर, BCCI ने बताई वजह",
+                "desc": "इंग्लैंड दौरे पर मौजूद भारतीय क्रिकेट की मुश्किलों में इजाफा हो गया है। जीत का स्वाद चखे हुए अरसा हो गया है। दूसरी ओर खिलाड़ियों के चोटिल होने से परेशानियां बढ़ गई।",
+                "image": "https://static.langimg.com/nbt/thumb/132293526/ind-vs-eng.jpg?imgsize=351692&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/ind-vs-eng-varun-chakravarthy-harshit-rana-ruled-out-from-the-series-bcci-confirmed/articleshow/132293473.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-09T16:24:43Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "संजू-यशस्वी ओपनर, सूर्या कप्तान, रजत पाटीदार भी शामिल; भारतीय दिग्गज ने चुनी टीम इंडिया की खास प्लेइंग 11",
                 "desc": "भारतीय टीम के जिम्बाब्वे दौरे के लिए स्क्वाड में संजू सैमसन समेत कई धाकड़ खिलाड़ियों का नाम नहीं शामिल है। इस सीरीज में रजत पाटीदार को भी नहीं चुना गया है। जो खिलाड़ी टीम से बाहर हैं और एक्टिव भी हैं, उनको लेकर भारतीय दिग्गज ने एक खास प्लेइंग 11 चुनी है।",
@@ -2148,29 +2166,101 @@
                 "source": "Navbharat Times",
                 "date": "2026-07-07T12:10:53Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "किस बीमारी से जूझ रहे थे शापूर जादरान? जन्मदिन से एक दिन पहले निधन, AFG क्रिकेट की नींव रखने वालों में से थे",
-                "desc": "अफगानिस्तान क्रिकेट की नींव रखने वालों में शामिल रहे शापूर जादरान ने दुनिया को अलविदा कह दिया है। उन्होंने अफगानिस्तान की ओर से 80 इंटरनेशनल मैच खेले।, Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/07/1600x900/logo/Shapoor_Zadran_1783424220472_1783424227479_b5246023-ee08-45da-9a59-7625547734e6.jpg",
-                "url": "https://www.livehindustan.com/cricket/what-disease-did-shapoor-zadran-have-died-a-day-before-his-birthday-one-of-the-foundation-laying-figures-of-afg-cricket-201783424045173.html",
-                "source": "Hindustan",
-                "date": "2026-07-07T11:57:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "रोनाल्डो के लिए मोहम्मद सिराज का भावुक पोस्ट वायरल, पुर्तगाल के वर्ल्ड कप से बाहर होने पर छलका दर्द",
-                "desc": "पुर्तगाल के FIFA वर्ल्ड कप 2026 से बाहर होने के बाद मोहम्मद सिराज ने अपने पसंदीदा फुटबॉलर रोनाल्डो के लिए इंस्टाग्राम पर भावुक पोस्ट साझा की. उनका यह संदेश दुनिया भर के उन लाखों प्रशंसकों की भावनाओं को भी बयां करता है, जिन्होंने पुर्तगाल की हार के बाद सोशल मीडिया पर रोनाल्डो के समर्थन में पोस्ट साझा किए.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4cdd6562e71-cristiano-ronaldo--mohammad-siraj-070503392-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/football/story/mohammed-siraj-emotional-post-for-cristiano-ronaldo-after-portugal-world-cup-exit-bmsp-dskc-2596029-2026-07-07",
-                "source": "AajTak",
-                "date": "2026-07-07T11:19:02Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Wally Funk, Who Set an Age Record for Space Travel, Dies at 87",
+                "desc": "As a young woman in the 1960s, she wasn’t allowed to become a NASA astronaut. She finally realized her long-held dream of flying in space as an octogenarian.",
+                "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09Funk--hgkq/09Funk--hgkq-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/09/science/space/wally-funk-dead.html",
+                "source": "The New York Times",
+                "date": "2026-07-09T16:40:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Judge finds Chicago’s embattled U.S. attorney violated secrecy order in Tren de Aragua case",
+                "desc": "U.S. Magistrate Judge Laura McNally admonished U.S. Attorney Andrew Boutros after ordering him to a highly unusual hearing Thursday. McNally imposed no sanctions, but said Boutros' decision to detail the case during a press conference alongside top Justice Department officials amounted to a \"clear violation of the sealing order.\"",
+                "image": "https://cst.brightspotcdn.com/dims4/default/e92896c/2147483647/strip/true/crop/6404x3656+0+308/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fbb%2F6c%2Fae71327e44c390eab0eb9fd6875d%2Fatfpresser-260703-18.jpg",
+                "url": "https://chicago.suntimes.com/crime/2026/07/09/judge-finds-chicagos-embattled-u-s-attorney-violated-secrecy-order-in-tren-de-aragua-case",
+                "source": "Chicago Sun-Times",
+                "date": "2026-07-09T16:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "American-made technology guiding Ukraine's strikes into Russia",
+                "desc": "The American defense firm Shield AI has played an increasingly important role in Ukraine's campaign of strikes in Russia.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/09/10300e6f-c23f-4fab-912e-e90f941d9a28/thumbnail/1200x630g6/c11b693aabaa74ce235824a83e9882d1/ap26154237651658.jpg",
+                "url": "https://www.cbsnews.com/news/american-made-technology-guiding-ukraines-strikes-into-russia/",
+                "source": "CBS News",
+                "date": "2026-07-09T16:33:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EPA proposes new diesel emissions rules to cut trucking costs $12B",
+                "desc": "Trump administration proposes slashing diesel emissions rules for heavy-duty trucks and farm equipment, saving truckers an estimated $12 billion in supply chain costs.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/trump-farmers-affordability-fox-news.jpg",
+                "url": "https://www.foxnews.com/politics/biden-era-enviro-rule-accused-strangling-truckers-squeezing-americans-lands-trump-chopping-block",
+                "source": "Fox News",
+                "date": "2026-07-09T16:30:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "These Fossils May Be the Earliest Evidence of Handedness in Animals",
+                "desc": "Scientists propose that recently uncovered fossils may be the earliest evidence of behavioral “handedness” in animals.",
+                "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09SCI-TB-HANDEDNESS-stillpromo/09SCI-TB-HANDEDNESS-stillpromo-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/09/science/fossils-earliest-handedness-righties.html",
+                "source": "The New York Times",
+                "date": "2026-07-09T16:28:59Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Darrell Sheets, ‘Storage Wars’ star who died by suicide, left note about cyberbully",
+                "desc": "Darrell Sheets, a star of the long-running reality series “Storage Wars” who died by suicide, left a note at the scene of his death referencing his cyberbully, according to an incident report released this week by the Lake Havasu City Police Department.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260506-Darrell-Sheets-gk-11c499.jpg",
+                "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/darrell-sheets-storage-wars-star-died-suicide-left-note-cyberbully-rcna353677",
+                "source": "NBC News",
+                "date": "2026-07-09T16:24:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elite recruit commits to Big Ten program over Michigan Basketball",
+                "desc": "Tough news, as elite international recruit Nikola Kusturica has committed to a different Big Ten school over Michigan Basketball:",
+                "image": "https://platform.maizenbrew.com/wp-content/uploads/sites/102/2026/06/gettyimages-2269751667.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
+                "url": "https://www.maizenbrew.com/michigan-mens-basketball/116650/michigan-basketball-recruiting-nikola-kusturica-kentucky-ucla-commitment",
+                "source": "Maize n Brew",
+                "date": "2026-07-09T16:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mortgage rates are stuck near 6.5%. A new housing law may make buying easier - eventually",
+                "desc": "Home shoppers hoping for a break in affordability as the spring homebuying season wraps up may be in for another letdown.",
+                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2279864264-20260709155533467-20260709155608169.jpg?c=16x9&q=w_800,c_fill",
+                "url": "https://www.cnn.com/2026/07/09/economy/mortgage-rates-housing-affordability",
+                "source": "CNN",
+                "date": "2026-07-09T16:09:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Cyclosporiasis parasitic illness cases in Maryland increase by dozens since May 1",
+                "desc": "Cyclosporiasis, a parasitic illness linked to severe diarrhea, has infected hundreds of people in at least 18 states, including here in Maryland.",
+                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/08/461bec21-ef30-4251-9481-e10ac9ad1de9/thumbnail/1200x630/3ee10b5106cb3ca6c383483d6c0f40fc/youtube-thumbnail-template-4.png",
+                "url": "https://www.cbsnews.com/baltimore/news/cyclosporiasis-reported-in-maryland/",
+                "source": "CBS News",
+                "date": "2026-07-09T16:08:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Erika Kirk asks for all exhibits linked to husband’s killing to be made public",
+                "desc": "Widow of far-right activist Charlie Kirk asks judge for ‘transparency’ to head off conspiracy theories",
+                "image": "https://i.guim.co.uk/img/media/870028b5229b53150ed0ba116cced7df7a59880a/255_0_1938_1551/master/1938.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba6abc27187266f5f5c91faf1b6d5843",
+                "url": "https://www.theguardian.com/us-news/2026/jul/09/erika-charlie-kirk-transparency-judge",
+                "source": "The Guardian",
+                "date": "2026-07-09T16:06:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Ukraine opens criminal probe after crowds attack army conscription vehicle in Lviv",
                 "desc": "Violence against recruitment officers was almost non-existent at the start of the war, but has proliferated in recent years as the fighting has dragged on and fatigue set in among the population.",
@@ -2620,99 +2710,45 @@
                 "source": "The Points Guy",
                 "date": "2026-07-08T15:41:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Margaret Qualley quietly wiped traces of husband Jack Antonoff from social media before split news",
-                "desc": "Margaret Qualley quietly deleted traces of her husband, Jack Antonoff, from her Instagram before news surfaced that they had split.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/133757191.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/07/08/celebrity-news/margaret-qualley-wipes-traces-of-husband-jack-antonoff-from-social-media-as-split-rumors-swirl/",
-                "source": "Page Six",
-                "date": "2026-07-08T15:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Zlatan Ibrahimovic fires 'needs help' Lionel Messi warning to Argentina as he hails 'animal' Inter Miami megastar",
-                "desc": "Zlatan Ibrahimovic warns Argentina that Lionel Messi needs more support despite his \"animal\" form at the 2026 World Cup after Argentina's comeback win over Egypt.",
-                "image": "https://assets.goal.com/images/v3/getty-2284544568/crop/MM5DIMBQGA5DEMRVGA5G433XMU5DONRXHIYA====/GettyImages-2284544568.jpg",
-                "url": "https://www.goal.com/en/lists/zlatan-ibrahimovic-warns-argentina-over-lionel-messi-reliance/blt8c8fe6bec5d0fbff",
-                "source": "Goal.com",
-                "date": "2026-07-08T15:36:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Anatomy of a seafloor spreading event captured by in situ seismogeodesy",
-                "desc": "Over geological time, the growth of the ocean floor involves magmatic and tectonic extension1 at mid-ocean ridges (MORs). Because seismogeodetic monitoring of these submarine plate boundaries remains challenging2–7, little is known about how these systems operate on yearly timescales. Here we report the first, to our knowledge, in situ observation of a rifting event at a MOR segment that combines hydroacoustic, direct-path ranging and bottom-pressure measurements, with repeated seafloor mapping. This event started on 26 April 2024 at the axis of the Southeast Indian Ridge (SEIR) near 37° S, two months after instruments had been deployed across the ridge axis and nearby Amsterdam transform fault (TF). The event began as a rapidly migrating swarm of extensional seismicity along the axial valley. It caused 4 m of subsidence of the valley floor and more than a metre of horizontal extension across the valley. We interpret this as the deflation of a sill-like reservoir feeding propagating dykes along the ridge axis. The dykes eventually led to the outpouring of about 160 million m3 of lava at the seafloor in about 16 days, while inducing both seismic and aseismic slip on valley-bounding normal faults and finally triggering seismic activity on the abutting TFs. Large-scale aseismic slip induced by magmatic processes could therefore be the primary mechanism by which MOR normal faults accrue their displacement, which would account for their well-documented seismic deficit8,9. By combining hydroacoustic, direct-path ranging and bottom-pressure measurements, in situ observations of a rifting event at a segment of the Southeast Indian Ridge are reported, providing insight into seafloor spreading events on yearly timescales.",
-                "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10785-0/MediaObjects/41586_2026_10785_Fig1_HTML.png",
-                "url": "https://www.nature.com/articles/s41586-026-10785-0?error=cookies_not_supported&code=9e0bbb7f-ef82-442d-a007-d665b0fa3a99",
-                "source": "Nature",
-                "date": "2026-07-08T15:36:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2026 Emmy Nominations: ‘The Pitt’ and ‘Hacks’ Lead the Pack",
-                "desc": "The HBO Max medical series earned 25 nominations in the drama category. And in comedy, the final season of “Hacks” set a record with 24 nominations.",
-                "image": "https://static01.nyt.com/images/2026/07/08/multimedia/08cul-emmy-noms-klfg/08cul-emmy-noms-klfg-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominations-2026.html",
-                "source": "The New York Times",
-                "date": "2026-07-08T15:33:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2026 World Cup Power Rankings After Round of 16",
-                "desc": "The 2026 FIFA World Cup round of 16 brought dramatic incidents both on and off the pitch, with some more welcome than others.",
-                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-07/2284413869_large_cropped.jpg?w=3800&h=2000",
-                "url": "https://bleacherreport.com/articles/25452041-2026-world-cup-power-rankings-after-round-16",
-                "source": "Bleacher Report",
-                "date": "2026-07-08T15:33:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Some evacuations and street closures in effect after NYC building buckles",
-                "desc": "Crews worked through the night to shore up a massive, under-construction apartment building in Manhattan after columns buckled and floors sagged, triggering widespread evacuations and street closures over concerns about a collapse.",
-                "image": "https://dims.apnews.com/dims4/default/6430631/2147483647/strip/true/crop/8085x5387+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffa%2Fcc%2F066531cf26344bddd766e5a4b77b%2Fc3c067c90562487e97fff92a571ba461",
-                "url": "https://apnews.com/article/nyc-manhattan-building-collapse-risk-d2bd0614520398381fe4cfda069f7b5c",
-                "source": "AP News",
-                "date": "2026-07-08T15:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oil prices rise sharply after Iran launches attacks on tankers near strait of Hormuz",
-                "desc": "Brent crude benchmark rose to more than $78 a barrel, its steepest increase since ceasefire began",
-                "image": "https://i.guim.co.uk/img/media/b5e33962f75563f683c78735e78a3502099f560f/373_0_3728_2982/master/3728.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df1c31451990b16fa87a529516f7b2fb",
-                "url": "https://www.theguardian.com/world/2026/jul/08/oil-prices-rise-iran-attack-tankers-strait-of-hormuz",
-                "source": "The Guardian",
-                "date": "2026-07-08T15:19:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Used EVs keep getting more expensive amid Iran war, high gas prices",
-                "desc": "The Manheim Used Vehicle Value Index for EVs — which tracks prices of used vehicles sold at its U.S. wholesale auctions — increased 12% compared to June 2025.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108330311-1783027298825-gettyimages-2284383119-_m0a2923_mlh4qoba.jpeg?v=1783525910&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/08/used-ev-prices-gas-war.html",
-                "source": "CNBC",
-                "date": "2026-07-08T15:14:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "For U.S. Soccer, hiring Mauricio Pochettino was a coup. Bringing him back would be indefensible.",
-                "desc": "While landing Mauricio Pochettino was a coup, bringing him back after the USA’s epic World Cup collapse against Belgium would be a gigantic own goal.",
-                "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/64f2a235-poch1.jpg?ve=1&tl=1",
-                "url": "https://www.foxsports.com/stories/soccer/usa-world-cup-pochettino-future-usmnt",
-                "source": "FOX Sports",
-                "date": "2026-07-08T15:12:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Moana Box Office Opening Weekend Projections",
-                "desc": "\"Moana\" might be heading for choppy waters at the box office.",
-                "image": "https://variety.com/wp-content/uploads/2026/07/MCDMOAN_WD046.jpg?w=1000&h=562&crop=1",
-                "url": "https://variety.com/2026/film/box-office/moana-remake-box-office-opening-weekend-tracking-1236803797/",
-                "source": "Variety",
-                "date": "2026-07-08T15:09:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "EPA proposes new diesel emissions rules to cut trucking costs $12B",
+                "desc": "Trump administration proposes slashing diesel emissions rules for heavy-duty trucks and farm equipment, saving truckers an estimated $12 billion in supply chain costs.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/trump-farmers-affordability-fox-news.jpg",
+                "url": "https://www.foxnews.com/politics/biden-era-enviro-rule-accused-strangling-truckers-squeezing-americans-lands-trump-chopping-block",
+                "source": "Fox News",
+                "date": "2026-07-09T16:30:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "National French Fry Day 2026 means free fries at McDonald's, Wendy's",
+                "desc": "You can get free french fries and deals on fries at lots of restaurants and fast-food chains on Friday, July 10, National French Fry Day.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/08/USAT/90848120007-2156617441.jpg?crop=8146,4580,x0,y763&width=3200&height=1800&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/money/food/2026/07/09/national-french-fry-day-2026-free-fries-mcdonalds-wendys/90787643007/",
+                "source": "USA Today",
+                "date": "2026-07-09T16:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Microsoft approves thousands of H-1B visas while Xbox cuts 1,600 jobs",
+                "desc": "Microsoft is laying off 1,600 Xbox employees while being approved for 2,273 H-1B visas this year, sparking outrage over American jobs going to foreign workers.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/american-jobs.jpg",
+                "url": "https://www.foxnews.com/politics/fury-erupts-us-brand-fires-1600-employees-after-securing-thousands-foreign-worker-visas",
+                "source": "Fox News",
+                "date": "2026-07-09T16:20:47Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Millions of eye drops recalled. See impacted products",
+                "desc": "Millions of bottles of prescription eye drops have been recalled nationwide. Here are the affected items and the reasoning behind the recall.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/09/USAT/90862500007-getty-images-1322256607.jpg?crop=6719,3780,x0,y224&width=3200&height=1801&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/money/2026/07/09/prednisolone-eye-drops-prescription-recalled/90861298007/",
+                "source": "USA Today",
+                "date": "2026-07-09T16:02:31Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "AI notetakers add another layer to virtual meeting etiquette",
                 "desc": "AI notetakers can quickly summarize meetings and create to-do lists, but they raise privacy concerns.",
@@ -3216,45 +3252,54 @@
                 "source": "CNBC",
                 "date": "2026-07-08T10:00:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Apple to invest $30 billion in US chip manufacturing",
-                "desc": "Apple announced Wednesday it is investing a more than $30 billion in chip manufacturing in the U.S., which is estimated to produce a whopping 15 billion chips.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/apple-store-building.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/media/apple-invest-30-billion-us-chip-manufacturing",
-                "source": "Fox Business",
-                "date": "2026-07-08T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How to Get a Software Engineering Job in the AI Era",
-                "desc": "Software engineers need more than coding skills to get hired today. Interviews now test judgment, AI skills, and problem solving.",
-                "image": "https://i.insider.com/6a4d077e965805a2c542d8bb?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/software-engineering-job-technical-interviews-hiring-ai-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-08T09:47:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "How much cruise ship workers really make, from captains to cleaners",
-                "desc": "Jobs aboard cruise ships are as wide-ranging as the services they provide, and wages can vary significantly based on an employee’s responsibilities.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/01/USAT/90764918007-1241871346.jpg?crop=4632,2606,x0,y459&width=3200&height=1801&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/travel/cruises/2026/07/08/how-much-cruise-ship-crew-earn/90764850007/",
-                "source": "USA Today",
-                "date": "2026-07-08T09:05:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Destroying the Privacy LED on Meta Smart Glasses Will No Longer Enable Creepiness",
-                "desc": "...until someone finds yet another workaround.",
-                "image": "https://gizmodo.com/app/uploads/2026/03/google-android-xr-smart-glasses-1200x675.jpg",
-                "url": "https://gizmodo.com/destroying-the-privacy-led-on-meta-smart-glasses-will-no-longer-enable-creepiness-2000782720",
-                "source": "Gizmodo",
-                "date": "2026-07-08T09:00:25Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "'Grey's Anatomy' actor breaks silence on possible political future",
+                "desc": "Patrick Dempsey says he won't run for Maine Senate despite giving it \"real thought.\" The \"Grey's Anatomy\" star pondered effective leadership qualities.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/patrick-dempsey-bafta-2026.jpg",
+                "url": "https://www.foxnews.com/entertainment/greys-anatomy-star-patrick-dempsey-fires-sharp-warning-politicians-he-speaks-rumored-senate-run",
+                "source": "Fox News",
+                "date": "2026-07-09T16:28:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Darrell Sheets, ‘Storage Wars’ star who died by suicide, left note about cyberbully",
+                "desc": "Darrell Sheets, a star of the long-running reality series “Storage Wars” who died by suicide, left a note at the scene of his death referencing his cyberbully, according to an incident report released this week by the Lake Havasu City Police Department.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260506-Darrell-Sheets-gk-11c499.jpg",
+                "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/darrell-sheets-storage-wars-star-died-suicide-left-note-cyberbully-rcna353677",
+                "source": "NBC News",
+                "date": "2026-07-09T16:16:29Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "New WWE champ CM Punk has a full-time schedule this summer",
+                "desc": "The belt‘s in the fridge again, but the latest Summer of Punk will hit every town and SmackDown",
+                "image": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/07/gettyimages-2272125105.jpg?quality=90&strip=all&crop=0%2C2.2398841800779%2C100%2C78.523137526608&w=1200",
+                "url": "https://www.cagesideseats.com/wwe/458547/new-wwe-champ-cm-punk-has-a-full-time-schedule-this-summer",
+                "source": "Cageside Seats",
+                "date": "2026-07-09T16:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Yungblud Emotionally Addresses \"Industry Plant\" Accusations",
+                "desc": "Over the past few years, the British musician Yungblud has cultivated a classic rock-star image, collecting co-signs from originators like Ozzy Osbourne and Aerosmith and indulging in the kinds of tongue-out leather-pants poses that we don’t see so often anymore. He has been a major-label artist for his entire career, at least since his time…",
+                "image": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Yungblud.jpeg",
+                "url": "https://stereogum.com/2504706/yungblud-drops-off-cowboys-music-festival-after-emotional-post-addressing-industry-plant-accusations/news",
+                "source": "Stereogum",
+                "date": "2026-07-09T16:02:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taylor Swift's Wedding Dress Reveal Teased by Dior",
+                "desc": "A little nugget about Taylor Swift's wedding dress is being teased by Dior ... and it's enough to get Swifties in a tizzy.",
+                "image": "https://imagez.tmz.com/image/dc/16by9/2026/07/09/dc831dd68c3f4974aad18f5893946931_xl.jpg",
+                "url": "https://www.tmz.com/2026/07/09/dior-teases-taylor-swift-wedding-dress/",
+                "source": "TMZ",
+                "date": "2026-07-09T16:00:39Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Jennifer Garner Grief Drama Is a Hoot",
                 "desc": "Following a recent widow (Jennifer Garner) trying to restart her life with her friends, 'The Five-Star Weekend' is a sad, silly, stupid hang — enjoy!",
@@ -3749,54 +3794,63 @@
                 "source": "Yahoo News Canada",
                 "date": "2026-07-08T14:17:17Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Travis Kelce details Taylor Swift proposal after MSG wedding",
-                "desc": "Travis Kelce, who recently tied the knot with Taylor Swift, looked back on his proposal to the singer in a new episode of his \"New Heights\" podcast.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/08/USAT/90845540007-getty-images-2277901712.jpg?crop=2996,1685,x5,y153&width=2996&height=1685&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/07/08/travis-kelce-taylor-swift-wedding-proposal-new-heights-podcast/90845468007/",
-                "source": "USA Today",
-                "date": "2026-07-08T14:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2026 Emmy Nominations: Watch the Livestream",
-                "desc": "Watch the livestream for the 2026 Emmy Awards nominations.",
-                "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/GettyImages-1027975276.jpg?w=1296&h=730&crop=1",
-                "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-2026-emmy-nominations-livestream-online-1236640358/",
-                "source": "The Hollywood Reporter",
-                "date": "2026-07-08T14:00:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Lauren Bennett's father speaks out, says singer suffered severe reaction to medication before death",
-                "desc": "The father of Lauren Bennett - the singer featured on LMFAO's \"Party Rock Anthem\" - is sharing new details on her death.",
-                "image": "https://cdn.abcotvs.com/dip/images/19458893_lauren-bennett-clean-AP-TN-img.png?w=1600",
-                "url": "https://abc7.com/post/lauren-bennetts-father-speaks-says-singer-suffered-severe-reaction-prescribed-medication-before-death/19469263/",
-                "source": "ABC7 Los Angeles",
-                "date": "2026-07-08T13:53:48Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Big Tigger’s wife arrested on kidnapping warrants during I-85 traffic stop",
-                "desc": "An Atlanta radio host’s estranged wife, wanted on kidnapping-related warrants out of Maryland, was arrested Monday night, according to a Georgia’s sheriff’s office.",
-                "image": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FAYQLZO5OZZBDVLBH662V6QMWTA.png?auth=99959bbfc695119df28ad6a0ccb9d0a84f1c0aaf6d3d838abeecbf6808cfdd2e&width=1200&height=630&smart=true",
-                "url": "https://www.wsbtv.com/news/georgia/big-tiggers-wife-arrested-kidnapping-warrants-during-i-85-traffic-stop/QHTCHRHMURDPBESRNSUEORQXSY/",
-                "source": "WSB-TV",
-                "date": "2026-07-08T13:37:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "All Her Celebrity Feuds",
-                "desc": "Peppa Pig has entered her villain era. From Kanye West and Adele to Charli xcx and Clairo, here are all the celebrities the cartoon pig has beefed with.",
-                "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/08/10/thumb/hytrr3V9L.png?crop=1284:856;12,0&resize=1250:830",
-                "url": "https://www.buzzfeed.com/beccamonaghan/peppa-pig-celebrity-feuds",
-                "source": "BuzzFeed",
-                "date": "2026-07-08T13:31:02Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Ducks match Carlsson 5-year, $90 million offer sheet from Flyers",
+                "desc": "21-year-old center to receive $18 million annually, had 67 points for Anaheim last season",
+                "image": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1783614156/prd/l5oacpiqtjngub6kklab.jpg",
+                "url": "https://www.nhl.com/news/topic/free-agency/leo-carlsson-signs-5-year-contract-with-ducks-match-flyers-offer-sheet",
+                "source": "NHL.com",
+                "date": "2026-07-09T16:28:06Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "No Carlsson for Flyers as Ducks match huge offer sheet",
+                "desc": "Leo Carlsson will not be coming to Philadelphia as the Ducks decided to match the Flyers' massive offer sheet.",
+                "image": "https://media.nbcsportsphiladelphia.com/2026/07/USA-Leo-Carlsson_7f8a7d.jpg?quality=85&strip=all&resize=1200%2C675",
+                "url": "https://www.nbcsportsphiladelphia.com/nhl/philadelphia-flyers/no-leo-carlsson-for-flyers-ducks-match-huge-offer-sheet/741038/",
+                "source": "NBC Sports Philadelphia",
+                "date": "2026-07-09T16:26:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Commanders to retire No. 44 for John Riggins",
+                "desc": "John Riggins won a Super Bowl while wearing No. 44 in Washington and no other players will be wearing that number in the future.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/44c8e69/2147483647/strip/true/crop/3600x2025+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1e%2Fb2%2F4b98d08246f6a7a4a25e76a001d4%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1488474082",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-to-retire-no-44-for-john-riggins",
+                "source": "NBC Sports",
+                "date": "2026-07-09T16:25:09Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Conor McGregor making first-time sacrifice ahead of UFC return",
+                "desc": "Conor McGregor revealed on Wednesday, ahead of his return fight with Max Holloway this weekend at UFC 329, that he would be back in the octagon without having had sex for the first time in his career.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/mcgregor.jpg?quality=75&strip=all&1783594007&w=1200",
+                "url": "https://nypost.com/2026/07/09/sports/conor-mcgregor-making-first-time-sacrifice-ahead-of-ufc-return-his-wife-may-not-be-happy/",
+                "source": "New York Post",
+                "date": "2026-07-09T16:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Elite recruit commits to Big Ten program over Michigan Basketball",
+                "desc": "Tough news, as elite international recruit Nikola Kusturica has committed to a different Big Ten school over Michigan Basketball:",
+                "image": "https://platform.maizenbrew.com/wp-content/uploads/sites/102/2026/06/gettyimages-2269751667.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
+                "url": "https://www.maizenbrew.com/michigan-mens-basketball/116650/michigan-basketball-recruiting-nikola-kusturica-kentucky-ucla-commitment",
+                "source": "Maize n Brew",
+                "date": "2026-07-09T16:15:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to watch AJ Dybantsa vs. Darryn Peterson in NBA Summer League",
+                "desc": "Dybantsa will make his Wizards’ debut against the Jazz and Peterson, who has already dazzled in two summer outings, will look to pick up in Vegas where he left on SLC",
+                "image": "https://www.deseret.com/resizer/v2/TYUCNINJDFF37AFUW6JT4XALCA.jpg?focal=2370%2C1522&auth=d2bb6dee8b4ae83ac6ae1a4fbaa7325bafb643ab2437efafe357f0f3eef340a9&width=630&height=331",
+                "url": "https://www.deseret.com/sports/2026/07/09/aj-dybantsa-darryn-peterson-jazz-wizards-nba-summer-league-how-to-watch/",
+                "source": "Deseret News",
+                "date": "2026-07-09T16:02:55Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Teams had 'intel' impacting Jaylen Brown's trade value",
                 "desc": "One NBA insider said there were a couple of teams who had intel that Brown was not interested in playing for them.",
@@ -4282,62 +4336,8 @@
                 "source": "Hoops Rumors",
                 "date": "2026-07-08T15:29:07Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Silver Screen and Roll",
-                "desc": "The Lakers are reportedly after Jonathan Kuminga, but they need to sweeten their offer to get him to bite.",
-                "image": "https://platform.silverscreenandroll.com/wp-content/uploads/sites/144/2026/07/gettyimages-2273317903.jpg?quality=90&strip=all&crop=0%2C4.4774177999673%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.silverscreenandroll.com/lakers-analysis/121937/lakers-jonathan-kuminga-nba-free-agency-contract-analysis",
-                "source": "Silver Screen and Roll",
-                "date": "2026-07-08T15:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NCAA opens investigation of Cincinnati over Brendan Sorsby's gambling",
-                "desc": "Based on comments made by quarterback Brendan Sorsby's agent, Ron Slavin, regarding Cincinnati's alleged knowledge of Sorsby's gambling habit during his two years with the Bearcats, it was clear that the NCAA should investigate.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/da3bc26/2147483647/strip/true/crop/4829x2716+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2F31%2F955d080241cd8c309954a9c2005d%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2247690019",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ncaa-opens-investigation-of-cincinnati-over-brendan-sorsbys-gambling",
-                "source": "NBC Sports",
-                "date": "2026-07-08T15:15:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "For U.S. Soccer, hiring Mauricio Pochettino was a coup. Bringing him back would be indefensible.",
-                "desc": "While landing Mauricio Pochettino was a coup, bringing him back after the USA’s epic World Cup collapse against Belgium would be a gigantic own goal.",
-                "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/64f2a235-poch1.jpg?ve=1&tl=1",
-                "url": "https://www.foxsports.com/stories/soccer/usa-world-cup-pochettino-future-usmnt",
-                "source": "FOX Sports",
-                "date": "2026-07-08T15:12:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Donovan and Howard slam USMNT star Pulisic after World Cup disappointment",
-                "desc": "Landon Donovan and Tim Howard did not hold back in their criticism of U.S. men's national team star Christian Pulisic.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/07/USAT/90838012007-2284972492.jpg?crop=1320,742,x748,y79&width=1320&height=742&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/08/donovan-howard-slam-pulisic-usmnt-world-cup-disappointment/90845737007/",
-                "source": "USA Today",
-                "date": "2026-07-08T15:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "World Cup power rankings: The 8 quarterfinalists, from title favorite to long shot",
-                "desc": "After 96 games, the World Cup is down to eight teams, a mix of traditional powers, rising programs and recently reliable squads. Breaking down the octet …",
-                "image": "https://s.yimg.com/ny/api/res/1.2/Ce9.cM.EunDcmTjG.fURJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed-modart-070726-wc-quarterfinals-b_5680.jpg",
-                "url": "https://sports.yahoo.com/soccer/article/world-cup-power-rankings-the-8-quarterfinalists-from-title-favorite-to-long-shot-150025894.html",
-                "source": "Yahoo Sports",
-                "date": "2026-07-08T15:00:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Carli Lloyd Calls Out Christian Pulisic For Comments on Injury After 2026 World Cup Exit",
-                "desc": "United States Women's National Soccer Team legend Carli Lloyd appeared to call out Christian Pulisic on Tuesday regarding comments he made after the United States Men's National Soccer Team fell 4-1 to Belgium in the Round of 16 at the 2026 FIFA World Cup on Monday.",
-                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-07/2277575628_large_cropped.jpg?w=3800&h=2000",
-                "url": "https://bleacherreport.com/articles/25452414-carli-lloyd-calls-out-christian-pulisic-comments-injury-after-2026-world-cup-exit",
-                "source": "Bleacher Report",
-                "date": "2026-07-08T14:48:45Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-10T04:00:40.377540Z"
+    "lastGlobalSync": "2026-07-10T04:40:34.974417Z"
 }
