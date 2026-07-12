@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "दतिया उपचुनाव में बीजेपी के चर्चित नेता नरोत्तम मिश्रा को टिकट क्यों नहीं मिला?",
+                "desc": "बीजेपी के वरिष्ठ नेताओं का मानना है कि यह फ़ैसला सिर्फ़ दतिया की एक सीट का नहीं, बल्कि मध्य प्रदेश बीजेपी के भीतर सत्ता, संगठन और नेतृत्व के नए संतुलन का संकेत भी है.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/942b/live/b8aac1e0-7d20-11f1-ba31-ed66fa13cdef.jpg",
+                "url": "https://www.bbc.com/hindi/articles/c78ypvve1zmo",
+                "source": "BBC",
+                "date": "2026-07-11T13:42:45Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "India Petrol Supply: भारत से पेट्रोल खरीद रहा रूस, इसलिए उलटी बहने लगी गंगा",
                 "desc": "India Petrol Supply: यूक्रेन के साथ रूस का युद्ध लंबे समय से जारी है। इसके कारण रूस के रिफाइनिंग इंफ्रास्‍ट्रक्‍चर को नुकसान हुआ है। इस बीच भारत अप्रत्‍याशित तौर पर रूस के लिए पेट्रोल का एक स्रोत बनकर उभरा है। भारत में बना पेट्रोल व्‍यापारिक चैनलों से रूस पहुंच रहा है।",
                 "image": "https://static.langimg.com/nbt/thumb/132331212/india-petrol-supply.jpg?imgsize=161674&width=1600&height=900&resizemode=75",
@@ -530,15 +539,6 @@
                 "url": "https://navbharattimes.indiatimes.com/india/tomorrow-weather-11-july-2026-thunderstorm-and-heavy-rain-alert-in-20-states-within-19-hours-wind-speed-up-to-80-kmph-delhi-up-bihar-mp-temperature/articleshow/132308526.cms",
                 "source": "Navbharat Times",
                 "date": "2026-07-10T10:04:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Vaibhav vs Archer: वैभव सूर्यवंशी शॉर्ट बॉल के सामने फिर हुए बेबस, जोफ्रा आर्चर ने पुरानी चाल से किया शिकार, देखें VIDEO",
-                "desc": "Vaibhav Sooryavanshi vs Jofra archer: इंग्लैंड के खिलाफ ब्रिस्टल में खेले गए चौथे टी20 में युवा बल्लेबाज वैभव सूर्यवंशी एक बार फिर शॉर्ट गेंद के सामने संघर्ष करते दिखे. जोफ्रा आर्चर ने बैक ऑफ लेंथ गेंद पर उन्हें फंसाया और सैम करन के हाथों कैच करा दिया. वैभव 10 गेंदों में 15 रन बनाकर आउट हुए. इस सीरीज में शॉर्ट बॉल उनकी सबसे बड़ी कमजोरी बनती दिख रही है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4fd7c6cd8a7-vaibhav-sooryavanshi-wicket--jofra-archer-091752960-16x9.1d6qqykz4gpa3kir-rxl9hyftungm2hs7deadoqgvia",
-                "url": "https://www.aajtak.in/sports/cricket/story/vaibhav-sooryavanshi-vs-jofra-archer-short-ball-dismissal-4th-t20-bristol-tspok-dskc-2597879-2026-07-09",
-                "source": "AajTak",
-                "date": "2026-07-09T17:21:26Z",
                 "priority": "STANDARD"
             }
         ],
@@ -1167,6 +1167,15 @@
                 "priority": "STANDARD"
             },
             {
+                "title": "मूड चाहे जैसा हो, एंटरटेनमेंट पक्का है! बोरिंग वीकेंड को मजेदार बना देंगी ZEE5 की ये कहानियां",
+                "desc": "आप भी अगर वीकेंड पर घर बैठे-बैठे बोर हो गए हो तो चिंता मत करिए...हम आपके लिए जी5 की बेहतरीन फिल्मों और वेब सीरीज की पूरी लिस्ट लेकर आए हैं, जो आपके वीकेंड को एकदम धांसू बना देंगी.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a52171adf5df-zee5-best-web-series-movies-mukhbir-111237280-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/ott/story/zee5-best-web-series-movies-mukhbir-detective-sherdil-frame-tmovf-dskc-2599022-2026-07-11",
+                "source": "AajTak",
+                "date": "2026-07-11T10:36:02Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "मैंने दीपिका पादुकोण को छोड़ा और इसका अफसोस नहीं, एक्ट्रेस को लेकर मुज्जमिल इब्राहिम का दावा",
                 "desc": "दीपिका पादुकोण को लेकर एक्टर मुज्जिमल इब्राहिम का एक वीडियो वायरल हो रहा है। इस वीडियो में वह दीपिका को लेकर कुछ शॉकिंग स्टेटमेंट दे रहे हैं।, Bollywood Hindi News - Hindustan",
                 "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/11/1600x900/logo/klm_1783764654435_1783764667566_d4e5d650-e263-4f92-82e7-567742a41b14.jpg",
@@ -1615,15 +1624,6 @@
                 "source": "Navbharat Times",
                 "date": "2026-07-09T10:05:56Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "1 दिन में 18 टैबलेट्स लेता था…प्रिंस नरूला बोले- मैंने और युविका ने तो अलग होने तक का सोच लिया था",
-                "desc": "प्रिंस नरूला और युविका चौधरी को कुछ समय पहले तक अपनी शादी में काफी उतार-चढ़ाव देखने को मिले। इतना ही नहीं प्रिंस ने अब बताया कि आखिर क्या दिक्कत आ गई थी उन्हें।, Tv Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/09/1600x900/logo/pnu_1783590382102_1783590405843_8cfc3d0b-066e-4b51-8008-27197798250e.jpg",
-                "url": "https://www.livehindustan.com/entertainment/tv/prince-narula-reveals-his-toughest-battle-with-anxiety-says-it-nearly-ended-his-marriage-201783589002513.html",
-                "source": "Hindustan",
-                "date": "2026-07-09T09:49:37Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
@@ -1688,6 +1688,15 @@
                 "url": "https://www.aajtak.in/sports/cricket/story/harmanpreet-kaur-creates-history-at-lords-achieves-rare-feat-sachin-tendulkar-virat-kohli-tspoa-dskc-2599069-2026-07-11",
                 "source": "AajTak",
                 "date": "2026-07-11T11:10:27Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "रोहित नंबर 10, युवराज-सचिन से आगे धोनी; इंग्लैंड के खिलाफ वनडे में सबसे ज्यादा रन बनाने वाले टॉप-टेन भारतीय",
+                "desc": "इंग्लैंड के खिलाफ वनडे में भारत की तरफ से सबसे ज्यादा रन बनाने वाले टॉप-10 बल्लेबाजों की लिस्ट में रोहित शर्मा दसवें स्थान पर हैं जबकि एमएस धोनी इस लिस्ट में पहले नंबर पर हैं जो युवराज सिंह और सचिन तेंदुलकर से भी आगे हैं।",
+                "image": "https://images.jansatta.com/2026/07/RohitSharma102-1.jpg",
+                "url": "https://www.jansatta.com/khel/ms-dhoni-ahead-yuvraj-singh-sachin-tendulkar-rohit-sharma-number-10-most-runs-in-odi-for-india-vs-england-ind-vs-eng-team-india/4614461/",
+                "source": "Jansatta",
+                "date": "2026-07-11T10:36:17Z",
                 "priority": "STANDARD"
             },
             {
@@ -2157,20 +2166,29 @@
                 "source": "AajTak",
                 "date": "2026-07-09T10:59:25Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "बेन स्टोक्स के संन्यास पर मचा बवाल, ICC ने इंग्लैंड क्रिकेट बोर्ड के खिलाफ उठाया बड़ा कदम",
-                "desc": "इंग्लैंड के दिग्गज ऑलराउंडर बेन स्टोक्स ने अचानक इंटरनेशनल क्रिकेट से संन्यास का एलान कर दिया था। अब उनका संन्यास विवादों में घिरता नजर आ रहा है।",
-                "image": "https://www.jagranimages.com/images/2026/07/09/article/image/Ben-Stokes-1783594197330_m.webp",
-                "url": "https://www.jagran.com/cricket/headlines-icc-write-a-letter-to-england-and-wales-cricket-board-for-ben-stokes-retirement-video-40300385.html",
-                "source": "Jagran",
-                "date": "2026-07-09T10:55:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "US citizen tests positive for Ebola in Congo",
+                "desc": "A US citizen working for a humanitarian organization in Congo has tested positive for the Ebola virus, the U.S.",
+                "image": "https://dims.apnews.com/dims4/default/565373e/2147483647/strip/true/crop/7357x4902+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F91%2F40%2F6cdb66bb128d9b33eef84ba82291%2F66ce4b10dc0749859a34c2a671f183ee",
+                "url": "https://apnews.com/article/ebola-congo-trump-quarantine-ae30c59e66e6efdafa11b42969e2c834",
+                "source": "AP News",
+                "date": "2026-07-11T13:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump allows landmark housing bill to become law without his signature",
+                "desc": "President Trump allowed a bipartisan housing bill to become law without his signature after refusing to sign it in protest over an unrelated voting bill.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/11/USAT/90885680007-2285302031.jpg?crop=5802,3264,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/news/politics/2026/07/11/trump-affordable-housing-bill-law-signature/90885629007/",
+                "source": "USA Today",
+                "date": "2026-07-11T13:26:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Adebayo, Herro have brief altercation in Las Vegas, AP source says",
                 "desc": "Former Miami Heat teammates Bam Adebayo and Tyler Herro had a brief altercation at an NBA Summer League practice facility in Las Vegas on Friday.",
@@ -2691,24 +2709,6 @@
                 "url": "https://9to5mac.com/2026/07/10/iphone-ultra-battery-details-allegedly-revealed-in-new-leak/",
                 "source": "9to5Mac",
                 "date": "2026-07-10T13:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Man partially sucked out of broken Ryanair plane window during flight, fellow passenger says",
-                "desc": "A woman says she saw a fellow passenger on her Ryanair flight get his head and shoulders sucked out of a window that broke during their trip between Greece and Germany.",
-                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/08/08/dd554049-2dc8-4d65-bcb5-2a29712bd0ef/thumbnail/1200x630/a878de73d5bf772d7d627e557e0dadd6/download.jpg",
-                "url": "https://www.cbsnews.com/news/man-sucked-out-ryanair-plane-window-greece-flight-witness-says/",
-                "source": "CBS News",
-                "date": "2026-07-10T13:22:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "South Carolina National Guard pilots return to duty after July 4 suspension",
-                "desc": "Eight South Carolina National Guard helicopter pilots have returned to flying duties after a suspension that followed a low flight over the state's beaches during a July 4 event.",
-                "image": "https://dims.apnews.com/dims4/default/0d108fe/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2Fa4%2F2f157e7141487a2fb0612a8e1332%2F0a89705612cb48838e0782abc032bb75",
-                "url": "https://apnews.com/article/national-guard-south-carolina-helicopter-suspension-442733ffb1f4f08f598e9a9ef7873ada",
-                "source": "AP News",
-                "date": "2026-07-10T13:09:00Z",
                 "priority": "STANDARD"
             }
         ],
@@ -3256,6 +3256,24 @@
         ],
         "entertainment": [
             {
+                "title": "Taylor Swift, Travis Kelce's Wedding: Rings Revealed",
+                "desc": "Taylor Swift and Travis Kelce showed off their wedding rings after getting married July 3 in a star-studded ceremony officiated by Adam Sandler and held at New York City's Madison Square Garden.",
+                "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260706/e81799b2-09a6-49d5-9852-2240505c20a5_1783344955.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+                "url": "https://www.eonline.com/news/1433834/taylor-swift-travis-kelces-wedding-rings-revealed",
+                "source": "E! News",
+                "date": "2026-07-11T13:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taylor Swift Debuts New Wedding Ring in a Dreamy Pink Floral Gown With Travis Kelce at Friend’s Wedding",
+                "desc": "The newlywed was pretty in pink while celebrating Kelce’s former teammate JuJu Smith-Schuster and Laura Kruk.",
+                "image": "https://s.yimg.com/lo/mysterio/api/f04deb09d2ae2cd47a7b3964c43cc37e34066a9a293ae512780c0e676dccf910/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F5153e1aa3f5153ec3f60371d3b3a9aea",
+                "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-debuts-wedding-ring-134040782.html",
+                "source": "Yahoo",
+                "date": "2026-07-11T13:40:40Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Randolph Mantooth, Who Played John Gage on ‘Emergency!,’ Dies at 80",
                 "desc": "His portrayal of the firefighter and paramedic on the 1970s television hit helped expand the American public’s familiarity with emergency medicine.",
                 "image": "https://static01.nyt.com/images/2026/07/11/multimedia/11xp-mantooth-02-zpqf/11xp-mantooth-02-zpqf-facebookJumbo.jpg",
@@ -3775,24 +3793,6 @@
                 "url": "https://www.cnn.com/2026/07/09/entertainment/emmys-pitt-hbo-brittany-allen-roxie-self-submit",
                 "source": "CNN",
                 "date": "2026-07-09T16:46:29Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Grey's Anatomy' actor breaks silence on possible political future",
-                "desc": "Patrick Dempsey says he won't run for Maine Senate despite giving it \"real thought.\" The \"Grey's Anatomy\" star pondered effective leadership qualities.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/patrick-dempsey-bafta-2026.jpg",
-                "url": "https://www.foxnews.com/entertainment/greys-anatomy-star-patrick-dempsey-fires-sharp-warning-politicians-he-speaks-rumored-senate-run",
-                "source": "Fox News",
-                "date": "2026-07-09T16:28:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Darrell Sheets, ‘Storage Wars’ star who died by suicide, left note about cyberbully",
-                "desc": "Darrell Sheets, a star of the long-running reality series “Storage Wars” who died by suicide, left a note at the scene of his death referencing his cyberbully, according to an incident report released this week by the Lake Havasu City Police Department.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260506-Darrell-Sheets-gk-11c499.jpg",
-                "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/darrell-sheets-storage-wars-star-died-suicide-left-note-cyberbully-rcna353677",
-                "source": "NBC News",
-                "date": "2026-07-09T16:16:29Z",
                 "priority": "STANDARD"
             }
         ],
@@ -4339,5 +4339,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-12T01:40:29.640465Z"
+    "lastGlobalSync": "2026-07-12T01:51:50.649702Z"
 }
