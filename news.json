@@ -2,6 +2,33 @@
     "hi": {
         "general": [
             {
+                "title": "ई20 पेट्रोल का गाड़ियों पर क्या होता है असर? सरकार और एक्सपर्ट्स का ये है कहना",
+                "desc": "भारत में पेट्रोल में इथेनॉल के मिश्रण को लेकर विपक्ष और कई आम लोग सरकार से सवाल पूछ रहे हैं. कई लोगों का दावा है कि इससे गाड़ियां ख़राब हो रही हैं हालांकि सरकार इन दावों को ख़ारिज कर रही है.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/dc54/live/77996f20-7d17-11f1-bee8-53ce494e1abc.jpg",
+                "url": "https://www.bbc.com/hindi/articles/c5yzn7j93v4o",
+                "source": "BBC",
+                "date": "2026-07-11T12:30:05Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'शहीद पिता के बदले की कसम खाते हैं...', खामेनेई के अंतिम संस्कार के बाद मोजतबा का पहला संबोधन",
+                "desc": "ईरान के सर्वोच्च नेता अयातुल्ला मोजतबा खामेनेई ने एक लिखित संदेश में अपने मारे गए पिता और दो युद्धों में शहीद हुए सभी लोगों के खून का बदला उन लेने का संकल्प लिया. उन्होंने कहा कि यह बदला ईरानी राष्ट्र की मांग है और इसे हर हाल में लिया जाएगा. मोजतबा ने पिता के जनाजे में शामिल होने वाले लोगों का आभार जाहिर किया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a523664b51d6-mojtaba-khamenei-112607123-16x9.jpeg",
+                "url": "https://www.aajtak.in/world/story/mojtaba-khamenei-address-revenge-america-and-israel-iran-war-ntcppl-dskc-2599118-2026-07-11",
+                "source": "AajTak",
+                "date": "2026-07-11T12:27:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'टैक्स-फ्री सैलरी की भी एक कीमत देनी होती है', दुबई में रह रही भारतीय महिला ने बताई सच्चाई",
+                "desc": "'लोग सिर्फ टैक्स-फ्री सैलरी देखते हैं...' दुबई में अकेली रह रही भारतीय महिला का वीडियो सोशल मीडिया पर चर्चा में है. उन्होंने विदेश में रहने के भावनात्मक अनुभव और परिवार से दूर रहने की मुश्किलों को साझा किया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a523614f0407-dubai--dubai-life--indian-woman-in-dubai-112447405-16x9.jpg",
+                "url": "https://www.aajtak.in/trending/story/indian-woman-dubai-hidden-cost-of-tax-free-salary-tstf-dskc-2599122-2026-07-11",
+                "source": "AajTak",
+                "date": "2026-07-11T12:26:17Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "India vs England 5th T20I Live Score: ट्रैफिक में फंसी भारतीय टीम, साउथम्प्टन में देरी से होगा टॉस",
                 "desc": "India (IND) vs England (ENG) Live Cricket Score: साउथम्प्टन के द रोज बाउल ग्राउंड पर भारत और इंग्लैंड की टीम्स आमने-सामने हैं. श्रेयस अय्यर की कप्तानी में भारतीय टीम एक भी टी20I मुकाबला नहीं जीत पाई है. ये मुकाबला जीतकर भारतीय टीम सम्मान बचाना चाहेगी.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a524973c25a6-ind-vs-eng-t20i-114726652-16x9.png",
@@ -513,36 +540,27 @@
                 "source": "BBC",
                 "date": "2026-07-09T16:30:22Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "IND vs ENG: टीम इंडिया को दोहरे झटके, 2 खिलाड़ी इंजर्ड होकर बाहर, वॉश‍िंगटन सुंदर- प्रस‍िद्ध कृष्णा की एंट्री",
-                "desc": "इंग्लैंड के खिलाफ चौथे टी20 से पहले टीम इंडिया को बड़ा झटका लगा. स्पिनर वरुण चक्रवर्ती और तेज गेंदबाज हर्षित राणा चोट के कारण बाहर हो गए हैं. उनकी जगह वॉशिंगटन सुंदर और प्रसिद्ध कृष्णा को प्लेइंग इलेवन में मौका मिला. टॉस जीतकर कप्तान श्रेयस अय्यर ने पहले बल्लेबाजी का फैसला किया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4fcae3a5ec7-india-playing-xi-bristol-t20-092254148-16x9._qca7hinz10zrp_d1ex9wigbzg2s9zc7yl7otom_pxw",
-                "url": "https://www.aajtak.in/sports/cricket/story/ind-vs-eng-4th-t20i-varun-harshit-injury-washington-prasidh-krishna-tspok-dskc-2597859-2026-07-09",
-                "source": "AajTak",
-                "date": "2026-07-09T16:25:06Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IND vs ENG: भारतीय टीम को बड़ा झटका, 2 खिलाड़ी सीरीज से हुए बाहर, BCCI ने बताई वजह",
-                "desc": "इंग्लैंड दौरे पर मौजूद भारतीय क्रिकेट की मुश्किलों में इजाफा हो गया है। जीत का स्वाद चखे हुए अरसा हो गया है। दूसरी ओर खिलाड़ियों के चोटिल होने से परेशानियां बढ़ गई।",
-                "image": "https://static.langimg.com/nbt/thumb/132293526/ind-vs-eng.jpg?imgsize=351692&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/ind-vs-eng-varun-chakravarthy-harshit-rana-ruled-out-from-the-series-bcci-confirmed/articleshow/132293473.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-09T16:24:43Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "राज्यसभा चुनाव: TMC छोड़ने वाले तीनों पूर्व सांसद अब BJP उम्मीदवार, आज ही हुए थे शामिल; RS में बढ़ जाएगी NDA की ताकत",
-                "desc": "पश्चिम बंगाल में तृणमूल कांग्रेस के तीन पूर्व राज्यसभा सांसदों सुखेंदु शेखर राय, प्रकाश चिक बड़ाइक और सुष्मिता देव गुरुवार को भारतीय जनता पार्टी (भाजपा) में शामिल हो गए थे। उनके पार्टी में शामिल होने से इस बात की अटकलें तेज हो गई थीं कि तीनों को उम्मीदवार बनाया जाएगा।, India News in Hindi - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/09/1600x900/logo/Sushmita_Dev_Joins_BJP_1783603008086_1783603028261_2ae16572-bc12-435a-a3a9-74218c839db9_1783613797131_0810e3b4-55c8-4065-a595-7936bbf533ac.jpg",
-                "url": "https://www.livehindustan.com/national/rajya-sabha-by-election-bjp-fielded-former-tmc-mps-sushmita-dev-sukhendu-sekhar-ray-prakash-chik-baraik-201783613411200.html",
-                "source": "Hindustan",
-                "date": "2026-07-09T16:18:16Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "ईशा अंबानी की कंपनी के आए नतीजे, हुआ तगड़ा मुनाफा; नए CEO और CFO को भी मिली कमान",
+                "desc": "जस्ट डायल ने वित्त वर्ष 2027 की पहली तिमाही में 4.12 शुद्ध लाभ वृद्धि दर्ज की, जबकि राजस्व में 9.94 की बढ़ोतरी हुई।\nकंपनी ने दिनकर आयलवरपु को नया सीईओ और दिनेश तालुजा को सीएफओ नियुक्त करने की भी घोषणा की।",
+                "image": "https://www.jagranimages.com/images/2026/07/11/article/image/Just-Dial-Q1-FY27-Profit-Up-1783772899160_m.webp",
+                "url": "https://www.jagran.com/business/share-market-just-dial-q1-fy27-profit-up-412-new-ceo-cfo-appointed-40302882.html",
+                "source": "Jagran",
+                "date": "2026-07-11T12:29:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "1 लाख बने 9 लाख रुपये... कंडोम बनाती है ये कंपनी, एक साल में किया मालामाल!",
+                "desc": "कंडोम बनाने वाली कंपनी के शेयरों ने पिछले एक साल में निवेशकों को मालामाल किया है. इसने एक लाख रुपये को 9 लाख रुपये से ज्‍यादा में बदला है. एक साल में इस शेयर में 9 गुना से ज्‍यादा का रिटर्न दिया है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a52242081677-cupid-stocks-rally-110526446-16x9.jpg",
+                "url": "https://www.aajtak.in/business/news/photo/cupid-ltd-share-zoom-nine-time-one-lakhs-turn-into-9-lakhs-rupees-in-one-year-tutd-2599074-2026-07-11",
+                "source": "AajTak",
+                "date": "2026-07-11T12:08:47Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Vida VX2 Plus Launch: 187KM रेंज, 65 में चार्ज होगी रिमूवेबल बैटरी, Hero लाया नया स्कूटर",
                 "desc": "Hero Vida VX2 Plus launch: हीरो के इलेक्ट्रिक मोबिलिडी ब्रांड विडा (Vida) ने अपना नया स्कूटर लन्च कर दिया है. कंपनी ने विडा वीएक्स2 प्लस सीरीज में एक नया वेरिएंट जोड़ा है. लेटेस्ट मॉडल 4.4kWh की बैटरी के साथ आता है. कंपनी की मानें तो फुल चार्ज में ये स्कूटर 187 किलोमीटर की रेंज ऑफर करेगा. आइए जानते हैं इसकी डिटेल्स.",
@@ -1064,27 +1082,27 @@
                 "source": "AajTak",
                 "date": "2026-07-08T10:29:03Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "चांदी क्रैश, क्रूड में जोरदार उछाल; अब भारत पर पड़ेगा बुरा असर?",
-                "desc": "अमेरिकी राष्ट्रपति डोनल्ड ट्रंप के ईरान संबंधी बयान के बाद सोने और चांदी की कीमतों में भारी गिरावट दर्ज की गई, जबकि कच्चे तेल के दाम में जोरदार उछाल आया।\nवैश्विक और घरेलू वायदा बाजारों में कमोडिटी की कीमतों में यह बड़ी हलचल देखने को मिली, जिससे निवेशकों की धारणा प्रभावित हुई।",
-                "image": "https://www.jagranimages.com/images/2026/07/08/article/image/Chat-GPT-(24)-1783502065505_m.webp",
-                "url": "https://www.jagran.com/business/commodity-trump-statement-crashes-gold-silver-prices-oil-surges-40299053.html",
-                "source": "Jagran",
-                "date": "2026-07-08T10:24:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "वियतनाम ने नकली लग्ज़री सामान के बड़े बाज़ार पर कसा शिकंजा, क्या मिलेगी कामयाबी?",
-                "desc": "अमेरिका चाहता है कि वियतनाम अपने तेज़ी से फैल रहे नक़ली सामान के कारोबार पर लगाम लगाए, लेकिन इस मुद्दे पर स्थानीय लोगों की राय बंटी हुई है.",
-                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/b0a6/live/d2d3d720-76b6-11f1-925a-557464d48d36.jpg",
-                "url": "https://www.bbc.com/hindi/articles/c9q223vx5e4o",
-                "source": "BBC",
-                "date": "2026-07-08T10:01:42Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Lata Mangeshkar का फेवरेट था 62 साल पुराना दर्द भरा गीत, 'स्वर सम्राज्ञी' ने खुद की थी Cult गाने की तारीफ",
+                "desc": "Lata Mangeshkar ने इस 62 साल पुराने गाने को आवाज दी थी और इसकी मेलोडी की खूब तारीफ की थी।",
+                "image": "https://www.jagranimages.com/images/2026/07/11/article/image/lata-(4)-1783772326204_m.webp",
+                "url": "https://www.jagran.com/entertainment/bollywood-lata-mangeshkar-favourite-song-lag-ja-gale-from-woh-kaun-thi-she-praised-it-40302887.html",
+                "source": "Jagran",
+                "date": "2026-07-11T12:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "किस बीमारी से जूझी शमिता शेट्टी? महीनों तक परेशान रहीं, अब शेयर की अपनी तकलीफ",
+                "desc": "एक्टर शमिता शेट्टी ने एंडोमेट्रियोसिस से अपनी लड़ाई और महीनों तक इसके लक्षणों को नजरअंदाज करने की वजह के बारे में खुलकर बात की. उन्होंने क्या कुछ कहा, जानिए",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a522c93bc38d-shamita-shetty-endometriosis-health-issue-114414346-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/shamita-shetty-endometriosis-health-issue-womens-health-care-tmovg-dskc-2599104-2026-07-11",
+                "source": "AajTak",
+                "date": "2026-07-11T12:20:03Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "इंडिया में नहीं अमेरिका में पेश होगा रणबीर की रामायण का ट्रेलर, मेकर्स ने किया रिलीज डेट का ऐलान",
                 "desc": "रणबीर कपूर की फिल्म रामायण का ट्रेलर जल्द हमारे सामने आने वाला है. मेकर्स इसे इंडिया में नहीं बल्कि अमेरिका के सैन डिएगो कॉमिक-कॉन 2026 में रिलीज करेंगे. ट्रेलर लॉन्च डेट भी हमारे सामने आ गई है.",
@@ -1606,27 +1624,18 @@
                 "source": "AajTak",
                 "date": "2026-07-09T08:56:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "48 की उम्र में कुवांरी हैं 'अंगूरी भाभी', सालों पहले टूटी थी सगाई, ताउम्र रहेंगी अकेली?",
-                "desc": "शिल्पा शिंदे का कहना है कि उन्हें शादी या प्यार में पड़ने को लेकर कोई जल्दबाजी नहीं है. वो सिंगल रहकर भी खुश हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a4e78655d1a0-shilpa-shinde-081839804-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/television/photo/shilpa-shinde-aka-angoori-bhabhi-single-at-48-age-marriage-plans-engagement-broke-lock-upp-tmovh-2597204-2026-07-08",
-                "source": "AajTak",
-                "date": "2026-07-08T17:00:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "बॉलीवुड की सबसे महंगी एक्ट्रेस थीं हेमा मालिनी? बोलीं- भिक्षा की तरह लिफाफे में पैसे मिलते थे",
-                "desc": "हेमा मालिनी को लेकर एक समय पर ऐसी बातें होती थीं कि वो बॉलीवुड की हाईएस्ट-पेड एक्ट्रेस हैं. लेकिन असलियत एकदम अलग थी, उन्हें लिफाफों में किसी भिक्षा की तरह अपनी फीस मिलती थी.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a4e6ac467422-hema-malini-082030750-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/hema-malini-reacts-highest-paid-actress-hindi-cinema-rumours-reveals-per-movie-fees-dharmendra-tmovj-dskc-2597201-2026-07-08",
-                "source": "AajTak",
-                "date": "2026-07-08T16:37:45Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "टीशर्ट पर लिखे 'कैप्टन' शब्द पर लगा कट का निशान, सूर्या की पत्नी के पोस्ट ने सोशल मीडिया पर मचाया तहलका",
+                "desc": "टी20 टीम से बाहर चल रहे पूर्व भारतीय कप्तान सूर्यकुमार यादव की एक तस्वीर उनकी पत्नी देविशा ने शेयर की, जिसमें सूर्या की टी-शर्ट पर कैप्टन शब्द कटा हुआ है और लीडर शब्द साफ लिखा है। श्रेयस अय्यर की कप्तानी में भारत के खराब प्रदर्शन के बीच आई इस तस्वीर को फैंस चयनकर्ताओं पर तंज मान रहे हैं।",
+                "image": "https://static.langimg.com/nbt/thumb/132330447/suryakumar-yadav.jpg?imgsize=567879&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/suryakumar-yadavs-t-shirt-with-captain-crossed-out-a-jibe-at-losing-captaincy-of-team-india/articleshow/132330368.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-11T12:20:06Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Cricket Tales: जब 12 दिन खेलकर भी नहीं निकला नतीजा, जहाज छूटने के डर से बीच में ही रोकना पड़ा था 'टाइमलेस टेस्ट'",
                 "desc": "आमतौर पर टेस्‍ट क्रिकेट 5 दिन का खेला जाता है। कुछ समय पहले तक यह 6 दिन चलता था।",
@@ -2157,20 +2166,83 @@
                 "source": "Hindustan",
                 "date": "2026-07-09T10:34:11Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "FIFA World Cup: न रेफरी, न विवाद... अर्जेंटीना की क्लास के आगे नहीं टिक पाया इजिप्ट, सच आया सामने!",
-                "desc": "फीफा वर्ल्ड कप 2026के राउंड ऑफ 16 में अर्जेंटीना बनाम इजिप्ट मुकाबला विवादों से घिरा रहा। फ्रेंच रेफरी फ्रांस्वा लेतक्सिये पर पक्षपात के आरोप लगे।",
-                "image": "https://static.langimg.com/nbt/thumb/132283689/argentina-vs-egypt.jpg?imgsize=249570&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/football/fifa-world-cup/news/truth-behind-egypt-vs-argentina-no-referee-no-controversy-fifa-world-cup-2026/articleshow/132283636.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-09T10:26:09Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
+                "desc": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
+                "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10meta-ai-ztgp/10meta-ai-ztgp-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
+                "source": "The New York Times",
+                "date": "2026-07-11T12:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taylor Frankie Paul Files Stalking Injunction Against Dakota Mortensen's Friend Who Posted Video of Her Crying",
+                "desc": "Taylor Frankie Paul ain't playing around ... she just filed a civil stalking injunction against Dakota Mortensen's friend who posted the video of her sobbing during a blow-out fight with him on TikTok.",
+                "image": "https://imagez.tmz.com/image/f9/16by9/2026/07/11/f9cb937cb67b4772b5de4fe05f06e4bb_xl.jpg",
+                "url": "https://www.tmz.com/2026/07/11/taylor-frankie-paul-files-stalking-injunction-against-dakota-mortensen-friend/",
+                "source": "TMZ",
+                "date": "2026-07-11T12:28:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Russian missile and drone barrage kills two and wounds 19 in Ukraine",
+                "desc": "In the latest salvo in one of the war’s deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
+                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a51f34f8cb1-1783755599.jpg?resize=1920%2C1440",
+                "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv",
+                "source": "Al Jazeera",
+                "date": "2026-07-11T12:26:52Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "U.K. rattled by killing of politician Ann Widdecombe as murder probe continues",
+                "desc": "LONDON — A former British member of Parliament was found dead with serious injuries at her home in Thursday, prompting a murder investigation that has reignited concerns about the safety of the country’s politicians.",
+                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260711-widdecombe-nd-0e69fc.jpg",
+                "url": "https://www.nbcnews.com/world/united-kingdom/uk-rattled-killing-politician-ann-widdecombe-murder-probe-continues-rcna439777",
+                "source": "NBC News",
+                "date": "2026-07-11T12:24:21Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "A mom's headaches and nausea were dismissed as pregnancy symptoms. She had a brain tumor.",
+                "desc": "Jenney Bitner feared she wouldn't get to see her children grow up after a tumor in her brain revealed she had Stage IV melanoma.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/10/c0746d2b-15fa-4120-88fa-a47d4aaa5efe/thumbnail/1200x630/b7aa7e5985c1ec73106ed61f26086b28/march-2020-reading-to-kids-after-1st-surgery.jpg",
+                "url": "https://www.cbsnews.com/news/melanoma-metastatic-stage-iv-cancer-brain-tumor-pregnancy/",
+                "source": "CBS News",
+                "date": "2026-07-11T12:23:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "10 killed, including popular Bahamian band, in small plane crash, officials say",
+                "desc": "The names of those on board the plane have not been released by officials but members of Da Pond Band were among the dead, according to a source.",
+                "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/11/40dc52d2-8fa8-432e-9809-682954cf6d38/thumbnail/1200x630/d2d074019cf60da6ac4fb90ff3744e6d/bahamas-plane-crash.jpg",
+                "url": "https://www.cbsnews.com/news/small-plane-crash-bahamas-fatalities/",
+                "source": "CBS News",
+                "date": "2026-07-11T12:21:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Argentina, Norway, England, More",
+                "desc": "Norway faces England and Argentina meets Switzerland in the World Cup quarterfinals today. Get times, TV and streaming info. Matches air on FOX and FS1.",
+                "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/world-cup-schedule-july-11.jpg?ve=1&tl=1",
+                "url": "https://www.foxsports.com/stories/soccer/how-watch-world-cup-today-schedule-times-tv-streaming-argentina-norway-england-more",
+                "source": "FOX Sports",
+                "date": "2026-07-11T12:20:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "This MIT robot flies through the air then dives underwater using the same wings",
+                "desc": "Diving seabirds like puffins use their wings to both fly and swim, even though air and water behave very differently. \"Thinking of a wing that could operate...",
+                "image": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-10-image-20.jpg",
+                "url": "https://www.techspot.com/news/113077-mit-robot-flies-through-air-dives-underwater-using.html",
+                "source": "TechSpot",
+                "date": "2026-07-11T12:18:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Democrat Rep Dean says Platner disqualified himself in Maine Senate race",
                 "desc": "Graham Platner exited the Maine Senate race against Susan Collins after a rape allegation. Rep. Madeleine Dean said it was an \"easy call\" to never endorse him.",
@@ -2638,81 +2710,27 @@
                 "source": "The New York Times",
                 "date": "2026-07-10T12:48:08Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Parents of Nolan Wells call for 'thorough' investigation as they seek answers about his mysterious death",
-                "desc": "The parents of Nolan Xavier Wells called for a transparent investigation as they seek answers about the mysterious death of their son, whose body was recovered on July 6.",
-                "image": "https://i.abcnewsfe.com/a/903f6c54-8cdb-4835-b43a-3b1a6fb408f2/nolan-wells-2-ht-gmh-260709_1783604214015_hpMain_16x9.jpg?w=1600",
-                "url": "https://abcnews.com/US/parents-nolan-wells-call-investigation-seek-answers-mysterious/story?id=134627407",
-                "source": "ABC News - Breaking News, Latest News and Videos",
-                "date": "2026-07-10T12:20:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Spain's deadly wildfires in Almeria claim 12 lives amid heatwave",
-                "desc": "One of Spain's deadliest wildfires has killed 12 people, authorities report, as soaring temperatures grip the country.",
-                "image": "https://dims.apnews.com/dims4/default/c9468f7/2147483647/strip/true/crop/5572x3713+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb5%2F77%2F1cc1a3ce4c59525a15950bfa7674%2F5487a3d20a0843898b4b51f980ed3405",
-                "url": "https://apnews.com/article/spain-wildfire-almeria-760ecfff1316d56837888de4ab9efa21",
-                "source": "AP News",
-                "date": "2026-07-10T12:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China retrieves booster in reusable rocket breakthrough",
-                "desc": "China has joined the small group of space powers that can now recover an orbital-class booster rocket. Developers of the landing method turned to a striking alternative to that used by existing players such as SpaceX.",
-                "image": "https://static.dw.com/image/77902737_6.jpg",
-                "url": "https://www.dw.com/en/china-retrieves-booster-in-reusable-rocket-breakthrough/a-77904960",
-                "source": "DW.com",
-                "date": "2026-07-10T11:29:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "China halts helium exports amid Middle East conflict",
-                "desc": "Beijing said the temporary ban is intended to prevent domestic shortages as renewed Middle East fighting threatens supplies of the gas used in semiconductor manufacturing.",
-                "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729328",
-                "url": "https://www.jpost.com/international/article-902120",
-                "source": "The Jerusalem Post",
-                "date": "2026-07-10T11:21:19Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "What we know about the Houston ICE shooting and the Democrats vying to replace Graham Platner: Morning Rundown",
-                "desc": "Details emerge after an ICE officer fatally shoots a man in Houston.",
-                "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260707-maine-jackson-platner-shah-mn-1249-c33ef5.jpg",
-                "url": "https://www.nbcnews.com/news/us-news/replace-graham-platner-houston-ice-shooting-morning-rundown-rcna385787",
-                "source": "NBC News",
-                "date": "2026-07-10T11:03:59Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LeBron James' free agency market: What six teams can offer him",
-                "desc": "As the free agent race to land LeBron James continues, here's what six teams can actually offer him, from the exact dollar amount to the intangibles.",
-                "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0809%2Fr1370985_1296x729_16%2D9.jpg",
-                "url": "https://www.espn.com/nba/story/_/id/49301354/lebron-james-2026-free-agency-market-offers-contract-money-team",
-                "source": "ESPN",
-                "date": "2026-07-10T11:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "AJ Dybantsa, Darryn Peterson deliver glimpse of the NBA's bright future in Summer League showdown",
-                "desc": "The No. 1 and No. 2 picks in the 2026 NBA Draft both rose to the occasion in Las Vegas, providing a glimpse into the future for the league's stars",
-                "image": "https://sportshub.cbsistatic.com/i/r/2026/07/10/959254f7-54f6-4b30-8f62-32e66beef9d0/thumbnail/1200x675/9ffcfedaf7db1d90659b9b6e37c32f65/gettyimages-2284816275.jpg",
-                "url": "https://www.cbssports.com/nba/news/aj-dybantsa-darryn-peterson-nba-summer-league/",
-                "source": "CBS Sports",
-                "date": "2026-07-10T10:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Delta Air Lines (DAL) Q2 2026 earnings",
-                "desc": "Delta is the first of the U.S. airlines to report second-quarter results.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108317451-1780673029371-gettyimages-2253186744-aviation-stock-14873-en-delta-air-lines-boeing737-airplane-a.jpeg?v=1780673050&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
-                "source": "CNBC",
-                "date": "2026-07-10T10:30:53Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
+                "desc": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
+                "image": "https://static01.nyt.com/images/2026/07/10/multimedia/10meta-ai-ztgp/10meta-ai-ztgp-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
+                "source": "The New York Times",
+                "date": "2026-07-11T12:34:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ikea to open 7 new stores through 2027. See where",
+                "desc": "Furniture giant Ikea is opening seven new stores through the winter of 2027. Here's where and when the stores are scheduled to open.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/10/USAT/90878514007-20240426-t-120359-z-368735238-rc-28-e-7-aiwjiu-rtrmadp-3-ikearesults-1.JPG?crop=5218,2935,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/money/2026/07/11/ikea-opening-new-stores-locations/90878057007/",
+                "source": "USA Today",
+                "date": "2026-07-11T12:01:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "GLP-1 implant from Vivani Medical aims to help patients stay on treatment",
                 "desc": "Vivani Medical is developing an implant of semaglutide, the active ingredient in Novo Nordisk's obesity injection Wegovy and diabetes counterpart Ozempic.",
@@ -2720,6 +2738,15 @@
                 "url": "https://www.cnbc.com/2026/07/11/glp-1-implant-from-vivani-medical-aims-to-help-patients-stay-on-treatment.html",
                 "source": "CNBC",
                 "date": "2026-07-11T12:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "John Deere agrees to 10-year right-to-repair settlement",
+                "desc": "Deere and Co. agreed to provide farmers and independent repair shops access to the same equipment repair resources as authorized retailers.",
+                "image": "https://alphanews.org/wp-content/uploads/2026/07/johndeere.jpeg",
+                "url": "https://alphanews.org/john-deere-agrees-to-10-year-right-to-repair-settlement/",
+                "source": "Alpha News MN",
+                "date": "2026-07-11T11:30:00Z",
                 "priority": "STANDARD"
             },
             {
@@ -3225,36 +3252,36 @@
                 "source": "New York Post",
                 "date": "2026-07-09T11:30:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Renewed Fighting With Iran Shows Cracks in Peace-Trade Rally",
-                "desc": "Investors have taken heart from the fragile cease-fire between the United States and Iran before. Will they do so again?",
-                "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09db-hormuz-mbkj/09db-hormuz-mbkj-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/09/business/dealbook/iran-war-markets.html",
-                "source": "The New York Times",
-                "date": "2026-07-09T11:26:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "There Might Be a 'Bomb' in Your Used Car's Steering Wheel",
-                "desc": "A hidden menace may be sitting in your steering wheel, reports the Wall Street Journal 's Ryan Felton. Federal regulators say at least 10 US drivers have been killed and several...",
-                "image": "https://cdn.newser.com/image/1697491-12-20260709064702.jpeg",
-                "url": "https://www.newser.com/story/392506/your-used-car-could-hold-a-dangerously-faulty-air-bag.html",
-                "source": "Newser",
-                "date": "2026-07-09T11:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Chili’s takes a swipe at the rising cost of fast food prices in viral post",
-                "desc": "‘Why do y’all let fast food play you like this?’ an account for Chili’s asks on X",
-                "image": "https://static.independent.co.uk/2026/03/24/17/29/iStock-516813402.jpg?trim=24,0,25,0&width=1200&height=800&crop=1200:800",
-                "url": "https://www.independent.co.uk/news/world/americas/chilis-fast-food-prices-burger-king-b3011790.html",
-                "source": "The Independent",
-                "date": "2026-07-09T11:16:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Taylor Frankie Paul Files Stalking Injunction Against Dakota Mortensen's Friend Who Posted Video of Her Crying",
+                "desc": "Taylor Frankie Paul ain't playing around ... she just filed a civil stalking injunction against Dakota Mortensen's friend who posted the video of her sobbing during a blow-out fight with him on TikTok.",
+                "image": "https://imagez.tmz.com/image/f9/16by9/2026/07/11/f9cb937cb67b4772b5de4fe05f06e4bb_xl.jpg",
+                "url": "https://www.tmz.com/2026/07/11/taylor-frankie-paul-files-stalking-injunction-against-dakota-mortensen-friend/",
+                "source": "TMZ",
+                "date": "2026-07-11T12:28:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mick Jagger Knows He May Have Played His Last Rolling Stones Show",
+                "desc": "The legendary rock star, now 82, on how fame, touring and aging have changed him.",
+                "image": "https://static01.nyt.com/images/2026/07/19/magazine/19mag-interview-jagger-04/19mag-interview-jagger-04-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/2026/07/11/magazine/mick-jagger-interview.html",
+                "source": "The New York Times",
+                "date": "2026-07-11T12:08:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Barstool's Dave Portnoy says free speech doesn't shield you from accountability",
+                "desc": "Dave Portnoy drew a distinction between accountability and cancel culture at a New York City book launch, defending free speech but rejecting First Amendment shields from consequences.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/Dave-Portnoy-speaks-at-book-launch.jpg",
+                "url": "https://www.foxnews.com/media/cancel-me-if-you-can-dave-portnoy-takes-aim-cancel-culture-critics-already-decided-verdict",
+                "source": "Fox News",
+                "date": "2026-07-11T12:00:44Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Georgia Bernstein's Gloriously Deviant Oddity",
                 "desc": "Bruce McKenzie and newcomer Cemre Paksoy hypnotize in Georgia Bernstein’s daring feature debut 'Night Nurse.'",
@@ -3767,36 +3794,54 @@
                 "source": "TMZ",
                 "date": "2026-07-09T15:55:10Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Taylor Frankie Paul's ex Dakota Mortensen scolded by judge for son, 2, riding motorcycle",
-                "desc": "Taylor Frankie Paul's ex Dakota Mortensen was scolded by a judge Wednesday for driving their 2-year-old, Ever, on a motorcycle.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/mortensen-26.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/07/09/parents/taylor-frankie-pauls-ex-dakota-mortensen-scolded-by-judge-for-son-2-riding-motorcycle/",
-                "source": "Page Six",
-                "date": "2026-07-09T15:50:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Julianne Nicholson To Reprise Emmy-Winning Role In 'Task' Season 2",
-                "desc": "Julianne Nicholson is set to reprise her Emmy-winning Mare of Easttown role as Lori Ross in Season 2 of HBO's Task, Deadline has confirmed",
-                "image": "https://deadline.com/wp-content/uploads/2026/07/Julianne-NIcholson.jpg?w=1024",
-                "url": "https://deadline.com/2026/07/julianne-nicholson-cast-lori-ross-mare-of-easttown-task-s2-1236978360/",
-                "source": "Deadline",
-                "date": "2026-07-09T15:45:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Who the F***’ Are You?!’",
-                "desc": "The White House isn’t pleased with Jimmy Kimmel’s guest host.",
-                "image": "https://www.thedailybeast.com/resizer/v2/D4YE32BVVVC5NODDKRFLJBWEAY.png?smart=true&auth=d19e108db0b3cee04e8c697bb523ebc566482327585aa26c2bc7115eebea8f58&width=1200&height=630",
-                "url": "https://www.thedailybeast.com/obsessed/kimmel-host-tiffany-haddish-unloads-on-trump-goon-davis-ingle-who-the-f-are-you/",
-                "source": "The Daily Beast",
-                "date": "2026-07-09T15:43:00Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "OT win vs. Raptors, Jaylen Brown trade thoughts, and more",
+                "desc": "Just two days into Summer League, there's already been plenty of action. Joe Mazzulla, Derrick White, Neemias Queta, and others have all shared their thoughts on the Jaylen Brown trade. Jayson Tatum and Queta were working out together on Friday morning. And Bam Adebayo -- reportedly -- hit Tyler Herro in the face. Perhaps what happens in Vegas might not actually stay in Vegas.",
+                "image": "https://www.bostonsportsjournal.com/img/Celtics/usatsi_28378354_168403071_lowres-1600x900.jpg",
+                "url": "https://www.bostonsportsjournal.com/2026/07/11/celtics-summer-league-notebook-teammates-discuss-jaylen-brown-trade-ot-win-vs-raptors-and-more",
+                "source": "Boston Sports Journal",
+                "date": "2026-07-11T12:24:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wimbledon 2026 live updates, results as Karolina Muchova, Linda Noskova battle for title",
+                "desc": "The pair of Czech players are both vying for their first grand slam title on Saturday",
+                "image": "https://sportshub.cbsistatic.com/i/r/2026/07/10/ec6e31b7-46e3-4b9a-96d8-7ea73edd84f1/thumbnail/1200x675/898efcddf4628caec42c32a9820514a1/karolina-muchova-fist-pump.jpg",
+                "url": "https://www.cbssports.com/tennis/news/wimbledon-2026-live-updates-results-bracket-karolina-muchova-linda-noskova/live/",
+                "source": "CBS Sports",
+                "date": "2026-07-11T12:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Report: ESPN will address the online complaints about Matt Miller later",
+                "desc": "ESPN NFL draft analyst Matt Miller announced on Friday that he'll be placed on leave as he recovers from serious injuries suffered last month in an automobile accident.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/52820e8/2147483647/strip/true/crop/5184x2916+0+486/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2F77%2Fef51b58545368fede686ee69070e%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1880386523",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-espn-will-address-the-online-complaints-about-matt-miller-later",
+                "source": "NBC Sports",
+                "date": "2026-07-11T12:16:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "England star Harry Kane opens up on golfing with President Trump",
+                "desc": "England captain Harry Kane revealed ahead of the quarterfinal battle that he played golf with the President roughly 18 months ago in Florida.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-fdnvpszlp-1783770767916.jpg?quality=75&strip=all&1783756398&w=1200",
+                "url": "https://nypost.com/2026/07/11/sports/england-star-harry-kane-opens-up-on-golfing-with-president-trump/",
+                "source": "New York Post",
+                "date": "2026-07-11T12:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Argentina, Norway, England, More",
+                "desc": "Norway faces England and Argentina meets Switzerland in the World Cup quarterfinals today. Get times, TV and streaming info. Matches air on FOX and FS1.",
+                "image": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/07/1408/814/world-cup-schedule-july-11.jpg?ve=1&tl=1",
+                "url": "https://www.foxsports.com/stories/soccer/how-watch-world-cup-today-schedule-times-tv-streaming-argentina-norway-england-more",
+                "source": "FOX Sports",
+                "date": "2026-07-11T12:16:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "The Suns’ young core made the second half worth the wait",
                 "desc": "Same result, different night, and",
@@ -4291,53 +4336,8 @@
                 "source": "Deseret News",
                 "date": "2026-07-09T16:02:55Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Teams had 'intel' impacting Jaylen Brown's trade value",
-                "desc": "One NBA insider said there were a couple of teams who had intel that Brown was not interested in playing for them.",
-                "image": "https://bdc2020.o0bc.com/wp-content/uploads/2026/07/456FHUVKMOJ3GA6HKBCVA7NMRA-6a46842588453-768x432.jpg",
-                "url": "https://www.boston.com/sports/boston-celtics/2026/07/09/celtics-jaylen-brown-trade-rumors-zach-lowe-intel-comments/",
-                "source": "Boston.com",
-                "date": "2026-07-09T15:42:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Red Sox Place Ranger Suárez On Injured List",
-                "desc": "The Red Sox lose another key starting pitcher to the injured list. See what it means for the Sox and the trade deadline at MLB Trade Rumors.",
-                "image": "https://cdn.mlbtraderumors.com/files/2026/07/ranger-suarez-red-sox-1024x685.jpg",
-                "url": "https://www.mlbtraderumors.com/2026/07/red-sox-place-ranger-suarez-on-injured-list.html",
-                "source": "MLB Trade Rumors",
-                "date": "2026-07-09T15:40:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Wimbledon 2026 results: Karolina Muchova beats Coco Gauff in epic tie-break to reach final",
-                "desc": "Karolina Muchova recovers from match point down to win an epic deciding-set tie-break against Coco Gauff and reach the final at Wimbledon.",
-                "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2b16/live/0e26c810-7bac-11f1-9510-1546718f668b.jpg",
-                "url": "https://www.bbc.com/sport/tennis/articles/c74yk1qp4dko",
-                "source": "BBC",
-                "date": "2026-07-09T15:31:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Still in contract dispute, Jacoby Brissett works out with teammates in South Florida",
-                "desc": "Quarterback Jacoby Brissett is still in a contract dispute with the Cardinals.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/21c8523/2147483647/strip/true/crop/4027x2265+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2F67%2F8c64bcd8426c809728c4cf64a76a%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2280760184",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/still-in-contract-dispute-jacoby-brissett-works-out-with-teammates-in-south-florida",
-                "source": "NBC Sports",
-                "date": "2026-07-09T15:29:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nikola Kusturica Reportedly Makes CBB Decision, Euro Star Eyed as No. 1 Pick in 2028 NBA Draft",
-                "desc": "UCLA made a big splash on Thursday by securing a commitment from FC Barcelona standout Nikola Kusturica for the 2026-27 season.",
-                "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-07/2284516292_large_cropped.jpg?w=1120&h=630",
-                "url": "https://bleacherreport.com/articles/25452737-nikola-kusturica-reportedly-makes-cbb-decision-euro-star-eyed-no-1-pick-2028-nba-draft",
-                "source": "Bleacher Report",
-                "date": "2026-07-09T15:29:17Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-12T00:00:32.648445Z"
+    "lastGlobalSync": "2026-07-12T00:40:34.765312Z"
 }
