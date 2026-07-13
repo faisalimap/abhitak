@@ -2172,6 +2172,15 @@
     "en": {
         "general": [
             {
+                "title": "'Love Island USA' Season 8 finale: How to watch tonight, who's in the final four, and more",
+                "desc": "It's time for a trip to Love Island! The Season 8 finale of the steamy reality show drops this week — here's what you need to know.",
+                "image": "https://s.yimg.com/lo/mysterio/api/81ab06e76a1fc9ad3ab6781c356701ab97d925cac7cc5ee51d20c882cec089ba/lightyear_networkapi/resizefill_w1000_h667;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fnup-210652-01097_0273.jpg",
+                "url": "https://www.yahoo.com/entertainment/tv/article/love-island-usa-season-8-finale-how-to-watch-tonight-whos-in-the-final-four-and-more-145740655.html",
+                "source": "Yahoo",
+                "date": "2026-07-12T14:57:40Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Joe Rogan bewildered by 'crazy' Conor McGregor decision that led to injury",
                 "desc": "The Conor McGregor vs. Max Holloway fight at UFC 329 began with the Irishman's flying roundhouse kick, which immediately left him injured and forced his long-awaited return to UFC to be cut short just over a minute in.",
                 "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-4p5c43guf-1783865816534.jpg?quality=75&strip=all&1783851463&w=1200",
@@ -2700,15 +2709,6 @@
                 "url": "https://www.tmz.com/2026/07/11/taylor-frankie-paul-files-stalking-injunction-against-dakota-mortensen-friend/",
                 "source": "TMZ",
                 "date": "2026-07-11T12:28:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Russian missile and drone barrage kills two and wounds 19 in Ukraine",
-                "desc": "In the latest salvo in one of the war’s deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
-                "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/afp_6a51f34f8cb1-1783755599.jpg?resize=1920%2C1440",
-                "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv",
-                "source": "Al Jazeera",
-                "date": "2026-07-11T12:26:52Z",
                 "priority": "STANDARD"
             }
         ],
@@ -3798,6 +3798,15 @@
         ],
         "sports": [
             {
+                "title": "Silicon Valley VC giant Vinod Khosla and family to buy Seattle Seahawks for $9.6 billion",
+                "desc": "“We look forward to building on the winning legacy Paul Allen created and to earning the trust of the Seahawks organization and fans everywhere.”",
+                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26192846216966-e1783867320855.jpg?resize=1200,600",
+                "url": "https://fortune.com/2026/07/12/silicon-valley-vc-vinod-khosla-seattle-seahawks-deal-san-francisco-49ers-stake/",
+                "source": "Fortune",
+                "date": "2026-07-12T14:49:00Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "2026 World Cup: What we've learned about Argentina, England, France and Spain ahead of the semifinals",
                 "desc": "The top four teams in FIFA's rankings are all in the semifinals.",
                 "image": "https://s.yimg.com/lo/mysterio/api/eb71de719b335645fd92dfdeff47f30a3fb655b425fef1f002f3aecb43cccbae/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Fa1074e4f-d232-444a-b1fd-24ec9b253180",
@@ -4327,17 +4336,8 @@
                 "source": "The New York Times",
                 "date": "2026-07-10T15:41:28Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Hurricanes owner Tom Dundon is getting Stanley Cup engraving criticism. He’s not the first to do it",
-                "desc": "The names of Carolina Hurricanes owner Tom Dundon’s wife and five children follow his before getting to members of the front office, coaches, and players.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/f5db9c3/2147483647/strip/true/crop/6569x3695+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff1%2F9d%2F38f004dd45e89e680a20466c505f%2Ftomdundon2.jpg",
-                "url": "https://www.nbcsports.com/nhl/news/hurricanes-owner-tom-dundon-is-getting-stanley-cup-engraving-criticism-hes-not-the-first-to-do-it",
-                "source": "NBC Sports",
-                "date": "2026-07-10T15:41:13Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-13T02:41:26.013192Z"
+    "lastGlobalSync": "2026-07-13T03:01:22.820812Z"
 }
