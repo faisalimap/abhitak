@@ -2,6 +2,24 @@
     "hi": {
         "general": [
             {
+                "title": "US-ईरान युद्ध... कच्चे तेल का भाव, ये 4 फैक्टर तय करेंगे शेयर बाजार की चाल",
+                "desc": "Stock Market Next Week: अगले सप्ताह शेयर बाजार की चाल कैसी रहेगी, इसे तय करने में एक नहीं, बल्कि कई फैक्टर अहम रोल निभाएंगे. इनमें US-Iran War से जुड़े अपडेटों से लेकर कंपनियों के तिमाही नतीजे शामिल हैं.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a5369f7ea066-stock-market-next-week-1218261-16x9.jpg",
+                "url": "https://www.aajtak.in/business/news/story/us-iran-war-update-include-four-factors-to-drive-stock-market-crude-q1-results-inflation-mansoon-tutc-dskc-2599687-2026-07-12",
+                "source": "AajTak",
+                "date": "2026-07-12T13:53:18Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ईरान और अमेरिका के बीच सीज़फ़ायर क्यों नहीं टिक पाया?",
+                "desc": "ईरान और अमेरिका के बीच लंबी वार्ता के बाद शुरुआती समझौता हो गया लेकिन दोनों पक्ष समझौते की शर्तों को लेकर अलग-अलग मायने निकाल रहे हैं.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/da51/live/119249f0-7df7-11f1-926f-c90d1bcfbc84.jpg",
+                "url": "https://www.bbc.com/hindi/articles/c4gynlzllv5o",
+                "source": "BBC",
+                "date": "2026-07-12T13:51:04Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "भारत से टी20 सीरीज के बाद इंग्लैंड के कोच ब्रेंडन मैकुलम पर गिरी गाज, बाहर का दिखाया गया रास्ता",
                 "desc": "Brendon McCullum News: इंग्लैंड ने भारत को पांच मैचों की टी20 सीरीज में 4-0 से शिकस्त दी. पांचवें टी20 के अगले ही दिन इंग्लैंड ने कोच ब्रेंडन मैकुलम को हटा दिया है.",
                 "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/12/2b5fbc72c27512947081d194588ada3c1783863249457143_original.jpeg?impolicy=abp_cdn&imwidth=1200",
@@ -521,24 +539,6 @@
                 "url": "https://www.aajtak.in/auto/news/story/hero-vida-vx2-plus-launch-price-battery-range-features-specs-auam-dskc-2599097-2026-07-11",
                 "source": "AajTak",
                 "date": "2026-07-11T11:45:54Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "वियतनाम में नाव पलटने की घटना में 15 भारतीय पर्यटकों की मौत, पीएम मोदी ने क्या कहा",
-                "desc": "शुरुआती जानकारी के मुताबिक़ नाव में 32 पर्यटकों के साथ कुछ चालक दल के सदस्य भी सवार थे.",
-                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/5ce2/live/3f0ed1b0-7d1f-11f1-ba31-ed66fa13cdef.jpg",
-                "url": "https://www.bbc.com/hindi/articles/ckg0qnv700wo",
-                "source": "BBC",
-                "date": "2026-07-11T11:26:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "इंडिया के बाद जी5 इंटरनेशनल से हटाई गई दिलजीत दोसांझ की फिल्म 'सतलुज', फैंस ने जताई नाराजगी",
-                "desc": "दिलजीत की फिल्म सतलुज इंडिया में तो बैन कर दी गई थी. लेकिन अब उसे इंटरनेशनल प्लेटफॉर्म से भी हटा दिया गया है. कई यूजर्स ने सोशल मीडिया के जरिए दावा किया है कि ये फिल्म जी5 से हर जगह हटा दी गई है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a5213cecfe40-satluj-115833357-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/ott/story/diljit-dosanjh-movie-satluj-punjab-95-removed-from-zee5-outside-india-after-ban-controversial-story-tmovj-dskc-2599063-2026-07-11",
-                "source": "AajTak",
-                "date": "2026-07-11T11:26:02Z",
                 "priority": "STANDARD"
             }
         ],
@@ -2172,6 +2172,15 @@
     "en": {
         "general": [
             {
+                "title": "Wimbledon final betting tips favor Jannik Sinner to sweep Alexander Zverev as top players meet on grass",
+                "desc": "Jannik Sinner faces Alexander Zverev in the Wimbledon final with sports betting picks including set betting and total games. Sinner leads head-to-head 10-4.",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Jannik_Sinner_looks_on_Wimbledon.jpg",
+                "url": "https://www.foxnews.com/outkick-sports/wimbledon-final-betting-tips-favor-jannik-sinner-sweep-alexander-zverev-top-players-meet-grass",
+                "source": "Fox News",
+                "date": "2026-07-12T13:47:11Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "The 25 Best James Webb Space Telescope Photos",
                 "desc": "To celebrate the James Webb Space Telescope's fourth birthday, here are the 25 best photos its incredible cameras have captured so far.",
                 "image": "https://petapixel.com/assets/uploads/2026/07/jwst-special-feature-header-2026.jpg",
@@ -2701,18 +2710,18 @@
                 "source": "The Verge",
                 "date": "2026-07-11T12:00:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Who Needs Scalpers When GameStop Is Marking Up Pokémon Cards By More Than 300 Percent?",
-                "desc": "Is paying a reasonable price for colorful cardboard too much to ask?",
-                "image": "https://www.engadget.com/img/gallery/who-the-hell-needs-scalpers-when-gamestop-is-marking-up-30th-anniversary-pokmon-cards-by-more-than-300-percent/l-intro-1783712761.jpg",
-                "url": "https://www.engadget.com/2212688/gamestop-resell-pokmon-30th-anniversary-at-obscene-markup/",
-                "source": "Engadget",
-                "date": "2026-07-11T12:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "I Canceled Amazon Prime. I Didn't Expect to Miss Running Errands.",
+                "desc": "Giving up Amazon Prime saved me money, but it also reminded me how much I enjoyed shopping locally and getting out of the house.",
+                "image": "https://i.insider.com/6a3d9b5ba25092c74cc9f77b?width=1200&format=jpeg",
+                "url": "https://www.businessinsider.com/canceling-amazon-prime-running-errands-2026-7",
+                "source": "Business Insider",
+                "date": "2026-07-12T13:53:16Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Food Double Cheeseburgers and Ranked Them",
                 "desc": "We tried 13 fast-food double cheeseburgers and ranked them based on taste and value.",
@@ -3242,15 +3251,6 @@
                 "url": "https://www.foxnews.com/politics/biden-era-enviro-rule-accused-strangling-truckers-squeezing-americans-lands-trump-chopping-block",
                 "source": "Fox News",
                 "date": "2026-07-09T16:30:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "National French Fry Day 2026 means free fries at McDonald's, Wendy's",
-                "desc": "You can get free french fries and deals on fries at lots of restaurants and fast-food chains on Friday, July 10, National French Fry Day.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/08/USAT/90848120007-2156617441.jpg?crop=8146,4580,x0,y763&width=3200&height=1800&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/money/food/2026/07/09/national-french-fry-day-2026-free-fries-mcdonalds-wendys/90787643007/",
-                "source": "USA Today",
-                "date": "2026-07-09T16:25:00Z",
                 "priority": "STANDARD"
             }
         ],
@@ -4339,5 +4339,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-13T01:41:22.084072Z"
+    "lastGlobalSync": "2026-07-13T01:54:20.652880Z"
 }
