@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "विराट कोहली IN, ईशान किशन OUT... पहले वनडे में ऐसी हो सकती है टीम इंडिया की प्लेइंग-11, कुलदीप यादव पर फंसा पेच",
+                "desc": "टी20 सीरीज में मिली 0-4 की शर्मनाक हार के बाद टीम इंडिया वनडे सीरीज की शुरुआत दमदार जीत के साथ करना चाहेगी. ऐसे में पहले मुकाबले के लिए प्लेइंग-11 चुनते समय गौतम गंभीर और शुभमन गिल किसी तरह की गलती नहीं करना चाहेंगे.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a5504e240b3e-virat-kohli-comeback-news-133140271-16x9.png",
+                "url": "https://www.aajtak.in/sports/cricket/story/ind-vs-eng-1st-odi-predicted-playing-xi-team-india-virat-kohli-in-ishan-kishan-out-tspoa-dskc-2600545-2026-07-13",
+                "source": "AajTak",
+                "date": "2026-07-13T15:43:53Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "अमेरिकी सीनेटर लिंडसे ग्राहम की मौत पर ईरानी मीडिया जश्न क्यों मना रहा है?",
                 "desc": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के क़रीबी सहयोगी और रिपब्लिकन सीनेटर लिंडसे ग्राहम की मौत पर इसराइल के प्रधानमंत्री बिन्यामिन नेतन्याहू ने शोक जताया लेकिन ईरानी मीडिया का रुख़ इससे बिलकुल उलट है.",
                 "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/6fd6/live/83d06640-7e5c-11f1-aa02-0fef16c195b6.jpg",
@@ -531,15 +540,6 @@
                 "source": "Hindustan",
                 "date": "2026-07-12T14:20:59Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'अब मेरा कद बड़ा नहीं रहा', नरोत्तम मिश्रा ने कहा- दिल्ली में जिनसे मिलना था मिल लिया, बीजेपी में रहेंगे या नहीं क्लियर कर दिया",
-                "desc": "Narottam Mishra: नरोत्तम मिश्रा रविवार को दिल्ली दौरे पर पहुंचे। इस दौरान उन्होंने पार्टी के कई सीनियर नेताओं के साथ मीटिंग की। हालांकि किनसे किनसे मुलाकात हुई इसकी जानकारी नहीं दी।",
-                "image": "https://static.langimg.com/nbt/thumb/132346640/narottam-mishra-arrives-in-delhi-said-remain-in-the-bjp-support-to-ashutosh-tiwari.jpg?imgsize=104696&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/state/madhya-pradesh/bhopal/narottam-mishra-arrives-in-delhi-said-remain-in-the-bjp-support-to-ashutosh-tiwari/articleshow/132346668.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-12T14:09:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
@@ -568,6 +568,15 @@
                 "url": "https://www.livehindustan.com/business/sk-hynix-share-crash-15-pc-after-record-nasdaq-debut-ai-chip-stock-falls-check-details-201783948330107.html",
                 "source": "Hindustan",
                 "date": "2026-07-13T13:25:34Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "JP Power की मनोज गौड़ के इस्तीफे के बाद इस दिन होगी पहली मीटिंग, कंपनी ने दिया अपडेट",
+                "desc": "जयप्रकाश पावर वेंचर्स ने 20 जुलाई 2026 को अपनी बोर्ड मीटिंग की घोषणा की है, जिसमें वित्त वर्ष 2026-27 की पहली तिमाही के नतीजों को मंजूरी दी जाएगी।\nयह बैठक अदाणी ग्रुप द्वारा 24 हिस्सेदारी अधिग्रहण और मनोज गौड़ के इस्तीफे के बाद पहली होगी।",
+                "image": "https://www.jagranimages.com/images/2026/07/13/article/image/JP-Power-Board-Meeting-1783948608501_m.webp",
+                "url": "https://www.jagran.com/business/share-market-jp-power-board-meeting-set-for-july-20-after-adani-deal-and-manoj-gaur-resign-40305187.html",
+                "source": "Jagran",
+                "date": "2026-07-13T13:21:00Z",
                 "priority": "STANDARD"
             },
             {
@@ -1073,18 +1082,27 @@
                 "source": "AajTak",
                 "date": "2026-07-10T10:52:09Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Vedanta की इस कंपनी में अभी बाकी है दम, ब्रोकरेज ने जताया 22 तक तेजी का भरोसा; जानिए क्या है वजह",
-                "desc": "मोतीलाल ओसवाल ने वेदांता एल्युमिनियम को 'बाय' रेटिंग दी है, जिसमें 540 रुपये के लक्ष्य मूल्य के साथ 22 तक की तेजी की उम्मीद है। ब्रोकरेज का मानना है कि कंपनी की उत्पादन क्षमता, कम लागत और एल्युमिनियम की बढ़ती मांग से कमाई में मजबूत वृद्धि होगी।",
-                "image": "https://www.jagranimages.com/images/2026/07/10/article/image/Vedanta-Aluminium-1783676924083_m.webp",
-                "url": "https://www.jagran.com/business/share-market-vedanta-aluminium-motilal-oswal-recommends-buy-22-percent-upside-40301367.html",
-                "source": "Jagran",
-                "date": "2026-07-10T09:52:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "'तारक मेहता' से हटाए जाएंगे जेठालाल! यह होगा नया लीड किरदार, यह है मेकर्स की प्लानिंग?",
+                "desc": "TMKOC: तारक मेहता का उल्टा चश्मा सीरियल में जेठालाल लंबे वक्त से लीड किरदार बने हुए हैं, लेकिन अब मेकर्स की प्लानिंग उन्हें हटाकर एक दूसरे किरदार पर फोकस शिफ्ट करने की की है। जानिए क्या है प्लानिंग?, Tv Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/13/1600x900/logo/JethaL_1783958165192_1783958174083_6ca7664a-9a6b-45d7-a861-b4ea47530ed9.jpg",
+                "url": "https://www.livehindustan.com/entertainment/tv/tmkoc-makers-to-end-jethalal-character-in-taarak-mehta-ka-ooltah-chashmah-for-this-reason-201783957672351.html",
+                "source": "Hindustan",
+                "date": "2026-07-13T15:57:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'जन्नतें सजाई मैंने तेरे लिए...' कहां गई इस Cult गाने की हीरोइन? 16 साल बाद दिखने लगी हैं ऐसी",
+                "desc": "16 साल पुराने प्रिंस मूवी के गाने 'तेरे लिए' में विवेक ओबेरॉय के साथ एक्ट्रेस अरुणा शील्ड्स छा गई थीं। लेकिन अब सालों बाद वे कहां हैं और कैसी दिखती हैं?",
+                "image": "https://www.jagranimages.com/images/2026/07/13/article/image/tere-liye-(1)-1783957218428_m.webp",
+                "url": "https://www.jagran.com/entertainment/bollywood-aruna-shields-now-meditation-expert-and-psychotherapist-appeared-in-tere-liye-song-from-prince-movie-with-vivek-oberoi-40305366.html",
+                "source": "Jagran",
+                "date": "2026-07-13T15:43:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "'सैफ आपका कुत्ता खा गया', सैफ अली खान और अमृता सिंह की पड़ोसी शीबा महीनों दुख में डूबी रहीं थीं",
                 "desc": "सैफ अली खान और अमृता की हाउसिंग सोसायटी में एक्ट्रेस शीबा अग्रवाल भी रहती थीं और उस दौरान एक दुखद घटना घटी। फिल्म निर्माता आकाशदीप ने उस दुखद घटना के बारे में बताया। उन्होंने कहा, 'मेरे सिक्यॉरिटी ने मुझे फोन किया और कहा कि मुझे जल्द से जल्द वापस आना होगा। जब मैंने पूछा कि क्या बात है तो उसने बस इतना कहा- सैफ आपका कुत्ता खा गया।'",
@@ -1606,27 +1624,27 @@
                 "source": "Navbharat Times",
                 "date": "2026-07-11T13:58:12Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "शादी को बीते 10 साल-एक्ट्रेस की भरी सूनी गोद, पति संग मनाया जश्न, बोली- दो धड़कनों में लिपटा हुआ तोहफा मिला",
-                "desc": "दिव्यांका त्रिपाठी और विवेक दहिया की शादी को 10 साल पूरे हो गए हैं. इस खास मौके पर एक्ट्रेस ने एक इमोशनल पोस्ट शेयर की है. दिव्यांका ने अपने करियर और मां बनने की जर्नी पर भी बात की.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a5224929ee6c-divyanka-tripathi-twins-pooja-221310743-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/television/story/divyanka-tripathi-emotional-post-marriage-10th-anniversary-twins-arrival-renew-wedding-vows-viral-tmovf-dskc-2599068-2026-07-11",
-                "source": "AajTak",
-                "date": "2026-07-11T13:20:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'चौहान' के टीजर में चुपचाप हुआ बड़ा बदलाव, हटाई गई जीशान अयूब की आवाज, क्या है वजह?",
-                "desc": "अजय देवगन की आने वाली एक्शन ड्रामा फिल्म 'चौहान' का टीजर रिलीज होने के कुछ दिनों बाद अब इसमें एक बड़ा बदलाव देखने को मिला है. मेकर्स ने चुपचाप YouTube पर मौजूद वीडियो के वर्शन को अपडेट कर दिया है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a523a5cb4e15-mohd-zeeshan-ayyub--chauhaan-11430360-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/mohd-zeeshan-ayyub-voice-removed-from-updated-ajay-devgan-movie-chauhaan-teaser-tmovg-dskc-2599131-2026-07-11",
-                "source": "AajTak",
-                "date": "2026-07-11T12:50:03Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "विराट कोहली का 2027 विश्व कप खेलना लगभग तय, शुभमन गिल ने कर दिया स्पष्ट, कहा- अभी परसों ही उनसे...",
+                "desc": "विराट कोहली के 2027 विश्व कप में शामिल ना किए जाने की अटकलों को शुभमन गिल ने विराम लगा दिया है। पहले वनडे मैच की पूर्व संध्या पर पत्रकारों से बात करते हुए कप्तान ने बताया कि अभी परसों ही उनसे टीम संयोजन और संरचना को लेकर बात हुई है।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/13/1600x900/logo/shubman_gill_about_virat_kohli_1783957288132_1783957288300_a6d8a959-481d-4cc4-89be-1071d9289a24.jpg",
+                "url": "https://www.livehindustan.com/cricket/virat-kohli-will-definitely-play-in-2027-world-cup-shubman-gill-has-made-this-clear-says-i-spoke-to-him-201783957075836.html",
+                "source": "Hindustan",
+                "date": "2026-07-13T15:46:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "विराट कोहली IN, ईशान किशन OUT... पहले वनडे में ऐसी हो सकती है टीम इंडिया की प्लेइंग-11, कुलदीप यादव पर फंसा पेच",
+                "desc": "टी20 सीरीज में मिली 0-4 की शर्मनाक हार के बाद टीम इंडिया वनडे सीरीज की शुरुआत दमदार जीत के साथ करना चाहेगी. ऐसे में पहले मुकाबले के लिए प्लेइंग-11 चुनते समय गौतम गंभीर और शुभमन गिल किसी तरह की गलती नहीं करना चाहेंगे.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a5504e240b3e-virat-kohli-comeback-news-133140271-16x9.png",
+                "url": "https://www.aajtak.in/sports/cricket/story/ind-vs-eng-1st-odi-predicted-playing-xi-team-india-virat-kohli-in-ishan-kishan-out-tspoa-dskc-2600545-2026-07-13",
+                "source": "AajTak",
+                "date": "2026-07-13T15:43:53Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "2027 वर्ल्ड कप तक कहीं नहीं जा रहे विराट कोहली, रोहित का क्या होगा? शुभमन गिल ने किसे बताया टीम की रीढ़",
                 "desc": "कप्तान शुभमन गिल ने साफ किया है कि सीनियर बल्लेबाज विराट कोहली 2027 वनडे वर्ल्ड कप के रोडमैप और टीम प्लानिंग में पूरी तरह शामिल हैं और लगातार अपने इनपुट दे रहे हैं।",
@@ -2148,29 +2166,101 @@
                 "source": "Hindustan",
                 "date": "2026-07-11T09:48:19Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'कुछ लोग नहीं चाहते अर्जेंटीना जीते...', मेसी की टीम की मदद कर रहा FIFA? कोच स्कालोनी ने आलोचकों पर किया पलटवार",
-                "desc": "लियोनेल मेसी की अगुवाई वाली अर्जेंटीना का सामना क्वार्टर फाइनल में स्विट्जरलैंड से होना है. मेसी की टीम की नजरें इस मैच को जीतकर सेमीफाइनल में जगह बनाने पर हैं. अर्जेंटीना ने 2022 में कतर में आयोजित फीफा वर्ल्ड कप अपने नाम किया था. अर्जेंटीना की टीम अपना टाइटल डिफेंड करने के लिए पूरा जोर लगा रही है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a520b4832a90-lionel-scaloni-112210613-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/football/story/lionel-scaloni-reacts-fifa-favouritism-claims-argentina-world-cup-2026-lionel-messi-tspoa-dskc-2598988-2026-07-11",
-                "source": "AajTak",
-                "date": "2026-07-11T09:31:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IND vs ENG: 5वें टी20 में खेलेंगे संजू सैमसन? वैभव नहीं, इस खिलाड़ी को कर सकते हैं रिप्लेस",
-                "desc": "11 जुलाई को टीम इंडिया इंग्लैंड के खिलाफ 5वां टी20 खेलने वाली है। इस मुकाबले में संजू सैमसन को प्लेइंग-XI में जगह मिल सकती है। हालांकि वह किसको रिप्लेस करेंगे ये सवाल है।",
-                "image": "https://static.langimg.com/nbt/thumb/132327896/sanju-samson.jpg?imgsize=356138&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/ind-vs-eng-sanju-samson-can-play-5th-t20-against-england-in-place-of-tilak-varma/articleshow/132327628.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-11T09:21:50Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "California, Other States Sue To Block Paramount",
+                "desc": "The states challenge the transaction's impact on theatrical distribution and cable channel licensing.",
+                "image": "https://deadline.com/wp-content/uploads/2026/02/paramount-warner-bros-hollywood.jpg?w=1024",
+                "url": "https://deadline.com/2026/07/state-antitrust-lawsuit-paramount-warner-bros-1236980723/",
+                "source": "Deadline",
+                "date": "2026-07-13T15:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ukraine and 9 other countries announce a coalition to protect Europe from ballistic missiles",
+                "desc": "Ukraine and nine other countries have announced a coalition to protect Europe from ballistic missiles, taking advantage of Kyiv’s experience of fighting Russia.",
+                "image": "https://dims.apnews.com/dims4/default/9d6e01a/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1b%2Fbc%2F9d1683133a30f90059814a4e7b8e%2F4798c1cef7924126b62660e05675c5db",
+                "url": "https://apnews.com/article/russia-ukraine-war-europe-coalition-putin-d813eb18fba24a57f7cb2000b302ef4d",
+                "source": "AP News",
+                "date": "2026-07-13T15:59:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
+                "desc": "Trump's lawsuit against the IRS was settled by the Justice Department with an agreement to create a $1.8 billion \"lawfare' fund that has since been scrapped.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108332588-1783589607833-gettyimages-2285302450-wm020381_rmjhx8dg.jpeg?v=1783589691&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html",
+                "source": "CNBC",
+                "date": "2026-07-13T15:58:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Another Heat Wave Brings Unbearable Temperatures to Parts of the U.S.",
+                "desc": "Salt Lake City reached its highest temperature ever recorded this weekend.",
+                "image": "https://static01.nyt.com/images/2026/07/13/weather/2026-07-13-heat-index-promo/2026-07-13-heat-index-promo-facebookJumbo-v11.jpg",
+                "url": "https://www.nytimes.com/2026/07/13/weather/heat-wave-forecast.html",
+                "source": "The New York Times",
+                "date": "2026-07-13T15:55:32Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "States Sue to Block Paramount-Warner Bros. Merger, Defying DOJ",
+                "desc": "A coalition of states has sued to block the merger of Paramount and Warner Bros., though the Department of Justice approved the deal last month.",
+                "image": "https://variety.com/wp-content/uploads/2026/05/rob-bonta.png?w=1000&h=563&crop=1",
+                "url": "https://variety.com/2026/film/news/paramount-warner-bros-merger-states-lawsuit-1236806824/",
+                "source": "Variety",
+                "date": "2026-07-13T15:55:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Pixel 11 leak puts Google's rumored new color lineup on display",
+                "desc": "Pixel 11 leaks reveal new colors, giving us the clearest preview yet before Google's August 12 launch event.",
+                "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-lying-on-desk.jpg",
+                "url": "https://www.androidauthority.com/google-pixel-11-colors-leaked-3686960/",
+                "source": "Android Authority",
+                "date": "2026-07-13T15:53:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "10 dead after plane crashes in the Bahamas",
+                "desc": "Ten people died after a Cessna 402 crashed in the Bahamas. The Bahamas Musicians and Entertainers Union said Bahamian musicians and a DJ are among the dead.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/13/USAT/90900157007-usatsi-19627632.jpg?crop=3299,1857,x0,y158&width=3200&height=1802&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/news/world/2026/07/13/bahamas-plane-crash-victims/90899867007/",
+                "source": "USA Today",
+                "date": "2026-07-13T15:51:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gary Peters backs Haley Stevens in Democratic primary for Senate",
+                "desc": "Gary Peters said he's endorsing because the Senate majority next year depends on happens in Michigan, and \"we have to make sure that a Democrat wins.\"",
+                "image": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/05/27/PDTN/90280072007-0527-kk-mackinac-policy-conference-32.jpg?crop=3787,2130,x1479,y157&width=3200&height=1800&format=pjpg&auto=webp",
+                "url": "https://www.detroitnews.com/story/news/politics/2026/07/13/gary-peters-backs-haley-stevens-in-democratic-primary-for-michigan-us-senate/90896216007/",
+                "source": "The Detroit News",
+                "date": "2026-07-13T15:50:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bangkok fire victims were found trapped in windowless bathrooms",
+                "desc": "Most of the people who were killed in a huge fire in a Bangkok music bar were found trapped in windowless bathrooms where they may have sought to escape the flames that claimed at least 27 lives.",
+                "image": "https://dims.apnews.com/dims4/default/aae0d81/2147483647/strip/true/crop/1567x1044+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9d%2Fb1%2Fca16d287e110ade9818529605e57%2F2b53af2ff45c4251ad4430e95c689d1d",
+                "url": "https://apnews.com/article/thailand-fire-bar-bangkok-2770bc2287bec5b7fbe7c8df62209a51",
+                "source": "AP News",
+                "date": "2026-07-13T15:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Sam Neill, 'Jurassic Park' actor, dies at 78",
+                "desc": "Sam Neill, the New Zealand actor known for his roles in 'Jurassic Park,' 'The Piano' and 'Hunt for the Wilderpeople' has died. He was 78.",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/32d2090/2147483647/strip/true/crop/4200x2205+0+298/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F29%2F46%2F50d051ca4ec2942853d3001510d2%2Fgettyimages-2198098103.jpg",
+                "url": "https://www.latimes.com/entertainment-arts/story/2026-07-12/sam-neill-dies",
+                "source": "Los Angeles Times",
+                "date": "2026-07-13T15:45:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "'Carrie' TV Series Reveals First-Look Images",
                 "desc": "Amazon Prime Video has revealed a first-look at \"Carrie,\" Mike Flanagan's TV adaptation of the iconic Stephen King novel.",
@@ -2620,99 +2710,45 @@
                 "source": "ABC News - Breaking News, Latest News and Videos",
                 "date": "2026-07-12T16:31:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Iran war escalates as US, IRGC exchange fire over Strait of Hormuz",
-                "desc": "U.S. and Iranian forces exchanged heavy missile and drone attacks as the IRGC claimed Iran had closed the Strait of Hormuz, a critical route for global oil and LNG shipments, until the “end of U.S. interference” in the region. U.S. Central Command said commercial vessels continued to transit the waterway and that American forces struck more than 300 Iranian military targets over three nights.",
-                "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/07/984a6505e07e651c43056a1bbd0421de.jpg",
-                "url": "https://www.foxnews.com/live-news/us-iran-war-irgc-centcom-strait-hormuz-july-12",
-                "source": "Fox News",
-                "date": "2026-07-12T16:29:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Daredevil' & 'Hustlers' Actress Was 82",
-                "desc": "Wai Ching Ho, the actress known for playing Madame Gao in the Marvel Cinematic Universe, has died. She was 82.",
-                "image": "https://deadline.com/wp-content/uploads/2026/07/TCDDEFE_EC053.jpg?w=1024",
-                "url": "https://deadline.com/2026/07/wai-ching-ho-dead-daredevil-1236980099/",
-                "source": "Deadline",
-                "date": "2026-07-12T16:23:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The problems with Google Pixel price hikes",
-                "desc": "Like everything else in the tech industry, Google’s Pixel 11 series appears to be getting a price hike, but there...",
-                "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-xl-review-9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5google.com/2026/07/12/google-pixel-price-hike-problems/",
-                "source": "9to5Google",
-                "date": "2026-07-12T16:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Everything You Missed So Far at Jay-Z’s Yankee Stadium Run",
-                "desc": "Featuring Pharrell, Beyoncé, Blue Ivy, and record-breaking ticket sales",
-                "image": "https://media.pitchfork.com/photos/6a53b7e9b1a216421fb4ed58/16:9/w_1280,c_limit/jayyankee.jpeg",
-                "url": "https://pitchfork.com/story/jay-z-yankee-stadium-run/",
-                "source": "Pitchfork",
-                "date": "2026-07-12T16:14:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Don't Talk About It': Trump Tells Journalists to Stop Asking About Strait of Hormuz After Latest Closure",
-                "desc": "US President Trump avoids questions on Strait of Hormuz closure, focuses on honoring late Sen. Lindsey Graham. Iran-US tensions impact global oil prices.",
-                "image": "https://www.commondreams.org/media-library/image.jpg?id=66945773&width=1200&height=600&coordinates=0%2C177%2C0%2C178",
-                "url": "https://www.commondreams.org/news/trump-strait-of-hormuz",
-                "source": "Common Dreams",
-                "date": "2026-07-12T16:10:58Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Thomas Tuchel has tense TV interview after England's World Cup win",
-                "desc": "Following England's 2-1 win over Norway in the World Cup 2026 quarterfinals, Thomas Tuchel was interviewed by ITV's Gabriel Clarke for his assessments on the Three Lions' laborious win in extra time.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-39960989_eb7376.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/07/12/sports/thomas-tuchel-has-tense-tv-interview-after-englands-world-cup-win/",
-                "source": "New York Post",
-                "date": "2026-07-12T15:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Britney Spears Dismisses Odd Behavior on L.A. Highway",
-                "desc": "Britney Spears dismissed headlines about her bizarre behavior on a Los Angeles highway this week, writing on social media, \"Nothing is what it seems.\"",
-                "image": "https://www.rollingstone.com/wp-content/uploads/2026/07/GettyImages-1157263385.jpg?w=1600&h=900&crop=1",
-                "url": "https://www.rollingstone.com/music/music-news/britney-spears-dismisses-odd-behavior-la-highway-1235592451/",
-                "source": "Rolling Stone",
-                "date": "2026-07-12T15:39:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "US senator and Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-                "desc": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
-                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0992/live/576e9b70-7dc2-11f1-b976-0b9c15b0ccfc.jpg",
-                "url": "https://www.bbc.com/news/articles/cvgj25j6nmeo",
-                "source": "BBC",
-                "date": "2026-07-12T15:34:45Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
-                "desc": "Sam Altman insisted that Elon Musk was again obsessed with him because of an OpenAI model release earlier this week.",
-                "image": "https://image.cnbcfm.com/api/v1/image/108333755-1783868174451-gettyimages-2273245639-2026_apr_30_muskvsaltman_0352.jpeg?v=1783868241&w=1920&h=1080",
-                "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
-                "source": "CNBC",
-                "date": "2026-07-12T15:32:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes",
-                "desc": "Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain.",
-                "image": "https://static01.nyt.com/images/2026/07/12/multimedia/12int-spain-fires-promo-pjft/12int-spain-fires-promo-pjft-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html",
-                "source": "The New York Times",
-                "date": "2026-07-12T15:31:34Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Buffalo Trace is opening a summer camp for bourbon lovers",
+                "desc": "If you’re the type of person who thinks fondly of weeks spent at sleepaway camp as a youth and you also love the sweet, mellow flavor of well-made bourbon, Buffalo Trace has the experience for you. This summer, the iconic Kentucky-based distillery is transforming its historic Frankfort campus into a summer camp for whiskey fans. […]",
+                "image": "https://www.themanual.com/tachyon/sites/9/2026/07/Camp-Buffalo-Trace-3.jpg?resize=1200%2C630",
+                "url": "https://www.themanual.com/food-and-drink/buffalo-trace-is-opening-a-summer-camp-for-bourbon-lovers/",
+                "source": "The Manual",
+                "date": "2026-07-13T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hundreds of economists say 'we must act now' on AI’s economic impact",
+                "desc": "Hundreds of economists urge immediate action to address AI's potential impact on the economy. In an open letter released Monday, they warn that AI could transform the economy and displace many jobs.",
+                "image": "https://dims.apnews.com/dims4/default/39f6488/2147483647/strip/true/crop/4497x2996+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2F43%2F478f3e1c7c020bf5377e2b2c9410%2F29c57f7133f34a08b9b6c69c437a5c01",
+                "url": "https://apnews.com/article/ai-must-act-now-job-displacement-783469467e0df1463df44518f33295ee",
+                "source": "AP News",
+                "date": "2026-07-13T16:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Oracle Stock Flashes Oversold Signal as It Nears 52-Week Lows",
+                "desc": "Oracle Corp (NYSE:ORCL) shares are trading lower on Monday, approaching 52-week lows as selling pressure continues across large-cap tech.",
+                "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/13/Deerfield---Circa-June-2019-Oracle-Corpo.jpg",
+                "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60419798/oracle-stock-flashes-oversold-signal-as-it-nears-52-week-lows",
+                "source": "Benzinga",
+                "date": "2026-07-13T15:46:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Chick-fil-A Wants You to Dress Like a Cow for Free Food",
+                "desc": "Chick-fil-A is dusting off the cow costumes after a seven-year break. The chain is bringing back Cow Appreciation Day on Tuesday, reports Quartz , with a free entrée for...",
+                "image": "https://cdn.newser.com/image/1698273-12-20260713111303.jpeg",
+                "url": "https://www.newser.com/story/392728/want-free-chick-fil-a-just-dress-up-like-a-cow.html",
+                "source": "Newser",
+                "date": "2026-07-13T15:43:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Should Disney Exit the Streaming Business?",
                 "desc": "Should Disney get out of the streaming business with Disney Plus? One analyst says yes.",
@@ -3216,45 +3252,18 @@
                 "source": "CNBC",
                 "date": "2026-07-11T15:00:01Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Delta Expects Companies To Ban Its New “Basic” First Class Fares",
-                "desc": "Delta expects many corporate travel programs to block its new restrictive Basic fares in First Class, Premium Select, and Delta One.",
-                "image": "https://liveandletsfly.com/wp-content/uploads/2026/07/Delta-Basic-First-Class-fares.jpeg",
-                "url": "https://liveandletsfly.com/delta-basic-first-class-corporate-travel/",
-                "source": "Live and Let's Fly",
-                "date": "2026-07-11T14:39:16Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Major German carmakers hit by steep China sales plunge as competition heats up",
-                "desc": "Major German carmakers are experiencing sharp quarterly sales declines in China, the world's biggest auto market.",
-                "image": "https://dims.apnews.com/dims4/default/fc12cba/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2Fed%2F488182c4d2251e677c45e9da0ec8%2Fa9fe6479e68044fcbe87a670e5fada7c",
-                "url": "https://apnews.com/article/cars-china-economy-europe-sales-d156bfb9548c6d1c7e08ccb906963959",
-                "source": "AP News",
-                "date": "2026-07-11T14:17:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NY AG says Cash App exposed vulnerable users to 'rampant fraud'",
-                "desc": "Under a new settlement, Cash App's parent company will pay millions of dollars to NY, NJ and other states.",
-                "image": "https://api-prod.gothamist.com/images/358090/fill-1200x650|format-webp|webpquality-85/",
-                "url": "https://gothamist.com/news/ny-ag-says-cash-app-exposed-vulnerable-users-to-rampant-fraud",
-                "source": "Gothamist",
-                "date": "2026-07-11T14:15:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Beloved ice cream franchise closing 46 locations nationwide",
-                "desc": "Since early 2025, Dairy Queen has closed at least 46 locations nationwide, with Texas taking the biggest hit. Only one Dairy Queen remains in Alaska.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-39956254.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/07/11/lifestyle/beloved-ice-cream-franchise-closing-46-locations-nationwide/",
-                "source": "New York Post",
-                "date": "2026-07-11T14:00:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Sam Neill, 'Jurassic Park' actor, dies at 78",
+                "desc": "Sam Neill, the New Zealand actor known for his roles in 'Jurassic Park,' 'The Piano' and 'Hunt for the Wilderpeople' has died. He was 78.",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/32d2090/2147483647/strip/true/crop/4200x2205+0+298/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F29%2F46%2F50d051ca4ec2942853d3001510d2%2Fgettyimages-2198098103.jpg",
+                "url": "https://www.latimes.com/entertainment-arts/story/2026-07-12/sam-neill-dies",
+                "source": "Los Angeles Times",
+                "date": "2026-07-13T15:45:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Action Moana Flops Nearly As Badly As Last Year's Snow White",
                 "desc": "Disney's new live-action remake starring Dwayne Johnson could lose over $100 million",
@@ -3785,18 +3794,27 @@
                 "source": "The New York Times",
                 "date": "2026-07-11T13:23:16Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Dallas Cowboys cheerleaders get emotional during official fittings, Ric Flair's weekend advice & sausage!",
-                "desc": "Charles Barkley shot 45-46 in the first round of the American Century, sitting at -6 in 62nd place. The author also makes the case for cross country over travel ball.",
-                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/nfl-cowboys-cheerleaders-090325-4.jpg",
-                "url": "https://www.foxnews.com/outkick-sports/dallas-cowboys-cheerleaders-emotional-official-fittings-ric-flair-weekend-advice-sausage",
-                "source": "Fox News",
-                "date": "2026-07-11T13:22:58Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Josh Allen ranked No. 1 QB by ESPN for 2026: \"The most singularly unstoppable player at the position\"",
+                "desc": "Josh Allen takes top QB ranking, James Cook named top 10 RB",
+                "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bills/ixnkpihzme5pnpgtirfd",
+                "url": "https://www.buffalobills.com/news/josh-allen-ranked-no-1-qb-by-espn-s-league-poll-for-2026-the-most-singularly-unstoppable-player-at-the-position",
+                "source": "Buffalo Bills",
+                "date": "2026-07-13T15:56:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Caleb Wilson points out a major Hubert Davis flaw that haunted UNC",
+                "desc": "Caleb Wilson put on a show from long-range in his Summer League debut, so why wasn't he firing away from three in Chapel Hill? That wasn't his role.",
+                "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_228,w_3364,h_1892/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/206/01kxe0zpax8cy767ntjg.jpg",
+                "url": "https://keepingitheel.com/caleb-wilson-points-out-a-major-hubert-davis-flaw-that-haunted-unc-01kxe0nxb556",
+                "source": "Keeping It Heel",
+                "date": "2026-07-13T15:45:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "British Open 2026 Tee Times & Pairings for Rory McIlroy, Scheffler and Top Stars in Rounds 1 & 2",
                 "desc": "<p>The tee times and pairings for the 2026 Open Championship were revealed by Golf Digest's <a href=\"https://www.golfdigest.com/story/british-open-2026-tee-times-pairings-thursday-friday-first-round-second-round-royal-birkdale?utm_medium=social&utm_source=twitter&utm_campaign=golfdigest\">Ryan Herrington</a> on Monday.</p>",
@@ -4318,26 +4336,8 @@
                 "source": "AP News",
                 "date": "2026-07-12T06:52:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Sophie Cunningham stuns as UFC 329 ring girl in cameo appearance",
-                "desc": "Sophie Cunningham surprised everyone when she grabbed the ring card and gave her best ringside impression, strutting around the octagon.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-39959815.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/07/12/sports/sophie-cunningham-stuns-as-ufc-329-ring-girl-in-cameo-appearance/",
-                "source": "New York Post",
-                "date": "2026-07-12T06:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "News, highlights full match card for Conor McGregor vs. Max Holloway",
-                "desc": "The Post has you covered with UFC 329 news and live updates from Las Vegas. We'll keep you informed on the full match card with highlights and reaction to McGregor vs. Holloway 2.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/conor-mcgregor-max-holloway-1.jpg?quality=75&strip=all&1783815427&w=1200",
-                "url": "https://nypost.com/2026/07/11/sports/ufc-329-live-updates-news-highlights-full-match-card-for-conor-mcgregor-vs-max-holloway/",
-                "source": "New York Post",
-                "date": "2026-07-12T06:04:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-14T03:40:44.776751Z"
+    "lastGlobalSync": "2026-07-14T04:00:40.913144Z"
 }
