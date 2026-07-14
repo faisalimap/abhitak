@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "ईरानी प्लेन की लैंडिंग रोकने के लिए यमन में एयरपोर्ट पर हवाई हमला, सऊदी पर भड़के हूती, खाई बदला लेने की कसम",
+                "desc": "सऊदी अरब के हवाई हमलों ने सना इंटरनेशनल एयरपोर्ट को निशाना बनाया। हमलों से हूती प्रतिनिधिमंडल वाली ईरान की फ्लाइट को उतरने से रोक दिया गया। विमान होदेइदाह की ओर गया, जहां वह सुरक्षित उतरा।",
+                "image": "https://static.langimg.com/nbt/thumb/132372031/yemen.jpg?imgsize=148867&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/world/uae/yemen-houthis-accused-saudi-arabia-of-attack-sanaa-airport-iranian-plane/articleshow/132371635.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-13T16:58:36Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "बलूचिस्तान या पश्तूनिस्तान? साउथ एशिया में बनने जा रहा नया देश, तालिबान-पाकिस्तान के दुश्मन नंबर-1 की बड़ी भविष्यवाणी",
                 "desc": "बलूचिस्तान में हालिया महीनों में पाकिस्तान की सरकार और सेना के लिए मुश्किल लगातार बढ़ी है। ऐसे में अमरुल्लाह सालेह का इशारा बलूचिस्तान में किसी बड़ी हलचल का संकेत देता है।",
                 "image": "https://static.langimg.com/nbt/thumb/132370660/balochistan.jpg?imgsize=183620&width=1600&height=900&resizemode=75",
@@ -530,15 +539,6 @@
                 "url": "https://www.livehindustan.com/international/iran-announced-when-mojtaba-khamenei-appear-will-perform-memorial-ceremony-for-ayatollah-ali-khamenei-201783865424678.html",
                 "source": "Hindustan",
                 "date": "2026-07-12T14:36:42Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "गैर-जिम्मेदाराना... ईरान के हमलों पर भड़का ओमान, ईरानी राजदूत को तलब कर खूब सुनाया",
-                "desc": "Iran US Tension: ओमान ने रविवार को ईरान के हमलों की कड़ी निंदा करते हुए तेहरान के राजदूत को तलब किया और औपचारिक विरोध जताया। आइये जानते हैं कि और क्या कहा..., Middle-east Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/12/1600x900/logo/Iran_US_Tension_1783866926260_1783866930942_ad4b8a05-267e-4c56-90d8-2054cccd3579.png",
-                "url": "https://www.livehindustan.com/middle-east/irresponsible-oman-outraged-by-iran-attacks-summons-iranian-ambassador-and-delivers-stern-rebuke-201783866454719.html",
-                "source": "Hindustan",
-                "date": "2026-07-12T14:36:25Z",
                 "priority": "STANDARD"
             }
         ],
@@ -4339,5 +4339,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-14T04:42:29.596976Z"
+    "lastGlobalSync": "2026-07-14T05:00:34.929797Z"
 }
