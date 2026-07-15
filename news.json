@@ -2,6 +2,24 @@
     "hi": {
         "general": [
             {
+                "title": "'भुलावे में मत रहना, इस बार दोगुनी ताकत से...', नेतन्याहू ने ईरान को दे दी वॉर्निंग",
+                "desc": "इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने कहा कि हम हर तरह की परिस्थिति का सामना करने के लिए तैयार हैं. मैं केवल एक बात कह सकता हूं और यह बात मैं ईरान के नेताओं से कहना चाहता हूं कि अगर आप हम पर हमला करते हैं, तो यह मत समझिए कि सब कुछ शांत रहेगा.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a564be85a9cd-benjamin-netanyahu-144658217-16x9.png",
+                "url": "https://www.aajtak.in/world/story/israel-netanyahu-warning-iran-us-much-more-powerful-attack-ntc-rttm-strc-2601299-2026-07-14",
+                "source": "AajTak",
+                "date": "2026-07-14T14:50:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Gold-Silver Rates Big Fall: गोल्‍ड-सिल्‍वर में बड़ी गिरावट, दिल्‍ली में 8900 रुपये सस्‍ती हुई चांदी",
+                "desc": "सोने और चांदी की कीमत में भारी गिरावट देखी गई है. दिल्‍ली में आज चांदी 8900 रुपये टूट गई, जिस कारण यह 2,26,100 रुपये प्रति किलोग्राम पर पहुंच गई.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a564a08d8c50-big-fall-in-silver-price-143858980-16x9.jpg",
+                "url": "https://www.aajtak.in/business/utility/photo/gold-silver-price-big-fall-silver-8900-rupees-cheaper-in-delhi-tutd-2601295-2026-07-14",
+                "source": "AajTak",
+                "date": "2026-07-14T14:46:38Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "India-UK Trade Deal: 99% सामान पर इंपोर्ट ड्यूटी खत्म, भारत की सबसे बड़ी ट्रेड डील 15 जुलाई से लागू, क्या-क्या सस्ता होगा?",
                 "desc": "India-UK Trade Deal: 11 महीने का इंतजार खत्म होने जा रहा है. 15 जुलाई से भारत-ब्रिटेन की सबसे बड़ी आर्थिक डील अमलीजामा पहनेगी. स्कॉच व्हिस्की से लेकर कारें तक होंगी सस्ती.",
                 "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/14/4e1b4f6829a5a78f76dccf49b53a295a1784039895911940_original.jpg?impolicy=abp_cdn&imwidth=1200",
@@ -522,27 +540,18 @@
                 "source": "Navbharat Times",
                 "date": "2026-07-13T12:23:32Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "नगालैंड में असम राइफल्स के वाहन पर IED ब्लास्ट, एक की मौत, 4 घायल",
-                "desc": "नगालैंड के सुखोवी के पास असम राइफल्स के वाहन पर एक संदिग्ध IED विस्फोट की खबर सामने आई है. इस घटना में एक की मौत और चार अन्य के घायल होने की जानकारी है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a54e17aaebf5-ied-blast-reported-near-assam-rifles-vehicle-in-nagaland-130036982-16x9.png",
-                "url": "https://www.aajtak.in/india/news/story/sukhovi-nagaland-suspected-ied-blast-assam-rifles-vehicles-ntc-amkr-rpti-2600457-2026-07-13",
-                "source": "AajTak",
-                "date": "2026-07-13T12:19:49Z",
-                "priority": "CRITICAL_ALERT"
-            },
-            {
-                "title": "PAK Stock Market Crash: भारत का छोड़िए... पाकिस्तान के शेयर बाजार का बुरा हाल, इंडेक्स 2200 अंक टूटा",
-                "desc": "Pakistan Stock Market Crash: पाकिस्तानी शेयर बाजार बुरी तरह टूटा है. सोमवार को खुलने के साथ ही खासतौर पर हैवी वेट शेयरों के टूटने का ऐसा सिलसिला शुरू हुआ कि KSE-100 इंडेक्स झटके में 2200 अंक फिसल गया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a5499c2ed72d-pakistan-stock-market-crash-135437409-16x9.jpg",
-                "url": "https://www.aajtak.in/business/news/story/pakistan-stock-market-crash-amid-us-iran-war-crude-oil-price-surge-kse-update-tutc-dskc-2600158-2026-07-13",
-                "source": "AajTak",
-                "date": "2026-07-13T12:12:12Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Gold-Silver Rates Big Fall: गोल्‍ड-सिल्‍वर में बड़ी गिरावट, दिल्‍ली में 8900 रुपये सस्‍ती हुई चांदी",
+                "desc": "सोने और चांदी की कीमत में भारी गिरावट देखी गई है. दिल्‍ली में आज चांदी 8900 रुपये टूट गई, जिस कारण यह 2,26,100 रुपये प्रति किलोग्राम पर पहुंच गई.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a564a08d8c50-big-fall-in-silver-price-143858980-16x9.jpg",
+                "url": "https://www.aajtak.in/business/utility/photo/gold-silver-price-big-fall-silver-8900-rupees-cheaper-in-delhi-tutd-2601295-2026-07-14",
+                "source": "AajTak",
+                "date": "2026-07-14T14:46:38Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "अदाणी, वेदांता समेत कितनी कंपनियों में निवेश? शेयरों की कीमत सवा रुपए से ₹41500 तक",
                 "desc": "एलआईसी ने 250 से अधिक लिस्टेड कंपनियों में निवेश किया है, जिसमें रिलायंस, अदाणी और वेदांता समूह शामिल हैं। इन शेयरों की कीमत ₹1.25 से लेकर ₹41,000 से अधिक तक है, जिसमें रिलायंस इंडस्ट्रीज में सबसे बड़ा निवेश है।",
@@ -1073,18 +1082,18 @@
                 "source": "Hindustan",
                 "date": "2026-07-11T09:22:47Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "भारत की तिजोरी में आया डॉलर का सैलाब, विदेशी मुद्रा भंडार 674 अरब डॉलर के पार, बढ़ने के क्या हैं कारण?",
-                "desc": "India's Forex Reserve: भारत का विदेशी मुद्रा भंडार 674.19 अरब डॉलर के पार पहुंच गया है. इसमें बढ़ोतरी क्यों हुई और पीएम मोदी की विदेशी मुद्रा बचाने की अपील का कितना असर पड़ा है, ये आप यहां से समझें.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/11/a0b199aea1636a686fd7685ee4d71bf817837606827111435_original.jpeg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/business/foreign-exchange-reserves-cross-674-billion-dollar-after-pm-modi-appeal-know-the-reasons-for-rise-3158350",
-                "source": "ABP News",
-                "date": "2026-07-11T09:17:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "कंपोजर की दुल्हन बनेगी IPL टीम की मालकिन काव्या मारन, इस महीने होंगे सात फेरे",
+                "desc": "अनिरुद्ध रविचंद्र और काव्या मारन की शादी की चर्चा तेज है. जबसे कंपोजर के रिश्तेदार ने उनका रिश्ता कंफर्म किया है, तबसे फैंस के बीच एक्साइटमेंट तेज है. ऐसे में दोनों की शादी को लेकर एक बड़ा अपडेट सामने आया है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a5635a523058-kavya-maran-marriage-141202755-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/south-movies/story/south-movie-composer-anirudh-marriage-ipl-team-sunrisers-hyderabad-owner-kavya-maran-wedding-date-tmovj-dskc-2601273-2026-07-14",
+                "source": "AajTak",
+                "date": "2026-07-14T14:50:04Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "9 साल झेला सुसाइडल डिप्रेशन, इंडस्ट्री से गायब हुआ सिंगर, ब्रेक लेकर पछताया, काम मिलना हुआ बंद",
                 "desc": "कंपोजर और सिंगर आनंद राज आनंद ने अपने करियर में कई हिट गाने दिए हैं. लेकिन क्या आप जानते हैं वो 9 साल तक सुसाइडल डिप्रेशन से जूझे और मेडिकेशन पर रहे. अपने उस दौर पर आनंद ने बात की है.",
@@ -1615,18 +1624,18 @@
                 "source": "Jagran",
                 "date": "2026-07-12T11:48:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "करियर ने बिगाड़ी शादी, सोहेल खान ने बताई तलाक की वजह, एक्स-वाइफ संग रीयूनियन से हुए खुश",
-                "desc": "सोहेल खान और सीमा सजदेह, कुणाल खेमू के शो द अलायंस में साथ आए हैं. एक्स कपल होने के बावजूद वो एक-दूसरे से मिलकर बेहद खुश दिखे. इस दौरान सलमान के भाई ने अपनी एक्स संग अलग होने का कारण भी साझा किया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a53685ee5198-sohail-khan-121137106-16x9.png",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/salman-khan-brother-sohail-khan-reveals-divorce-reason-with-ex-wife-seema-sajdeh-the-alliance-show-tmovj-dskc-2599694-2026-07-12",
-                "source": "AajTak",
-                "date": "2026-07-12T10:46:02Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "बुमराह ने लपका हैरतअंगेज कैच, याद आया सूर्या का टी20 वर्ल्ड कप वाला ऐतिहासिक मोमेंट",
+                "desc": "इंग्लैंड के खिलाफ पहले वनडे में जसप्रीत बुमराह ने बाउंड्री लाइन पर बेन डकेट का शानदार कैच लपका. इस कैच ने क्रिकेट फैन्स को 2024 टी20 वर्ल्ड कप फाइनल में सूर्यकुमार यादव के डेविड मिलर वाले ऐतिहासिक कैच की याद दिला दी. सोशल मीडिया पर बुमराह के इस कैच की जमकर चर्चा हो रही है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a56281c8f300-jasprit-bumrah-141417520-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/cricket/story/india-vs-england-1st-odi-jasprit-bumrah-stunning-catch-ben-duckett-reminds-suryakumar-yadav-t20-world-cup-final-tspok-dskc-2601198-2026-07-14",
+                "source": "AajTak",
+                "date": "2026-07-14T14:59:07Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "एजबेस्टन में लाइव मैच का लुत्फ उठाने पहुंचे एमएस धोनी, नन्हे फैन के साथ पॉपकॉर्न खाते हुए वीडियो हुआ वायरल",
                 "desc": "भारत-इंग्लैंड पहले वनडे के दौरान पूर्व कप्तान एमएस धोनी स्टैंड्स में मैच का लुत्फ उठाते दिखे। इस दौरान धोनी का एक नन्हे फैन के साथ पॉपकॉर्न शेयर करने का वीडियो सोशल मीडिया पर वायरल हो रहा है, जिसमें बच्चा धोनी की मौजूदगी से पूरी तरह बेफिक्र नजर आ रहा है।",
@@ -2157,20 +2166,29 @@
                 "source": "AajTak",
                 "date": "2026-07-12T09:40:42Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "विराट कोहली 15 हजार तो रोहित शर्मा 12 हजार रन के करीब, क्या इंग्लैंड सीरीज में हासिल करेंगे उपलब्धि",
-                "desc": "भारत ने पिछली वनडे सीरीज अफगानिस्तान के खिलाफ इंग्लैंड दौरे से पहले खेला था। रोहित शर्मा ने आखिरी मैच में अर्धशतक जड़ा था। विराट कोहली चोटिल होने के कारण सीरीज में नहीं खेल पाए थे।",
-                "image": "https://images.jansatta.com/2026/02/Ro-Ko3.jpg",
-                "url": "https://www.jansatta.com/khel/ind-vs-eng-odi-virat-kohli-close-to-15000-rohit-sharma-close-to-12000-runs/4615375/",
-                "source": "Jansatta",
-                "date": "2026-07-12T09:31:39Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Supreme Court Justice Barrett says 'the threat level is really high'",
+                "desc": "Supreme Court Justices Amy Coney Barrett and Elena Kagan are testifying about the high court's budget request, which includes higher spending for security.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108334771-1784040370476-gettyimages-2286059174-2r1_9074_tdohe7kt.jpeg?v=1784040400&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/14/supreme-court-budget-congress-kagan-barrett.html",
+                "source": "CNBC",
+                "date": "2026-07-14T14:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "E. Jean Carroll receives $5.6M from Trump in sex abuse, defamation case: Court filing",
+                "desc": "A federal judge recently ordered Trump to pay Carroll, rejecting his last-ditch efforts while noting that he \"has been stalling this case for years.\"",
+                "image": "https://image.cnbcfm.com/api/v1/image/107365367-17063167932024-01-26t221651z_532126042_rc2xp5asup2x_rtrmadp_0_usa-trump-defamation-lawsuit.jpeg?v=1709918308&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/14/trump-e-jean-carroll-sex-abuse-case.html",
+                "source": "CNBC",
+                "date": "2026-07-14T14:44:19Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Warren Buffett Cuts Gates From Stock Donations-Gives To His Childrens’ Charities",
                 "desc": "The billionaire Berkshire Hathaway chair instead donated thousands of shares in his company to four foundations run by his children.",
@@ -2691,24 +2709,6 @@
                 "url": "https://www.cbsnews.com/news/uk-counterterrorism-police-ann-widdecombe-murder/",
                 "source": "CBS News",
                 "date": "2026-07-13T14:40:50Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Brad Pitt's Daughter Zahara Takes Out Ad to Drop Pitt Name",
-                "desc": "Another kid of Brad Pitt and Angelina Jolie is getting closer to closing the book on the family name ... Zahara has taken the next legal step to become Zahara Jolie.",
-                "image": "https://imagez.tmz.com/image/5a/16by9/2026/07/13/5af4db95f7c24fd9ac11e47975d899d2_xl.png",
-                "url": "https://www.tmz.com/2026/07/13/zahara-jolie-to-drop-brad-pitt-last-name/",
-                "source": "TMZ",
-                "date": "2026-07-13T14:40:14Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine updates: 'Coalition of the willing' meeting in Paris",
-                "desc": "Ukraine's allies are meeting in Paris for talks on continued military support for Kyiv. Meanwhile the EU's top diplomat said there's no consensus yet on more Russian sanctions. DW has more.",
-                "image": "https://static.dw.com/image/77860628_6.jpg",
-                "url": "https://www.dw.com/en/ukraine-updates-coalition-of-the-willing-meeting-in-paris/live-77927840",
-                "source": "dw.com",
-                "date": "2026-07-13T14:32:07Z",
                 "priority": "STANDARD"
             }
         ],
@@ -3798,6 +3798,33 @@
         ],
         "sports": [
             {
+                "title": "Chael Sonnen admits Ben Askren’s wrestling return at RAF 11 ‘makes me uncomfortable’",
+                "desc": "Chael Sonnen weighs in on Ben Askren’s wrestling return this Saturday at RAF 11 against Belal Muhammad.",
+                "image": "https://platform.mmafighting.com/wp-content/uploads/sites/109/chorus/uploads/chorus_asset/file/26021928/1183571364.jpg?quality=90&strip=all&crop=0%2C6.8439226519337%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.mmafighting.com/raf-wrestling/499288/chael-sonnen-admits-ben-askrens-wrestling-return-at-raf-11-makes-me-uncomfortable",
+                "source": "MMA Fighting",
+                "date": "2026-07-14T15:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Folarin Balogun says he knew FIFA decision to lift red card suspension would \"cause a lot of controversy\"",
+                "desc": "U.S. soccer star Folarin Balogun told \"CBS Mornings\" he \"was in shock\" when he received a red card in a World Cup match and discussed FIFA's decision to lift the one-game ban.",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/14/f9b7782e-089b-43d7-a015-d96cfe1fdc45/thumbnail/1200x630/836e6fe762f0f8614fe07f655c84fb4d/cbsn-fusion-folarin-balogun-says-he-knew-suspension-of-red-card-would-cause-a-lot-of-controversy-thumbnail.jpg",
+                "url": "https://www.cbsnews.com/news/folarin-balogun-fifa-red-card-suspension-world-cup/",
+                "source": "CBS News",
+                "date": "2026-07-14T14:51:15Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump Beams After He's Gifted \"Special Helmet,\" But The Mockery Is Instantaneous And Hilarious",
+                "desc": "It didn't take long for the personalized helmet to become meme material, and here are some of the funniest reactions. Funny, Memes",
+                "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/07/donald-trump-beams-special-helmet-gift-memes-fb6.jpg",
+                "url": "https://www.boredpanda.com/donald-trump-beams-special-helmet-gift-memes/",
+                "source": "Bored Panda",
+                "date": "2026-07-14T14:41:36Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Paige Bueckers bemoans WNBA's lack of Black women head coaches",
                 "desc": "Wings star Paige Bueckers called out the lack of Black women head coaches in the WNBA, saying Black women deserve \"the same equal opportunity\" to coach in the league.",
                 "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0612%2Fr1671647_1296x729_16%2D9.jpg",
@@ -4309,35 +4336,8 @@
                 "source": "Chicago Tribune",
                 "date": "2026-07-13T12:00:57Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "UFC 329 fight grades: Why McGregor's injury didn't drag down the card",
-                "desc": "Standout performances from Paddy Pimblett, Gable Steveson and others saved UFC 329 from becoming an afterthought.",
-                "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0712%2Fr1688466_1296x729_16%2D9.jpg",
-                "url": "https://www.espn.com/mma/story/_/id/49345889/ufc-329-fight-grades-conor-mcgregor-leg-injury-drag-final-grade",
-                "source": "ESPN",
-                "date": "2026-07-13T12:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Guardians’ Day Two MLB Draft Highlights",
-                "desc": "Some names to know",
-                "image": "https://platform.coveringthecorner.com/wp-content/uploads/sites/69/2026/07/gettyimages-2285663847.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "url": "https://www.coveringthecorner.com/cleveland-guardians-mlb-draft/71319/guardians-day-two-mlb-draft-highlights",
-                "source": "Covering the Corner",
-                "date": "2026-07-13T11:57:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "College Baseball Winners & Losers From The 2026 MLB Draft",
-                "desc": "Jacob Rudner reviews the 2026 MLB draft from a college perspective to identify this year's winners and losers.",
-                "image": "https://www.baseballamerica.com/wp-content/uploads/2025/09/jay_johnson_eddiekellyprolook.jpg",
-                "url": "https://www.baseballamerica.com/stories/college-baseball-winners-losers-from-the-2026-mlb-draft/",
-                "source": "Baseball America",
-                "date": "2026-07-13T11:51:15Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-15T02:40:32.769499Z"
+    "lastGlobalSync": "2026-07-15T03:00:34.108213Z"
 }
