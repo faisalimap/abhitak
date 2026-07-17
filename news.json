@@ -2,6 +2,78 @@
     "hi": {
         "general": [
             {
+                "title": "सोनम वांगचुक की भूख हड़ताल पर अंतरराष्ट्रीय मीडिया में ऐसी चर्चा",
+                "desc": "केंद्र सरकार सोनम वांगचुक के अनशन को लेकर बहुत हरकत में नहीं दिख रही है. लेकिन वांगचुक के अनशन की चर्चा अंतरराष्ट्रीय मीडिया में भी अच्छी ख़ासी है. पढ़िए दुनिया के अहम मीडिया संस्थानों ने क्या लिखा है?",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/d610/live/18cf8510-8186-11f1-9f3a-7138f73f0f78.jpg",
+                "url": "https://www.bbc.com/hindi/articles/cj4kxj1rjn5o",
+                "source": "BBC",
+                "date": "2026-07-17T02:58:53Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Odyssey से पहले विदेशी बॉक्स ऑफिस पर Dhamaal 4 का धमाका, 7 दिन में अजय देवगन की फिल्म ने की तगड़ी कमाई",
+                "desc": "Dhamaal 4 Worldwide Collection: अजय देवगन की फिल्म धमाल 4 ने गुरुवार को विदेशी बाजार में अच्छा कारोबार किया है।",
+                "image": "https://www.jagranimages.com/images/2026/07/17/article/image/Dhamaal-4-Box-Office-Collection-(1)-1784255281742_m.webp",
+                "url": "https://www.jagran.com/entertainment/box-office-dhamaal-4-worldwide-box-office-collection-day-7-ajay-devgn-comedy-movie-business-on-thursday-40309279.html",
+                "source": "Jagran",
+                "date": "2026-07-17T02:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "होर्मुज़ स्ट्रेट पूरी तरह से बंद हो जाए तो क्या इन रास्तों से दुनिया का काम चल सकता है?",
+                "desc": "स्ट्रेट ऑफ़ होर्मुज़ की वजह से ग्लोबल एनर्जी मार्केट पर ईरान का दबदबा है. इसे देखते हुए खाड़ी देशों ने लंबे समय से वैकल्पिक इन्फ़्रास्ट्रक्चर विकसित करने में निवेश किया है.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/dea0/live/60ffd000-8051-11f1-b47b-31c36e8d0b3a.png",
+                "url": "https://www.bbc.com/hindi/articles/c80ne3dv90yo",
+                "source": "BBC",
+                "date": "2026-07-17T02:30:49Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "शेयर मार्केट में बम-बम, सेंसेक्स 964 और निफ्टी 261 अंक उछला, कौन हैं टॉप लूजर्स और गेनर्स?",
+                "desc": "Stock Market Highlights: बैंक निफ्टी 1.54 प्रतिशत और फाइनेंशियल सर्विसेज 1.23 प्रतिशत ऊपर रहे। ऑटो इंडेक्स 1.25, आई 1.77 और प्राइवेट बैंक 2.01 प्रतिशत ऊपर चढ़ गए। पीएसयू बैंक में 0.38 प्रतिशत और रियल्टी इंडेक्स में 1.38 प्रतिशत की तेजी रही।, Business Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/17/1600x900/logo/sensex_today_jump_1783928611648_1783928617442_3b850dfb-c05d-4d8e-9aaf-d9818b29e020_1784262550881_947103c1-9f1d-4bfc-b3a2-226cca95f06b.jpeg",
+                "url": "https://www.livehindustan.com/business/share-market-today-live-17-july-2026-nse-bse-sensex-nifty-top-gainers-losers-201784254583670.html",
+                "source": "Hindustan",
+                "date": "2026-07-17T02:29:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'चीन ने डाटा चुराया, ईरान-रूस की सेंधमारी', डोनाल्ड ट्रंप का देश के नाम संबोधन, अमेरिकी चुनाव प्रक्रिया पर उठाए सवाल",
+                "desc": "राष्ट्रपति डोनाल्ड ट्रंप ने देश के नाम अपने संबोधन में एक बार फिर पिछले चुनावों के नतीजों पर शक जताया है। उनके भाषण का मुख्य फोकस अमेरिकी चुनावों में विदेशी दखल की कोशिशों पर दिखा है।",
+                "image": "https://static.langimg.com/nbt/thumb/132450555/donald-trump.jpg?imgsize=158176&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/world/america/donald-trump-addresses-nation-doubts-on-past-us-elections-alleged-iran-china-russia-influence/articleshow/132450548.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-17T01:57:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "UN में भारत की मेंबरशिप की बात पर क्या बोला चीन, 4 ताकतवर देश पहले से ही साथ",
+                "desc": "भारतीय विदेश मंत्री एस जयशंकर संयुक्त राष्ट्र सुरक्षा परिषद में भारत की अस्थायी सदस्यता के लिए प्रचार अभियान की शुरुआत कर चुके हैं। अब भारत की इस दावेदारी पर चीन ने भी प्रतिक्रिया दे दी है। खास बात है कि चीन वीटो अधिकार प्राप्त सदस्य है।, India News in Hindi - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/17/1600x900/logo/S_Jaishankar_1784253001729_1784253001876_2335fef6-2d1c-4a44-b0ef-dcdf9f2cf990.jpg",
+                "url": "https://www.livehindustan.com/national/what-china-said-regarding-india-un-membership-four-powerful-nations-are-already-on-board-201784252740011.html",
+                "source": "Hindustan",
+                "date": "2026-07-17T01:50:35Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "अक्षय कुमार की वजह से छोड़ी फिल्म 'OMG2', परेश रावल का छलका दर्द, नहीं मिला क्रेडिट",
+                "desc": "एक्टर परेश रावल ने दावा किया है कि 'OMG 2' की कहानी एक ऐसे आइडिया से शुरू हुई थी जिसे उन्होंने डायरेक्टर अमित राय के साथ मिलकर तैयार किया था. उन्होंने कहा कि बाद में फिल्म की कहानी बदल गई और उन्हें ओरिजिनल कॉन्सेप्ट का क्रेडिट नहीं मिला.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a5914d1a3654-akshay-kumar-paresh-rawal-omg-162843508-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/paresh-rawal-claims-omg-2-his-idea-akshay-kumar-took-script-not-give-me-credit-tmovg-dskc-2602901-2026-07-17",
+                "source": "AajTak",
+                "date": "2026-07-17T01:29:14Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "यूक्रेन में ज़ेलेंस्की के ख़िलाफ़ क्यों हो रहे हैं प्रदर्शन",
+                "desc": "यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की के रक्षा मंत्री मिखाइलो फेडोरोव को बदलने के अचानक लिए गए फ़ैसले से सिविल सोसाइटी में भारी नाराज़गी है और सांसदों ने भी इसका विरोध किया है.",
+                "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/0173/live/123cf540-818e-11f1-bee8-53ce494e1abc.jpg",
+                "url": "https://www.bbc.com/hindi/live/c86nlnn7nw9t",
+                "source": "BBC",
+                "date": "2026-07-17T01:11:31Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "Trump Address: 'चीन ने चुराया 22 करोड़ अमेरिकी वोटरों का डेटा', ट्रंप ने FBI-CIA पर भी उठाए सवाल",
                 "desc": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप देश के नाम संबोधन दे रहे हैं. अपने भाषण में वह चुनावी सुरक्षा, अर्थव्यवस्था, राष्ट्रीय सुरक्षा, सीमा सुरक्षा और विदेश नीति समेत कई अहम मुद्दों पर सरकार का पक्ष रख रहे हैं. ट्रंप के संबोधन से जुड़े हर बड़े ऐलान, दावे, बयान और ताजा अपडेट आप इस लाइव ब्लॉग में सबसे पहले पढ़ सकते हैं.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a597ed7a39e1-donald-trump-170105992-16x9.png",
@@ -468,81 +540,27 @@
                 "source": "AajTak",
                 "date": "2026-07-16T09:16:14Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Rohingya: बंगाल की खाड़ी में बड़ा हादसा, म्‍यांमार तट पर 500 रोहिंग्‍या शरणार्थियों के डूबने की आशंका, मची चीख-पुकार",
-                "desc": "म्‍यांमार के तट पर रोहिंग्‍या मुस्लिमों की 2 नावें डूब गई हैं। बताया जा रहा है कि करीब 500 लोग इस हादसे में मारे गए हैं। बंगाल की खाड़ी में इस समय मानसूनी बार‍िश का समय चल रहा है।",
-                "image": "https://static.langimg.com/nbt/thumb/132434615/rohingya.jpg?imgsize=839752&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/world/asian-countries/rohingya-refugees-boats-sink-in-bay-of-bengal-over-500-feared-dead-on-myanmar-ayeyarwady-coast/articleshow/132434642.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-16T09:08:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ऐसे नहीं चलेगा! ईरान युद्ध से सामने आई भारत की कमजोरी, आयात कम करने के लिए सरकार ने कसी कमर",
-                "desc": "ईरान युद्ध ने आयात पर भारत की निर्भरता को एक बार फिर उजागर कर दिया है। हाल के महीनों में ऊर्जा की भारी कमी और आयात बिलों में भारी वृद्धि हुई है। इससे रुपये में भारी गिरावट आई है। सरकार ने भविष्य में इस स्थिति से निपटने के लिए कमर कस ली है।",
-                "image": "https://static.langimg.com/nbt/thumb/132434606/india-import-news.jpg?imgsize=436296&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/business/business-news/govt-taking-steps-to-reduce-key-imports-to-protect-supply-chains-and-ease-pressure-on-the-currency/articleshow/132434511.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-16T09:06:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "सिर्फ 4 मिनट में फुल चार्ज हो जाएगी स्मार्टफोन की बैटरी, Lithium-ion की जगह सोडियम मेटल की तैयारी",
-                "desc": "स्मार्टफोन अगर चार मिनट में फुल चार्ज हो जाए तो लोगों की बड़ी टेंशन दूर हो सकती है. लेकिन ये मौजूदा लिथियम आयन बैटरी के साथ मुमकिन नहीं है. सोडियम मेटल बैटरी को लेकर चीनी साइंटिस्ट्स ये दावा कर रहे हैं कि ये लिथियम आयन से कई गुना फास्ट चार्ज होगी और लंबे समय तक चलेगी.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a589e7f7957f-sodium-metal-battery-fast-charge-160354198-16x9.png",
-                "url": "https://www.aajtak.in/technology/tech-news/story/sodium-metal-battery-fast-charging-lithium-ion-battery-future-tech-ttecm-dskc-2602539-2026-07-16",
-                "source": "AajTak",
-                "date": "2026-07-16T09:04:24Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "बोल्ड लुक... कमाल फीचर्स! नई CLASSIC 350 लॉन्च, कीमत है इतनी",
-                "desc": "2026 Royal Enfield Classic 350: रॉयल एनफील्ड ने अपनी बेस्ट सेलिंग बाइक क्लासिक 350 को नए फीचर्स के साथ बाजार में लॉन्च किया है.",
-                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/07/2026-Royal-Enfield-Classic-350-LaunchedITG-1784190731304.jpg?size=*:675",
-                "url": "https://www.aajtak.in/visualstories/auto/2026-royal-enfield-classic-350-launched-with-slipper-clutch-features-auaw-283365-16-07-2026",
-                "source": "AajTak",
-                "date": "2026-07-16T08:51:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "जमीनी हमले की तैयारी में ट्रंप, पलटवार को तैयार ईरान- किसकी कितनी ताकत",
-                "desc": "अमेरिका ने मिडिल ईस्ट में करीब 50 हजार सैनिकों और अत्याधुनिक विमानों के साथ इतिहास की सबसे बड़ी जंगी तैयारी की है, जबकि ईरान अपने अभेद्य अंडरग्राउंड पहाड़ी बंकरों और गुरिल्ला रणनीति के जरिए लड़ने के लिए तैयार है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a58925fae713-us-iran-ground-war-preparations-161210405-16x9.jpg",
-                "url": "https://www.aajtak.in/defence-news/story/us-iran-ground-war-preparations-military-strength-in-middle-east-dskc-2602507-2026-07-16",
-                "source": "AajTak",
-                "date": "2026-07-16T08:20:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "किम जोंग उन की पार्टियों में अंदर क्या होता था? बॉडीगार्ड ने बताया सीक्रेट",
-                "desc": "नॉर्थ कोरिया के शासक किम जोंग उन से जुड़ी कई अजीबोगरीब चीजों की अक्सर चर्चा होती रहती है. इनमें से ही एक है, किम की पार्टियां. आखिर उनकी पार्टियों में क्या होता है? इसका खुलासा किम जोंग उन के पिता के बॉडीगार्ड रहे एक शख्स ने किया. वह किसी तरह उत्तर कोरिया से भागने में सफल रहा था.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a588db0321e1-kim-jong-un-secret-parties-165209616-16x9.jpg",
-                "url": "https://www.aajtak.in/trending/story/kim-jong-un-secret-parties-north-korea-former-bodyguard-revelations-tstsd-dskc-2602494-2026-07-16",
-                "source": "AajTak",
-                "date": "2026-07-16T07:56:39Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Ramayana: फिल्म के 34 मिनट फुटेज को ऑस्ट्रेलिया में मिला M सर्टिफिकेट, 15 से कम उम्र के बच्चे नहीं देख सकते मूवी",
-                "desc": "रणबीर कपूर की फिल्म रामायण को लेकर बड़ा अपडेट आया है। फिल्म के 34 मिनट फुटेज को ऑस्ट्रेलिया में एम सर्टिफिकेट मिला है। जानें इस सर्टिफिकेट का मतलब क्या है।, Bollywood Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/16/1600x900/logo/ramayana_1784188133973_1784188143367_4a38bc04-5d0b-428d-a509-5a92a7df87c4.jpg",
-                "url": "https://www.livehindustan.com/entertainment/bollywood/ramayana-34-minute-footage-of-ranbir-kapoor-starrer-gets-m-rating-in-australia-not-recommended-for-children-under-15-201784187499199.html",
-                "source": "Hindustan",
-                "date": "2026-07-16T07:51:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "होर्मुज जलडमरूमध्य में भारतीय नाविकों को न ले जाएं, शिपिंग कंपनियों से बोला भारत, फारस की खाड़ी में भी अलर्ट रहें",
-                "desc": "होर्मुज स्ट्रेट में मर्चेंट नेवी के जहाजों पर हमले में भारतीय नाविकों की मौत के बाद भारत ने सख्त कदम उठाते हुए शिपिंग कंपनियों से कह दिया है कि वो भारतीय नागरिकों को उस रूट पर न ले जाएं।",
-                "image": "https://static.langimg.com/nbt/thumb/132433009/not-take-indian-sailors-in-strait-of-hormuz.jpg?imgsize=835772&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/india/india-tells-shipping-companies-through-dgma-not-take-indian-sailors-in-strait-of-hormuz/articleshow/132433017.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-16T07:49:32Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "चीन पर भारत की निर्भरता होगी खत्म, देसी कंपनी ने बनाया बिना मैग्नेट वाला मोटर",
+                "desc": "भारत में इलेक्ट्रिक वाहनों की स्वीकार्यता बढ़ रही है. लेकिन इसकी वजह से भारत की चीन पर निर्भरता भी बढ़ रही है. दरअसल, किसी भी इलेक्ट्रिक मोटर में लगने वाला मैग्नेट चीन से आता है. दुनिया में चीन ही ज्यादातर मैग्नेट प्रॉसेस और सप्लाई करता है. एक देसी कंपनी ने इसका हल खोज लिया है और ये हल बिना मैग्नेट वाला मोटर है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a58bdbb598fa-vimag-labs-161710192-16x9.jpg",
+                "url": "https://www.aajtak.in/auto/news/story/vimag-labs-magnet-free-electric-motor-patent-ev-technology-auam-dskc-2602647-2026-07-17",
+                "source": "AajTak",
+                "date": "2026-07-17T03:02:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "अडानी का डिफेंस सेक्टर में बड़ा दांव: फ्लाइट सिमुलेशन कंपनी में खरीद ली पूरी हिस्सेदारी",
+                "desc": "Adani Group: इस अधिग्रहण का असर FSSPL की सहायक कंपनी, फ्लाइट सिमुलेशन तकनीक केंद्र प्राइवेट लिमिटेड (FSTC) पर भी पड़ेगा। इस सौदे के बाद ADSTL का FSTC में प्रभावी स्वामित्व 72.8 प्रतिशत से बढ़कर 100 प्रतिशत हो जाएगा।, Business Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/17/1600x900/logo/adani_group_1781678470413_1781678475715_e2a3a8ad-7aa0-423d-81f5-f1ce3f8545ee_1784257270036_0e317f36-2fde-4fdb-b61c-ea779368745e.jpg",
+                "url": "https://www.livehindustan.com/business/adani-s-big-bet-in-defense-sector-bought-entire-stake-in-flight-simulation-company-201784256871628.html",
+                "source": "Hindustan",
+                "date": "2026-07-17T03:01:28Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "वसूली गई प्रॉपर्टी पर RBI का नया नियम, बैंक नहीं कर सकते ये काम",
                 "desc": "वसूली गई प्रॉपर्टी पर आरबीआई का नया मानदंड़ लागू हुआ है. अचल संपत्ति‍ को लेकर आरबीआई ने कहा कि बैंक वसूले गए व्‍यक्ति या डिफॉल्‍टर व्‍यक्ति को वापस प्रॉपर्टी नहीं बेच सकते हैं.",
@@ -1064,27 +1082,72 @@
                 "source": "Jagran",
                 "date": "2026-07-15T12:39:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Kia Syros EV: 526KM रेंज... 30 मिनट में चार्ज! आ गई किआ की सबसे सस्ती इलेक्ट्रिक कार, बुकिंग शुरू",
-                "desc": "Kia Syros EV कंपनी के पोर्टफोलियो की सबसे किफायती इलेक्ट्रिक एसयूवी होगी. नई सिरोस इलेक्ट्रिक को कंपनी दो अलग-अलग बैटरी पैक ऑप्शन के साथ पेश कर रही है. आज से इसकी ऑफिशियल बुकिंग शुरू कर दी गई है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a577785c0a2e-kia-syros-ev-unveils-150520641-16x9.jpg",
-                "url": "https://www.aajtak.in/auto/news/story/kia-syros-ev-electric-suv-unveils-526km-range-adas-39-minutes-charge-booking-open-auaw-dskc-2602024-2026-07-15",
-                "source": "AajTak",
-                "date": "2026-07-15T12:27:17Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "एक सेल्फी, पूरा डेटा लीक! जानें कैसे घात लगाए हैं हैकर्स",
-                "desc": "क्या एक सेल्फी से आपकी निजी जानकारी चोरी हो सकती है? जानिए फोटो फाइल में छिपे EXIF डेटा, लोकेशन, डिवाइस डिटेल्स और दूसरी जानकारी के बारे में, जिनका गलत इस्तेमाल हैकर्स कर सकते हैं.",
-                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/07/hackerITG-1784036859079.jpg?size=*:675",
-                "url": "https://www.aajtak.in/visualstories/technology/what-hackers-can-learn-from-one-selfie-photo-data-ttec-283261-15-07-2026",
-                "source": "AajTak",
-                "date": "2026-07-15T11:52:33Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Video: गोविंदा की कमबैक फिल्म पर आया सुनीता आहूजा का रिएक्शन, लोग बोले- कहीं…",
+                "desc": "गोविंदा की पत्नी सुनीता आहूजा ने उनकी कमबैक फिल्म पर कोई भी कमेंट करने से इनकार कर दिया है। उन्होंने कहा कि अब सिर्फ उनकी और उनके बेटे की फिल्म की बात होगी।, Bollywood Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/17/1600x900/logo/govinda_sunita_1784254897552_1784254902653_3f53f864-4ff8-48f0-84b4-0cc6ca2bdda8.jpg",
+                "url": "https://www.livehindustan.com/entertainment/bollywood/sunita-ahuja-commented-on-govinda-comeback-movie-roopa-said-focus-on-mine-and-yashvardhan-ahuja-film-201784254906578.html",
+                "source": "Hindustan",
+                "date": "2026-07-17T03:00:25Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'मेरी चेस्ट पर जोर से मारा', बचपन में हैरेस हुईं समीरा रेड्डी, मनचले को सिखाया सबक, सड़क पर पीटा",
+                "desc": "समीरा रेड्डी ने बताया कि स्कूल के दिनों में एक लड़के ने उनके साथ बदतमीजी की थी. लेकिन एक्ट्रेस भी चुप नहीं बैठीं. शख्स को जोरदार जवाब दिया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a591e9a79e33-sameera-reddy-161029174-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/sameera-reddy-faced-harassment-in-school-young-boy-hit-hard-on-her-chest-actress-got-smashed-tmovh-2602917-2026-07-17",
+                "source": "AajTak",
+                "date": "2026-07-17T03:00:03Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The Odyssey से पहले विदेशी बॉक्स ऑफिस पर Dhamaal 4 का धमाका, 7 दिन में अजय देवगन की फिल्म ने की तगड़ी कमाई",
+                "desc": "Dhamaal 4 Worldwide Collection: अजय देवगन की फिल्म धमाल 4 ने गुरुवार को विदेशी बाजार में अच्छा कारोबार किया है।",
+                "image": "https://www.jagranimages.com/images/2026/07/17/article/image/Dhamaal-4-Box-Office-Collection-(1)-1784255281742_m.webp",
+                "url": "https://www.jagran.com/entertainment/box-office-dhamaal-4-worldwide-box-office-collection-day-7-ajay-devgn-comedy-movie-business-on-thursday-40309279.html",
+                "source": "Jagran",
+                "date": "2026-07-17T02:39:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Dhamaal 4 Box Office Day 7: 'धमाल 4' ने 7वें दिन भी दनादन छापे नोट, 'वेलकम दू द जंगल' और 'भूत बंगला' को दी मात, बनाया इतना तगड़ा रिकॉर्ड",
+                "desc": "Dhamaal 4 Box Office Collection Day 7:अजय देवगन की 'धमाल 4' ने सिनेमाघरों में एक हफ्ता पूरा कर लिया है. वहीं 7वें दिन इस फिल्म ने एक बड़ा रिकॉर्ड अपने नाम कर लिया है.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/16/8b100ad906018f6e43644dd4e7cdbb501784222829694209_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/entertainment/bollywood/dhamaal-4-box-office-collection-day-7-ajay-devgn-film-thursday-collection-net-in-india-become-third-highest-opening-film-of-2026-3161114",
+                "source": "ABP News",
+                "date": "2026-07-17T02:05:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'मेरा बस चलता तो 5-6 बच्चे पैदा करती', बोलीं सुनीता आहूजा, गोविंदा की हीरोइन 'रूपा' से चिढ़ीं!",
+                "desc": "सुनीता आहूजा का कहना है वो दो नहीं बल्कि 5-6 बच्चे चाहती थीं. सुनीता ने पति गोविंदा की अपकमिंग फिल्म रूपा को लेकर बात करने से मना किया.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a58f4db641f6-sunita-ahuja-on-kids-161224225-16x9.jpeg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/govinda-wife-sunita-ahuja-said-wanted-6-kids-daughter-tina-birthday-avoids-film-roopa-tmovh-2602829-2026-07-17",
+                "source": "AajTak",
+                "date": "2026-07-17T02:04:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'अभिनेता हूं, नेता नहीं', सोनम वांगचुक पर बोलने से बचे विवेक ओबेरॉय, जो कहा उसे सुन भड़क उठे यूजर्स",
+                "desc": "विवेक ओबेरॉय से हाल ही जब सोनम वांगचुक की भूख हड़ताल और जंतर-मंतर पर विरोध-प्रदर्शन के बारे में पूछा गया, तो वह बचते नजर आए और कहा कि वह एक्टर हैं, नेता नहीं। इसी पर यूजर्स ने उन्हें खरी-खोटी सुना दी है और कहा कि उनकी रीढ़ ही नहीं है।",
+                "image": "https://static.langimg.com/nbt/thumb/132450476/vivek-oberoi-on-sonam-wangchuk.jpg?imgsize=267330&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/entertainment/news-from-bollywood/vivek-oberoi-avoids-reacting-on-sona-wangchuk-hunger-strike-says-i-am-an-actor-not-politician-netizens-slam-him/articleshow/132450403.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-17T01:32:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "अक्षय कुमार की वजह से छोड़ी फिल्म 'OMG2', परेश रावल का छलका दर्द, नहीं मिला क्रेडिट",
+                "desc": "एक्टर परेश रावल ने दावा किया है कि 'OMG 2' की कहानी एक ऐसे आइडिया से शुरू हुई थी जिसे उन्होंने डायरेक्टर अमित राय के साथ मिलकर तैयार किया था. उन्होंने कहा कि बाद में फिल्म की कहानी बदल गई और उन्हें ओरिजिनल कॉन्सेप्ट का क्रेडिट नहीं मिला.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a5914d1a3654-akshay-kumar-paresh-rawal-omg-162843508-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/paresh-rawal-claims-omg-2-his-idea-akshay-kumar-took-script-not-give-me-credit-tmovg-dskc-2602901-2026-07-17",
+                "source": "AajTak",
+                "date": "2026-07-17T01:29:14Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "गुरुवार को Dhamaal 4 ने लूट लिया बॉक्स ऑफिस पर नोटों का खजाना, 7वें दिन Ajay Devgn की फिल्म ने मचा दिया गदर",
                 "desc": "'धमाल-4' को सिनेमाघरों में लगे हुए एक हफ्ता पूरा हो चुका है। वेलकम टू द जंगल को पीछे छोड़ने के बाद फिल्म का बॉक्स ऑफिस पर खजाना फिर से भर गया है।",
@@ -1561,72 +1624,45 @@
                 "source": "Jagran",
                 "date": "2026-07-16T02:45:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "कभी सेक्सुअलिटी-कभी तलाक, पब्लिसिटी के लिए पति को बदनाम कर रहीं आकांक्षा चमोला? दूसरी शादी पर कही ये बात",
-                "desc": "लॉक अप में आकांक्षा चमोला कभी सेक्सुअलिटी पर बात करती दिख रही हैं, तो कभी अपने तलाक पर. हाल ही में राम कपूर, आकांक्षा को समझाते दिखे कि अगर उन्हें दूसरी शादी को लेकर सलाह चाहिए तो गौरव से ले सकती हैं. लेकिन आकांंक्षा ने साफ इनकार कर दिया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a57561f41c42-akanksha-chamola--gaurav-khanna-095033773-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/ott/story/ram-kapoor-recalls-wife-gautami-first-marriage-divorce-akanksha-chamola-mocked-gaurav-khanna-tmovf-dskc-2601892-2026-07-16",
-                "source": "AajTak",
-                "date": "2026-07-16T02:36:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Welcome To The Jungle Day 20: 'धमाल 4' की आंधी से डरी 'वेलकम टू द जंगल', लाखों कमाने में छूटे पसीने",
-                "desc": "अहमद खान के निर्देशन में बनी हॉरर-कॉमेडी 'वेलकम टू द जंगल' को दर्शकों का खूब प्यार मिल रहा है। 'भूत बंगला' के बाद अक्षय कुमार 'वेलकम टू द जंगल' में भी अपनी एक्टिंग के चलते छा गए हैं। 'वेलकम टू द जंगल' को दर्शकों के अलावा क्रिटिक्स के भी शानदार रिव्यू मिले हैं।, Bollywood Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/16/1600x900/logo/jw_1782846660964_1782847473747_b79961b4-edeb-48fd-930d-5d268d23475f_1784168802799_91cda7b9-de20-4d80-a0ba-284efa13194e.jpg",
-                "url": "https://www.livehindustan.com/entertainment/bollywood/welcome-to-the-jungle-box-office-collection-day-20-akshay-kumar-film-wednesday-business-amid-dhamaal-4-alpha-cocktail-2-201784168164839.html",
-                "source": "Hindustan",
-                "date": "2026-07-16T02:27:47Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Friday OTT Release: ओटीटी पर इस फ्राइडे रिलीज हो रहीं क्राइम थ्रिलर से लेकर हॉरर K ड्रामा तक 8 नई फिल्में-सीरीज, वीकेंड पर करें बिंजवॉच",
-                "desc": "Friday OTT Release 17 July: इस फ्राइडे ओटीटी पर एंटरटेनमेंट ही एंटरटेनमेंट मिलने वाला है. दरअसल शुक्रवार को क्राइम थ्रिलर से लेकर जबरदस्त के ड्रामा तक कई नई फिल्में और सीरीज रिलीज हो रही हैं.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/16/3484e5f44f55b4df324717a772aeb2b51784165881695209_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/entertainment/ott/friday-ott-release-17-july-raktanchal-season-3-maa-inti-bangaram-the-devil-desire-on-netflix-jio-hotstar-zee5-3160637",
-                "source": "ABP News",
-                "date": "2026-07-16T01:55:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "पैपराजी ने किया परेशान, बच्चों को छोड़ मौनी के पास पहुंचीं शुभाश्री, इमोशनल हुईं एक्ट्रेस",
-                "desc": "पैपराजी पर गुस्सा करने के बाद अब मौनी रॉय ने एक इमोशनल पोस्ट शेयर किया. इसमें उन्होंने बताया कि सुभाश्री गांगुली सब कुछ छोड़कर उनके साथ रहने के लिए आईं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a57c76b9aa93-subhashree-ganguly-mouni-roy-154613990-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/after-paparazzi-row-mouni-roy-thanks-friend-subhashree-ganguly-for-rushing-to-her-side-left-her-kids-tmovg-dskc-2602222-2026-07-16",
-                "source": "AajTak",
-                "date": "2026-07-16T01:26:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "New Release: 17 जुलाई के दिन ओटीटी पर आएंगी 8 फिल्में और सीरीज, यहां देखिए पूरी लिस्ट",
-                "desc": "17 जुलाई यानी शुक्रवार के दिन ओटीटी पर कई सारी फिल्में और सीरीज आने वाली हैं। अगर आप इस वीकेंड घर पर बैठना चाहते हैं तो ये लिस्ट आपके काम की है।, Web-series Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/16/1600x900/logo/17_july_Friday_OTT_release_1784162545826_1784162551844_c397c648-5c28-4226-a594-97099cf1ed80.jpg",
-                "url": "https://www.livehindustan.com/entertainment/web-series/friday-ott-release-know-about-upcoming-movies-and-series-on-17-july-201784160617710.html",
-                "source": "Hindustan",
-                "date": "2026-07-16T00:49:41Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'हमारी 8 साल की शादी में तुम्हें यही सबसे ज्यादा पसंद आया?, निक जोनस पर प्रियंका चोपड़ा ने दागे सवाल",
-                "desc": "प्रियंका चोपड़ा से शादी किए निक जोनस को 8 साल गुजर गए हैं। सिंगर ने कहा है कि प्रियंका चोपड़ा के साथ आठ साल की शादी में सबसे अच्छी चीज क्या रही। वहीं प्रियंका ने भी पलटवार किया और पूछा- हमारी पूरी शादी में तुम्हें यही सबसे ज्यादा पसंद आया?",
-                "image": "https://static.langimg.com/nbt/thumb/132424334/priyanka-chopra-questions-nick-jonas.jpg?imgsize=170367&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/entertainment/hollywood-news/the-best-thing-about-eight-years-of-marriage-with-priyanka-chopra-is-bollywood-gossip-says-nick-jonas/articleshow/132424229.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-15T19:15:08Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'जिस शो में गई, वहीं अफेयर रहा', शिवांगी जोशी के पीछे पड़ीं शिल्पा शिंदे, अब पर्सनल लाइफ पर किया कटाक्ष",
-                "desc": "शिल्पा शिंदे ने जब से 'लॉकअप 2' में एंट्री ली है, अपने व्यवहार को लेकर चर्चा में हैं। शो में शिवांगी जोशी लगातार उनके निशाने पर बनी हुई हैं। पिछले दिनों शिवांगी की वर्जिनिटी पर टिप्पणी करने के बाद अब एक बार फिर वह उनकी पर्सनल लाइफ के बारे में बात करती दिखीं।",
-                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/07/new-project-2026-07-15t234555-1784139378.jpg",
-                "url": "https://www.indiatv.in/entertainment/ott/shilpa-shinde-targets-shivangi-joshi-takes-dig-at-her-personal-life-says-jis-show-me-gai-waha-affair-raha-2026-07-15-1231456",
-                "source": "India TV Hindi",
-                "date": "2026-07-15T18:16:52Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "FIFA World Cup 2026 के विनर की 5 साल पहले हो गई थी भविष्यवाणी? आखिर कौन उठाएगा ट्रॉफी!",
+                "desc": "फीफा वर्ल्ड कप 2026 अब अपने अंतिम पड़ाव पर है. अर्जेंटीना और स्पेन ने शानदार खेल दिखाते हुए फाइनल में अपनी जगह पक्की कर ली है. लेकिन इस खिताबी मुकाबले से पहले सोशल मीडिया पर एक ऐसी भविष्यवाणी वायरल हो रही है जिसने फैन्स को हैरान कर दिया है. फुटबॉल फैन्स के बीच फाइनल मैच से ठीक पहले पांच साल पुराना ट्वीट वायरल हो रहा है. इस ट्वीट में की गई एक भविष्यवाणी अब सच होने की कगार पर है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a58be6c34d36-fifa-world-cup-161959131-16x9.jpg",
+                "url": "https://www.aajtak.in/sports/football/photo/fifa-world-cup-final-argentina-vs-spain-guess-who-is-the-winner-accurately-predicting-aksp-2602656-2026-07-17",
+                "source": "AajTak",
+                "date": "2026-07-17T01:47:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "IND vs ENG: बेन डकेट के नाम दर्ज हुआ बेहद शर्मनाक रिकॉर्ड, बुमराह ने पारी की पहली ही गेंद पर किया शिकार",
+                "desc": "भारत के खिलाफ दूसरे वनडे में इंग्लैंड के बेन डकेट मैच की पहली ही गेंद पर जसप्रीत बुमराह का शिकार बनकर बिना खाता खोले आउट हो गए। इसी के साथ उनके नाम एक शर्मनाक रिकॉर्ड भी जुड़ गया।",
+                "image": "https://static.langimg.com/nbt/thumb/132450471/ben-duckett.jpg?imgsize=361740&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/ind-vs-eng-ben-duckett-shameful-record-dismissed-by-bumrah-on-the-first-ball-india-loses/articleshow/132450458.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-17T01:29:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "India vs England 2nd ODI: कौन जीता कल का मैच? जो रूट शतक से चूके; कोहली ने तोड़ा सचिन का रिकॉर्ड",
+                "desc": "India vs England Highlights 2nd ODI- इंडिया वर्सेस इंग्लैंड दूसरा वनडे कार्डिफ में खेला गया। इस मैच में जो रूट शतक से मात्र 1 रन से चूक गए। वह 99 पर नाबाद रहे। वहीं विराट कोहली ने भी फिफ्टी लगाई। आईए जानते हैं कौन जीता कल का मैच-, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/17/1600x900/logo/Joe_Root_Virat_Kohli_1784253333061_1784253334529_204348a8-6b55-43fb-883e-7161522acffb.jpg",
+                "url": "https://www.livehindustan.com/cricket/india-vs-england-highlights-2nd-odi-who-won-yesterday-match-ind-vs-eng-scorecard-joe-root-virat-kohli-201784248437829.html",
+                "source": "Hindustan",
+                "date": "2026-07-17T01:11:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "शत्रुघ्न सिन्हा ने अनशन पर बैठे सोनम वांगचुक के लिए की ये अपील",
+                "desc": "शत्रुघ्न सिन्हा की बेटी और बॉलीवुड एक्टर सोनाक्षी सिन्हा ने गुरुवार को सोशल मीडिया पर पोस्ट कर सोनम वांगचुक का समर्थन किया था.",
+                "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/39dc/live/ffb68b50-81d0-11f1-926f-c90d1bcfbc84.png",
+                "url": "https://www.bbc.com/hindi/live/c86nlnn7nw9t",
+                "source": "BBC",
+                "date": "2026-07-17T01:11:31Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "इंग्लैंड जीता मगर टूटा जो रूट का दिल, 1 रन से शतक से चूके; गस एटकिंसन बने विलेन",
                 "desc": "इंग्लैंड ने दूसरे वनडे में भारत को 4 विकेट से हराकर तीन मैच की सीरीज में 1-1 की बराबरी कर ली है। इंग्लैंड की इस जीत में हीरो स्टार बल्लेबाज जो रूट रहे। हालांकि आखिर में उनका दिल टूटा, वह शतक पूरा नहीं कर पाए।, Cricket Hindi News - Hindustan",
@@ -2130,47 +2166,92 @@
                 "source": "Navbharat Times",
                 "date": "2026-07-16T02:25:47Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "T20 Blast Highlights: 33 गेंदों पर 80 रनों की जरूरत, सिर्फ दो विकेट हाथ में, नंबर-9 के बल्लेबाज ने नया इतिहास लिख दिया",
-                "desc": "Yorkshire vs Somerset: टी20 ब्लास्ट के क्वार्टर फाइनल में समरसेट को आखिरी 33 गेंदों पर जीत के लिए 80 रन चाहिए थे। टीम के 8 विकेट गिर चुके थे। यहां से समरसेट ने मैच को जीत लिया।",
-                "image": "https://static.langimg.com/nbt/thumb/132427717/craig-overton.jpg?imgsize=89453&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/craig-overton-records-highest-t20-score-at-number-9-somerset-reach-t20-blast-semifinals/articleshow/132427561.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-16T02:16:55Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "अमेरिका ने ईरान पर फिर किए हमले, डोनाल्ड ट्रंप ने दी ये चेतावनी",
-                "desc": "अमेरिका ने बुधवार शाम ईरान पर नए हमले किए और राष्ट्रपति डोनाल्ड ट्रंप ने तेहरान को चेतावनी दी कि वह \"बेहतर व्यवहार करे.\"",
-                "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/54f8/live/e918d4a0-80c4-11f1-b39a-a767bb2ab6cc.png",
-                "url": "https://www.bbc.com/hindi/live/c98041n5x4et",
-                "source": "BBC",
-                "date": "2026-07-16T01:16:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "जिम्बाब्वे ने कर रखा है बांग्लादेश का जीना हराम, टेस्ट और वनडे के बाद अब T20I मैच में भी दी मात",
-                "desc": "जिम्बाब्वे ने बांग्लादेश का जीना हराम कर रखा है। बांग्लादेश की टीम इस समय जिम्बाब्वे के दौरे पर है, लेकिन सिर्फ एक ही मैच अब तक पांच मैचों में जीत पाई है। एक टेस्ट और दो वनडे मैचों के बाद टी20 मैच भी टीम हार गई है। , Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/16/1600x900/logo/Zimbabwe_vs_Bangladesh_1784162741145_1784162741329_196da4d3-7a00-4f63-b93c-575f5ab222cd.jpg",
-                "url": "https://www.livehindustan.com/cricket/zimbabwe-beat-bangladesh-in-1st-t20i-match-ban-also-lost-test-and-odi-series-there-as-well-201784162197540.html",
-                "source": "Hindustan",
-                "date": "2026-07-16T00:57:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "इंग्लैंड की हार के बाद जूड बेलिंघम ने खोया आपा, अर्जेंटीना के खिलाड़ी को थप्पड़ मारा, मैदान पर बवाल",
-                "desc": "अर्जेंटीना के खिलाफ इंग्लैंड को फीफा विश्व कप 2026 के सेमीफाइनल में हार मिली। मैच के बाद इंग्लैंड को मिडफील्डर जूड बेलिंघम ने अर्जेंटीना के वैलेंटिन बारको को सिर के पीछे थप्पड़ मार दिया।",
-                "image": "https://static.langimg.com/nbt/thumb/132427287/jude-bellingham.jpg?imgsize=141344&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/football/fifa-world-cup/news/jude-bellingham-smacked-argentina-player-on-back-of-head-after-fifa-world-cup-semifinal/articleshow/132427263.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-16T00:41:23Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Pete Hegseth's new testosterone testing policy for US troops",
+                "desc": "US Defence Secretary Pete Hegseth has announced mandatory testosterone screening for military personnel aged 30 and over.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9e37/live/07cd9e40-8187-11f1-926f-c90d1bcfbc84.jpg",
+                "url": "https://www.bbc.com/news/videos/cy746z15ej3o",
+                "source": "BBC",
+                "date": "2026-07-17T02:45:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Philippines condemns Chinese media depicting it as monkey in AI video",
+                "desc": "China Daily posted a video of a monkey being forced to sing its claims to the South China Sea.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/dcf6/live/6d3322d0-8184-11f1-8cd7-4f16480f41d7.jpg",
+                "url": "https://www.bbc.com/news/articles/cj632307934o",
+                "source": "BBC",
+                "date": "2026-07-17T02:37:45Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NBC News fires security guard over 'Today' show fiasco where intruder confronted Craig Melvin with racial slur",
+                "desc": "NBC News has fired a security guard who allegedly allowed a crazed man to get into the \"Today\" show, Page Six has learned.",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/134637558.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/07/16/celebrity-news/nbc-news-fires-security-guard-over-today-show-fiasco-where-intruder-confronted-craig-melvin-with-racial-slur/",
+                "source": "Page Six",
+                "date": "2026-07-17T02:10:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Portland sends draft term sheet to Trail Blazers days after NBA says talks 'off track'",
+                "desc": "In what’s perhaps a surprising development, city leaders have sent an initial term sheet to the Trail Blazers this week outlining the city’s first proposal in negotiating a long-term agreement to keep the team.",
+                "image": "https://katu.com/resources/media2/16x9/4284/1320/0x1652/90/5432a238-a242-419c-af43-64494804ebdd-PortlandTrailBlazerstakeonSanAntonioSpursinGame4attheModaCenteronApril262026KATUimagefromWesleighOgle.png",
+                "url": "https://katu.com/sports/trail-blazers/portland-to-send-first-term-sheet-to-trail-blazers-this-week-as-talks-heat-up-nba-basketball-business-city-council-negotiation-renovation-moda-center-local-sports-community-economy",
+                "source": "KATU",
+                "date": "2026-07-17T01:37:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Catastrophic Texas flooding leaves at least 2 dead",
+                "desc": "Authorities in Texas have rescued hundreds of stranded drivers and people trapped in homes and at least two people have died due to catastrophic flooding.",
+                "image": "https://dims.apnews.com/dims4/default/2275da8/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F27%2Fd0%2F786224a3cec89256383fa0515d19%2F7f56fa52238e4d16bda3bbc301f46d8f",
+                "url": "https://apnews.com/article/texas-flooding-evacuations-uvalde-camp-mystic-616ad82c32b5728d8a0f894c5e602b24",
+                "source": "AP News",
+                "date": "2026-07-17T01:30:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump Media to sell fast feed of key posts to Wall Street",
+                "desc": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+                "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3a36/live/a22ce670-817e-11f1-a087-3f9df20b4f8a.jpg",
+                "url": "https://www.bbc.com/news/articles/c79gw4lj89eo",
+                "source": "BBC",
+                "date": "2026-07-17T01:27:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Prince Harry shares his unfiltered reaction to England's heartbreaking World Cup loss",
+                "desc": "Page Six asked the Duke of Sussex at the TIME100 Sports Gala in New York City Thursday if he was sad about England losing to Argentina on Wednesday, to which he replied, \"of course.\"",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/134633236.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/07/16/royal-family/prince-harry-shares-his-unfiltered-reaction-to-englands-heartbreaking-world-cup-loss/",
+                "source": "Page Six",
+                "date": "2026-07-17T01:18:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "CNBC Daily Open: Trump takes the stage - without his longtime teleprompter operator",
+                "desc": "U.S. President Donald Trump is poised to give a primetime speech on Thursday focusing on election security, although with a new teleprompter operator.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108311438-1779481572898-gettyimages-2277150089-AFP_B3RY77X.jpeg?v=1779481601&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/17/cnbc-daily-open-trump-speech-election-teleprompter-operator.html",
+                "source": "CNBC",
+                "date": "2026-07-17T01:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Wildfire Smoke Pushes Air Quality Index in U.S. and Canada to Unhealthy Levels: Live Updates",
+                "desc": "Dense smoke from Canadian wildfires is choking a vast stretch of the Northeast and Upper Midwest. Officials encouraged residents, including in New York, to stay indoors.",
+                "image": "https://static01.nyt.com/images/2026/07/16/multimedia/16nat-smoke-live-promo9p-jkpt/16nat-smoke-live-promo9p-jkpt-facebookJumbo.jpg",
+                "url": "https://www.nytimes.com/live/2026/07/16/weather/canada-wildfire-smoke-air-quality",
+                "source": "The New York Times",
+                "date": "2026-07-17T01:09:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "What does Code Red air quality mean? Weather Talk explains",
                 "desc": "Experts recommend people reduce outdoor activities as air quality worsens because of Canadian wildfire smoke.",
@@ -2629,90 +2710,27 @@
                 "source": "9to5Google",
                 "date": "2026-07-16T13:45:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Hong Kong official warns booksellers on security risks after raids",
-                "desc": "The police operation marks the third round of arrests targeting independent bookstores in four months.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5712x3213+0+536/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2Fa5%2Fff0a2f1f494d86daa3d7d2a7b917%2Fap26196480132620.jpg",
-                "url": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
-                "source": "NPR",
-                "date": "2026-07-16T13:31:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Cyclospora outbreak: Hamilton County reports additional cases",
-                "desc": "As cyclosporiasis continues to spread to more counties and states, Hamilton County is reporting more cases.",
-                "image": "https://kubrick.htvapps.com/htv-prod/images/232be305-2612-4378-aebb-d5d12ddb7872.jpg?resize=1200%3A*&crop=1.00xw%3A0.994xh%3B0%2C0",
-                "url": "https://www.wlwt.com/article/cyclospora-outbreak-hamilton-county-ohio-cases/72577435",
-                "source": "WLWT",
-                "date": "2026-07-16T13:20:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FCC Chair David Carr calls states' challenge to Paramount-WBD merger 'illegitimate'",
-                "desc": "Federal Communications Commission Chairman Brendan Carr slammed a multistate effort to block Paramount Skydance’s proposed acquisition of Warner Bros. Discovery.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134508984.jpg?quality=75&strip=all&w=1200",
-                "url": "https://nypost.com/2026/07/16/media/fcc-chair-david-carr-calls-states-challenge-to-paramount-wbd-merger-illegitimate/",
-                "source": "New York Post",
-                "date": "2026-07-16T13:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "McGregor was injured before entering UFC 329 octagon",
-                "desc": "Israel Adesanya thinks Conor McGregor entered the octagon compromised at UFC 329.",
-                "image": "https://mmajunkie.usatoday.com/gcdn/authoring/authoring-images/2026/07/12/SMMA/90892123007-hn-ai-qbr-xc-a-away-h.jpeg?crop=844,474,x0,y0&width=844&height=474&format=pjpg&auto=webp",
-                "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/07/16/ufc-329-israel-adesanya-opinion-conor-mcgregor-was-injured-before-max-holloway-fight-conspiracy/90940013007/",
-                "source": "MMA Junkie",
-                "date": "2026-07-16T13:04:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "British Open Thursday live updates, leaderboard: Bryson DeChambeau does have a clue",
-                "desc": "For one last time in 2026, the race for a major championship title is on.",
-                "image": "https://s.yimg.com/ny/api/res/1.2/1CpG7F64afN1HoMeFVjP6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/9090b82e-7077-4589-8b2e-6724b6abded1",
-                "url": "https://uk.sports.yahoo.com/british-open-thursday-live-updates-leaderboard-scottie-scheffler-is-on-a-heater-early-053000601.html",
-                "source": "Yahoo Sports UK",
-                "date": "2026-07-16T13:00:31Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "1Password now lets Claude sign in to websites without seeing your passwords",
-                "desc": "1Password is launching a new Claude integration for Mac users today. It’s designed to let Anthropic’s AI agent sign in...",
-                "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/claude-1password.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-                "url": "https://9to5mac.com/2026/07/16/1password-now-lets-claude-sign-in-to-websites-without-seeing-your-passwords/",
-                "source": "9to5Mac",
-                "date": "2026-07-16T13:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "2026 MLB playoff predictions: Experts project how standings will look at end of the regular season",
-                "desc": "Can the Yankees catch the Rays? Will the Braves hold off the Phillies? As the second half begins, we're predicting the rest of the regular season",
-                "image": "https://sportshub.cbsistatic.com/i/r/2026/07/15/ec58b4b8-c1cd-49a5-a6ea-35797cdad89f/thumbnail/1200x675/099216b8e241a325d50e45a4dd72429d/phillies-braves-getty.png",
-                "url": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-predictions-standings-projections/",
-                "source": "CBS Sports",
-                "date": "2026-07-16T12:59:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GPS data tracks boat movement before Nolan Wells’ disappearance and death",
-                "desc": "GPS data from the Mississippi Department of Marine Resources, obtained by CBS News, tracks the movements of the boat that carried Nolan Wells to Horn Island on July 4.",
-                "image": "https://gray-wlox-prod.gtv-cdn.com/resizer/v2/6P3OHG34LBHELHHJXV7KWNV3VM.png?auth=574c426db0f1903954f9bf507f705e8440d8c480ac3ca552ce845db0ceff4c23&width=1200&height=600&smart=true",
-                "url": "https://www.wlox.com/2026/07/16/gps-data-tracks-boat-movement-before-nolan-wells-disappearance-death/",
-                "source": "WLOX",
-                "date": "2026-07-16T12:59:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Pulsar Crams A Noctua Fan In Its Feinmann FO1 Gaming Mouse While Retaining Its Lightweight Design; Release Date Revealed",
-                "desc": "Pulsar's Feinmann F01 Noctua Edition launches on July 21, 2026, featuring a 5V PWM fan, 42,000 DPI, and weighing 73 grams for sweat-free gaming.",
-                "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Feinmann-FO1-Noctua-Edition-2.jpg",
-                "url": "https://wccftech.com/pulsar-crams-a-noctua-fan-in-its-feinmann-fo1-gaming-mouse-while-retaining-its-lightweight-design-release-date-revealed/",
-                "source": "Wccftech",
-                "date": "2026-07-16T10:45:12Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "FDA approves 1st-of-its-kind pill to reduce cholesterol",
+                "desc": "The Food and Drug Administration (FDA) approved on Thursday a first-of-its-kind oral option that can lower \"bad\" LDL cholesterol with a daily pill instead of a shot.",
+                "image": "https://i.abcnewsfe.com/a/d451880c-0300-4b42-aef7-40035ea50e5a/Lipfendra-1-ht-er-260716_1784236754062_hpMain_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/Health/fda-approves-1st-kind-pill-reduce-cholesterol/story?id=134830720",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-07-17T01:14:48Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Target recalls 200,000 children's sandals over potential choking hazard: CPSC",
+                "desc": "Target is recalling 211,000 Cat & Jack toddler sandals due to a choking hazard from decorative pearls falling off, posing a risk of serious injury or death.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/recalled-sandals-target.png?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/lifestyle/target-recalls-200000-childrens-sandals-over-potential-choking-hazard",
+                "source": "Fox Business",
+                "date": "2026-07-17T01:10:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "TSMC Just Announced Fantastic News for Nvidia Shareholders",
                 "desc": "TSMC manufactures Nvidia's market-leading AI chips.",
@@ -2747,6 +2765,15 @@
                 "url": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
                 "source": "Ars Technica",
                 "date": "2026-07-17T00:02:54Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "4,500 Google employees sign petition demanding layoff protections",
+                "desc": "More than 100 Google employees rallied outside the tech giant's headquarters in Mountain View Thursday, demanding job security protections.",
+                "image": "https://cdn.abcotvs.com/dip/images/19522587_071626-kgo-google-petition-img.jpg?w=1600",
+                "url": "https://abc7news.com/post/4500-google-employees-sign-petition-demanding-layoff-protections/19522280/",
+                "source": "ABC7 Bay Area",
+                "date": "2026-07-16T23:57:59Z",
                 "priority": "STANDARD"
             },
             {
@@ -3225,36 +3252,18 @@
                 "source": "USA Today",
                 "date": "2026-07-16T09:25:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "As oil company profits surge so do U.S. calls for windfall profit tax : NPR",
-                "desc": "Higher oil prices since the Iran war began mean many oil companies have brought in excess profits. Some U.S. lawmakers want to tax those windfall profits and give the money to lower-income Americans.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4140x2329+0+216/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2F2e%2F3d27f27a492c8c32fbaf6f211809%2Fgettyimages-2266990984.jpg",
-                "url": "https://www.npr.org/2026/07/16/nx-s1-5845818/oil-prices-windfall-tax-iran-war",
-                "source": "NPR",
-                "date": "2026-07-16T09:01:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "One of the world’s most prominent hospitals is testing how AI can revolutionize health care",
-                "desc": "Mayo Clinic, one of the world’s most well-known hospital systems, is using AI in hopes of improving patient care and, ultimately, saving lives.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1228790813.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/16/tech/mayo-clinic-ai-healthcare",
-                "source": "CNN",
-                "date": "2026-07-16T09:00:25Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "If You're Not a Billionaire in San Francisco, You're Poor",
-                "desc": "San Francisco has seen wealth tsunamis before. The AI boom is different.",
-                "image": "https://i.insider.com/6a57d41b54f98752617750b9?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/san-francisco-billionaires-anthropic-openai-wealth-gap-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-16T08:17:08Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Ariana Grande, Ricky Alvarez cozy up during Central Park stroll",
+                "desc": "Ariana Grande and Ricky Alvarez were photographed on a stroll through NYC's Central Park Thursday, days after Page Six reported they're back together.",
+                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/134641051.jpg?quality=75&strip=all&w=1200",
+                "url": "https://pagesix.com/2026/07/16/celebrity-news/ariana-grande-ricky-alvarez-cozy-up-during-central-park-stroll/",
+                "source": "Page Six",
+                "date": "2026-07-17T02:46:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Ariana Grande & Ricky Alvarez Cozy Up During Central Park Stroll",
                 "desc": "Ariana Grande's putting her rekindled romance with Ricky Alvarez on display as they stroll through Central Park with their arms wrapped around each other.",
@@ -3262,6 +3271,15 @@
                 "url": "https://www.tmz.com/2026/07/16/ariana-grande-and-ricky-alvarez-new-cute-photos/",
                 "source": "TMZ",
                 "date": "2026-07-17T00:46:23Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Rapper Desiigner Arrested for Domestic Violence, Property Damage",
+                "desc": "Desiigner is back behind bars in South Carolina ... the rapper has been arrested again on a domestic violence charge ... TMZ has learned.",
+                "image": "https://imagez.tmz.com/image/a4/16by9/2026/07/16/a4b898f56997417d98ef15e40480b5db_xl.png",
+                "url": "https://www.tmz.com/2026/07/16/desiigner-arrested/",
+                "source": "TMZ",
+                "date": "2026-07-17T00:30:32Z",
                 "priority": "STANDARD"
             },
             {
@@ -3776,27 +3794,72 @@
                 "source": "Deadline",
                 "date": "2026-07-15T23:50:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Joseph Duggar's cousin praises his young accuser for speaking out",
-                "desc": "Amy Duggar King says she reached out to Joseph Duggar's accuser with words of support.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/15/USAT/90936809007-2268677586.jpg?crop=749,421,x0,y350&width=749&height=421&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/07/15/amy-king-duggar-joseph-duggar-young-accuser/90936489007/",
-                "source": "USA Today",
-                "date": "2026-07-15T23:48:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taylor Frankie Paul Granted Temporary Restraining Order Against Ex's Friend",
-                "desc": "Taylor Frankie Paul's taken a few Ls this year ... but she just won big in court and was granted her temporary restraining order against her ex's friend, TMZ has learned.",
-                "image": "https://imagez.tmz.com/image/33/16by9/2026/07/15/33c145c2cae94a14b7a503f7d47f7790_xl.png",
-                "url": "https://www.tmz.com/2026/07/15/taylor-frankie-paul-granted-restraining-order-against-dakota-mortensens-friend/",
-                "source": "TMZ",
-                "date": "2026-07-15T22:57:23Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "NBA commissioner Adam Silver discusses Caitlin Clark, WNBA officiating",
+                "desc": "NBA commissioner Adam Silver says it is unfair that Caitlin Clark has become a \"political football\" in the country amid ongoing discourse.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/17/USAT/90951807007-usatsi-29154380.jpg?crop=2441,1374,x0,y126&width=2441&height=1374&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/sports/wnba/2026/07/16/adam-silver-caitlin-clark-political-football-unfar/90951636007/",
+                "source": "USA Today",
+                "date": "2026-07-17T02:56:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Adam Silver believes Caitlin Clark has become a 'political football' in WNBA",
+                "desc": "Adam Silver thinks the Caitlin Clark drama goes beyond just fouls and that she's become a 'political' in the WNBA.",
+                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-wymyk7fcp-1784256056646.jpg?quality=75&strip=all&1784241681&w=1200",
+                "url": "https://nypost.com/2026/07/16/sports/adam-silver-believes-caitlin-clark-has-become-a-political-football-in-wnba/",
+                "source": "New York Post",
+                "date": "2026-07-17T02:47:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Mets-Phillies start time moved, MLS game between Vancouver-Chicago ppd. due to wildfire smoke",
+                "desc": "The start time for the MLB game between the New York Mets and the Phillies on Thursday in Philadelphia was moved up one hour due to air quality concerns due to wildfire smoke from Canada and northern Minnesota, and an MLS game in Chicago was postponed.",
+                "image": "https://dims.apnews.com/dims4/default/3e0d798/2147483647/strip/true/crop/4362x2907+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3b%2F7a%2Ff0c64f57a14990ef89adcc2b3ef8%2F7c08612ddc1747919a991d77b186e041",
+                "url": "https://apnews.com/article/wildfire-smoke-sports-5c98922d7826662e021f6c69718e577a",
+                "source": "AP News",
+                "date": "2026-07-17T02:23:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "City of Portland Sends Moda Center Arena Proposal to Trail Blazers",
+                "desc": "Demands from the city for renovation funding.",
+                "image": "https://platform.blazersedge.com/wp-content/uploads/sites/34/chorus/uploads/chorus_asset/file/25799955/1233155352.jpg?quality=90&strip=all&crop=0%2C7.1329280423148%2C100%2C78.534031413613&w=1200",
+                "url": "https://www.blazersedge.com/trail-blazers-news/114478/breaking-news-portland-strail-blazers-city-offer-sheet-terms-moda-center-repairs-renovation-lease",
+                "source": "Blazer's Edge",
+                "date": "2026-07-17T02:16:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Why the Brewers targeted Lance McCullers Jr. and Colton Gordon",
+                "desc": "The Brewers jumped the starting pitching trade market, but why for these two guys?",
+                "image": "https://platform.brewcrewball.com/wp-content/uploads/sites/43/2026/07/gettyimages-2276124196.jpg?quality=90&strip=all&crop=0%2C10.724211501481%2C100%2C78.551576997038&w=1200",
+                "url": "https://www.brewcrewball.com/milwaukee-brewers-analysis/86207/why-the-brewers-targeted-lance-mccullers-and-colton-gordon",
+                "source": "Brew Crew Ball",
+                "date": "2026-07-17T02:06:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Portland sends first term sheet to Trail Blazers days after NBA says talks 'off track'",
+                "desc": "In what’s perhaps a surprising development, city leaders have sent an initial term sheet to the Trail Blazers this week outlining the city’s first proposal in negotiating a long-term agreement to keep the team.",
+                "image": "https://katu.com/resources/media2/16x9/4284/1320/0x1652/90/5432a238-a242-419c-af43-64494804ebdd-PortlandTrailBlazerstakeonSanAntonioSpursinGame4attheModaCenteronApril262026KATUimagefromWesleighOgle.png",
+                "url": "https://katu.com/sports/trail-blazers/portland-to-send-first-term-sheet-to-trail-blazers-this-week-as-talks-heat-up-nba-basketball-business-city-council-negotiation-renovation-moda-center-local-sports-community-economy",
+                "source": "KATU",
+                "date": "2026-07-17T01:37:12Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Disney, Champion debut new collection pairing NFL teams with Disney characters",
+                "desc": "The Walt Disney Co. and clothing company Champion on Thursday unveiled a collection that pairs all 32 NFL teams with characters from Disney, Marvel, Star Wars and Pixar.",
+                "image": "https://i.abcnewsfe.com/a/a9928185-c482-4485-9b6e-09f109d58cad/disney-merch-2-ht-gmh-260716_1784229712160_hpMain_16x9.jpg?w=1600",
+                "url": "https://abcnews.com/GMA/Living/disney-champion-debut-new-collection-pairing-nfl-teams/story?id=134814185",
+                "source": "ABC News - Breaking News, Latest News and Videos",
+                "date": "2026-07-17T00:15:23Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Giannis Antetokounmpo hungry to chase championship with Heat",
                 "desc": "Giannis Antetokounmpo, fueled by the pressure in Miami and the Heat's championship history, is hungry to win a title in South Beach.",
@@ -4273,71 +4336,8 @@
                 "source": "Fox News",
                 "date": "2026-07-16T10:19:02Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "NL Central 2026 draft report cards: Cardinals load up; Reds bet on Lebron’s upside",
-                "desc": "The NL Central added some dynamic talent in the draft, with the Cardinals having the most notable class due to its depth.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/15131705/NL-Central-Draft-report-cards.png?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7447629/2026/07/16/nl-central-draft-grades-picks-mlb-2026/",
-                "source": "The New York Times",
-                "date": "2026-07-16T10:00:12Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Execs, coaches, scouts rank top NFL safeties for 2026",
-                "desc": "Let's close the 2026 positional top-10 ranking series with the NFL's best safeties. Kyle Hamilton is still No. 1, but there were big changes this year on the rest of the list.",
-                "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0325%2Fr1633890_1296x729_16%2D9.jpg",
-                "url": "https://www.espn.com/nfl/story/_/id/49307927/ranking-nfl-top-10-safeties-2026-execs-coaches-scouts",
-                "source": "ESPN",
-                "date": "2026-07-16T10:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "UK calls for FIFA inquiry into ‘Falklands are Argentine’ banner",
-                "desc": "Business Secretary Peter Kyle said the “dignity” of England’s players was the “perfect contrast” to their Argentinian counterparts.",
-                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/16/GettyImages-2285647653.jpg",
-                "url": "https://www.politico.eu/article/uk-calls-for-fifa-inquiry-into-falklands-are-argentine-banner/",
-                "source": "politico.eu",
-                "date": "2026-07-16T09:55:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The practical window for trading George Pickens has closed, too",
-                "desc": "The deadline for the Cowboys and receiver George Pickens to finalize a long-term deal passed without a failed game of beat the clock.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/3a99513/2147483647/strip/true/crop/4974x2798+0+259/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F44%2F407cb4ae4a2bbefbe8bbc9855b54%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27309269",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-practical-window-for-trading-george-pickens-has-closed-too",
-                "source": "NBC Sports",
-                "date": "2026-07-16T09:53:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Best-Dressed Athletes at the 2026 ESPY Awards Embraced Sparkle",
-                "desc": "Bronze, silver, gold! Shimmer was well-represented at the 2026 ESPYs: from Lindsey Vonn in sequin Gucci to Simone Biles in chrome.",
-                "image": "https://assets.vogue.com/photos/6a5891c4486f2a950c89f25e/16:9/w_1280,c_limit/2285669352",
-                "url": "https://www.vogue.com/slideshow/espy-awards-best-dressed-2026",
-                "source": "Vogue",
-                "date": "2026-07-16T09:19:07Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Best challenge ruined? Why F1 drivers fear Spa will be 'painful'",
-                "desc": "Plenty of F1 drivers have raised concerns about what Spa will be like in these 2026 cars. What will the reality look like?",
-                "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/size/w1200/2026/07/XPB_1363505_HiRes.jpg",
-                "url": "https://www.the-race.com/formula-1/why-f1-drivers-feat-spa-will-be-awful-belgian-gp/",
-                "source": "The Race",
-                "date": "2026-07-16T07:42:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "World Cup top scorer: How will Messi, Mbappe, Kane Golden Boot race be decided?",
-                "desc": "Argentina's Lionel Messi and Kylian Mbappe top the list of World Cup goalscorers.",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/15180433/messi-celebrates-england-scaled.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7356728/2026/07/15/golden-boot-world-cup-top-goal-scorer/",
-                "source": "The New York Times",
-                "date": "2026-07-16T07:31:48Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-17T13:07:00.575589Z"
+    "lastGlobalSync": "2026-07-17T15:06:42.185055Z"
 }
