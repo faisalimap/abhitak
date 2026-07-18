@@ -2,6 +2,15 @@
     "hi": {
         "general": [
             {
+                "title": "ट्रेन हादसे के शिकार व्यक्ति को सेकंड क्लास पैसेंजर कहने पर भड़का सुप्रीम कोर्ट, 8 लाख का मुआवजा भी दिलाया",
+                "desc": "सुप्रीम कोर्ट ने निचली अदालतों के फैसलों को पलटते हुए साफ किया कि शव के पास से टिकट न मिलने मात्र से किसी व्यक्ति का वैध यात्री होने का दर्जा खत्म नहीं हो जाता।, India News in Hindi - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/17/1600x900/logo/Riots-Case-7_1768358571603_1768358592383_1784329117814_d40aa7dc-5a2b-49ae-ab7d-232d29bab5bc.jpg",
+                "url": "https://www.livehindustan.com/national/supreme-court-lashes-out-at-terming-train-accident-victim-a-second-class-passenger-secures-8-lakh-compensation-201784328945023.html",
+                "source": "Hindustan",
+                "date": "2026-07-17T22:59:47Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "ऑपरेशन सिंदूर के बाद पहली बार LoC पर भारी गोलीबारी, भारतीय सेना ने दिया मुंहतोड़ जवाब",
                 "desc": "गुलाम जम्मू-कश्मीर में उत्पन्न हालात से देश-दुनिया का ध्यान हटाने के लिए पाकिस्तानी सेना ने शुक्रवार रात जिला राजौरी के तरकुंडी सेक्टर में छोटे हथियारों से भारी गोलीबारी की। भारतीय सेना ने भी इस गोलीबारी का मुंहतोड़ जवाब दिया।",
                 "image": "https://www.jagranimages.com/images/2026/07/18/article/image/army-1784340184938_m.webp",
@@ -530,15 +539,6 @@
                 "url": "https://www.aajtak.in/business/news/story/ceat-share-crash-after-net-profit-96-percent-collapse-tutd-dskc-2603170-2026-07-17",
                 "source": "AajTak",
                 "date": "2026-07-17T06:47:02Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ईरान के खिलाफ जंग में कूदेगा पाकिस्तान? हूतियों ने सऊदी पर दागी मिसाइल तो भड़का इस्लामाबाद, कहा- ये हमारी रेड लाइन",
-                "desc": "हूती-सऊदी के बीच हालिया तनाव ने अमेरिका और ईरान के बीच मध्यस्थ के रूप में पाकिस्तान की भूमिका को और अधिक कठिन बना दिया है. हालांकि पिछले महीने दोनों देशों के बीच उसने MoU साइन कराया था.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/05/11/afe8e3d341233954ba4799172e98b3e31778487046479628_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/news/world/pakistan-entry-in-us-israel-iran-war-islamabad-outraged-after-houthis-fire-missile-at-saudi-arabia-called-red-line-shehbaz-sharif-asim-munir-3161294",
-                "source": "ABP News",
-                "date": "2026-07-17T06:33:14Z",
                 "priority": "STANDARD"
             }
         ],
@@ -2172,6 +2172,96 @@
     "en": {
         "general": [
             {
+                "title": "Congress Wants to End Daylight Saving Time",
+                "desc": "Making Daylight Saving Time permanent has broad appeal",
+                "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/01/congress.png",
+                "url": "https://www.foxnews.com/politics/time-enough-last-whats-next-after-house-passes-bill-do-away-daylight-saving-time",
+                "source": "Fox News",
+                "date": "2026-07-17T23:36:19Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ICE shared Medicaid data it shouldn’t have with Palantir : NPR",
+                "desc": "The revelations came out in a federal court case brought by Democratic states challenging ICE's access to Medicaid data to aid in deportation efforts.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8197x4611+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F31%2F0a%2F985bf9d445ac8eb7b390e32ace09%2Fgettyimages-2277890925.jpg",
+                "url": "https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data",
+                "source": "NPR",
+                "date": "2026-07-17T23:32:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Paul Pelosi charged with hit-and-run after July 3 Napa Valley crash",
+                "desc": "Napa County District Attorney Allison Haley filed a misdemeanor hit-and-run charge against Paul Pelosi after a July 3 crash.",
+                "image": "https://s.hdnux.com/photos/01/36/33/62/24755363/3/rawImage.jpg",
+                "url": "https://www.sfgate.com/politics/article/paul-pelosi-hit-and-run-22350057.php",
+                "source": "SFGATE",
+                "date": "2026-07-17T23:31:31Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Kim Kardashian's Final Texts From Grandma MJ Shannon Before Death Revealed",
+                "desc": "After Kim Kardashian's grandma Mary Jo \"MJ\" Shannon died at age 91, the reality star shared some of the last text messages she received from the beloved family matriarch prior to her passing.",
+                "image": "https://akns-images.eonline.com/eol_images/Entire_Site/20260717/08d5149e-66a9-4828-980b-1b8b22d54bb2_1784330502.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+                "url": "https://www.eonline.com/news/1434117/kim-kardashians-final-texts-from-grandma-mj-shannon-before-death-revealed",
+                "source": "E! News",
+                "date": "2026-07-17T23:26:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bryson DeChambeau 2-stroke penalty at British Open 2026: What we know",
+                "desc": "Bryson DeChambeau's second encouraging round at the 2026 Open Championship took a hit because of a rules violation.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/17/USAT/90961999007-2286550653.jpg?crop=5243,2949,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/sports/golf/2026/07/17/bryson-dechambeau-two-stroke-penalty-open-championship/90960388007/",
+                "source": "USA Today",
+                "date": "2026-07-17T23:25:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bryson DeChambeau hit with controversial 2-shot penalty, throwing Open Championship into chaos",
+                "desc": "Bryson DeChambeau got into a very, very heated discussion with officials after his round on Friday.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/hkDosOSGDvlZDf1eprKZCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05Nzk7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/629767d1-2c17-4784-9470-8470aac626cc",
+                "url": "https://ca.sports.yahoo.com/bryson-dechambeau-hit-with-controversial-2-shot-penalty-throwing-open-championship-into-chaos-192711863.html",
+                "source": "Yahoo Sports Canada",
+                "date": "2026-07-17T23:16:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Trump says these documents prove his false claims of election fraud. Here's what they really say",
+                "desc": "“The White House promised a bombshell, and they delivered a dud,\" said David Becker, executive director of the Center for Election Innovation & Research.",
+                "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-17T192857Z_721356265_RC2VFMA551K3_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+                "url": "https://www.pbs.org/newshour/politics/trump-says-these-documents-prove-his-false-claims-of-election-fraud-heres-what-they-really-say",
+                "source": "PBS",
+                "date": "2026-07-17T23:08:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple Increases Prices For Apple Music & Apple One Over \"Rising Licensing Costs\"",
+                "desc": "Apple is raising prices for its music streaming service, Apple Music, for subscribers in the U.S. and other countries.",
+                "image": "https://deadline.com/wp-content/uploads/2026/07/apple-music.jpg?w=1024",
+                "url": "https://deadline.com/2026/07/apple-increases-prices-music-one-subscriptions-1236997295/",
+                "source": "Deadline",
+                "date": "2026-07-17T22:52:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Feeding Our Future fraud ring's alleged No. 2 appears in court after Somalia arrest",
+                "desc": "Forty-two-year-old Abdikerm Eidleh appeared in federal court in St. Paul on Friday, just weeks after he was arrested in Mogadishu.",
+                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/26/f30f6902-22bd-45eb-b876-6a427c5bdf0d/thumbnail/1200x630/58b3f1f86353968edbdde8cb60bc201f/fraud-suspect-promo2.jpg",
+                "url": "https://www.cbsnews.com/minnesota/news/feeding-our-future-fraud-court-somalia-arrest/",
+                "source": "CBS News",
+                "date": "2026-07-17T22:40:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ex-wife says ICE agent who killed man in Maine had racist beliefs : NPR",
+                "desc": "Ashley Brouillette has identified her ex-husband, David Brouillette, as the officer who fatally shot Joan Sebastián Durán Guerrero in Biddeford, Maine, on Monday. She said she learned he was the officer responsible when he called her on Wednesday.",
+                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2513x1414+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F32%2Fce69ac36461bb347961ea39a8770%2Fap26194550566410.jpg",
+                "url": "https://www.npr.org/2026/07/17/nx-s1-5897460/maine-ice-shooting-brouillette",
+                "source": "NPR",
+                "date": "2026-07-17T22:36:02Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "'The View' Host Sunny Hostin and Son Seen On Police Body Cam in Trespassing Incident",
                 "desc": "Police have just released body cam footage showing Sunny Hostin's son being cited for trespassing -- it shows her aggressively arguing with cops on his behalf ... and she pulled out the Harvard defense almost immediately.",
                 "image": "https://imagez.tmz.com/image/f5/16by9/2026/07/17/f58d0e06f25a430a8708f45524444181_xl.jpg",
@@ -2620,99 +2710,36 @@
                 "source": "Deadline",
                 "date": "2026-07-17T13:05:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Ukraine's military leadership tested by government reshuffle amid war",
-                "desc": "Ukraine is navigating a leadership shake-up amid its ongoing war with Russia. President Volodymyr Zelenskyy has dismissed Defense Minister Mykhailo Fedorov, sparking protests and highlighting tensions between military traditionalists and innovators.",
-                "image": "https://dims.apnews.com/dims4/default/5146456/2147483647/strip/true/crop/6048x4030+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff6%2F27%2Fb3941754d86a624abad2ae9b6e5c%2F8bb428a2c6c64380b914da223f7eb9ae",
-                "url": "https://apnews.com/article/russia-ukraine-war-fedorov-defense-minister-966aa6f66b81df96310531af1f11fba5",
-                "source": "AP News",
-                "date": "2026-07-17T09:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trade deadline re-set: 6 teams look poised to sell, while several others are on the edge",
-                "desc": "Six teams are almost certainly sellers and a few more are poised to join that group. Which players might they be willing to deal?",
-                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/16192622/0717_MLBTradeDeadlineReset-scaled.jpg?width=1200&height=630&fit=cover",
-                "url": "https://www.nytimes.com/athletic/7448646/2026/07/17/mlb-trade-deadline-sellers-targets/",
-                "source": "The New York Times",
-                "date": "2026-07-17T09:30:51Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Texas flooding: At least 2 dead in same region as Camp Mystic",
-                "desc": "Life-threatening flash flooding has hit southern Texas after days of torrential rain, leaving at least two people dead and hundreds of people rescued across the same region struck by last July’s catastrophic floods.",
-                "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2286432846.jpg?c=16x9&q=w_800,c_fill",
-                "url": "https://www.cnn.com/2026/07/17/weather/texas-flooding-risks-damage-hnk",
-                "source": "CNN",
-                "date": "2026-07-17T09:20:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "LeBron James rumors: What we learned from NBA's top free agent in first public comments since leaving Lakers",
-                "desc": "LeBron's free agency has stretched out more than two weeks, and he made multiple public appearances on Thursday afternoon",
-                "image": "https://sportshub.cbsistatic.com/i/r/2026/07/16/91a46bc9-3338-4011-a2eb-8ade11fc81b3/thumbnail/1200x675/4b6db799c0c43ca41828a67a3f51171d/lebron-podcast-getty.png",
-                "url": "https://www.cbssports.com/nba/news/lebron-james-rumors-news-updates-next-team-podcast/live/",
-                "source": "CBS Sports",
-                "date": "2026-07-17T09:08:23Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Trump’s Obsession With Relitigating the 2020 Election Carries a Cost for Democracy",
-                "desc": "In demanding steps to address the integrity of voting, President Trump persisted in relitigating his 2020 election defeat while finding ways to cast doubt on the 2026 outcome.",
-                "image": "https://static01.nyt.com/images/2026/08/16/multimedia/16dc-Trump-democracy-kcpv/16dc-Trump-democracy-kcpv-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-elections-politics.html",
-                "source": "The New York Times",
-                "date": "2026-07-17T09:06:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
-                "desc": "In his first interview since being released by China, Pastor Ezra Jin Mingri details his surprise release after a direct appeal by President Trump to Xi Jinping.",
-                "image": "https://static01.nyt.com/images/2026/07/17/multimedia/17int-china-us-pastor-jvbh/17int-china-us-pastor-jvbh-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html",
-                "source": "The New York Times",
-                "date": "2026-07-17T09:03:36Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "In One of Houston’s Oldest Latino Barrios, Mourning After ICE Shooting Mixed With Fear and Anger",
-                "desc": "After a federal agent killed Lorenzo Salgado Araujo, the grief and anger in Magnolia Park has been less visible, but no less intense.",
-                "image": "https://static01.nyt.com/images/2026/07/16/multimedia/16nat-houston-park-1-hpqz/16nat-houston-park-1-hpqz-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/17/us/magnolia-park-houston-mourning-ice-shooting.html",
-                "source": "The New York Times",
-                "date": "2026-07-17T09:02:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "GOP campaigns outspend Democrats on immigration advertisements : NPR",
-                "desc": "Republicans are spending more money and running more ads on immigration than Democrats are ahead of the November midterm elections, according to an NPR analysis of advertisement data.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3132+0+431/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F34%2F896d0a7940f2b30c42adb3a74474%2Fgettyimages-2285653999.jpg",
-                "url": "https://www.npr.org/2026/07/17/g-s1-133702/midterm-election-ads-immigration-republicans-democrats",
-                "source": "NPR",
-                "date": "2026-07-17T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin tool maker",
-                "desc": "Business is booming for Snap-on, a Wisconsin company that has made tools for professional mechanics for more than a century. It recently got a fact-finding visit from the head of the Chicago Federal Reserve Bank.",
-                "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2016x1134+0+189/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0b%2F00%2Fc051e763459bbb836ea441ebb606%2Fsnap-on-van.jpg",
-                "url": "https://www.npr.org/2026/07/17/nx-s1-5894730/federal-reserve-looks-for-secret-sauce-behind-a-successful-wisconsin-tool-maker",
-                "source": "NPR",
-                "date": "2026-07-17T09:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Hegseth's Military Testosterone Testing Plan Comes With Medical Risks",
-                "desc": "Treatments to raise testosterone may not achieve the performance and longevity boost Hegseth is aiming for.",
-                "image": "https://i.insider.com/6a58de88ce52cb26b838ff60?width=1200&format=jpeg",
-                "url": "https://www.businessinsider.com/hegseth-testosterone-testing-military-plan-researchers-criticism-2026-7",
-                "source": "Business Insider",
-                "date": "2026-07-17T08:55:33Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "How your AC will and won't protect you from NYC's gnarly smoke-filled air",
+                "desc": "Keep the windows closed and the AC on, if you can. But you want to take a few steps to keep things fresh.",
+                "image": "https://api-prod.gothamist.com/images/358209/fill-1200x650|format-webp|webpquality-85/",
+                "url": "https://gothamist.com/news/how-your-ac-will-and-wont-protect-you-from-nycs-gnarly-smoke-filled-air",
+                "source": "Gothamist",
+                "date": "2026-07-17T23:09:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Costco adds $6.99 chicken strips to food court menu",
+                "desc": "Costco has rolled out five large chicken strips with dipping sauce for $6.99, prompting mixed reviews over their taste, size and value.",
+                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/costco-chicked-sign-.jpg?ve=1&tl=1",
+                "url": "https://www.foxbusiness.com/lifestyle/costco-adds-hot-fan-favorite-food-court-menu-shoppers-debate-taste-value",
+                "source": "Fox Business",
+                "date": "2026-07-17T22:28:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
+                "desc": "Taylor Farms pulling iceberg lettuce after the CDC and FDA linked a parasitic outbreak to toppings used at Taco Bell locations.",
+                "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2139547139.jpg?quality=90&strip=all&crop=0%2C32.036370664711%2C100%2C35.927258670578&w=1200",
+                "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
+                "source": "The Verge",
+                "date": "2026-07-17T22:10:34Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Taylor Farms to Remove Products After Lettuce Is Linked to Cyclospora Cases",
                 "desc": "The Salinas, Calif., company grows produce in more than 12 states, and in Mexico and Canada. Some Taylor Farms lettuce suspected of causing sickness ended up at Taco Bell.",
@@ -3225,36 +3252,18 @@
                 "source": "CNBC",
                 "date": "2026-07-16T17:15:37Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Taiwan's TSMC pledges another $100 billion to expand its US chipmaking capacity",
-                "desc": "Major Taiwan computer chipmaker TSMC says it plans to spend another $100 billion on expanding its manufacturing capacity in the United States.",
-                "image": "https://dims.apnews.com/dims4/default/c6d00c0/2147483647/strip/true/crop/6000x3998+0+69/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7c%2F1e%2F29e2bfe26286d8f5fdf7019b4acc%2Fd3e06ffeeceb45cd8df57c6aced2b133",
-                "url": "https://apnews.com/article/taiwan-tsmc-chipmaking-ai-arizona-fab-ba05b1b952257d371acb9d070e7914ff",
-                "source": "AP News",
-                "date": "2026-07-16T16:46:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taco Bell acts, Chipotle monitors cyclosporiasis outbreak",
-                "desc": "As cyclosporiasis spreads and Taco Bell pulls some ingredients out of caution, one can't help but think of other restaurants that might be at risk.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/14/USAT/90911911007-getty-images-168268941.jpg?crop=2989,1681,x0,y144&width=2989&height=1681&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/money/2026/07/16/taco-bell-chipotle-cyclosporiasis-outbreak-actions/90936978007/",
-                "source": "USA Today",
-                "date": "2026-07-16T16:10:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "American mall retailer warns it may close up to 15 more stores this year",
-                "desc": "Fossil Group plans to close up to 15 stores in 2026 as it narrows losses, cuts costs and continues to move forward with its turnaround strategy.",
-                "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/fossil-storefront-ny.jpg?ve=1&tl=1",
-                "url": "https://www.foxbusiness.com/retail/american-mall-retailer-warns-may-close-up-15-more-stores-year",
-                "source": "Fox Business",
-                "date": "2026-07-16T16:09:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "WWE will crown an interim women’s champ instead of forcing Ripley to vacate her belt",
+                "desc": "WWE introduces an interim women’s championship because Rhea Ripley is injured and can’t defend the title at SummerSlam.",
+                "image": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/06/ripley006.jpg?quality=90&strip=all&crop=0,1.7777777777778,100,93.077370564282",
+                "url": "https://www.cagesideseats.com/wwe/460846/wwe-announces-womens-interim-championship-ladder-match-summerslam-ripley-injury-no-vacate",
+                "source": "Cageside Seats",
+                "date": "2026-07-17T23:40:13Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Rosie O'Donnell on 'tragedy' of Michelle Trachtenberg's death: 'I tried to help her'",
                 "desc": "O'Donnell and Trachtenberg starred in \"Harriet the Spy\" together in 1996.",
@@ -3785,18 +3794,63 @@
                 "source": "Variety",
                 "date": "2026-07-17T00:12:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "'90 Day Fiancé' Star Armando Rubio's Attorney Urges DHS to Help Him Reach Sick Daughter",
-                "desc": "Armando Niedermeier-Rubio's immigration attorney is making a public plea to the Department of Homeland Security and other U.S. officials ... asking for emergency help so the '90 Day Fiancé' star can reunite with his husband and daughter during a devastating family medical crisis.",
-                "image": "https://imagez.tmz.com/image/07/16by9/2026/07/16/07e69ad601df413eb788b0390529bf51_xl.jpg",
-                "url": "https://www.tmz.com/2026/07/16/armando-rubios-attorney-begs-dhs-for-help/",
-                "source": "TMZ",
-                "date": "2026-07-17T00:08:28Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Bryson DeChambeau hit with controversial 2-shot penalty, throwing Open Championship into chaos",
+                "desc": "Bryson DeChambeau got into a very, very heated discussion with officials after his round on Friday.",
+                "image": "https://s.yimg.com/ny/api/res/1.2/hkDosOSGDvlZDf1eprKZCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05Nzk7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/629767d1-2c17-4784-9470-8470aac626cc",
+                "url": "https://ca.sports.yahoo.com/bryson-dechambeau-hit-with-controversial-2-shot-penalty-throwing-open-championship-into-chaos-192711863.html",
+                "source": "Yahoo Sports Canada",
+                "date": "2026-07-17T23:16:36Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bill Belichick had no idea what he was getting himself into at UNC. In Year 2, he needs to show what he's learned",
+                "desc": "When Belichick came to ACC media days last year, it felt like an event. But as The Hoodie enters his second season as a college coach, the hype is gone.",
+                "image": "https://s.yimg.com/lo/mysterio/api/e3c82a764c02b464e6d52f54d96303c64dc0d0ccc37cae1909cdedc84b62f505/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F7b41b7f1-2e08-4e4e-bc13-ee2dd0c3d3ec",
+                "url": "https://sports.yahoo.com/college-football/article/bill-belichick-had-no-idea-what-he-was-getting-himself-into-at-unc-in-year-2-he-needs-to-show-what-hes-learned-224531697.html",
+                "source": "Yahoo Sports",
+                "date": "2026-07-17T22:47:13Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ravens agree to one-year deal with C Ethan Pocic",
+                "desc": "Free agent center Ethan Pocic has agreed to a one-year deal with the Ravens, Adam Schefter of ESPN reports.",
+                "image": "https://nbcsports.brightspotcdn.com/dims4/default/7a3a808/2147483647/strip/true/crop/4289x2413+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5b%2F8e%2F4b9155d240afb169f8ae4e7e82f1%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2250225507",
+                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ravens-agree-to-one-year-deal-with-c-ethan-pocic",
+                "source": "NBC Sports",
+                "date": "2026-07-17T22:41:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Bryson DeChambeau might leave British Open after controversial penalty",
+                "desc": "Bryson DeChambeau was penalized two strokes following his completion of Round 2 at the British Open following an incident on the fifth hole.",
+                "image": "https://ca-times.brightspotcdn.com/dims4/default/7a45d3d/2147483647/strip/true/crop/5244x2753+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2F1c%2Fb3731be3449db71c17cab25d6a99%2F2286550653.jpg",
+                "url": "https://www.latimes.com/sports/story/2026-07-17/bryson-dechambeau-might-leave-british-open-after-controversial-penalty",
+                "source": "Los Angeles Times",
+                "date": "2026-07-17T22:40:38Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "BREAKING: 4-Star S Ta’Shawn Poole commits to FSU over UGA, Tennessee",
+                "desc": "Ta’Shawn Poole cried tears of joy when he silently committed to FSU during his official visit",
+                "image": "https://s3media.247sports.com/Uploads/Assets/957/132/14132957.jpg?width=1200&height=628&crop=1.91:1&fit=cover",
+                "url": "https://247sports.com/college/florida-state/article/tashawn-poole-commits-fsu-288379442/",
+                "source": "247Sports",
+                "date": "2026-07-17T22:25:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Postgame Pontifications: An embarrassment for the ages",
+                "desc": "The Sounders may have turned in the worst performance in their history.",
+                "image": "https://storage.ghost.io/c/3b/1b/3b1bf1ed-99b4-491a-8ed0-5ce99bdabf77/content/images/size/w1200/2026/07/SEA-POR-01024.jpg",
+                "url": "https://www.sounderatheart.com/2026/07/postgame-pontifications-an-embarrassment-for-the-ages/",
+                "source": "Sounder at Heart",
+                "date": "2026-07-17T22:21:08Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Bryson DeChambeau penalty adds controversy to eventful British Open second round",
                 "desc": "The British Open came to life Friday when Lucas Herbert and Sam Burns took their place in history by tying the major championship record with 62s, and Bryson DeChambeau getting penalized two shots after his round for inadvertently improving the path of his swing.",
@@ -4282,62 +4336,8 @@
                 "source": "The New York Times",
                 "date": "2026-07-17T08:11:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "The 154th British Open: How to watch the Open Championship golf tournament, Round 3 tee times, TV channel, streaming schedule, and more",
-                "desc": "The 154th Open golf tournament runs through Sunday, here's how to watch.",
-                "image": "https://s.yimg.com/lo/mysterio/api/1da28df4045c0bedb308fa43479269741e99488b69d7cf6063306f25a5011cd7/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F0cfc631e-47ad-4920-9126-60072ee478a5",
-                "url": "https://sports.yahoo.com/golf/article/the-154th-british-open-how-to-watch-the-open-championship-golf-tournament-round-3-tee-times-tv-channel-streaming-schedule-and-more-130000399.html",
-                "source": "Yahoo Sports",
-                "date": "2026-07-17T08:08:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "A historic low: Sounders suffer humbling loss to Timbers",
-                "desc": "Sounders smashed at home 5–1 by Timbers in return to play.",
-                "image": "https://storage.ghost.io/c/3b/1b/3b1bf1ed-99b4-491a-8ed0-5ce99bdabf77/content/images/size/w1200/2026/07/SEA-POR-00723-1.jpg",
-                "url": "https://www.sounderatheart.com/2026/07/a-historic-low-sounders-suffer-humbling-loss-to-timbers/",
-                "source": "Sounder at Heart",
-                "date": "2026-07-17T07:37:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Is Jon Jones retired? ‘Bones’ confirms he’s still in UFC drug testing pool: ‘I keep the door open’",
-                "desc": "Former UFC champion Jon Jones confirms he’s still in the drug testing pool and is waiting for an offer ahead of a potential comeback.",
-                "image": "https://platform.mmamania.com/wp-content/uploads/sites/110/2026/07/gettyimages-2285697391.jpg?quality=90&strip=all&crop=0%2C6.9148562188005%2C100%2C78.52876950196&w=1200",
-                "url": "https://www.mmamania.com/latest-news/457703/is-jon-jones-retired-bones-confirms-hes-still-in-ufc-drug-testing-pool-i-keep-the-door-open",
-                "source": "MMA Mania",
-                "date": "2026-07-17T07:00:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Medical updates flow after stage 12 Tour de France crash - Two collarbone breaks among the damage tally",
-                "desc": "Fractures for Jenno Berckmoes and Fernándo Gaviria, Dorian Godon passes first concussion check",
-                "image": "https://cdn.mos.cms.futurecdn.net/DnnFAGzwf3ziDbLQc4FD7X-1280-80.jpg",
-                "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/medical-updates-flow-after-stage-12-tour-de-france-crash-two-collarbone-breaks-among-the-damage-tally/",
-                "source": "Cyclingnews",
-                "date": "2026-07-17T03:26:03Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "NBA commissioner Adam Silver discusses Caitlin Clark, WNBA officiating",
-                "desc": "NBA commissioner Adam Silver says it is unfair that Caitlin Clark has become a \"political football\" in the country amid ongoing discourse.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/17/USAT/90951807007-usatsi-29154380.jpg?crop=2441,1374,x0,y126&width=2441&height=1374&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/sports/wnba/2026/07/16/adam-silver-caitlin-clark-political-football-unfar/90951636007/",
-                "source": "USA Today",
-                "date": "2026-07-17T02:56:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Adam Silver believes Caitlin Clark has become a 'political football' in WNBA",
-                "desc": "Adam Silver thinks the Caitlin Clark drama goes beyond just fouls and that she's become a 'political' in the WNBA.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-wymyk7fcp-1784256056646.jpg?quality=75&strip=all&1784241681&w=1200",
-                "url": "https://nypost.com/2026/07/16/sports/adam-silver-believes-caitlin-clark-has-become-a-political-football-in-wnba/",
-                "source": "New York Post",
-                "date": "2026-07-17T02:47:00Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-18T10:10:37.953493Z"
+    "lastGlobalSync": "2026-07-18T11:45:17.889917Z"
 }
