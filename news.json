@@ -2,6 +2,87 @@
     "hi": {
         "general": [
             {
+                "title": "सोनम वांगचुक: भूख हड़ताल पर बैठे शख़्स को क्या जबरन हटाया जा सकता है? क्या कहते हैं कोर्ट के फ़ैसले",
+                "desc": "भूख हड़ताल पर बैठे शख़्स के क्या अधिकार हैं? क्या उसे अनशन की जगह से जबरन हटाकर कहीं और ले जाना उसके अधिकारों का हनन है? जानिए, अदालत के फ़ैसले इस बारे में क्या कहते हैं.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/9432/live/7f71e3a0-8279-11f1-85ad-67d9d3075fd8.jpg",
+                "url": "https://www.bbc.com/hindi/articles/cn8nyvp7epko",
+                "source": "BBC",
+                "date": "2026-07-18T07:29:07Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "ईरान-अमेरिका जंग...दिल्‍ली में इतना सस्‍ता हुआ सोना, चांदी भी टूटी",
+                "desc": "अमेरिका और ईरान के बीच जंग शुरू होने से गोल्‍ड-सिल्‍वर के दाम में गिरावट देखी जा रही है. सोने के दाम में लगातार गिरावट आ रही है. आइए जानते हैं दिल्‍ली में 10 ग्राम 24 कैरेट सोने का क्‍या भाव है...",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a5b297595e00-gold--silver-prices-today-july-6-111804952-16x9.jpg",
+                "url": "https://www.aajtak.in/business/utility/photo/us-iran-war-impact-gold-silver-price-big-fall-check-rates-tutd-2603905-2026-07-18",
+                "source": "AajTak",
+                "date": "2026-07-18T07:25:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "आज़म ख़ान: जौहर यूनिवर्सिटी को गिराने के फ़ैसले के पीछे प्रशासन क्या कारण बता रहा है?",
+                "desc": "आज़म ख़ान जौहर यूनिवर्सिटी को अपनी सबसे बड़ी उपलब्धियों में से एक बताते रहे हैं. योगी सरकार ने इसे गिराने का फ़ैसला किया है. ऐसे में सवाल उठता है कि तोड़ा क्यों जा रहा है?",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/8faa/live/e3eea8f0-8241-11f1-88c5-975a6a7b1a68.jpg",
+                "url": "https://www.bbc.com/hindi/articles/c2elkk33z3mo",
+                "source": "BBC",
+                "date": "2026-07-18T07:21:40Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "प्रियंका चोपड़ा बनीं 'मंदाकिनी', देसी गर्ल के बर्थडे पर SS राजामौली ने 'वाराणसी' से शेयर किया नया लुक, फैंस हुए एक्साइटेड",
+                "desc": "प्रियंका चोपड़ा के 44वें जन्मदिन पर एसएस राजामौली ने 'वाराणसी' से एक्ट्रेस का पहला लुक रिवल कर दिया है, जिसमें महेश बाबू भी हैं। तस्वीरें शेयर करते हुए उन्होंने प्रियंका को 'मंदाकिनी' के तौर पर पेश किया।",
+                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/07/untitled-design-2026-07-18t115751-1784356608.jpg",
+                "url": "https://www.indiatv.in/entertainment/bollywood/priyanka-chopra-as-mandakini-ss-rajamouli-reveals-her-new-look-from-varanasi-on-desi-girl-birthday-left-fans-excited-2026-07-18-1231921",
+                "source": "India TV Hindi",
+                "date": "2026-07-18T07:11:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'किसको लिया है माता सीता के रूप में...', Ramayana में साई पल्लवी की कास्टिंग पर भड़के Annu Kapoor",
+                "desc": "बॉलीवुड अभिनेता अन्नू कपूर Annu Kapoor ने अपकमिंग फिल्म रामायण Ramayana में साई पल्लवी की कास्टिंग पर सवाल उठाया है।",
+                "image": "https://www.jagranimages.com/images/2026/07/18/article/image/annu-kapoor-on-ramayana-1784357643140_m.webp",
+                "url": "https://www.jagran.com/entertainment/bollywood-annu-kapoor-questions-sai-pallavi-casting-in-ramayana-as-sita-says-who-is-nitesh-tiwari-40310636.html",
+                "source": "Jagran",
+                "date": "2026-07-18T07:11:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Iran US War: खाड़ी में 'महायुद्ध' की उल्टी गिनती शुरू, इजरायल जा रहे अमेरिकी व‍िमान, ईरानी सेना पलटवार को तैयार",
+                "desc": "Iran US War: अमेरिका और ईरान के बीच तनातनी बढ़ी हुई है। हालिया दिनों में अमेरिका ने होर्मुज के आसपास ईरान के द्वीपों पर भीषण हमले किए हैं। वहीं ईरान ने भी अमेरिकी बेसों पर मिसाइल और ड्रोन दागे हैं।",
+                "image": "https://static.langimg.com/nbt/thumb/132475484/trump.jpg?imgsize=110903&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/world/america/us-army-to-send-aerial-refuelling-aircraft-israel-as-donald-trump-prepare-to-war-against-iran/articleshow/132474960.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-18T07:01:51Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple बनी दुनिया की सबसे वैल्यूबल कंपनी, Nvidia को छोड़ा पीछे",
+                "desc": "Apple आखिरकार दुनिया की सबसे वैल्यूबल कंपनी बन चुकी है. ऐपल ने एनवीडियो को पछाड़ते हुए ये मुकाम हासिल किया है. शुक्रवार को ऐपल का मार्केट कैप करीब 4.88 ट्रिलियन डॉलर रहा और Nvidia के शेयर 3.5% गिरने के बाद उसका मार्केट कैप लगभग 4.86 ट्रिलियन डॉलर पर जा पहुंचा है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a5b1d214f012-apple-182843748-16x9.jpg",
+                "url": "https://www.aajtak.in/technology/tech-news/story/apple-become-world-most-valuable-company-beats-nvidia-ttecr-dskc-2603881-2026-07-18",
+                "source": "AajTak",
+                "date": "2026-07-18T06:58:33Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "इस बार पहले से ज्यादा भीषण होगा अमेरिका-ईरान युद्ध? डोनाल्ड ट्रंप कर रहे बड़े हमले की तैयारी",
+                "desc": "अमेरिका जिस तरह से तैयारी कर रहा है, उससे लगता है कि इस बार अगर ईरान और अमेरिका में सीधे युद्ध शुरू होता है तो यह पहले से ज्यादा भीषण होगा। डोनाल्ड ट्रंप ने इजरायल में अपने रिफ्यूलिंग एयरक्राफ्ट तैनात कर दिए हैं। , International Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/18/1600x900/logo/US-POLITICS-TRUMP-26_1782490742301_1782490759151_9afbba17-f766-46b9-9b85-13afce76b3d6_1784357766482_1f5094d5-3af9-41a5-b843-e06c264675e7.jpg",
+                "url": "https://www.livehindustan.com/international/donald-trump-prepares-for-bigger-war-with-oran-hormuz-israel-refueling-aircrafts-201784356834200.html",
+                "source": "Hindustan",
+                "date": "2026-07-18T06:56:57Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "इस देश में बिना चुनाव ही चुन लिया गया PM, लोगों ने वोट भी नहीं डाला",
+                "desc": "ब्रिटेन में लेबर पार्टी के नेता एंडी बर्नहैम बिना आम चुनाव के नए प्रधानमंत्री बनने जा रहे हैं. पार्टी के अंदर हुए नेतृत्व चुनाव में उन्हें भारी समर्थन मिला. ब्रिटेन की संसदीय व्यवस्था के तहत सत्तारूढ़ दल का नया नेता ही सीधे प्रधानमंत्री बन जाता है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a5b22fb49ee2-uks-andy-burnham-elected-new-labour-party-leader--to-take-over-as-pm-on-monday-185341732-16x9.png",
+                "url": "https://www.aajtak.in/world/story/britain-new-prime-minister-pm-keir-starmer-new-uk-pm-andy-burnham-ntc-mnrd-dskc-2603890-2026-07-18",
+                "source": "AajTak",
+                "date": "2026-07-18T06:54:03Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "गैरी सोबर्स को याद कर भावुक हुए सचिन-कोहली, गावस्कर ने कहा- क्रिकेट ने अपना सबसे चमकता हीरा खो दिया",
                 "desc": "अपने 90वें जन्मदिन से महज 11 दिन पहले सर गारफील्ड सोबर्स ने दुनिया को अलविदा कह दिया. उनके निधन से खेल जगत में शोक की लहर है. सचिन तेंदुलकर, विराट कोहली और सुनील गावस्कर ने सोशल मीडिया पर इस महान खिलाड़ी को बेहद भावुक श्रद्धांजलि दी है.",
                 "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a5b1f1995426-sir-garfield-sobers-183707970-16x9.png",
@@ -459,90 +540,27 @@
                 "source": "India TV Hindi",
                 "date": "2026-07-17T17:50:23Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना के प्रत्यर्पण पर क्या चल रहा है? आ गया भारत सरकार का जवाब",
-                "desc": "विदेश मंत्रालय ने कहा है कि बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना के प्रत्यर्पण के लिए ढाका के अनुरोध पर कानूनी पहलुओं को ध्यान में रखते हुए अभी विचार-विमर्श किया जा रहा है। यह बयान ऐसे समय आया है, जब हसीना के अवामी लीग को फिर से सक्रिय करने के लिए बांग्लादेश लौटने की चर्चाएं तेज हैं।",
-                "image": "https://static.langimg.com/nbt/thumb/132467510/sheikh-hasina-extradition.jpg?imgsize=150928&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/india/india-responds-to-bangladesh-request-for-sheikh-hasina-extradition/articleshow/132467135.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-17T17:44:01Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ट्रंप-नेतन्याहू में दरार? यूएस प्रेसिडेंट नहीं दिया मिलने का समय, इजरायली पीएम ने रद्द की वाशिंगटन यात्रा",
-                "desc": "ट्रंप के दोबारा राष्ट्रपति बनने के बाद से नेतन्याहू छह बार ओवल ऑफिस आ चुके हैं, जो दुनिया के किसी भी दूसरे नेता से ज्यादा है. इस बार नेतन्याहू का दौरा रद्द कर दिया गया है.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/17/383b75bef1a426fb3fc8e89082d3769e1784309437770708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/news/world/benjamin-netanyahu-vs-donald-trump-white-house-not-schedule-meeting-between-isreali-pm-visit-was-cancelled-3161651",
-                "source": "ABP News",
-                "date": "2026-07-17T17:33:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "तलाक के 12 साल बाद की दूसरी शादी, व्हाइट गाउन में दुल्हन बनीं जेनिफर, बिजनेसमैन है दूल्हा",
-                "desc": "टीवी एक्ट्रेस जेनिफर विंगेट ने 12 साल बाद अपने लॉन्ग टाइम पार्टनर विलियम इश्माएल से लंदन में शादी की है. शादी की पुष्टि अभी तक नहीं हुई है, लेकिन सोशल मीडिया पर उनके वेडिंग लुक की झलक सामने आई है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a5a629d3ee7a-jennifer-winget-171254410-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/television/story/jennifer-winget-married-age-of-41-bridal-gown-trial-video-viral-businessman-william-ishmael-tmovh-dskc-2603613-2026-07-17",
-                "source": "AajTak",
-                "date": "2026-07-17T17:07:20Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "महायुति में वित्त मंत्रालय को लेकर खींचतान, वित्त विभाग पर शरद पवार गुट की नजर, महाराष्ट्र में बड़ा खेला संभव",
-                "desc": "Maharashtra NCP Power play: महाराष्ट्र में शरद पवार की अगुवाई वाली राष्ट्रवादी कांग्रेस पार्टी (एनसीपी) शरदचंद्र पवार के एनडीए में आने की अटकलों के बीच वित्त विभाग को लेकर घमासान तेज हो गया है। शरद गुट की एंट्री से सुनेत्रा पवार के इम्तिहास की घड़ी है। ऐसे में अगले कुछ दिनों में बड़े खेला की संभावना व्यक्त की जा रही है।",
-                "image": "https://static.langimg.com/nbt/thumb/132466223/mahayuti-finance-portfolio-row.jpg?imgsize=150006&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/metro/mumbai/politics/maharashtra-finance-portfolio-fight-ncp-new-power-play-litmus-test-for-sunetra-pawar-supriya-sule-and-jayant-patil-eyes-on-cm-fadnavis-know-all/articleshow/132465900.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-17T17:05:30Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'सर्जरी करवा लो, जबरन पहननी पड़ी पैडेड ब्रा', बोलीं समीरा रेड्डी, सेट पर बॉडी को लेकर सुने ताने, हुईं अनकंफर्टेबल",
-                "desc": "बॉलीवुड की बोल्ड और खूबसूरत एक्ट्रेसेस में शुमार समीरा रेड्डी ने हाल ही में फिल्म इंडस्ट्री के एक ऐसे कड़वे सच से पर्दा उठाया है, जिसे सुनकर हर कोई हैरान है. समीरा ने अपनी पहली फिल्म 'मैंने दिल तुझको दिया' (2002) के दिनों को याद कर शॉकिंग खुलासा किया.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a5a562492af2-sameera-reddy-on-bollywood-17194362-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/sameera-reddy-forced-wear-padded-bra-look-attractive-reveals-bollywood-truth-tmovg-2603603-2026-07-17",
-                "source": "AajTak",
-                "date": "2026-07-17T16:34:22Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "पत्नी ने की हत्या:दामिनी ने प्रेमी के साथ मिलकर पति को खिलाईं नींद की गोलियां, सपेरे बुलाकर सांप से डसवा दिया",
-                "desc": "Meerut News: हस्तिनापुर में स्कूल संचालक अतुल कुमार की मौत का खुलासा पुलिस ने कुछ ही घंटे में कर दिया। पत्नी दामिनी ने अपने ही स्कूल की बस के कंडक्टर प्रेमी तुषार के साथ मिलकर अतुल की हत्या की। पुलिस ने दोनों को गिरफ्तार कर लिया है। अतुल और दामिनी ने प्रेम विवाह किया था।",
-                "image": "https://staticimg.amarujala.com/assets/images/2026/07/18/atal-kamara-pavara-ka-satha-thamana-bhaugdhana-garafatara-hatayarapa-tashhara_290b8cc2df85b998d1648a1d2d980a80.jpeg?w=1200&dpr=1.0",
-                "url": "https://www.amarujala.com/uttar-pradesh/meerut/wife-commits-murder-damini-along-with-her-lover-fed-her-husband-sleeping-pills-and-make-a-snake-bite-him-2026-07-17",
-                "source": "Amar Ujala",
-                "date": "2026-07-17T16:21:52Z",
-                "priority": "CRITICAL_ALERT"
-            },
-            {
-                "title": "Sir Garry Sobers Death: 68 साल से अटूट है सर गारफील्‍ड सोबर्स का ये रिकॉर्ड, पाकिस्‍तान की घर में बजाई थी बैंड",
-                "desc": "वेस्‍टइंडीज के महान ऑलराउंडर सर गारफील्‍ड सोबर्स का 89 साल की उम्र में निधन हो गया। गैरी सोबर्स का एक रिकॉर्ड 68 सालों से टूटा नहीं हैं और इसके टूटने की संभावना बहुत कम है।",
-                "image": "https://www.jagranimages.com/images/2026/07/17/article/image/garryrecord-1784304630749_m.webp",
-                "url": "https://www.jagran.com/cricket/headlines-sir-garry-sobers-youngest-to-score-triple-century-in-test-cricket-record-for-more-than-68-years-40310175.html",
-                "source": "Jagran",
-                "date": "2026-07-17T16:18:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "कौन हैं एंडी बर्नहैम जो बनेंगे ब्रिटेन के नए प्रधानमंत्री, क्यों कहा जाता है ‘किंग ऑफ नॉर्थ’",
-                "desc": "ब्रिटेन को नया प्रधानमंत्री मिल गया है। लेबर पार्टी ने एंडी बर्नहैम के नाम का ऐलान कर दिया है। आइए जानते हैं कौन हैं एंडी बर्नहैम और उन्हें क्यों कहा जाता है ‘किंग ऑफ नॉर्थ’..., International Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/17/1600x900/logo/Andy_Burnham_1784304473378_1784304494201_12072beb-081f-4f46-94f2-8f49c9ef51cd.jpg",
-                "url": "https://www.livehindustan.com/international/who-is-andy-burnham-going-to-be-next-british-prime-minister-why-is-he-called-king-of-north-201784303872072.html",
-                "source": "Hindustan",
-                "date": "2026-07-17T16:09:33Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "क्रिकेट के दिग्गज ऑलराउंडर गैरी सोबर्स का निधन, 89 की उम्र में ली अंतिम सांस",
-                "desc": "वेस्टइंडीज के महान क्रिकेटर और इतिहास के सबसे बेहतरीन ऑलराउंडर माने जाने वाले सर गारफील्ड सोबर्स का 89 वर्ष की उम्र में निधन हो गया. क्रिकेट वेस्टइंडीज ने उनके निधन की पुष्टि की. उन्होंने अपने करियर में 93 टेस्ट में 8032 रन, 235 विकेट और 109 कैच लेकर क्रिकेट इतिहास में अमिट छाप छोड़ी.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a5a5225bed22-sir-garfield-sobers-was-regarded-as-one-of-crickets-greatest-all-rounders-170240429-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/sir-garfield-sobers-dies-at-89-west-indies-cricket-legend-greatest-all-rounder-death-lclar-strc-2603598-2026-07-17",
-                "source": "AajTak",
-                "date": "2026-07-17T16:03:05Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "ईरान-अमेरिका जंग...दिल्‍ली में इतना सस्‍ता हुआ सोना, चांदी भी टूटी",
+                "desc": "अमेरिका और ईरान के बीच जंग शुरू होने से गोल्‍ड-सिल्‍वर के दाम में गिरावट देखी जा रही है. सोने के दाम में लगातार गिरावट आ रही है. आइए जानते हैं दिल्‍ली में 10 ग्राम 24 कैरेट सोने का क्‍या भाव है...",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a5b297595e00-gold--silver-prices-today-july-6-111804952-16x9.jpg",
+                "url": "https://www.aajtak.in/business/utility/photo/us-iran-war-impact-gold-silver-price-big-fall-check-rates-tutd-2603905-2026-07-18",
+                "source": "AajTak",
+                "date": "2026-07-18T07:25:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Apple बनी दुनिया की सबसे वैल्यूबल कंपनी, Nvidia को छोड़ा पीछे",
+                "desc": "Apple आखिरकार दुनिया की सबसे वैल्यूबल कंपनी बन चुकी है. ऐपल ने एनवीडियो को पछाड़ते हुए ये मुकाम हासिल किया है. शुक्रवार को ऐपल का मार्केट कैप करीब 4.88 ट्रिलियन डॉलर रहा और Nvidia के शेयर 3.5% गिरने के बाद उसका मार्केट कैप लगभग 4.86 ट्रिलियन डॉलर पर जा पहुंचा है.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a5b1d214f012-apple-182843748-16x9.jpg",
+                "url": "https://www.aajtak.in/technology/tech-news/story/apple-become-world-most-valuable-company-beats-nvidia-ttecr-dskc-2603881-2026-07-18",
+                "source": "AajTak",
+                "date": "2026-07-18T06:58:33Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "44 लाख से ज्यादा ने खरीदा स्कूटर, ये हैं देश के टॉप-10 ब्रांड्स",
                 "desc": "भारतीय मार्केट में स्कूटर्स की मांग काफी ज्यादा है. जहां कंपनियों ने 2025 में 75.2 लाख स्कूटर बेची थीं. इस साल कंपनियां पिछले साल का रिकॉर्ड तोड़ सकती है.",
@@ -1064,27 +1082,36 @@
                 "source": "AajTak",
                 "date": "2026-07-16T11:59:30Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "घर में आग नहीं लगने देगा ये छोटा डिवाइस, तुरंत लगाएं",
-                "desc": "घर को इलेक्ट्रिकल आग से बचाने वाला MCB फायर एक्सटिंग्विशर कैसे काम करता है? जानिए इसकी खासियत, इंस्टॉलेशन, फायदे और सिर्फ ₹299 में मिलने वाले इस सेफ्टी गैजेट की पूरी जानकारी.",
-                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/07/fireOGITG-1784201875284.jpg?size=*:675",
-                "url": "https://www.aajtak.in/visualstories/technology/mcb-fire-extinguisher-electrical-fire-safety-device-ttec-283377-16-07-2026",
-                "source": "AajTak",
-                "date": "2026-07-16T11:52:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Oneplus Exit Update: भारत से विदाई पर आया वनप्लस का बयान, स्मार्टफोन्स में OPPO का सॉफ्टवेयर डालने की तैयारी",
-                "desc": "Oneplus उन खबरों पर प्रतिक्रिया दी है जिनमें कहा गया है कि कंपनी यूरोप, अमेरिका और अगले साल तक भारत से एग्जिट करने वाली है। वनप्लस ने कहा है कि भारत में यूजर्स को उसकी सर्विसेज मिलती रहेंगी। हालांकि यूएस और अमेरिका में नए वनप्लस फोन लॉन्च नहीं होंगे। इसके अलावा, वनप्लस फोन्स भी अब ओपो के ColorOS पर चलेंगे।",
-                "image": "https://static.langimg.com/nbt/thumb/132438093/oneplus-exit-update.jpg?imgsize=440448&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/tech/gadgets-news/oneplus-statement-on-exit-in-india-and-also-devices-will-soon-shift-oxygenos-to-oppo-colors/articleshow/132437577.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-16T11:40:17Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "'ब्रेस्ट सर्जरी कराओ- होंठों में इंजेक्शन्स लो', फिल्ममेकर्स की शर्त सुन टूटी एक्ट्रेस, खोली बॉलीवुड की पोल",
+                "desc": "बॉलीवुड की ब्यूटी क्वीन दीया मिर्जा ने इंडस्ट्री के इस काले सच से पर्दा उठाया है. एक्ट्रेस ने बताया कि उनसे भी उनका लुक बेहतर करने और अपने रंग-रूप में बदलाव करने के लिए कहा गया था.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a5b28723ed1a-dia-mirza-advised-breast-surgery-181657385-16x9.jpg",
+                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/dia-mirza-advised-breast-surgery-to-inject-lips-bollywood-shocking-inside-revelations-tmovf-2603891-2026-07-18",
+                "source": "AajTak",
+                "date": "2026-07-18T07:36:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "प्रियंका चोपड़ा बनीं 'मंदाकिनी', देसी गर्ल के बर्थडे पर SS राजामौली ने 'वाराणसी' से शेयर किया नया लुक, फैंस हुए एक्साइटेड",
+                "desc": "प्रियंका चोपड़ा के 44वें जन्मदिन पर एसएस राजामौली ने 'वाराणसी' से एक्ट्रेस का पहला लुक रिवल कर दिया है, जिसमें महेश बाबू भी हैं। तस्वीरें शेयर करते हुए उन्होंने प्रियंका को 'मंदाकिनी' के तौर पर पेश किया।",
+                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/07/untitled-design-2026-07-18t115751-1784356608.jpg",
+                "url": "https://www.indiatv.in/entertainment/bollywood/priyanka-chopra-as-mandakini-ss-rajamouli-reveals-her-new-look-from-varanasi-on-desi-girl-birthday-left-fans-excited-2026-07-18-1231921",
+                "source": "India TV Hindi",
+                "date": "2026-07-18T07:11:30Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'किसको लिया है माता सीता के रूप में...', Ramayana में साई पल्लवी की कास्टिंग पर भड़के Annu Kapoor",
+                "desc": "बॉलीवुड अभिनेता अन्नू कपूर Annu Kapoor ने अपकमिंग फिल्म रामायण Ramayana में साई पल्लवी की कास्टिंग पर सवाल उठाया है।",
+                "image": "https://www.jagranimages.com/images/2026/07/18/article/image/annu-kapoor-on-ramayana-1784357643140_m.webp",
+                "url": "https://www.jagran.com/entertainment/bollywood-annu-kapoor-questions-sai-pallavi-casting-in-ramayana-as-sita-says-who-is-nitesh-tiwari-40310636.html",
+                "source": "Jagran",
+                "date": "2026-07-18T07:11:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "प्रियंका चोपड़ा के बर्थडे पर फैन्स को बड़ा तोहफा, 'वाराणसी' से सामने आया पहला लुक, दिखीं दमदार",
                 "desc": "प्रियंका चोपड़ा की फिल्म वाराणसी का पहला लुक रिलीज होते ही सोशल मीडिया पर हलचल मच गई है. राजामौली के निर्देशन में बनी यह फिल्म 7 अप्रैल 2027 को रिलीज होगी.",
@@ -1597,36 +1624,45 @@
                 "source": "Hindustan",
                 "date": "2026-07-17T07:01:07Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "गोविंदा का नाम सुनने को तैयार नहीं सुनीता, बोलीं- रूपा-वूपा बंद करो, बस मेरे बेटे की बात करो",
-                "desc": "गोविंदा 7 साल बाद फिल्म रूपा से सिनेमा में वापसी कर रहे हैं. सुनीता आहूजा ने गोविंदा के कमबैक पर विवादित प्रतिक्रिया दी, जिसमें उन्होंने कहा कि अब केवल अपने बेटे यशवर्धन और अपनी फिल्म की बात करें.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a59c1e8794de-sunita-ahuja-on-kids-161224225-16x9.jpeg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/story/sunita-ahuja-reacts-govinda-comeback-roopa-movie-troll-son-yash-ahuja-debut-video-tmovb-dskc-2603121-2026-07-17",
-                "source": "AajTak",
-                "date": "2026-07-17T06:50:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "The Odyssey Review: क्रिस्टोफर नोलन का मास्टरपीस, साल का सबसे शानदार सिनेमैटिक अनुभव होगा साबित",
-                "desc": "हॉलीवुड के दिग्गज डायरेक्टर क्रिस्टोफर नोलन की फिल्म 'द ओडिसी' थिएटर्स में रिलीज हो चुकी है और इसे देखकर सिर्फ एक ही बात जेहन में आती है— 'दिस इज़ सिनेमा'. 2 घंटे 55 मिनट की ये फिल्म कमाल के विजुअल्स, शानदार बैकग्राउंड स्कोर और दमदार परफॉर्मेंस से आपको वो एक्सपीरियंस देगी जिसके लिए बड़ा पर्दा बना है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a59c571b7bdf-the-odyssey-christopher-nolans-film-is-everything-cinema-was-invented-for-170220287-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/film-review/story/the-odyssey-christopher-nolan-story-brings-home-grandeur-cinema-epic-storytelling-tmovk-dskc-2603133-2026-07-17",
-                "source": "AajTak",
-                "date": "2026-07-17T06:24:04Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘भगवान का दोस्त’, बिहार के युवा साजन की फिल्म का परचम; देश-विदेश की फिल्मों से टक्कर",
-                "desc": "अररिया के युवा कलाकार साजन  की 20 मिनट की लघु फिल्म ‘भगवान का दोस्त’ का चयन प्रतिष्ठित 17 वें अहमदाबाद इंटरनेशनल फिल्म फेस्टिवल के लिए किया गया है।, Bihar Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/17/1600x900/logo/paopaOPlalasppplpcaaap_1784264974417_1784264989085_a70b4853-86dc-4cb2-b432-b679976689cb.jpg",
-                "url": "https://www.livehindustan.com/bihar/bihar-araria-artist-film-bhagwan-ka-dost-selected-for-international-film-fest-ahmadabad-201784264511461.html",
-                "source": "Hindustan",
-                "date": "2026-07-17T06:18:04Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "19 साल पहले यमाल से मुलाकात पर मेसी को भी नहीं हुआ भरोसा, फाइनल से पहले स्पेन को दी चेतावनी",
+                "desc": "फीफा वर्ल्ड कप 2026 के फाइनल में अर्जेंटीना और स्पेन की भिड़ंत के साथ ही लियोनेल मेसी और लामिन यमाल की तस्वीर भी चर्चा में है। लगभग 20 साल पहले मेसी ने एक चैरिटी फोटोशूट में यमाल को एक बच्चे के रूप में नहलाया था।",
+                "image": "https://static.langimg.com/nbt/thumb/132476019/lionel-messi-reaction-after-watching-lamine-yamal-19-years-ago-photoshoot-fifa-world-cup-2026-final.jpg?imgsize=2671274&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/football/fifa-world-cup/news/lionel-messi-reaction-after-watching-lamine-yamal-19-years-ago-photoshoot-fifa-world-cup-2026-final/articleshow/132476019.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-18T07:34:55Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "FIFA वर्ल्ड कप 2026 के दौरान सोशल मीडिया पर छाए ये 5 फुटबॉलर, एक के फॉलोअर्स हुए डबल",
+                "desc": "FIFA World Cup 2026: 48 टीमों के साथ शुरू हुए फीफा वर्ल्ड कप 2026 के फाइनल में अर्जेंटीना और स्पेन है, जिनमें से कोई एक खिताब उठाएगा। यहां देखें वो 5 खिलाड़ी जो इस संस्करण सोशल मीडिया पर छाए रहे.",
+                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/18/f67379311bfbfa31fe52f83f2ea4ef6c17843592892611212_original.jpg?impolicy=abp_cdn&imwidth=1200",
+                "url": "https://www.abplive.com/sports/football/erling-haaland-to-lamine-yamal-five-football-players-who-rose-to-social-media-stardom-at-the-fifa-world-cup-2026-3161852",
+                "source": "ABP News",
+                "date": "2026-07-18T07:26:17Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "गर्लफ्रेंड बनाने के मामले में सबसे 'अनलकी' होते हैं इस तारीख को जन्मे लड़के, क्या आप भी हैं लिस्ट में?",
+                "desc": "अंक ज्योतिष के अनुसार, मूलांक 7 के लड़के अक्सर प्रेम संबंधों में संघर्ष करते हैं क्योंकि वे शर्मीले स्वभाव के कारण अपनी भावनाओं को व्यक्त नहीं कर पाते।\nकेतु ग्रह से प्रभावित ये लड़के करियर को प्राथमिकता देते हैं, जिससे उन्हें सच्चा प्यार मिलने में समय लग सकता है, हालांकि यह नियम सब पर लागू नहीं होता।",
+                "image": "https://www.jagranimages.com/images/2026/07/18/article/image/numerology-number-7-boys-unlucky-in-love-single-till-30-astrology-reasons-1784359425121_m.webp",
+                "url": "https://www.jagran.com/astrology/numerology-numerology-number-7-boys-unlucky-in-love-single-till-30-astrology-reasons-40310652.html",
+                "source": "Jagran",
+                "date": "2026-07-18T07:24:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "'गौती भाई, टीम इंडिया में आ जाओ...' रोहित शर्मा ने खुद की थी गौतम गंभीर की पैरवी, अब रिश्तों में खटास का दावा",
+                "desc": "टी20 वर्ल्ड कप 2024 के बाद जब टीम इंडिया को नए हेड कोच की तलाश थी, तब गौतम गंभीर का नाम सबसे आगे था. अब एक रिपोर्ट में दावा किया गया है कि गंभीर को भारतीय टीम का कोच बनाने में तत्कालीन कप्तान रोहित शर्मा की भी अहम भूमिका थी.",
+                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a5b29684ad3a-gautam-gambhir-and-rohit-sharma-182106821-16x9.18y9w1lrb8ig_-we2yw_11g33miqd9e2a_ioqwplh44",
+                "url": "https://www.aajtak.in/sports/cricket/story/rohit-sharma-gautam-gambhir-relationship-team-india-head-coach-tspoa-dskc-2603900-2026-07-18",
+                "source": "AajTak",
+                "date": "2026-07-18T07:21:29Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "गैरी सोबर्स को याद कर भावुक हुए सचिन-कोहली, गावस्कर ने कहा- क्रिकेट ने अपना सबसे चमकता हीरा खो दिया",
                 "desc": "अपने 90वें जन्मदिन से महज 11 दिन पहले सर गारफील्ड सोबर्स ने दुनिया को अलविदा कह दिया. उनके निधन से खेल जगत में शोक की लहर है. सचिन तेंदुलकर, विराट कोहली और सुनील गावस्कर ने सोशल मीडिया पर इस महान खिलाड़ी को बेहद भावुक श्रद्धांजलि दी है.",
@@ -2129,42 +2165,6 @@
                 "url": "https://www.livehindustan.com/cricket/icc-sanctions-pakistan-spinner-mohammad-nawaz-over-breaching-anti-doping-code-three-month-suspension-201784280238116.html",
                 "source": "Hindustan",
                 "date": "2026-07-17T09:31:35Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "पाकिस्तानी क्रिकेटर पर ICC का एक्शन, बैन लगाया और रद्द किए रिकॉर्ड्स, डोपिंग से जुड़ा है मामला",
-                "desc": "आईसीसी के नियमों के अनुसार यदि कोई खिलाड़ी नशीले पदार्थ से जुड़े मामले में दोषी पाए जाने पर निर्धारित पुनर्वास कार्यक्रम पूरा करता है, तो उसकी सजा कम की जा सकती है. अब मोहम्मद नवाज भी इस नियम का फायदा उठा सकते हैं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a59f03a49e29-mohammad-nawaz-170452352-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/cricket/story/pakistani-cricketer-mohammad-nawaz-doping-ban-icc-dope-test-records-disqualified-tspoa-dskc-2603279-2026-07-17",
-                "source": "AajTak",
-                "date": "2026-07-17T09:09:18Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "भारत का तीसरा खिलाड़ी इंग्लैंड वनडे सीरीज से हुआ बाहर, अब वॉशिंगटन सुंदर को लगी चोट",
-                "desc": "वॉशिंगटन सुंदर कार्डिफ में खेले गए दूसरे वनडे के दौरान बल्लेबाजी करते हुए हैमस्ट्रिंग (मांसपेशियों में खिंचाव) की चोट लग गई थी, जिसके कारण वह तीसरे वनडे से भी बाहर हो गए हैं।, Cricket Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/17/1600x900/logo/Washington_Sundar__1784277337035_1784277338764_88b5bda0-8a6c-4142-b692-ed5820525f38.jpg",
-                "url": "https://www.livehindustan.com/cricket/ind-vs-eng-all-rounder-washington-sundar-ruled-out-of-third-odi-against-england-harshit-rana-nitish-201784277118424.html",
-                "source": "Hindustan",
-                "date": "2026-07-17T08:38:11Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "पाकिस्तान का नाम मिट्टी में मिला दिया! डोपिंग टेस्ट में फंसे ऑलराउंडर मोहम्मद नवाज, आईसीसी ने बैन लगाया",
-                "desc": "पाकिस्तान के ऑलराउंडर मोहम्मद नवाज डोपिंग टेस्ट में पॉजिटिव पाए गए हैं। टी20 विश्व कप के दौरान नवाज का सैंपल लिया गया था। आईसीसी ने नवाज को सजा भी सुना दी है।",
-                "image": "https://static.langimg.com/nbt/thumb/132456790/mohammad-nawaz.jpg?imgsize=155432&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/pakistani-all-rounder-mohammad-nawaz-three-month-suspension-under-icc-anti-doping-code/articleshow/132456777.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-17T08:37:56Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "India vs England: टीम इंडिया को लगा बड़ा झटका, IND vs ENG तीसरे वनडे से बाहर हुआ ये प्लेयर",
-                "desc": "India vs England 3rd ODI: भारत बनाम इंग्लैंड तीसरा वनडे लॉर्ड्स क्रिकेट ग्राउंड पर खेला जाएगा. इससे पहले टीम इंडिया के लिए एक बुरी खबर है, चोट के कारण उनका एक खिलाड़ी इस मैच में नहीं खेल पाएगा.",
-                "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/17/b9f0104c48d5967b61fab4d5f527a14617842781966571212_original.jpeg?impolicy=abp_cdn&imwidth=1200",
-                "url": "https://www.abplive.com/sports/cricket/bad-news-for-team-india-washington-sundar-ruled-out-of-ind-vs-england-3rd-odi-report-3161361",
-                "source": "ABP News",
-                "date": "2026-07-17T08:34:43Z",
                 "priority": "STANDARD"
             }
         ]
@@ -4339,5 +4339,5 @@
             }
         ]
     },
-    "lastGlobalSync": "2026-07-18T18:48:54.483507Z"
+    "lastGlobalSync": "2026-07-18T19:59:44.418278Z"
 }
