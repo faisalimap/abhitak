@@ -2,12 +2,48 @@
     "hi": {
         "general": [
             {
+                "title": "सीजेपी का दावा सरकार ने बातचीत के लिए बुलाया था, जेपी नड्डा की धरना ख़त्म करने की अपील",
+                "desc": "संसद चलो मार्च के आह्वान के बाद कॉकरोच जनता पार्टी का दावा है कि उनसे सरकार ने बातचीत के लिए संपर्क किया था जिसके बाद केंद्रीय मंत्री जेपी नड्डा से उनकी बातचीत हुई है.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/0c2a/live/13dafbc0-8429-11f1-96d8-4b9d5565f166.jpg",
+                "url": "https://www.bbc.com/hindi/articles/cvg0x097npro",
+                "source": "BBC",
+                "date": "2026-07-20T11:45:43Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Q1 Results: मुनाफा 4 गुना से ज्यादा बढ़ा, कमाई में 50% का शानदार इजाफा, 3 साल में दे चुकी है 160% का रिटर्न",
+                "desc": "Q1 Results: मजबूत तिमाही नतीजों के बावजूद Sobha के शेयरों का प्रदर्शन अलग-अलग समय में मिला-जुला रहा है. पिछले 1 सप्ताह में शेयर 4.08% फिसला है, जबकि 1 महीने में 2.59% और 3 महीनों में 11% का रिटर्न दिया है.",
+                "image": "https://images.cnbctv18.com/hindicnbctv18/2026/01/image-2026-01-e6a8ea55b1a6ed7c2a440098be2dad49.jpg?im=FitAndFill,width=500,height=300",
+                "url": "https://hindi.cnbctv18.com/share-market/sobha-developers-q1-announcement-net-profit-revenue-ebitda-and-margin-details-in-hindi-186357.htm",
+                "source": "CNBC TV18",
+                "date": "2026-07-20T11:17:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "सोनम वांगचुक ने सीजेपी के 'संसद मार्च' से पहले अनशन ख़त्म करने के लिए रखीं शर्तें",
+                "desc": "सोनम वांगचुक ने अस्पताल से हाथ से लिखे एक पत्र में ऐसे तीन परिस्थितियों का ज़िक्र किया, जिनमें वह अपना अनशन खत्म करेंगे. उन्होंने यह भी आरोप लगाया कि अस्पताल में उन्हें 'ग़ैर क़ानूनी हिरासत' में रखा गया है.",
+                "image": "https://ichef.bbci.co.uk/news/1200/branded_hindi/cc7a/live/88dd5bb0-83df-11f1-8e6a-2306299d9a77.jpg",
+                "url": "https://www.bbc.com/hindi/articles/c5ydr3e4mz4o",
+                "source": "BBC",
+                "date": "2026-07-20T11:00:43Z",
+                "priority": "STANDARD"
+            },
+            {
                 "title": "'धर्मेंद्र प्रधान को आखिर क्यों बचा रही सरकार?', सीजेपी के प्रोटेस्ट के बीच प्रियंका चतुर्वेदी ने पीएम मोदी पर छोड़े तीखे तीर",
                 "desc": "संसद के मानसून सत्र के पहले दिन शिवसेना (यूबीटी) नेता प्रियंका चतुर्वेदी ने प्रधानमंत्री नरेंद्र मोदी पर निशाना साधते हुए NEET-UG पेपर लीक और शिक्षा मंत्री धर्मेंद्र प्रधान के इस्तीफे का मुद्दा उठाया। उन्होंने सवाल किया कि विरोध के बावजूद आखिर सरकार धर्मेंद्र प्रधान को क्यों बचा रही है।",
                 "image": "https://static.langimg.com/nbt/thumb/132513380/pm-modipriyanka-chaturvedi.jpg?imgsize=138281&width=1600&height=900&resizemode=75",
                 "url": "https://navbharattimes.indiatimes.com/india/pm-modi-dharmendra-pradhan-resignation-priyanka-chaturvedi-neet-ug-paper-leak-parliament-monsoon-session/articleshow/132512208.cms",
                 "source": "Navbharat Times",
                 "date": "2026-07-20T10:38:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "गौतम गंभीर की पीठ पीछे रोहित-विराट की काना-फूसी, फिर ठहाका लगाकर हंसे, कैमरा में कैद हुआ मोमेंट",
+                "desc": "लॉर्ड्स ODI के बाद का एक वीडियो सामने आया है, जिससें रोहित-विराट हेडकोच गौतम गंभीर की पीठ पीछे कुछ बात करते हैं फिर ठहाका लगाकर हंसने भी लगते हैं।",
+                "image": "https://static.langimg.com/nbt/thumb/132513132/rohit-sharma-virat-kohli.jpg?imgsize=93304&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/rohit-sharma-virat-kohli-reportedly-mocked-gautam-gambhir-after-lords-odi-watch-video/articleshow/132513050.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-20T10:35:54Z",
                 "priority": "STANDARD"
             },
             {
@@ -504,45 +540,27 @@
                 "source": "Navbharat Times",
                 "date": "2026-07-19T21:16:48Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "कहां हैं मोजतबा खामेनेई? ईरान के विदेश मंत्री के बयान से सु्प्रीम लीडर पर गहराया सस्पेंस",
-                "desc": "ईरान के नए सुप्रीम लीडर मोजतबा खामेनेई कहां हैं? यह सवाल हर किसी की जुबां पर है। अमेरिका के साथ फिर से ईरान की भिड़ंत की खबरें आ रही हैं। मोजतबा खामेनेई का बयान आ रहा है। लेकिन वह खुद सामने नहीं आ रहे हैं।, International Hindi News - Hindustan",
-                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/19/1600x900/logo/IRAN-CRISIS-KHAMENEI-HEZBOLLAH-12_1784490225631_1784490262863_c9b37ff1-4cdd-4bec-be89-7bf8008e2da1.JPG",
-                "url": "https://www.livehindustan.com/international/big-suspense-on-mojtaba-khamenei-iran-minister-abbas-araghchi-claims-he-is-waiting-to-meet-201784490051060.html",
-                "source": "Hindustan",
-                "date": "2026-07-19T19:46:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Spain vs Argentina Live Score, FIFA World Cup Final: स्पेन की मजूबत डिफेंस नहीं भेद सके लियोनेल मेसी, पहले हाफ में नहीं हुआ एक भी गोल, यामाल भी नहीं कर सके कमाल",
-                "desc": "Spain vs Argentina, FIFA World Cup Final 2026 Live Score: न्यू जर्सी के मेटलाइफ स्टेडियम में अर्जेंटीना और स्पेन की टीम्स आमने-सामने हैं. लियोनेल मेसी की अगुवाई वाली अर्जेंटीना की टीम अपना टाइटल डिफेंड करने उतरी है. स्पेन दूसरी ओर 16 साल का सूखा खत्म करना चाहेगा.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202607/6a5cf1923280c-lionel-messi--lamine-yamal-194724964-16x9.jpg",
-                "url": "https://www.aajtak.in/sports/football/story/fifa-world-cup-2026-final-spain-vs-argentina-live-score-lionel-messi-yamal-tspoa-tspok-dskc-2604953-2026-07-19",
-                "source": "Aaj Tak News",
-                "date": "2026-07-19T19:35:53Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ईरान के बीच बढ़ा तनाव, भारतीय नागरिकों के लिए सरकार ने जारी की एडवाइजरी",
-                "desc": "पश्चिम एशिया में बढ़ती अस्थिरता के कारण, तेहरान स्थित भारतीय दूतावास ने ईरान में भारतीय नागरिकों के लिए एक संशोधित सुरक्षा एडवाइजरी जारी की है।\nइसमें भारतीयों को यात्रा टालने और जो वहां हैं उन्हें देश छोड़ने पर विचार करने की सख्त सलाह दी गई है।",
-                "image": "https://www.jagranimages.com/images/2026/07/19/article/image/iran-(16)-1784483974690_m.webp",
-                "url": "https://www.jagran.com/world/middle-east-india-issues-iran-travel-advisory-amid-usiran-tensions-40312386.html",
-                "source": "Jagran",
-                "date": "2026-07-19T19:14:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "ये 'आया राम गया राम' की सियायत संसद में शुरू हो गई, मनीष तिवारी बोले-नए दल-बदल कानून जरूरत",
-                "desc": "Manish Tewari News: कांग्रेस के नेता और सांसद मनीष तिवारी ने सांसदों के पाला बदलने को बड़ा मुद्दा बताते हुए कहा है कि संसद में इस बात पर चर्चा होनी चाहिए कि क्या देश को एक नए दल-बदल विरोधी कानून की जरूरत है। मनीष तिवारी ने हरियाणा के निकल 'आया राम गया राम' घटनाक्रम का जिक्र करते हुए कहा है कि यह सियासत अब संसद में शुरू हो गई है।",
-                "image": "https://static.langimg.com/nbt/thumb/132499122/manish-tiwari-demand-new-anti-defection-law.jpg?imgsize=108439&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/state/punjab-and-haryana/chandigarh/congress-mp-manish-tewari-raised-need-of-new-anti-defection-law-needed-amid-mp-switchover-said-parliament-should-discuss-know-all/articleshow/132499111.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-19T17:54:57Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Q1 Results: मुनाफा 4 गुना से ज्यादा बढ़ा, कमाई में 50% का शानदार इजाफा, 3 साल में दे चुकी है 160% का रिटर्न",
+                "desc": "Q1 Results: मजबूत तिमाही नतीजों के बावजूद Sobha के शेयरों का प्रदर्शन अलग-अलग समय में मिला-जुला रहा है. पिछले 1 सप्ताह में शेयर 4.08% फिसला है, जबकि 1 महीने में 2.59% और 3 महीनों में 11% का रिटर्न दिया है.",
+                "image": "https://images.cnbctv18.com/hindicnbctv18/2026/01/image-2026-01-e6a8ea55b1a6ed7c2a440098be2dad49.jpg?im=FitAndFill,width=500,height=300",
+                "url": "https://hindi.cnbctv18.com/share-market/sobha-developers-q1-announcement-net-profit-revenue-ebitda-and-margin-details-in-hindi-186357.htm",
+                "source": "CNBC TV18",
+                "date": "2026-07-20T11:17:16Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Hyundai ने भारत में पेटेंट कराई Boulder एसयूवी, रफ-टफ डिजाइन और 37-इंच टायरों से लैस, फॉर्च्यूनर-डिफेंडर की होगी बोलती बंद",
+                "desc": "Hyundai Boulder SUV In India: हुंडई ने भारतीय बाजार में अपनी रणनीति का विस्तार करते हुए हाल ही में हुंडई बोल्डर का पेटेंट कराया है, जो एक दमदार ऑफ-रोड एसयूवी कॉन्सेप्ट है। इसे पहली बार 2026 के न्यूयॉर्क इंटरनेशनल ऑटो शो में दिखाया गया था। इस बॉडी-ऑन-फ्रेम ऑफ-रोड एसयूवी का लुक ऐसा है कि डिफेंडर से लेकर फॉर्च्यूनर और रूबिकॉन तक शर्मा जाए। आने वाले वर्षों में इसे भारत में लॉन्च किया जा सकता है।",
+                "image": "https://static.langimg.com/nbt/thumb/132513868/hyundai-boulder-patented-in-india-rugged-design-37-inch-tyres-impressive-interior-and-features.jpg?imgsize=2457021&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/auto/car-bikes/hyundai-boulder-patented-in-india-rugged-design-37-inch-tyres-impressive-interior-and-features/articleshow/132513868.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-20T11:16:49Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "डीलरशिप पहुंचने लगी नई BREZZA! दिखा बोल्ड अंदाज, 24 को लॉन्च",
                 "desc": "Maruti Brezza Facelift: मारुति सुजकी अपनी मशहूर एसयूवी ब्रेजा के नए फेसलिफ्ट मॉडल को 24 जुलाई को लॉन्च करेगी. इससे पहले एसयूवी डीलरशिप पर पहुंचना शुरू हो गई है.",
@@ -1064,27 +1082,36 @@
                 "source": "Navbharat Times",
                 "date": "2026-07-19T03:59:45Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "बोल्ड लुक, दमदार परफॉर्मेंस! आ गई इलेक्ट्रिक Range Rover",
-                "desc": "जगुआर लैंडरोवर ने अपनी नई रेंज रोवर स्पोर्ट इलेक्ट्रिक (EV) की पहली झलक दुनिया के सामने पेश कर दी है.",
-                "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/07/Range-Rover-Sport-Electric-ampITG-1784431153252.jpg?size=*:675",
-                "url": "https://www.aajtak.in/visualstories/auto/range-rover-sport-electric-revealed-goodwood-festival-of-speed-price-auaw-283492-19-07-2026",
-                "source": "Aaj Tak News",
-                "date": "2026-07-19T03:39:38Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Post Office Scheme: 5 साल में ₹5 लाख की कमाई, वो भी सिर्फ ब्याज से... पोस्ट ऑफिस की गजब स्कीम",
-                "desc": "Post Office Interest Income: पोस्ट ऑफिस की इस स्कीम में सिर्फ एक बार ही निवेश करना होता है और मैच्योरिटी के बाद जोरदार ब्याज के साथ मोटी रकम पाई जा सकती है. ये Zero Risk सेविंग स्कीम है.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a5c43de69c76-post-office-best-scheme-121406736-16x9.jpg",
-                "url": "https://www.aajtak.in/business/utility/photo/post-office-best-po-time-deposit-scheme-earn-4-lakh-rupee-only-by-interest-in-five-year-tutc-2604494-2026-07-19",
-                "source": "Aaj Tak News",
-                "date": "2026-07-19T03:37:34Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "आप मर्दों से नफरत कैसे कर सकते हो! लेटेंट वाली लड़की की बात सुन आम आदमियों और औरतों के दिल ने क्या कहा?",
+                "desc": "How Can You Hate Men Yaar: समय रैना ने इंडियॉज गॉट लेटेंट पर आई कंटेस्टेंट की बातें सुनने के बाद अपनी इस लाइन को बार-बार दोहराया कि ‘How Can You Hate Men Yaar?’ यानि आप लड़कों, पुरुषों या मर्दों से कैसे नफरत कर सकते हो? इसी क्लिप को दिखाते हुए इंंफ्लूएंसर ने आम जनता के रिएक्शन भी लिए है, जो आपका दिल जीत सकता है।",
+                "image": "https://static.langimg.com/nbt/thumb/132514803/how-can-you-hate-men-yaar-people-reaction-on-viral-clip-of-sakshi-jha-of-india-s-got-latent-leaves-internet-in-love.jpg?imgsize=1419638&width=1600&height=900&resizemode=75",
+                "url": "https://navbharattimes.indiatimes.com/viral/trending/how-can-you-hate-men-yaar-people-reaction-on-viral-clip-of-sakshi-jha-of-india-s-got-latent-leaves-internet-in-love/articleshow/132514803.cms",
+                "source": "Navbharat Times",
+                "date": "2026-07-20T11:45:02Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "सलमान खान के फार्महाउस में जाते अपनी मर्जी से, लेकिन वापस तब...आयुष शर्मा ने एक्टर को लेकर क्या है",
+                "desc": "सलमान खान अपने फार्महाउस में जाते रहते हैं। परिवार वाले और उनके करीबी दोस्त का भी फार्महाउस में आना-जाना रहता है। अब आयुष ने बताया कि कैसे सलमान के फार्महाउस में जाते अपनी मर्जी से हैं, लेकिन आते सलमन की मर्जी से।, Bollywood Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/20/1600x900/logo/asl_1784546391660_1784546400535_b64bd0cd-d561-4382-955b-7d215fc5209e.jpg",
+                "url": "https://www.livehindustan.com/entertainment/bollywood/aayush-sharma-says-salman-khan-spends-most-of-his-time-at-panvel-farm-house-jaoge-apni-marzi-se-par-wapas-aaoge-jab-wo-201784545460578.html",
+                "source": "Hindustan",
+                "date": "2026-07-20T11:21:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ramayana के बाद अब यश की Toxic का होगा ग्रैंड ट्रेलर लॉन्च, कब और कहां दिखेगी 'राया' की झलक?",
+                "desc": "Ramayana के ग्रैंड ट्रेलर लॉन्च के बाद यश की 'टॉक्सिक' के ग्रैंड ट्रेलर लॉन्च की भी तैयारी की जा रही है।",
+                "image": "https://www.jagranimages.com/images/2026/07/20/article/image/yash-1784544672647_m.webp",
+                "url": "https://www.jagran.com/entertainment/bollywood-after-ramayana-yash-is-all-set-for-his-upcoming-film-toxic-grand-trailer-launch-at-bengaluru-40313035.html",
+                "source": "Jagran",
+                "date": "2026-07-20T10:54:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "राम कपूर को कहा 'ठरकी बूढ़ा' तो ढाल बनीं पत्नी गौतमी, श्रेया कालरा को लताड़ा- गलत हरकत करते तो टोका होता",
                 "desc": "'लॉक अप 2' के हालिया एपिसोड में श्रेया कालरा को शिल्पा शिंदे के साथ बात करते हुए सुना गया कि राम कपूर जबरन पास आने की कोशिश करते हैं और उन्हें उनका किस करना भी पसंद नहीं आया। अब, राम कपूर की पत्नी गौतमी ने इसी बात को लेकर सफाई दी है।",
@@ -1597,36 +1624,36 @@
                 "source": "Hindustan",
                 "date": "2026-07-19T08:31:07Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "37 साल बाद फिर 'इच्छाधारी नागिन' बनीं Meenakshi Seshadri, कल्ट फिल्म 'नाचे नागिन गली गली' का लुक किया रीक्रिएट",
-                "desc": "बॉलीवुड एक्ट्रेस मीनाक्षी मीनाक्षी शेषाद्रि Meenakshi Seshadri ने 37 साल बाद अपनी कल्ट फिल्म 'नाचे नागिन गली गली' का लुक रीक्रिएट किया है।",
-                "image": "https://www.jagranimages.com/images/2026/07/19/article/image/Meenakshi-Seshadri-Naagin-Look-1784446767891_m.webp",
-                "url": "https://www.jagran.com/entertainment/bollywood-meenakshi-seshadri-recreate-nache-nagin-gali-gali-after-37-years-recalls-sridevi-naagin-look-40311827.html",
-                "source": "Jagran",
-                "date": "2026-07-19T07:58:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "संजय दत्त की नीली आंखों वाली बेटी को लोग बता रहे दादी नरगिस जैसी, बारिश में शॉर्ट्स पहन मां मान्यता संग दिखीं",
-                "desc": "​संजय दत्त की पत्नी मान्यता दत्त और बेटी इकरा दत्त को मुंबई में पैपराजी ने स्पॉट किया। जहां मां- बेटी का स्टाइलिश रूप देखने को मिला, तो नजरें ज्यादा बिटिया पर टिकी रहीं। जिनकी खूबसूरती में लोगों को दादी नरगिस की परछाई नजर आई।",
-                "image": "https://static.langimg.com/nbt/thumb/132490909/sanjay-dutt-daughter-iqra-dutt-reminds-people-of-nargis-as-she-spotted-with-mother-in-stylish-demin-shorts.jpg?imgsize=1644477&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/lifestyle/fashion/sanjay-dutt-daughter-iqra-dutt-reminds-people-of-nargis-as-she-spotted-with-mother-in-stylish-demin-shorts/articleshow/132490909.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-19T07:55:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "कटरीना कैफ की गोद में बेटा, नन्हे राजकुमार ने दबोची नाक! एक्ट्रेस ने दिखाई लाडले की Cute सी झलक",
-                "desc": "लेटेस्ट पोस्ट में कटरीना ने अपने नन्हे राजकुमार विहान की झलक फैंस को दिखाई है. एक तस्वीर में कटरीना बेटे को गोद में लेकर खेलती नजर आईं.",
-                "image": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202607/6a5c7843b4792-katrina-kaif-little-munchkin-vihaan-photos-190946298-16x9.jpg",
-                "url": "https://www.aajtak.in/entertainment/bollywood-news/photo/katrina-kaif-holds-little-munchkin-vihaan-shares-adorable-photos-romantic-date-vicky-kaushal-tmovf-2604590-2026-07-19",
-                "source": "Aaj Tak News",
-                "date": "2026-07-19T07:30:55Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "लॉर्ड्स में भारत हारा तो रोहित शर्मा का छलका दर्द, बोले- लक्ष्य काफी बड़ा था लेकिन आखिर में...",
+                "desc": "लॉर्ड्स में भारत के हारने पर रोहित शर्मा का दर्द छलका है। रोहित ने 388 के लक्ष्य का पीछा करते हुए  शानदार शतकीय पारी खेली। वह लॉर्ड्स में वनडे सेंचुरी ठोकने वाले पहले भारतीय क्रिकेटर हैं।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/20/1600x900/logo/Rohit_Sharma_1784546872857_1784546879402_767ed184-e0a6-4bb3-8916-b5e1fb1c4ed3.jpg",
+                "url": "https://www.livehindustan.com/cricket/rohit-sharma-expressed-his-pain-after-india-lost-at-lords-says-it-was-a-massive-total-to-chase-but-we-fell-201784546629874.html",
+                "source": "Hindustan",
+                "date": "2026-07-20T11:38:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "रोहित शर्मा से कोसों पीछे हैं विराट कोहली, SENA देशों में शतक जड़ने के मामले में सचिन भी कहीं नहीं टिकते, देखिए लिस्ट",
+                "desc": "सेना देशों में वनडे क्रिकेट में शतक जड़ने के मामले में रोहित शर्मा का कोई भी एशियाई बल्लेबाज सानी नहीं है। विराट कोहली और सचिन तेंदुलकर जैसे दिग्गज बल्लेबाज भी उनसे काफी पीछे हैं।, Cricket Hindi News - Hindustan",
+                "image": "https://www.livehindustan.com/lh-img/smart/img/smart/2026/07/20/1600x900/logo/rohit_sharma_sachin_tendulkar_virat_kohli_1784546323771_1784546332355_205a3279-5071-4eb0-9a7f-12f60dbe77af.jpg",
+                "url": "https://www.livehindustan.com/cricket/who-has-most-odi-centuries-in-sena-by-asian-players-rohit-sharma-at-top-virat-kohli-and-sachin-tendulkar-where-201784545958734.html",
+                "source": "Hindustan",
+                "date": "2026-07-20T11:23:44Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "टीम इंडिया के साथ वैभव सूर्यवंशी ने जिम्बाब्वे की धरती पर रखा कदम, 23 जुलाई से एक्शन में आएंगे नजर",
+                "desc": "भारतीय क्रिकेट टीम T20I सीरीज के लिए जिम्बाब्वे पहुंच चुकी है। इस दौरान युवा स्टार बल्लेबाज वैभव सूर्यवंशी भी टीम इंडिया के साथ नजर आए।",
+                "image": "https://resize.indiatv.in/resize/newbucket/1200_-/2026/07/vaibhav-sooryavanshi-7-1784546116.jpg",
+                "url": "https://www.indiatv.in/sports/cricket/vaibhav-sooryavanshi-and-team-india-arrived-at-harare-on-sunday-evening-ahead-of-t20i-series-opener-against-zimbabwe-2026-07-20-1232319",
+                "source": "India TV Hindi",
+                "date": "2026-07-20T11:19:12Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "गौतम गंभीर की पीठ पीछे रोहित-विराट की काना-फूसी, फिर ठहाका लगाकर हंसे, कैमरा में कैद हुआ मोमेंट",
                 "desc": "लॉर्ड्स ODI के बाद का एक वीडियो सामने आया है, जिससें रोहित-विराट हेडकोच गौतम गंभीर की पीठ पीछे कुछ बात करते हैं फिर ठहाका लगाकर हंसने भी लगते हैं।",
@@ -2139,38 +2166,74 @@
                 "source": "Aaj Tak News",
                 "date": "2026-07-19T13:39:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Rohit Sharma Fielding: हवा में उड़ते हुए रोकी बाउंड्री, फिर दिया फ्लाइंग किस, रोहित-रोहित से गूंज उठा लॉर्ड्स का मैदान",
-                "desc": "England vs India: रोहित शर्मा भले ही 39 साल के हो चुके हैं लेकिन मैदान पर फील्डिंग में उनका कमाल जारी है। लॉर्ड्स के मैदान पर उन्होंने डाइव मारकर चौका रोका तो पूरा स्टेडियम झूम उठा।",
-                "image": "https://static.langimg.com/nbt/thumb/132495359/rohit-sharma.jpg?imgsize=84857&width=1600&height=900&resizemode=75",
-                "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/rohit-sharma-give-flying-kiss-after-dive-and-save-boundary-fans-chanting-his-name-on-lords/articleshow/132495217.cms",
-                "source": "Navbharat Times",
-                "date": "2026-07-19T13:31:15Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "FIFA World Cup 2026 के फाइनल का बुखार चढ़ा, केरल में सरकार ने कर दी छुट्टी की घोषणा",
-                "desc": "स्‍पेन और अर्जेंटीना के बीच फीफा वर्ल्‍ड कप 2026 का फाइनल मुकाबला खेला जाएगा। केरल सरकार ने सोमवार को सभी शिक्षण संस्‍थानों के लिए छुट्टी की घोषणा की।",
-                "image": "https://www.jagranimages.com/images/2026/07/19/article/image/messiyamal-1784464694353_m.webp",
-                "url": "https://www.jagran.com/football/headlines-fifa-world-cup-final-2026-kerala-government-announces-holiday-on-monday-40312122.html",
-                "source": "Jagran",
-                "date": "2026-07-19T12:41:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "IND U19 vs SL U19: लक्ष्य-यशवर्धन ओपनर, इन्हें भी मौका; श्रीलंका के खिलाफ दूसरे टेस्ट के लिए भारत की संभावित प्लेइंग 11",
-                "desc": "इंडिया अंडर 19 टीम श्रीलंका अंडर 19 टीम के खिलाफ दूसरा टेस्ट मैच खेलेगी जिसकी शुरुआत 20 जुलाई से होगी। इस टेस्ट मैच के लिए भारत की प्लेइंग इलेवन कुछ ऐसी हो सकती है।",
-                "image": "https://images.jansatta.com/2026/07/LakshyaB-2.jpg",
-                "url": "https://www.jansatta.com/khel/ind-u19-vs-sl-u19-lakshya-rajesh-raichandani-yashbardhan-chauhan-opener-sagar-virk-india-u19-playing-11-vs-sri-lanka-u19-2nd-test-manav-krishna/4625547/",
-                "source": "Jansatta",
-                "date": "2026-07-19T12:00:50Z",
-                "priority": "STANDARD"
             }
         ]
     },
     "en": {
         "general": [
+            {
+                "title": "Cat rescued from Venezuela earthquake rubble as death toll tops 5,200",
+                "desc": "A weakened cat was pulled from under the rubble of a collapsed residential complex in what a rescuer described as a \"ray of hope.\"",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/20/a8b051a0-bee3-4d19-96e5-c4c61e71c643/thumbnail/1200x630/15e738d1450c762264a05208dbfc216d/gettyimages-2286101174.jpg",
+                "url": "https://www.cbsnews.com/news/cat-rescued-venezuela-earthquake-rubble/",
+                "source": "CBS News",
+                "date": "2026-07-20T11:41:50Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Andy Burnham takes the reins as U.K.'s 7th prime minister in a decade",
+                "desc": "Having been asked by King Charles III to form a new government, former Manchester Mayor Andy Burnham has become Britain's 7th prime minister in a decade.",
+                "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/20/7756b58a-4174-4718-8149-a44fa5b5a8bd/thumbnail/1200x630/9c0720b3ff27cd2bd8902ef7da57bd38/burnham-king-charles-2286280084.jpg",
+                "url": "https://www.cbsnews.com/news/andy-burnham-new-uk-prime-minister-7th-in-decade-after-keir-starmer/",
+                "source": "CBS News",
+                "date": "2026-07-20T11:41:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Ranking the World Cup teams from one to 48 based on their 2026 performance",
+                "desc": "After 104 matches, we know the champions. But how did all the other teams stack up?",
+                "image": "https://static01.nyt.com/athletic/uploads/wp/2026/07/20015120/GettyImages-2284223915-1-scaled.jpg?width=1200&height=630&fit=cover",
+                "url": "https://www.nytimes.com/athletic/7329359/2026/07/20/world-cup-2026-48-teams-ranked/",
+                "source": "The New York Times",
+                "date": "2026-07-20T11:33:04Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Taylor Farms lettuce sample that tested positive for cyclospora was a false positive, FDA says",
+                "desc": "The FDA said that as of Sunday, it had not found any \"confirmed positive sample results for product testing for Cyclospora.\"",
+                "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/20/e84f7158-dbfc-4782-854b-a7ef8e24f428/thumbnail/1200x630/0feb7d410aee314993da471d34a06b39/gettyimages-2285922020.jpg",
+                "url": "https://www.cbsnews.com/news/taylor-farms-lettuce-false-positive-cyclospora/",
+                "source": "CBS News",
+                "date": "2026-07-20T11:16:39Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Liam Gallagher compares divisive World Cup halftime show to ‘a bad trip’",
+                "desc": "Super Bowl-style medley of performances featured artists including Madonna, BTS, Justin Bieber and Shakira",
+                "image": "https://static.the-independent.com/2026/07/20/10/06/Liam-Gallagher-World-Cup-halftime-show.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+                "url": "https://www.the-independent.com/arts-entertainment/music/news/world-cup-halftime-liam-gallagher-b3018096.html",
+                "source": "The Independent",
+                "date": "2026-07-20T11:13:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU hits China’s Alibaba with €550M record fine over illegal products",
+                "desc": "“There were a lot of counterfeit products, unsafe toys and dangerous cosmetics” on AliExpress, Europe’s tech chief says.",
+                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/20/GettyImages-2278704965.jpg",
+                "url": "https://www.politico.eu/article/eu-hits-chinas-alibaba-with-record-fine-of-e550m-over-illegal-products/",
+                "source": "politico.eu",
+                "date": "2026-07-20T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "NBA summer league superlatives: Which players impressed?",
+                "desc": "With summer league now over, we select 10 players who stood out in Las Vegas.",
+                "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0718%2Fr1690865_1296x729_16%2D9.jpg",
+                "url": "https://www.espn.com/nba/story/_/id/49391646/2026-2027-nba-summer-league-superlatives-mvp-aj-dybantsa-cameron-boozer-vegas",
+                "source": "ESPN",
+                "date": "2026-07-20T11:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Five Changes That Have Led to the Red Sox’ Surge",
                 "desc": "Boston’s 13-game winning streak didn’t happen by accident. The team has improved in a number of facets to put itself in a playoff spot.",
@@ -2647,72 +2710,45 @@
                 "source": "E! News",
                 "date": "2026-07-19T23:49:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Lamine Yamal, Lionel Messi share heartfelt moment after Spain's World Cup win",
-                "desc": "Following Spain's 1-0 extra-time World Cup title win over Argentina on Sunday, Lamine Yamal did the most veteran, mature move with Lionel Messi.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-sim7dsqi8-1784501090249.jpg?quality=75&strip=all&1784486725&w=1200",
-                "url": "https://nypost.com/2026/07/19/sports/lamine-yamal-lionel-messi-share-heartfelt-moment-after-spains-world-cup-win/",
-                "source": "New York Post",
-                "date": "2026-07-19T23:44:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Travis Scott involved in 'bottle throwing' fight at ultra-exclusive private club",
-                "desc": "This is getting to be familiar territory with the \"Sicko Mode\" rapper. We're reported on various swanky bashes that have been broken up by fights involving...",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/travis-scott-bottle-throwing.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/07/19/celebrity-news/travis-scott-involved-in-bottle-throwing-fight-at-ultra-exclusive-private-club/",
-                "source": "Page Six",
-                "date": "2026-07-19T23:38:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "JD and Usha Vance Welcome Fourth Child",
-                "desc": "In a post on social media, Mr. Vance said his wife and their son, Alec Neel Vance, were “happy and healthy.”",
-                "image": "https://static01.nyt.com/images/2026/07/19/multimedia/19xp-vance-wgch/19xp-vance-wgch-facebookJumbo.jpg",
-                "url": "https://www.nytimes.com/2026/07/19/us/jd-usha-vance-baby.html",
-                "source": "The New York Times",
-                "date": "2026-07-19T23:21:34Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Donald Trump refuses to leave World Cup trophy ceremony as Spain celebrate",
-                "desc": "U.S. President Donald Trump refused to leave the podium as Spain lifted the FIFA World Cup trophy, with Gianni Infantino forced to jog across the stage to intervene",
-                "image": "https://s.yimg.com/lo/mysterio/api/e7d3adb51ada417e5adbce41df547cf01b8a2ad8f21389c070b1370ee6c5eda7/lightyear_networkapi/resizefill_w810_h539;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fall_out_soccer_276%2Fc05335758561974624a0ad14056ae9b2",
-                "url": "https://sports.yahoo.com/articles/donald-trump-refuses-leave-world-231552406.html",
-                "source": "Yahoo Sports",
-                "date": "2026-07-19T23:15:52Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "5 Zodiac Signs Have The Best Horoscopes On Monday, July 20",
-                "desc": "Five zodiac signs have the very best horoscopes on Monday, July 20, 2026. They are: Scorpio, Aries, Pisces, Leo, and Aquarius.",
-                "image": "https://www.yourtango.com/sites/default/files/image_blog/2026-07/zodiac-signs-best-horoscopes-july-20-2026_0.png",
-                "url": "https://www.yourtango.com/2026399282/zodiac-signs-best-horoscopes-july-20-2026",
-                "source": "YourTango",
-                "date": "2026-07-19T23:06:13Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Watch Madonna, the Muppets, and More Perform at 2026 World Cup Final Halftime",
-                "desc": "The 11-minute spectacle included performances by Shakira, Justin Bieber, BTS, Burna Boy, and Coldplay’s Chris Martin",
-                "image": "https://media.pitchfork.com/photos/6a5d3e836a8427b11c98f333/16:9/w_1280,c_limit/GettyImages-2286189927.jpg",
-                "url": "https://pitchfork.com/story/watch-madonna-the-muppets-and-more-perform-at-2026-world-cup-final-halftime/",
-                "source": "Pitchfork",
-                "date": "2026-07-19T21:48:09Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "'Quite shocking'",
-                "desc": "Conor McGregor has finally revealed the full extent of the knee injury that abruptly ended his long-awaited UFC comeback.",
-                "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-pj9yggqnt-1784496626666.jpg?quality=75&strip=all&1784482329&w=1200",
-                "url": "https://nypost.com/2026/07/19/sports/conor-mcgregor-reveals-full-extent-of-his-ufc-knee-injury-quite-shocking/",
-                "source": "New York Post",
-                "date": "2026-07-19T21:35:00Z",
-                "priority": "STANDARD"
             }
         ],
         "business": [
+            {
+                "title": "Anduril Brings The Thunder With Autonomous Tiltrotor Attack Drone Concept",
+                "desc": "Thunder is designed to fly deep into hostile airspace at low altitude as a highly autonomous wingman for AH-64 Apaches and MV-75 Cheyennes.",
+                "image": "https://www.twz.com/wp-content/uploads/2026/07/Anduril-Thunder-tiltrotor-attack-drone-unveiled.jpg?w=1200",
+                "url": "https://www.twz.com/news-features/anduril-brings-the-thunder-with-autonomous-tiltrotor-attack-drone-concept",
+                "source": "TWZ",
+                "date": "2026-07-20T11:30:26Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "Americans wary of Trump's government ownership of companies: CNBC poll",
+                "desc": "About half of voters believe it isn't appropriate for the U.S. government to own stakes in companies, a new CNBC poll found.",
+                "image": "https://image.cnbcfm.com/api/v1/image/108330988-1783359249238-gettyimages-2284353519-AFP_B9ET9RV.jpeg?v=1783359317&w=1920&h=1080",
+                "url": "https://www.cnbc.com/2026/07/20/trump-government-company-ownership-americans-wary-cnbc-poll.html",
+                "source": "CNBC",
+                "date": "2026-07-20T11:00:01Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "EU hits China’s Alibaba with €550M record fine over illegal products",
+                "desc": "“There were a lot of counterfeit products, unsafe toys and dangerous cosmetics” on AliExpress, Europe’s tech chief says.",
+                "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/20/GettyImages-2278704965.jpg",
+                "url": "https://www.politico.eu/article/eu-hits-chinas-alibaba-with-record-fine-of-e550m-over-illegal-products/",
+                "source": "politico.eu",
+                "date": "2026-07-20T11:00:00Z",
+                "priority": "STANDARD"
+            },
+            {
+                "title": "The disturbing rise of ‘gooner’ assaults at Dollar Tree stores: ‘They find it funny to degrade women’",
+                "desc": "In dark corners of the internet, men are goading each other to masturbate in public – and on female shoppers – and post the footage",
+                "image": "https://i.guim.co.uk/img/media/653d0d35b94a5b32a6ebbe6b76bfb32f6f0f3afc/42_142_3544_2836/master/3544.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a74f8c851433cd0ae8101457c52f9757",
+                "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/20/dollar-tree-sexual-assault-gooner",
+                "source": "The Guardian",
+                "date": "2026-07-20T11:00:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Taylor Farms lettuce sample that tested positive for cyclospora was a false positive, FDA says",
                 "desc": "The FDA said that as of Sunday, it had not found any \"confirmed positive sample results for product testing for Cyclospora.\"",
@@ -3216,45 +3252,18 @@
                 "source": "Daring Fireball",
                 "date": "2026-07-19T00:38:39Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "General Mills recalls Pillsbury rolls for possible glass risk",
-                "desc": "General Mills recalled 4,340 cases of Pillsbury dough for possible glass. The more than 730,000 rolls were to be baked and sold at Walmart bakeries.",
-                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/18/USAT/90968529007-usatsi-22087565.jpg?crop=2923,1646,x0,y149&width=2923&height=1646&format=pjpg&auto=webp",
-                "url": "https://www.usatoday.com/story/money/2026/07/18/general-mills-recall-pillsbury-rolls-walmart-glass/90967806007/",
-                "source": "USA Today",
-                "date": "2026-07-18T23:47:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Taylor Farms expands lettuce recall to 27 states",
-                "desc": "Taylor Farms has expanded a voluntary recall of its iceberg lettuce products sourced from central Mexico because of a potential link to the multistate cyclospora outbreak that has sickened people across the U.S.",
-                "image": "https://dims.apnews.com/dims4/default/5157393/2147483647/strip/true/crop/1200x800+0+200/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F91%2F41%2Fe9cdc32ce3a52e81d74072dc2c2e%2F9f3b76e3488a49a89a276ce557d081fc",
-                "url": "https://apnews.com/article/cyclospora-lettuce-recall-taylor-farms-taco-bell-8c8bb30fbd100e0c246cffeff6983753",
-                "source": "AP News",
-                "date": "2026-07-18T23:02:00Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "‘Dr. Doom’ Nouriel Roubini says we’re headed for universal basic income or ‘some form of socialism’ as AI revolutionizes work-He calls that optimistic",
-                "desc": "\"Essentially, the government is going to take over some fraction of the big tech firms.\"",
-                "image": "https://s.yimg.com/lo/mysterio/api/65D2A595E0AF03A9617EA557CD74746E05488524738B3420944782CC6A4B650C/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2Ff21ac894071ec194e2823a469fa734c0",
-                "url": "https://finance.yahoo.com/economy/policy/articles/dr-doom-nouriel-roubini-says-223044216.html",
-                "source": "Yahoo Finance",
-                "date": "2026-07-18T22:30:44Z",
-                "priority": "STANDARD"
-            },
-            {
-                "title": "Nouriel Roubini sees universal basic income or 'some form of socialism' as AI revolutionizes work",
-                "desc": "\"Essentially, the government is going to take over some fraction of the big tech firms.\"",
-                "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2234972930-e1784409464269.jpg?resize=1200,600",
-                "url": "https://fortune.com/2026/07/18/nouriel-roubini-universal-basic-income-socialism-ai-revolution-work-agi-government-stakes/",
-                "source": "Fortune",
-                "date": "2026-07-18T22:30:00Z",
-                "priority": "STANDARD"
             }
         ],
         "entertainment": [
+            {
+                "title": "Ryan Reynolds says the next Deadpool movie will have \"a few really deep cuts\" from the comics",
+                "desc": "Deadpool 4 will take its cues from the comics, says Ryan Reynolds",
+                "image": "https://s.yimg.com/lo/mysterio/api/79842939ddef94d59fcdd3ee446a13a413cc6110c738dc85f4932e3a0af6fe05/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftotal_film_411%2F3b484e4d8d9f634595c4894afd743f3a",
+                "url": "https://www.yahoo.com/entertainment/movies/articles/ryan-reynolds-says-next-deadpool-111652010.html",
+                "source": "Yahoo",
+                "date": "2026-07-20T11:16:52Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "ification of Hollywood is going to be so boring",
                 "desc": "The Paramount/Warner Bros. merger will suck the joy out of TV and movies",
@@ -3785,18 +3794,18 @@
                 "source": "Bleacher Report",
                 "date": "2026-07-19T01:11:50Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Jodie Sweetin shares how she connected with John Stamos over sobriety",
-                "desc": "Jodie Sweetin shared how she and \"Full House\" co-star John Stamos \"connected\" while they were both on sobriety journeys.",
-                "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/134824197.jpg?quality=75&strip=all&w=1200",
-                "url": "https://pagesix.com/2026/07/18/celebrity-news/jodie-sweetin-shares-how-she-connected-with-john-stamos-over-sobriety/",
-                "source": "Page Six",
-                "date": "2026-07-19T00:38:00Z",
-                "priority": "STANDARD"
             }
         ],
         "sports": [
+            {
+                "title": "Argentina loss after Trump's comments about Messi revive curse theory",
+                "desc": "Donald Trump's comments about Lionel Messi before Argentina's loss revived speculation about the president cursing teams. Here are some examples.",
+                "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/19/USAT/90977621007-usatsi-29413762.jpg?crop=3938,2215,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+                "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/19/donald-trump-sports-curse-messi-comments-knicks/90977373007/",
+                "source": "USA Today",
+                "date": "2026-07-20T11:40:00Z",
+                "priority": "STANDARD"
+            },
             {
                 "title": "Five Changes That Have Led to the Red Sox’ Surge",
                 "desc": "Boston’s 13-game winning streak didn’t happen by accident. The team has improved in a number of facets to put itself in a playoff spot.",
@@ -4327,17 +4336,8 @@
                 "source": "Yahoo Sports",
                 "date": "2026-07-19T02:26:00Z",
                 "priority": "STANDARD"
-            },
-            {
-                "title": "Saquon Barkley's home was invaded on Saturday morning",
-                "desc": "The home of Eagles running back Saquon Barkley was invaded on Saturday morning.",
-                "image": "https://nbcsports.brightspotcdn.com/dims4/default/278a817/2147483647/strip/true/crop/8101x4557+0+422/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7f%2F6d%2F7d4196f0402093ab10d3fb53e6de%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2256153499",
-                "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saquon-barkleys-home-was-invaded-on-saturday-morning",
-                "source": "NBC Sports",
-                "date": "2026-07-19T02:17:09Z",
-                "priority": "STANDARD"
             }
         ]
     },
-    "lastGlobalSync": "2026-07-20T22:47:57.108778Z"
+    "lastGlobalSync": "2026-07-20T23:48:24.052654Z"
 }
